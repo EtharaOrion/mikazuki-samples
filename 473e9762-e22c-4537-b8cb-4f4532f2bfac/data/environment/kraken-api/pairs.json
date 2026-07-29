@@ -1,0 +1,222 @@
+[
+  {
+    "altname": "XBTUSD",
+    "base": "XXBT",
+    "lot_decimals": "8",
+    "ordermin": "0.0001",
+    "pair": "XXBTZUSD",
+    "pair_decimals": "1",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "XBT/USD"
+  },
+  {
+    "altname": "ETHUSD",
+    "base": "XETH",
+    "lot_decimals": "8",
+    "ordermin": "0.0001",
+    "pair": "XETHZUSD",
+    "pair_decimals": "1",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "ETH/USD"
+  },
+  {
+    "altname": "SOLUSD",
+    "base": "SOL",
+    "lot_decimals": "8",
+    "ordermin": "0.0001",
+    "pair": "SOLUSD",
+    "pair_decimals": "1",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "SOL/USD"
+  },
+  {
+    "altname": "ADAUSD",
+    "base": "ADA",
+    "lot_decimals": "8",
+    "ordermin": "0.0001",
+    "pair": "ADAUSD",
+    "pair_decimals": "1",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "ADA/USD"
+  },
+  {
+    "altname": "DOTUSD",
+    "base": "DOT",
+    "lot_decimals": "8",
+    "ordermin": "0.0001",
+    "pair": "DOTUSD",
+    "pair_decimals": "1",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "DOT/USD"
+  },
+  {
+    "altname": "LINKUSD",
+    "base": "LINK",
+    "lot_decimals": "8",
+    "ordermin": "0.0001",
+    "pair": "LINKUSD",
+    "pair_decimals": "1",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "LINK/USD"
+  },
+  {
+    "altname": "AVAXUSD",
+    "base": "AVAX",
+    "lot_decimals": "8",
+    "ordermin": "0.0001",
+    "pair": "AVAXUSD",
+    "pair_decimals": "1",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "AVAX/USD"
+  },
+  {
+    "altname": "XBTUSD",
+    "base": "XXBT",
+    "lot_decimals": "1109284694",
+    "ordermin": "3.50",
+    "pair": "XXBTZUSD-2",
+    "pair_decimals": "1109284690",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "XBT/USD"
+  },
+  {
+    "altname": "ETHUSD",
+    "base": "XETH",
+    "lot_decimals": "1109297811",
+    "ordermin": "0.00",
+    "pair": "XETHZUSD-2",
+    "pair_decimals": "1109297807",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "ETH/USD"
+  },
+  {
+    "altname": "SOLUSD",
+    "base": "SOL",
+    "lot_decimals": "1109310928",
+    "ordermin": "5.00",
+    "pair": "SOLUSD-2",
+    "pair_decimals": "1109310924",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "SOL/USD"
+  },
+  {
+    "altname": "ADAUSD",
+    "base": "ADA",
+    "lot_decimals": "1109324045",
+    "ordermin": "1.50",
+    "pair": "ADAUSD-2",
+    "pair_decimals": "1109324041",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "ADA/USD"
+  },
+  {
+    "altname": "DOTUSD",
+    "base": "DOT",
+    "lot_decimals": "1109337162",
+    "ordermin": "6.50",
+    "pair": "DOTUSD-2",
+    "pair_decimals": "1109337158",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "DOT/USD"
+  },
+  {
+    "altname": "LINKUSD",
+    "base": "LINK",
+    "lot_decimals": "1109350279",
+    "ordermin": "3.00",
+    "pair": "LINKUSD-2",
+    "pair_decimals": "1109350275",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "LINK/USD"
+  },
+  {
+    "altname": "AVAXUSD",
+    "base": "AVAX",
+    "lot_decimals": "1109363396",
+    "ordermin": "8.00",
+    "pair": "AVAXUSD-2",
+    "pair_decimals": "1109363392",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "AVAX/USD"
+  },
+  {
+    "altname": "XBTUSD",
+    "base": "XXBT",
+    "lot_decimals": "1109376513",
+    "ordermin": "4.50",
+    "pair": "XXBTZUSD-3",
+    "pair_decimals": "1109376509",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "XBT/USD"
+  },
+  {
+    "altname": "ETHUSD",
+    "base": "XETH",
+    "lot_decimals": "1109389630",
+    "ordermin": "1.00",
+    "pair": "XETHZUSD-3",
+    "pair_decimals": "1109389626",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "ETH/USD"
+  },
+  {
+    "altname": "SOLUSD",
+    "base": "SOL",
+    "lot_decimals": "1109402747",
+    "ordermin": "6.00",
+    "pair": "SOLUSD-3",
+    "pair_decimals": "1109402743",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "SOL/USD"
+  },
+  {
+    "altname": "ADAUSD",
+    "base": "ADA",
+    "lot_decimals": "1109415864",
+    "ordermin": "2.50",
+    "pair": "ADAUSD-3",
+    "pair_decimals": "1109415860",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "ADA/USD"
+  },
+  {
+    "altname": "DOTUSD",
+    "base": "DOT",
+    "lot_decimals": "1109428981",
+    "ordermin": "7.50",
+    "pair": "DOTUSD-3",
+    "pair_decimals": "1109428977",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "DOT/USD"
+  },
+  {
+    "altname": "LINKUSD",
+    "base": "LINK",
+    "lot_decimals": "1109442098",
+    "ordermin": "4.00",
+    "pair": "LINKUSD-3",
+    "pair_decimals": "1109442094",
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "LINK/USD"
+  }
+]

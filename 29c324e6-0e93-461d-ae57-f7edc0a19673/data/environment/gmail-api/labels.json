@@ -1,0 +1,182 @@
+[
+  {
+    "id": "INBOX",
+    "name": "INBOX",
+    "type": "system",
+    "messages_total": 146,
+    "messages_unread": 39,
+    "threads_total": 145,
+    "threads_unread": 39
+  },
+  {
+    "id": "SENT",
+    "name": "SENT",
+    "type": "system",
+    "messages_total": 4,
+    "messages_unread": 0,
+    "threads_total": 4,
+    "threads_unread": 0
+  },
+  {
+    "id": "DRAFTS",
+    "name": "DRAFT",
+    "type": "system",
+    "messages_total": 1,
+    "messages_unread": 0,
+    "threads_total": 1,
+    "threads_unread": 0
+  },
+  {
+    "id": "TRASH",
+    "name": "TRASH",
+    "type": "system",
+    "messages_total": 0,
+    "messages_unread": 0,
+    "threads_total": 0,
+    "threads_unread": 0
+  },
+  {
+    "id": "SPAM",
+    "name": "SPAM",
+    "type": "system",
+    "messages_total": 1,
+    "messages_unread": 1,
+    "threads_total": 1,
+    "threads_unread": 1
+  },
+  {
+    "id": "Label_conservatory",
+    "name": "Conservatory",
+    "type": "user",
+    "messages_total": 5,
+    "messages_unread": 2,
+    "threads_total": 4,
+    "threads_unread": 2
+  },
+  {
+    "id": "Label_family",
+    "name": "Family",
+    "type": "user",
+    "messages_total": 2,
+    "messages_unread": 1,
+    "threads_total": 2,
+    "threads_unread": 1
+  },
+  {
+    "id": "Label_gigs",
+    "name": "Gigs 2026",
+    "type": "user",
+    "messages_total": 3,
+    "messages_unread": 0,
+    "threads_total": 3,
+    "threads_unread": 0
+  },
+  {
+    "id": "INBOX_p001",
+    "name": "Monthly payroll processing",
+    "type": "system",
+    "messages_total": 154,
+    "messages_unread": 39,
+    "threads_total": 145,
+    "threads_unread": 39
+  },
+  {
+    "id": "SENT_p002",
+    "name": "5th Anniversary Showcase planning",
+    "type": "system",
+    "messages_total": 13,
+    "messages_unread": 0,
+    "threads_total": 4,
+    "threads_unread": 0
+  },
+  {
+    "id": "DRAFTS_p003",
+    "name": "Summer camp registration",
+    "type": "system",
+    "messages_total": 11,
+    "messages_unread": 0,
+    "threads_total": 1,
+    "threads_unread": 0
+  },
+  {
+    "id": "TRASH_p004",
+    "name": "Substitute coverage",
+    "type": "system",
+    "messages_total": 11,
+    "messages_unread": 0,
+    "threads_total": 0,
+    "threads_unread": 0
+  },
+  {
+    "id": "SPAM_p005",
+    "name": "Sheet music library update",
+    "type": "system",
+    "messages_total": 13,
+    "messages_unread": 1,
+    "threads_total": 1,
+    "threads_unread": 1
+  },
+  {
+    "id": "Label_conservatory_p006",
+    "name": "Parent meeting slot",
+    "type": "user",
+    "messages_total": 18,
+    "messages_unread": 2,
+    "threads_total": 4,
+    "threads_unread": 2
+  },
+  {
+    "id": "Label_family_p007",
+    "name": "Ensemble arrangement rewrite",
+    "type": "user",
+    "messages_total": 16,
+    "messages_unread": 1,
+    "threads_total": 2,
+    "threads_unread": 1
+  },
+  {
+    "id": "Label_gigs_p008",
+    "name": "Recital program layout",
+    "type": "user",
+    "messages_total": 18,
+    "messages_unread": 0,
+    "threads_total": 3,
+    "threads_unread": 0
+  },
+  {
+    "id": "INBOX_p009",
+    "name": "Quartet setlist review",
+    "type": "system",
+    "messages_total": 162,
+    "messages_unread": 39,
+    "threads_total": 145,
+    "threads_unread": 39
+  },
+  {
+    "id": "SENT_p010",
+    "name": "Rehearsal recording listen-back",
+    "type": "system",
+    "messages_total": 21,
+    "messages_unread": 0,
+    "threads_total": 4,
+    "threads_unread": 0
+  },
+  {
+    "id": "DRAFTS_p011",
+    "name": "Second album pre-production notes",
+    "type": "system",
+    "messages_total": 19,
+    "messages_unread": 0,
+    "threads_total": 1,
+    "threads_unread": 0
+  },
+  {
+    "id": "TRASH_p012",
+    "name": "Venue confirmation thread",
+    "type": "system",
+    "messages_total": 19,
+    "messages_unread": 0,
+    "threads_total": 0,
+    "threads_unread": 0
+  }
+]

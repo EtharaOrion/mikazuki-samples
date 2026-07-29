@@ -1,0 +1,182 @@
+[
+  {
+    "id": "team-web",
+    "name": "Website",
+    "key": "WEB",
+    "description": "Eleanor's Tavern website (eleanorstavern.com) - WordPress, Contentful, Algolia, Cloudflare",
+    "color": "#5E6AD2",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-content",
+    "name": "Content",
+    "key": "CONT",
+    "description": "Menu, hours and page content updates for eleanorstavern.com",
+    "color": "#26b5ce",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-design",
+    "name": "Design",
+    "key": "DSGN",
+    "description": "Visual design and branding for the tavern website",
+    "color": "#bb6bd9",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-infra",
+    "name": "Infrastructure",
+    "key": "INFRA",
+    "description": "Hosting, DNS, Cloudflare and SSL for eleanorstavern.com",
+    "color": "#6fcf97",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-marketing",
+    "name": "Marketing Site",
+    "key": "MKTG",
+    "description": "Marketing pages, promotions and newsletter on the site",
+    "color": "#f2994a",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-seo",
+    "name": "SEO",
+    "key": "SEO",
+    "description": "Search engine optimization and local listings",
+    "color": "#f2c94c",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-reservations",
+    "name": "Reservations",
+    "key": "RESV",
+    "description": "Online reservation integration on the website",
+    "color": "#eb5757",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-ecommerce",
+    "name": "Gift Cards",
+    "key": "GIFT",
+    "description": "Gift card purchase flow on the website",
+    "color": "#5e6ad2",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-cms",
+    "name": "CMS",
+    "key": "CMS",
+    "description": "Contentful content models and migrations",
+    "color": "#0f766e",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-search",
+    "name": "Search",
+    "key": "SRCH",
+    "description": "Algolia menu and site search",
+    "color": "#9b51e0",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-performance",
+    "name": "Performance",
+    "key": "PERF",
+    "description": "Page speed and Cloudflare caching",
+    "color": "#2d9cdb",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-mobile",
+    "name": "Mobile",
+    "key": "MOBL",
+    "description": "Mobile and responsive site behavior",
+    "color": "#27ae60",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-accessibility",
+    "name": "Accessibility",
+    "key": "A11Y",
+    "description": "Accessibility compliance on the website",
+    "color": "#e2b93b",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-analytics",
+    "name": "Analytics",
+    "key": "ANLY",
+    "description": "Site analytics and conversion tracking",
+    "color": "#56ccf2",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-email",
+    "name": "Email",
+    "key": "EMAIL",
+    "description": "Newsletter and transactional email integration",
+    "color": "#eb5757",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-menu",
+    "name": "Menu",
+    "key": "MENU",
+    "description": "Menu PDFs and online menu maintenance",
+    "color": "#f2c94c",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-events",
+    "name": "Events",
+    "key": "EVNT",
+    "description": "Events and private party pages",
+    "color": "#bb6bd9",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-blog",
+    "name": "Blog",
+    "key": "BLOG",
+    "description": "Tavern blog and news posts",
+    "color": "#6fcf97",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-support",
+    "name": "Support",
+    "key": "SUPP",
+    "description": "General website support and bug triage",
+    "color": "#95a2b3",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  },
+  {
+    "id": "team-vendor",
+    "name": "Vendor",
+    "key": "VEND",
+    "description": "External freelance/vendor coordination",
+    "color": "#bdbdbd",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2026-03-18T10:00:00"
+  }
+]

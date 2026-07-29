@@ -1,0 +1,182 @@
+[
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<h1>Welcome {{first_name}}</h1><p>Glad to have you at Osterreichisches Kunstmuseum.</p>",
+    "id": "d-00000000000004",
+    "name": "welcome",
+    "subject": "Welcome to Osterreichisches Kunstmuseum, {{first_name}}!",
+    "updated_at": "2025-09-11T16:23:48+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Click <a href='{{reset_url}}'>here</a> to reset.</p>",
+    "id": "d-00000000000008",
+    "name": "password-reset",
+    "subject": "Reset your Osterreichisches Kunstmuseum password",
+    "updated_at": "2025-09-22T21:36:07+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<h2>{{month}} Newsletter</h2><p>{{body}}</p>",
+    "id": "d-0000000000000d",
+    "name": "monthly-news",
+    "subject": "Osterreichisches Kunstmuseum — {{month}} highlights",
+    "updated_at": "2025-10-03T09:07:41+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Thanks for your payment of {{amount}}.</p>",
+    "id": "d-00000000000011",
+    "name": "invoice",
+    "subject": "Your receipt for invoice {{invoice_id}}",
+    "updated_at": "2025-10-14T06:37:32+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-00000000000015",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-10-25T16:40:23+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<h1>Welcome {{first_name}}</h1><p>Glad to have you at Osterreichisches Kunstmuseum.</p>",
+    "id": "d-00000000000004-2",
+    "name": "membership-welcome",
+    "subject": "Welcome to Osterreichisches Kunstmuseum, {{first_name}}!",
+    "updated_at": "2025-09-23T16:23:48+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Click <a href='{{reset_url}}'>here</a> to reset.</p>",
+    "id": "d-00000000000004-3",
+    "name": "account-reset",
+    "subject": "Reset your Osterreichisches Kunstmuseum password",
+    "updated_at": "2027-02-25T21:36:07+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<h2>{{month}} Newsletter</h2><p>{{body}}</p>",
+    "id": "d-00000000000004-4",
+    "name": "exhibition-announcement",
+    "subject": "Osterreichisches Kunstmuseum — {{month}} highlights",
+    "updated_at": "2024-01-28T09:07:41+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Thanks for your payment of {{amount}}.</p>",
+    "id": "d-00000000000004-5",
+    "name": "donation-receipt",
+    "subject": "Your receipt for invoice {{invoice_id}}",
+    "updated_at": "2024-12-30T06:37:32+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-00000000000004-6",
+    "name": "membership-expiry",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2025-12-02T16:40:23+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<h1>Welcome {{first_name}}</h1><p>Glad to have you at Osterreichisches Kunstmuseum.</p>",
+    "id": "d-00000000000004-7",
+    "name": "event-invitation",
+    "subject": "Welcome to Osterreichisches Kunstmuseum, {{first_name}}!",
+    "updated_at": "2027-11-06T16:23:48+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Click <a href='{{reset_url}}'>here</a> to reset.</p>",
+    "id": "d-00000000000004-8",
+    "name": "password-reset-2",
+    "subject": "Reset your Osterreichisches Kunstmuseum password",
+    "updated_at": "2024-04-07T21:36:07+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<h2>{{month}} Newsletter</h2><p>{{body}}</p>",
+    "id": "d-00000000000004-9",
+    "name": "newsletter-monthly",
+    "subject": "Osterreichisches Kunstmuseum — {{month}} highlights",
+    "updated_at": "2025-03-10T09:07:41+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Thanks for your payment of {{amount}}.</p>",
+    "id": "d-00000000000004-10",
+    "name": "invoice-receipt",
+    "subject": "Your receipt for invoice {{invoice_id}}",
+    "updated_at": "2026-02-10T06:37:32+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-00000000000004-11",
+    "name": "membership-reminder",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2028-01-15T16:40:23+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<h1>Welcome {{first_name}}</h1><p>Glad to have you at Osterreichisches Kunstmuseum.</p>",
+    "id": "d-00000000000004-12",
+    "name": "welcome-patron",
+    "subject": "Welcome to Osterreichisches Kunstmuseum, {{first_name}}!",
+    "updated_at": "2024-06-16T16:23:48+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Click <a href='{{reset_url}}'>here</a> to reset.</p>",
+    "id": "d-00000000000004-13",
+    "name": "password-reset-3",
+    "subject": "Reset your Osterreichisches Kunstmuseum password",
+    "updated_at": "2025-05-19T21:36:07+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<h2>{{month}} Newsletter</h2><p>{{body}}</p>",
+    "id": "d-00000000000004-14",
+    "name": "newsletter-highlights",
+    "subject": "Osterreichisches Kunstmuseum — {{month}} highlights",
+    "updated_at": "2026-10-21T09:07:41+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Thanks for your payment of {{amount}}.</p>",
+    "id": "d-00000000000004-15",
+    "name": "receipt-confirmation",
+    "subject": "Your receipt for invoice {{invoice_id}}",
+    "updated_at": "2028-03-23T06:37:32+00:00"
+  },
+  {
+    "active": "true",
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-00000000000004-16",
+    "name": "trial-ending",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2024-08-25T16:40:23+00:00"
+  }
+]

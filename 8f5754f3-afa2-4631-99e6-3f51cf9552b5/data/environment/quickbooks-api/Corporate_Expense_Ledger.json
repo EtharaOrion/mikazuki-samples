@@ -1,0 +1,72 @@
+{
+  "document_name": "Corporate Expense Ledger",
+  "account_id": 1,
+  "entries": [
+    {
+      "date": "01/03/2026",
+      "merchant": "Restaurant Depot",
+      "employee": "Carlton McGee",
+      "amount": 312.48
+    },
+    {
+      "date": "01/07/2026",
+      "merchant": "Costco Business Center",
+      "employee": "Ellen McGee",
+      "amount": 248.91
+    },
+    {
+      "date": "01/12/2026",
+      "merchant": "Trade Fair Supermarket",
+      "employee": "Sophia Kastner",
+      "amount": 86.27
+    },
+    {
+      "date": "01/18/2026",
+      "merchant": "Restaurant Depot",
+      "employee": "Carlton McGee",
+      "amount": 401.13
+    },
+    {
+      "date": "01/25/2026",
+      "merchant": "Astoria Hardware",
+      "employee": "Luis Mendoza",
+      "amount": 54.62
+    },
+    {
+      "date": "02/02/2026",
+      "merchant": "Costco Business Center",
+      "employee": "Ellen McGee",
+      "amount": 189.44
+    },
+    {
+      "date": "02/09/2026",
+      "merchant": "Restaurant Depot",
+      "employee": "Carlton McGee",
+      "amount": 356.7
+    },
+    {
+      "date": "02/14/2026",
+      "merchant": "Whole Foods Astoria",
+      "employee": "Sophia Kastner",
+      "amount": 73.18
+    },
+    {
+      "date": "02/21/2026",
+      "merchant": "Uline",
+      "employee": "Ellen McGee",
+      "amount": 142.55
+    },
+    {
+      "date": "03/04/2026",
+      "merchant": "Restaurant Depot",
+      "employee": "Carlton McGee",
+      "amount": 288.9
+    },
+    {
+      "date": "03/11/2026",
+      "merchant": "Astoria Hardware",
+      "employee": "Luis Mendoza",
+      "amount": 61.27
+    }
+  ]
+}

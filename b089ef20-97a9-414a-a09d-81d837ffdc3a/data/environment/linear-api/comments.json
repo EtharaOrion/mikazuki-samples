@@ -1,0 +1,178 @@
+[
+  {
+    "id": "cmt-101-1",
+    "body": "New fall menu PDF uploaded and linked in the header and the Menu page. Old PDF kept as backup.",
+    "issueId": "WEB-101",
+    "userId": "user-greta",
+    "createdAt": "2025-10-14T15:30:00",
+    "updatedAt": "2025-10-14T15:30:00"
+  },
+  {
+    "id": "cmt-101-2",
+    "body": "Looks good, thanks. Confirmed it opens on my phone.",
+    "issueId": "WEB-101",
+    "userId": "user-carlton",
+    "createdAt": "2025-10-14T18:00:00",
+    "updatedAt": "2025-10-14T18:00:00"
+  },
+  {
+    "id": "cmt-102-1",
+    "body": "Patio hours updated on homepage and the footer. Live now.",
+    "issueId": "WEB-102",
+    "userId": "user-marco",
+    "createdAt": "2025-10-24T13:30:00",
+    "updatedAt": "2025-10-24T13:30:00"
+  },
+  {
+    "id": "cmt-103-1",
+    "body": "Reserve a Table link added to header and mobile menu, pointing to the reservation widget.",
+    "issueId": "WEB-103",
+    "userId": "user-ravi",
+    "createdAt": "2026-01-28T16:00:00",
+    "updatedAt": "2026-01-28T16:00:00"
+  },
+  {
+    "id": "cmt-103-2",
+    "body": "Tested a booking end to end, got the confirmation email. Great.",
+    "issueId": "WEB-103",
+    "userId": "user-carlton",
+    "createdAt": "2026-01-29T09:30:00",
+    "updatedAt": "2026-01-29T09:30:00"
+  },
+  {
+    "id": "cmt-104-1",
+    "body": "Reproduced on an iPhone running iOS 17 Safari. The nav toggle was bound to a stale event listener after the theme update.",
+    "issueId": "WEB-104",
+    "userId": "user-paul",
+    "createdAt": "2026-02-05T11:00:00",
+    "updatedAt": "2026-02-05T11:00:00"
+  },
+  {
+    "id": "cmt-104-2",
+    "body": "Fixed and deployed. Hamburger menu opens on iOS Safari and Android Chrome now.",
+    "issueId": "WEB-104",
+    "userId": "user-paul",
+    "createdAt": "2026-02-13T14:30:00",
+    "updatedAt": "2026-02-13T14:30:00"
+  },
+  {
+    "id": "cmt-104-3",
+    "body": "A regular told me the menu works on her phone again. Thanks for the quick turnaround.",
+    "issueId": "WEB-104",
+    "userId": "user-carlton",
+    "createdAt": "2026-02-14T12:00:00",
+    "updatedAt": "2026-02-14T12:00:00"
+  },
+  {
+    "id": "cmt-105-1",
+    "body": "Algolia reindex complete. New cocktails and small plates now show up in site search.",
+    "issueId": "WEB-105",
+    "userId": "user-liam",
+    "createdAt": "2025-10-16T11:30:00",
+    "updatedAt": "2025-10-16T11:30:00"
+  },
+  {
+    "id": "cmt-106-1",
+    "body": "Added a Cloudflare purge step to the deploy pipeline. Content edits now appear within a minute.",
+    "issueId": "WEB-106",
+    "userId": "user-tomas",
+    "createdAt": "2026-01-31T15:30:00",
+    "updatedAt": "2026-01-31T15:30:00"
+  },
+  {
+    "id": "cmt-107-1",
+    "body": "Adding an allergens field (multi-select) to the menu item content model in Contentful. Will need someone to backfill existing dishes.",
+    "issueId": "WEB-107",
+    "userId": "user-aisha",
+    "createdAt": "2026-03-03T09:30:00",
+    "updatedAt": "2026-03-03T09:30:00"
+  },
+  {
+    "id": "cmt-107-2",
+    "body": "Sophia can help backfill once the field is live. Flagging for her.",
+    "issueId": "WEB-107",
+    "userId": "user-marco",
+    "createdAt": "2026-03-12T11:00:00",
+    "updatedAt": "2026-03-12T11:00:00"
+  },
+  {
+    "id": "cmt-108-1",
+    "body": "Confirmed submissions are failing - the Mailchimp API key in the plugin expired. Requesting a new key.",
+    "issueId": "WEB-108",
+    "userId": "user-nina",
+    "createdAt": "2026-02-20T10:00:00",
+    "updatedAt": "2026-02-20T10:00:00"
+  },
+  {
+    "id": "cmt-108-2",
+    "body": "Carlton, can you generate a new Mailchimp API key from the account and share it securely? Then I can finish this.",
+    "issueId": "WEB-108",
+    "userId": "user-nina",
+    "createdAt": "2026-03-10T14:00:00",
+    "updatedAt": "2026-03-10T14:00:00"
+  },
+  {
+    "id": "cmt-109-1",
+    "body": "Scoping the gift card page. Carlton, do you want to use Square gift cards or a WooCommerce gift card plugin? Pricing differs.",
+    "issueId": "WEB-109",
+    "userId": "user-victor",
+    "createdAt": "2026-03-05T10:00:00",
+    "updatedAt": "2026-03-05T10:00:00"
+  },
+  {
+    "id": "cmt-110-1",
+    "body": "Cert is on auto-renew through the host but I want to verify it renews cleanly before May. Will document the steps.",
+    "issueId": "WEB-110",
+    "userId": "user-jordan",
+    "createdAt": "2026-03-01T10:00:00",
+    "updatedAt": "2026-03-01T10:00:00"
+  },
+  {
+    "id": "cmt-111-1",
+    "body": "Hero image is 4MB. Converting to WebP at ~180KB should shave a second off load.",
+    "issueId": "WEB-111",
+    "userId": "user-tomas",
+    "createdAt": "2026-03-08T10:00:00",
+    "updatedAt": "2026-03-08T10:00:00"
+  },
+  {
+    "id": "cmt-112-1",
+    "body": "Google Business shows 11am open but the site says noon. Carlton, which is correct for weekdays?",
+    "issueId": "WEB-112",
+    "userId": "user-derek",
+    "createdAt": "2026-02-28T10:00:00",
+    "updatedAt": "2026-02-28T10:00:00"
+  },
+  {
+    "id": "cmt-115-1",
+    "body": "Old Instagram handle in the footer. Updating to the current one.",
+    "issueId": "WEB-115",
+    "userId": "user-sophia",
+    "createdAt": "2026-03-04T10:00:00",
+    "updatedAt": "2026-03-04T10:00:00"
+  },
+  {
+    "id": "cmt-119-1",
+    "body": "Holiday banner removed. Going forward we should schedule banners with start/end dates instead. Closing this as we will handle scheduling under Promotions.",
+    "issueId": "WEB-119",
+    "userId": "user-claire",
+    "createdAt": "2026-01-10T09:00:00",
+    "updatedAt": "2026-01-10T09:00:00"
+  },
+  {
+    "id": "cmt-114-1",
+    "body": "I'll send over the current lunch special prices this week so we can update the site.",
+    "issueId": "WEB-114",
+    "userId": "user-sophia",
+    "createdAt": "2026-03-06T10:00:00",
+    "updatedAt": "2026-03-06T10:00:00"
+  },
+  {
+    "id": "cmt-122-1",
+    "body": "Performance dropped right after the gallery plugin update. Going to profile and likely roll back to the previous version.",
+    "issueId": "WEB-122",
+    "userId": "user-tomas",
+    "createdAt": "2026-03-16T10:00:00",
+    "updatedAt": "2026-03-16T10:00:00"
+  }
+]

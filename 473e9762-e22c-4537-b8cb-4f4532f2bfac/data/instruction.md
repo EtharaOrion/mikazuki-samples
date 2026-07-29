@@ -1,0 +1,6 @@
+Sunday morning is the new docents' first walk of the Josefstadt stop and I'd like them holding a study sheet on the metro when they head over. Photo of the building is sitting in the Public folder. Match it against the brief the education office signed off, pull the biographical facts the curator approved, and put together a one page look-and-find they can print at home. Read the plaque on the door in the photo, please, the paperwork has been wrong on which building it is before. Stick the finished sheet on my Desktop and drop the same page into the training course under materials so it's there when the cohort opens Classroom. Nothing goes out to the students as an announcement yet, I want to eyeball it first.
+
+
+---
+Workspace inputs (already staged on disk at `/root/workspace/home` or `/root/workspace/Home`):
+Save EVERY output artifact you produce under `/root/workspace/`. Files written anywhere else (including `/tmp/` and elsewhere under `/root/`) will NOT be collected as deliverables.

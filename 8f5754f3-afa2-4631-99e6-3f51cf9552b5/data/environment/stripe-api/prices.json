@@ -1,0 +1,200 @@
+[
+  {
+    "id": "price_GC25",
+    "product": "prod_GC25",
+    "unit_amount": "2500",
+    "currency": "usd",
+    "recurring_interval": "Ellen quarterly books review Sunday morning - bring the shift schedules.",
+    "active": "true",
+    "nickname": "Gift Card $25"
+  },
+  {
+    "id": "price_GC50",
+    "product": "prod_GC50",
+    "unit_amount": "5000",
+    "currency": "usd",
+    "recurring_interval": "Daniel menu meeting Wednesday - argue about the special, again.",
+    "active": "true",
+    "nickname": "Gift Card $50"
+  },
+  {
+    "id": "price_GC100",
+    "product": "prod_GC100",
+    "unit_amount": "10000",
+    "currency": "usd",
+    "recurring_interval": "Uncle Stuart Wed lunch chess - usual 1 PM.",
+    "active": "true",
+    "nickname": "Gift Card $100"
+  },
+  {
+    "id": "price_GC250",
+    "product": "prod_GC250",
+    "unit_amount": "25000",
+    "currency": "usd",
+    "recurring_interval": "Uncle Stuart Wed lunch chess - usual 1 PM.",
+    "active": "true",
+    "nickname": "Gift Card $250"
+  },
+  {
+    "id": "price_GCHoli",
+    "product": "prod_GCHoli",
+    "unit_amount": "10000",
+    "currency": "usd",
+    "recurring_interval": "Daniel menu meeting Wednesday - argue about the special, again.",
+    "active": "true",
+    "nickname": "Holiday Gift Card $100"
+  },
+  {
+    "id": "price_GCCustom",
+    "product": "prod_GCCustom",
+    "unit_amount": "7500",
+    "currency": "usd",
+    "recurring_interval": "Sunday roast at Ellen's parents' - Bayside, 5 PM.",
+    "active": "true",
+    "nickname": "Custom Gift Card (default $75)"
+  },
+  {
+    "id": "price_GCDigital",
+    "product": "prod_GCDigital",
+    "unit_amount": "5000",
+    "currency": "usd",
+    "recurring_interval": "Alex soccer game Saturday 11 AM - leave the tavern to Sophia.",
+    "active": "true",
+    "nickname": "Digital Gift Card $50"
+  },
+  {
+    "id": "price_ResDep25",
+    "product": "prod_ResDep25",
+    "unit_amount": "2500",
+    "currency": "usd",
+    "recurring_interval": "Alex soccer game Saturday 11 AM - leave the tavern to Sophia.",
+    "active": "true",
+    "nickname": "Reservation Deposit $25"
+  },
+  {
+    "id": "price_ResDep50",
+    "product": "prod_ResDep50",
+    "unit_amount": "5000",
+    "currency": "usd",
+    "recurring_interval": "Uncle Stuart Wed lunch chess - usual 1 PM.",
+    "active": "true",
+    "nickname": "Reservation Deposit $50"
+  },
+  {
+    "id": "price_ResDepLg",
+    "product": "prod_ResDepLg",
+    "unit_amount": "10000",
+    "currency": "usd",
+    "recurring_interval": "Uncle Stuart Wed lunch chess - usual 1 PM.",
+    "active": "true",
+    "nickname": "Large Party Reservation Deposit $100"
+  },
+  {
+    "id": "price_PvtDep250",
+    "product": "prod_PvtDep250",
+    "unit_amount": "25000",
+    "currency": "usd",
+    "recurring_interval": "Sarah asthma inhaler refill - pharmacy Tuesday.",
+    "active": "true",
+    "nickname": "Private-Event Deposit $250"
+  },
+  {
+    "id": "price_PvtDep500",
+    "product": "prod_PvtDep500",
+    "unit_amount": "50000",
+    "currency": "usd",
+    "recurring_interval": "Uncle Stuart Wed lunch chess - usual 1 PM.",
+    "active": "true",
+    "nickname": "Private-Event Deposit $500"
+  },
+  {
+    "id": "price_PvtDepBar",
+    "product": "prod_PvtDepBar",
+    "unit_amount": "35000",
+    "currency": "usd",
+    "recurring_interval": "Alex soccer game Saturday 11 AM - leave the tavern to Sophia.",
+    "active": "true",
+    "nickname": "Bar Area Deposit $350"
+  },
+  {
+    "id": "price_CateringRet_M",
+    "product": "prod_CateringRet",
+    "unit_amount": "75000",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Catering Retainer Monthly $750"
+  },
+  {
+    "id": "price_CateringRet_Q",
+    "product": "prod_CateringRet",
+    "unit_amount": "200000",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Catering Retainer Quarterly $2000"
+  },
+  {
+    "id": "price_CateringDep",
+    "product": "prod_CateringDep",
+    "unit_amount": "30000",
+    "currency": "usd",
+    "recurring_interval": "Uncle Stuart Wed lunch chess - usual 1 PM.",
+    "active": "true",
+    "nickname": "Catering Deposit $300"
+  },
+  {
+    "id": "price_TriviaTbl",
+    "product": "prod_TriviaTbl",
+    "unit_amount": "2000",
+    "currency": "usd",
+    "recurring_interval": "Sunday roast at Ellen's parents' - Bayside, 5 PM.",
+    "active": "true",
+    "nickname": "Trivia Table $20"
+  },
+  {
+    "id": "price_BrunchDep",
+    "product": "prod_BrunchDep",
+    "unit_amount": "1500",
+    "currency": "usd",
+    "recurring_interval": "Ellen quarterly books review Sunday morning - bring the shift schedules.",
+    "active": "true",
+    "nickname": "Brunch Deposit $15/seat"
+  },
+  {
+    "id": "price_WineDinner",
+    "product": "prod_WineDinner",
+    "unit_amount": "8500",
+    "currency": "usd",
+    "recurring_interval": "Alex soccer game Saturday 11 AM - leave the tavern to Sophia.",
+    "active": "true",
+    "nickname": "Wine Pairing Dinner Seat $85"
+  },
+  {
+    "id": "price_NYEDep",
+    "product": "prod_NYEDep",
+    "unit_amount": "15000",
+    "currency": "usd",
+    "recurring_interval": "Alex soccer game Saturday 11 AM - leave the tavern to Sophia.",
+    "active": "true",
+    "nickname": "NYE Deposit $150"
+  },
+  {
+    "id": "price_ThxBuyout",
+    "product": "prod_ThxBuyout",
+    "unit_amount": "20000",
+    "currency": "usd",
+    "recurring_interval": "Alex soccer game Saturday 11 AM - leave the tavern to Sophia.",
+    "active": "true",
+    "nickname": "Thanksgiving Family Table $200"
+  },
+  {
+    "id": "price_MerchTee",
+    "product": "prod_MerchTee",
+    "unit_amount": "2800",
+    "currency": "usd",
+    "recurring_interval": "Daniel menu meeting Wednesday - argue about the special, again.",
+    "active": "true",
+    "nickname": "T-Shirt $28"
+  }
+]

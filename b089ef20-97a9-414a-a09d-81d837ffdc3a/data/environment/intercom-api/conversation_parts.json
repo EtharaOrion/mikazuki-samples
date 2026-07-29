@@ -1,0 +1,533 @@
+[
+  {
+    "id": "part-1",
+    "conversation_id": "conv-2001",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis01",
+    "body": "Are you open on Mondays?",
+    "created_at": "2026-01-01T10:00:00.000Z"
+  },
+  {
+    "id": "part-2",
+    "conversation_id": "conv-2001",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-01-01T11:00:00.000Z"
+  },
+  {
+    "id": "part-3",
+    "conversation_id": "conv-2001",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Ellen quarterly books review Sunday morning - bring the shift schedules.",
+    "created_at": "2026-01-01T11:00:00.000Z"
+  },
+  {
+    "id": "part-4",
+    "conversation_id": "conv-2002",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis02",
+    "body": "Do you take reservations for parties of 8?",
+    "created_at": "2026-02-02T10:00:00.000Z"
+  },
+  {
+    "id": "part-5",
+    "conversation_id": "conv-2002",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-02-02T11:00:00.000Z"
+  },
+  {
+    "id": "part-6",
+    "conversation_id": "conv-2002",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Ellen quarterly books review Sunday morning - bring the shift schedules.",
+    "created_at": "2026-02-02T11:00:00.000Z"
+  },
+  {
+    "id": "part-7",
+    "conversation_id": "conv-2003",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis03",
+    "body": "Is the patio open yet?",
+    "created_at": "2026-03-03T10:00:00.000Z"
+  },
+  {
+    "id": "part-8",
+    "conversation_id": "conv-2003",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-03-03T11:00:00.000Z"
+  },
+  {
+    "id": "part-9",
+    "conversation_id": "conv-2003",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Kevin's Tuesday call - order the halibut for Friday special.",
+    "created_at": "2026-03-03T11:00:00.000Z"
+  },
+  {
+    "id": "part-10",
+    "conversation_id": "conv-2004",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis04",
+    "body": "Do you have gift cards?",
+    "created_at": "2026-01-04T10:00:00.000Z"
+  },
+  {
+    "id": "part-11",
+    "conversation_id": "conv-2004",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-01-04T11:00:00.000Z"
+  },
+  {
+    "id": "part-12",
+    "conversation_id": "conv-2004",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Alex soccer game Saturday 11 AM - leave the tavern to Sophia.",
+    "created_at": "2026-01-04T11:00:00.000Z"
+  },
+  {
+    "id": "part-13",
+    "conversation_id": "conv-2005",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis05",
+    "body": "What time does the kitchen close on Friday?",
+    "created_at": "2026-02-05T10:00:00.000Z"
+  },
+  {
+    "id": "part-14",
+    "conversation_id": "conv-2005",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-02-05T11:00:00.000Z"
+  },
+  {
+    "id": "part-15",
+    "conversation_id": "conv-2005",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Sunday roast at Ellen's parents' - Bayside, 5 PM.",
+    "created_at": "2026-02-05T11:00:00.000Z"
+  },
+  {
+    "id": "part-16",
+    "conversation_id": "conv-2006",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis06",
+    "body": "Is there a vegetarian option on the menu?",
+    "created_at": "2026-01-06T10:00:00.000Z"
+  },
+  {
+    "id": "part-17",
+    "conversation_id": "conv-2006",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-01-06T11:00:00.000Z"
+  },
+  {
+    "id": "part-18",
+    "conversation_id": "conv-2006",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Ellen quarterly books review Sunday morning - bring the shift schedules.",
+    "created_at": "2026-01-06T11:00:00.000Z"
+  },
+  {
+    "id": "part-19",
+    "conversation_id": "conv-2007",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis07",
+    "body": "Can I book the back room for a birthday?",
+    "created_at": "2026-02-07T10:00:00.000Z"
+  },
+  {
+    "id": "part-20",
+    "conversation_id": "conv-2007",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-02-07T11:00:00.000Z"
+  },
+  {
+    "id": "part-21",
+    "conversation_id": "conv-2007",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Sarah asthma inhaler refill - pharmacy Tuesday.",
+    "created_at": "2026-02-07T11:00:00.000Z"
+  },
+  {
+    "id": "part-22",
+    "conversation_id": "conv-2008",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis08",
+    "body": "Do you offer catering?",
+    "created_at": "2026-03-08T10:00:00.000Z"
+  },
+  {
+    "id": "part-23",
+    "conversation_id": "conv-2008",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-03-08T11:00:00.000Z"
+  },
+  {
+    "id": "part-24",
+    "conversation_id": "conv-2008",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Ellen quarterly books review Sunday morning - bring the shift schedules.",
+    "created_at": "2026-03-08T11:00:00.000Z"
+  },
+  {
+    "id": "part-25",
+    "conversation_id": "conv-2009",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis09",
+    "body": "Is there parking nearby?",
+    "created_at": "2026-01-09T10:00:00.000Z"
+  },
+  {
+    "id": "part-26",
+    "conversation_id": "conv-2009",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-01-09T11:00:00.000Z"
+  },
+  {
+    "id": "part-27",
+    "conversation_id": "conv-2009",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Sarah asthma inhaler refill - pharmacy Tuesday.",
+    "created_at": "2026-01-09T11:00:00.000Z"
+  },
+  {
+    "id": "part-28",
+    "conversation_id": "conv-2010",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis10",
+    "body": "Are dogs allowed on the patio?",
+    "created_at": "2026-02-10T10:00:00.000Z"
+  },
+  {
+    "id": "part-29",
+    "conversation_id": "conv-2010",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-02-10T11:00:00.000Z"
+  },
+  {
+    "id": "part-30",
+    "conversation_id": "conv-2010",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Sunday roast at Ellen's parents' - Bayside, 5 PM.",
+    "created_at": "2026-02-10T11:00:00.000Z"
+  },
+  {
+    "id": "part-31",
+    "conversation_id": "conv-2011",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis11",
+    "body": "Do you have a kids menu?",
+    "created_at": "2026-01-11T10:00:00.000Z"
+  },
+  {
+    "id": "part-32",
+    "conversation_id": "conv-2011",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-01-11T11:00:00.000Z"
+  },
+  {
+    "id": "part-33",
+    "conversation_id": "conv-2011",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Alex soccer game Saturday 11 AM - leave the tavern to Sophia.",
+    "created_at": "2026-01-11T11:00:00.000Z"
+  },
+  {
+    "id": "part-34",
+    "conversation_id": "conv-2012",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis12",
+    "body": "Wheelchair accessible entrance?",
+    "created_at": "2026-02-12T10:00:00.000Z"
+  },
+  {
+    "id": "part-35",
+    "conversation_id": "conv-2012",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-02-12T11:00:00.000Z"
+  },
+  {
+    "id": "part-36",
+    "conversation_id": "conv-2012",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Alex soccer game Saturday 11 AM - leave the tavern to Sophia.",
+    "created_at": "2026-02-12T11:00:00.000Z"
+  },
+  {
+    "id": "part-37",
+    "conversation_id": "conv-2013",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis13",
+    "body": "Can I see the wine list online?",
+    "created_at": "2026-03-13T10:00:00.000Z"
+  },
+  {
+    "id": "part-38",
+    "conversation_id": "conv-2013",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-03-13T11:00:00.000Z"
+  },
+  {
+    "id": "part-39",
+    "conversation_id": "conv-2013",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Daniel menu meeting Wednesday - argue about the special, again.",
+    "created_at": "2026-03-13T11:00:00.000Z"
+  },
+  {
+    "id": "part-40",
+    "conversation_id": "conv-2014",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis14",
+    "body": "Do you do private wine tastings?",
+    "created_at": "2026-01-14T10:00:00.000Z"
+  },
+  {
+    "id": "part-41",
+    "conversation_id": "conv-2015",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis15",
+    "body": "Lost an item last night - help?",
+    "created_at": "2026-02-15T10:00:00.000Z"
+  },
+  {
+    "id": "part-42",
+    "conversation_id": "conv-2015",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-02-15T11:00:00.000Z"
+  },
+  {
+    "id": "part-43",
+    "conversation_id": "conv-2015",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Kevin's Tuesday call - order the halibut for Friday special.",
+    "created_at": "2026-02-15T11:00:00.000Z"
+  },
+  {
+    "id": "part-44",
+    "conversation_id": "conv-2016",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis16",
+    "body": "Do you validate parking?",
+    "created_at": "2026-01-16T10:00:00.000Z"
+  },
+  {
+    "id": "part-45",
+    "conversation_id": "conv-2016",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-01-16T11:00:00.000Z"
+  },
+  {
+    "id": "part-46",
+    "conversation_id": "conv-2016",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Uncle Stuart Wed lunch chess - usual 1 PM.",
+    "created_at": "2026-01-16T11:00:00.000Z"
+  },
+  {
+    "id": "part-47",
+    "conversation_id": "conv-2017",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis17",
+    "body": "Can I change my reservation time?",
+    "created_at": "2026-02-17T10:00:00.000Z"
+  },
+  {
+    "id": "part-48",
+    "conversation_id": "conv-2017",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-02-17T11:00:00.000Z"
+  },
+  {
+    "id": "part-49",
+    "conversation_id": "conv-2017",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Kevin's Tuesday call - order the halibut for Friday special.",
+    "created_at": "2026-02-17T11:00:00.000Z"
+  },
+  {
+    "id": "part-50",
+    "conversation_id": "conv-2018",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis18",
+    "body": "Are you hiring servers?",
+    "created_at": "2026-03-18T10:00:00.000Z"
+  },
+  {
+    "id": "part-51",
+    "conversation_id": "conv-2018",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-03-18T11:00:00.000Z"
+  },
+  {
+    "id": "part-52",
+    "conversation_id": "conv-2018",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Kevin's Tuesday call - order the halibut for Friday special.",
+    "created_at": "2026-03-18T11:00:00.000Z"
+  },
+  {
+    "id": "part-53",
+    "conversation_id": "conv-2019",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis19",
+    "body": "Do you have happy hour?",
+    "created_at": "2026-01-19T10:00:00.000Z"
+  },
+  {
+    "id": "part-54",
+    "conversation_id": "conv-2019",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-01-19T11:00:00.000Z"
+  },
+  {
+    "id": "part-55",
+    "conversation_id": "conv-2019",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-carlton",
+    "body": "Daniel menu meeting Wednesday - argue about the special, again.",
+    "created_at": "2026-01-19T11:00:00.000Z"
+  },
+  {
+    "id": "part-56",
+    "conversation_id": "conv-2020",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis20",
+    "body": "Is the bar open for walk-ins?",
+    "created_at": "2026-02-20T10:00:00.000Z"
+  },
+  {
+    "id": "part-57",
+    "conversation_id": "conv-2020",
+    "part_type": "comment",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Thanks for reaching out to Eleanor's Tavern! Our team handles inquiries by email - we'll reply shortly at the address on file.",
+    "created_at": "2026-02-20T11:00:00.000Z"
+  },
+  {
+    "id": "part-58",
+    "conversation_id": "conv-2020",
+    "part_type": "close",
+    "author_type": "admin",
+    "author_id": "admin-sophia",
+    "body": "Daniel menu meeting Wednesday - argue about the special, again.",
+    "created_at": "2026-02-20T11:00:00.000Z"
+  },
+  {
+    "id": "part-59",
+    "conversation_id": "conv-2021",
+    "part_type": "comment",
+    "author_type": "user",
+    "author_id": "contact-vis21",
+    "body": "Do you take large group bookings in December?",
+    "created_at": "2026-01-21T10:00:00.000Z"
+  }
+]

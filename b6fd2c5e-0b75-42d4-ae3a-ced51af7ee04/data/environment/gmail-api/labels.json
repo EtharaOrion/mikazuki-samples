@@ -1,0 +1,245 @@
+[
+  {
+    "id": "INBOX",
+    "name": "Amanda Tran",
+    "type": "system",
+    "messages_total": 180,
+    "messages_unread": 12,
+    "threads_total": 142,
+    "threads_unread": 10
+  },
+  {
+    "id": "SENT",
+    "name": "Samuel Tran",
+    "type": "system",
+    "messages_total": 94,
+    "messages_unread": 0,
+    "threads_total": 88,
+    "threads_unread": 0
+  },
+  {
+    "id": "DRAFTS",
+    "name": "Grace Tran",
+    "type": "system",
+    "messages_total": 20,
+    "messages_unread": 0,
+    "threads_total": 20,
+    "threads_unread": 0
+  },
+  {
+    "id": "TRASH",
+    "name": "Emmanuel Tran",
+    "type": "system",
+    "messages_total": 6,
+    "messages_unread": 0,
+    "threads_total": 5,
+    "threads_unread": 0
+  },
+  {
+    "id": "SPAM",
+    "name": "Ruth Nguyen",
+    "type": "system",
+    "messages_total": 3,
+    "messages_unread": 3,
+    "threads_total": 3,
+    "threads_unread": 3
+  },
+  {
+    "id": "Label_choir",
+    "name": "James Harris",
+    "type": "user",
+    "messages_total": 58,
+    "messages_unread": 4,
+    "threads_total": 44,
+    "threads_unread": 3
+  },
+  {
+    "id": "Label_album",
+    "name": "Angela Brooks",
+    "type": "user",
+    "messages_total": 42,
+    "messages_unread": 2,
+    "threads_total": 35,
+    "threads_unread": 2
+  },
+  {
+    "id": "Label_convention",
+    "name": "Monica Wells",
+    "type": "user",
+    "messages_total": 31,
+    "messages_unread": 1,
+    "threads_total": 24,
+    "threads_unread": 1
+  },
+  {
+    "id": "Label_youth",
+    "name": "Michael Hayes",
+    "type": "user",
+    "messages_total": 27,
+    "messages_unread": 0,
+    "threads_total": 22,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_family",
+    "name": "Janet Williams",
+    "type": "user",
+    "messages_total": 44,
+    "messages_unread": 3,
+    "threads_total": 36,
+    "threads_unread": 3
+  },
+  {
+    "id": "Label_vendors",
+    "name": "Carolyn Odom",
+    "type": "user",
+    "messages_total": 36,
+    "messages_unread": 0,
+    "threads_total": 30,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_finance",
+    "name": "Marcus Reed",
+    "type": "user",
+    "messages_total": 22,
+    "messages_unread": 1,
+    "threads_total": 18,
+    "threads_unread": 1
+  },
+  {
+    "id": "Label_pastoral",
+    "name": "Derek Johnson",
+    "type": "user",
+    "messages_total": 18,
+    "messages_unread": 2,
+    "threads_total": 16,
+    "threads_unread": 2
+  },
+  {
+    "id": "Label_website",
+    "name": "Terrence Walker",
+    "type": "user",
+    "messages_total": 15,
+    "messages_unread": 0,
+    "threads_total": 12,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_worship_team",
+    "name": "William Chen",
+    "type": "user",
+    "messages_total": 28,
+    "messages_unread": 0,
+    "threads_total": 22,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_health",
+    "name": "Patricia Pham",
+    "type": "user",
+    "messages_total": 12,
+    "messages_unread": 1,
+    "threads_total": 12,
+    "threads_unread": 1
+  },
+  {
+    "id": "Label_music_ministry",
+    "name": "Eleanor Simms",
+    "type": "user",
+    "messages_total": 62,
+    "messages_unread": 3,
+    "threads_total": 48,
+    "threads_unread": 3
+  },
+  {
+    "id": "Label_followup",
+    "name": "Marcus Brown",
+    "type": "user",
+    "messages_total": 9,
+    "messages_unread": 3,
+    "threads_total": 9,
+    "threads_unread": 3
+  },
+  {
+    "id": "Label_lunar_new_year",
+    "name": "Aaron Kim",
+    "type": "user",
+    "messages_total": 7,
+    "messages_unread": 0,
+    "threads_total": 6,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_mid_autumn",
+    "name": "Sarah Chen",
+    "type": "user",
+    "messages_total": 5,
+    "messages_unread": 0,
+    "threads_total": 5,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_donors",
+    "name": "Donors & Pledges",
+    "type": "user",
+    "messages_total": 18,
+    "messages_unread": 1,
+    "threads_total": 5,
+    "threads_unread": 1
+  },
+  {
+    "id": "Label_advent",
+    "name": "Advent 2026",
+    "type": "user",
+    "messages_total": 6,
+    "messages_unread": 1,
+    "threads_total": 3,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_easter_pageant",
+    "name": "Easter Pageant",
+    "type": "user",
+    "messages_total": 8,
+    "messages_unread": 0,
+    "threads_total": 4,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_lunar_ny",
+    "name": "Lunar New Year",
+    "type": "user",
+    "messages_total": 4,
+    "messages_unread": 0,
+    "threads_total": 2,
+    "threads_unread": 0
+  },
+  {
+    "id": "Label_choir_leader",
+    "name": "Section Leaders Chat",
+    "type": "user",
+    "messages_total": 25,
+    "messages_unread": 3,
+    "threads_total": 9,
+    "threads_unread": 2
+  },
+  {
+    "id": "Label_soundcraft",
+    "name": "Soundcraft DJ Johnson",
+    "type": "user",
+    "messages_total": 18,
+    "messages_unread": 2,
+    "threads_total": 6,
+    "threads_unread": 1
+  },
+  {
+    "id": "Label_ruth",
+    "name": "Ruth (Mama) - Wed visits + meds",
+    "type": "user",
+    "messages_total": 12,
+    "messages_unread": 1,
+    "threads_total": 8,
+    "threads_unread": 0
+  }
+]

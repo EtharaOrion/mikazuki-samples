@@ -1,0 +1,162 @@
+[
+  {
+    "device_id": "871102",
+    "zone_id": "zone_001",
+    "zone_name": "Back Door Stoop",
+    "sensitivity": "7",
+    "enabled": "true",
+    "coordinates": "0.2,0.3,0.8,0.95"
+  },
+  {
+    "device_id": "871102",
+    "zone_id": "zone_002",
+    "zone_name": "Delivery Drop Area",
+    "sensitivity": "8",
+    "enabled": "true",
+    "coordinates": "0.0,0.4,0.5,0.95"
+  },
+  {
+    "device_id": "871102",
+    "zone_id": "zone_003",
+    "zone_name": "Alley Approach",
+    "sensitivity": "6",
+    "enabled": "true",
+    "coordinates": "0.5,0.2,1.0,0.9"
+  },
+  {
+    "device_id": "871102",
+    "zone_id": "zone_004",
+    "zone_name": "Dumpster Corner",
+    "sensitivity": "5",
+    "enabled": "false",
+    "coordinates": "0.7,0.5,1.0,0.95"
+  },
+  {
+    "device_id": "871101",
+    "zone_id": "zone_005",
+    "zone_name": "Front Steps",
+    "sensitivity": "6",
+    "enabled": "true",
+    "coordinates": "0.2,0.4,0.8,0.95"
+  },
+  {
+    "device_id": "871102",
+    "zone_id": "zone_006",
+    "zone_name": "Sidewalk Edge",
+    "sensitivity": "4",
+    "enabled": "true",
+    "coordinates": "0.0,0.6,1.0,0.95"
+  },
+  {
+    "device_id": "871102",
+    "zone_id": "zone_007",
+    "zone_name": "Driveway",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.3,0.3,0.9,0.8"
+  },
+  {
+    "device_id": "871102",
+    "zone_id": "zone_008",
+    "zone_name": "Main Entrance",
+    "sensitivity": "8",
+    "enabled": "true",
+    "coordinates": "0.25,0.35,0.75,0.95"
+  },
+  {
+    "device_id": "871102",
+    "zone_id": "zone_009",
+    "zone_name": "Patio Gate",
+    "sensitivity": "7",
+    "enabled": "true",
+    "coordinates": "0.0,0.4,0.4,0.9"
+  },
+  {
+    "device_id": "871102",
+    "zone_id": "zone_010",
+    "zone_name": "Host Stand Window",
+    "sensitivity": "5",
+    "enabled": "false",
+    "coordinates": "0.6,0.3,1.0,0.85"
+  },
+  {
+    "device_id": "871102",
+    "zone_id": "zone_011",
+    "zone_name": "Patio Seating",
+    "sensitivity": "6",
+    "enabled": "true",
+    "coordinates": "0.1,0.2,0.9,0.9"
+  },
+  {
+    "device_id": "871102",
+    "zone_id": "zone_012",
+    "zone_name": "Patio Bar",
+    "sensitivity": "7",
+    "enabled": "true",
+    "coordinates": "0.5,0.3,1.0,0.95"
+  },
+  {
+    "device_id": "871102",
+    "zone_id": "zone_013",
+    "zone_name": "Back of House Door",
+    "sensitivity": "8",
+    "enabled": "true",
+    "coordinates": "0.2,0.3,0.8,0.95"
+  },
+  {
+    "device_id": "871102",
+    "zone_id": "zone_014",
+    "zone_name": "Walk-In Cooler",
+    "sensitivity": "9",
+    "enabled": "true",
+    "coordinates": "0.0,0.2,0.5,0.95"
+  },
+  {
+    "device_id": "871102",
+    "zone_id": "zone_015",
+    "zone_name": "Liquor Storage",
+    "sensitivity": "9",
+    "enabled": "true",
+    "coordinates": "0.3,0.2,0.9,0.9"
+  },
+  {
+    "device_id": "871102",
+    "zone_id": "zone_016",
+    "zone_name": "Register Area",
+    "sensitivity": "8",
+    "enabled": "true",
+    "coordinates": "0.4,0.3,1.0,0.85"
+  },
+  {
+    "device_id": "871101",
+    "zone_id": "zone_017",
+    "zone_name": "Home Front Porch",
+    "sensitivity": "6",
+    "enabled": "true",
+    "coordinates": "0.2,0.4,0.8,0.95"
+  },
+  {
+    "device_id": "871101",
+    "zone_id": "zone_018",
+    "zone_name": "Home Walkway",
+    "sensitivity": "5",
+    "enabled": "true",
+    "coordinates": "0.0,0.5,0.6,0.9"
+  },
+  {
+    "device_id": "871102",
+    "zone_id": "zone_019",
+    "zone_name": "Backyard Patio",
+    "sensitivity": "4",
+    "enabled": "true",
+    "coordinates": "0.1,0.3,0.9,0.9"
+  },
+  {
+    "device_id": "871102",
+    "zone_id": "zone_020",
+    "zone_name": "Garden Shed",
+    "sensitivity": "3",
+    "enabled": "false",
+    "coordinates": "0.6,0.4,1.0,0.95"
+  }
+]

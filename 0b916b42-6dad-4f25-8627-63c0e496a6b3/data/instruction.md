@@ -1,0 +1,6 @@
+can you get the kids' food group boards sorted for the healthy families table at the festival? the take-home sheet for families needs to match what they actually put up on the wall, not the old placeholder stuff we had. there's a draft going around but double check it against their real boards before you trust it. i want one clean one-pager families can print, and make sure what we've got logged for it lines up too. usual rules if anything's going out.
+
+
+---
+Workspace inputs (already staged on disk at `/root/workspace/home` or `/root/workspace/Home`):
+Save EVERY output artifact you produce under `/root/workspace/`. Files written anywhere else (including `/tmp/` and elsewhere under `/root/`) will NOT be collected as deliverables.

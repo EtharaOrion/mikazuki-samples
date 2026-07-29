@@ -1,0 +1,222 @@
+[
+  {
+    "item_id": "item-sak-001",
+    "store_id": "store-sakura",
+    "name": "Tonkotsu Ramen",
+    "description": "Banh mi sale - church parking lot",
+    "category": "Ramen",
+    "price": 15.5,
+    "calories": 720,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-sak-002",
+    "store_id": "store-sakura",
+    "name": "Spicy Miso Ramen",
+    "description": "Amanda + Samuel Friday date night",
+    "category": "Ramen",
+    "price": 16.0,
+    "calories": 810,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-sak-003",
+    "store_id": "store-sakura",
+    "name": "Pork Gyoza (6 pc)",
+    "description": "Choir rehearsal - Track 4 & 'How Great Thou Art'",
+    "category": "Appetizers",
+    "price": 7.5,
+    "calories": 420,
+    "popular": false,
+    "available": true
+  },
+  {
+    "item_id": "item-sak-004",
+    "store_id": "store-sakura",
+    "name": "Edamame",
+    "description": "Sunday 8 AM traditional service (choir + Dr. Wells organ)",
+    "category": "Appetizers",
+    "price": 5.0,
+    "calories": 180,
+    "popular": false,
+    "available": true
+  },
+  {
+    "item_id": "item-bel-001",
+    "store_id": "store-bellaroma",
+    "name": "Margherita Pizza",
+    "description": "Sunday 11 AM contemporary service (choir + band)",
+    "category": "Pizza",
+    "price": 18.0,
+    "calories": 980,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-bel-002",
+    "store_id": "store-bellaroma",
+    "name": "Spaghetti Carbonara",
+    "description": "Youth choir Saturday rehearsal - 1-3 PM",
+    "category": "Pasta",
+    "price": 21.5,
+    "calories": 1120,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-bel-003",
+    "store_id": "store-bellaroma",
+    "name": "Tiramisu",
+    "description": "Youth band Saturday rehearsal - 3-5 PM (Emmanuel on drums)",
+    "category": "Dessert",
+    "price": 9.0,
+    "calories": 560,
+    "popular": false,
+    "available": true
+  },
+  {
+    "item_id": "item-tac-001",
+    "store_id": "store-tacolibre",
+    "name": "Carne Asada Taco",
+    "description": "Wednesday Ruth visit - Decatur",
+    "category": "Tacos",
+    "price": 3.75,
+    "calories": 260,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-tac-002",
+    "store_id": "store-tacolibre",
+    "name": "Al Pastor Burrito",
+    "description": "Wednesday Emmanuel drum lesson with Terrence Walker",
+    "category": "Burritos",
+    "price": 11.5,
+    "calories": 840,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-tac-003",
+    "store_id": "store-tacolibre",
+    "name": "Chips and Guacamole",
+    "description": "Album Track 4 recording session at Soundcraft",
+    "category": "Sides",
+    "price": 6.5,
+    "calories": 520,
+    "popular": false,
+    "available": true
+  },
+  {
+    "item_id": "item-grn-001",
+    "store_id": "store-greenfork",
+    "name": "Kale Caesar Salad",
+    "description": "Q4 church budget committee meeting",
+    "category": "Salads",
+    "price": 12.0,
+    "calories": 430,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-grn-002",
+    "store_id": "store-greenfork",
+    "name": "Quinoa Power Bowl",
+    "description": "Convention prep session with Deacon Harris",
+    "category": "Bowls",
+    "price": 13.5,
+    "calories": 610,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-drg-001",
+    "store_id": "store-dragongate",
+    "name": "Har Gow (4 pc)",
+    "description": "Steinway tuning by Piedmont Piano Service",
+    "category": "Dim Sum",
+    "price": 6.5,
+    "calories": 240,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-drg-002",
+    "store_id": "store-dragongate",
+    "name": "BBQ Pork Buns (3 pc)",
+    "description": "Christmas pageant rehearsal",
+    "category": "Dim Sum",
+    "price": 6.0,
+    "calories": 510,
+    "popular": true,
+    "available": false
+  },
+  {
+    "item_id": "item-sak-0014",
+    "store_id": "store-sakura-0014",
+    "name": "Tonkotsu Ramen",
+    "description": "Wednesday Emmanuel drum lesson with Terrence Walker",
+    "category": "Ramen",
+    "price": 15.5,
+    "calories": 720,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-sak-0015",
+    "store_id": "store-sakura-0015",
+    "name": "Spicy Miso Ramen",
+    "description": "Sunday 11 AM contemporary service (choir + band)",
+    "category": "Ramen",
+    "price": 16.0,
+    "calories": 810,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-sak-0016",
+    "store_id": "store-sakura-0016",
+    "name": "Pork Gyoza (6 pc)",
+    "description": "Banh mi sale - church parking lot",
+    "category": "Appetizers",
+    "price": 7.5,
+    "calories": 420,
+    "popular": false,
+    "available": true
+  },
+  {
+    "item_id": "item-sak-0017",
+    "store_id": "store-sakura-0017",
+    "name": "Edamame",
+    "description": "Convention prep session with Deacon Harris",
+    "category": "Appetizers",
+    "price": 5.0,
+    "calories": 180,
+    "popular": false,
+    "available": true
+  },
+  {
+    "item_id": "item-bel-0018",
+    "store_id": "store-bellaroma-0018",
+    "name": "Margherita Pizza",
+    "description": "Wednesday Ruth visit - Decatur",
+    "category": "Pizza",
+    "price": 18.0,
+    "calories": 980,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-bel-0019",
+    "store_id": "store-bellaroma-0019",
+    "name": "Spaghetti Carbonara",
+    "description": "Sunday 8 AM traditional service (choir + Dr. Wells organ)",
+    "category": "Pasta",
+    "price": 21.5,
+    "calories": 1120,
+    "popular": true,
+    "available": true
+  }
+]

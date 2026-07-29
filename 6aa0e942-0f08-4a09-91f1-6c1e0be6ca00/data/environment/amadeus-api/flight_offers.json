@@ -1,0 +1,1122 @@
+[
+  {
+    "departureDate": "2025-09-06",
+    "destinationLocationCode": "PRG",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT1H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "320"
+            },
+            "arrival": {
+              "at": "2025-09-06T10:00:00Z",
+              "iataCode": "PRG",
+              "terminal": "n/a"
+            },
+            "carrierCode": "OS",
+            "departure": {
+              "at": "2025-09-06T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT1H",
+            "number": "731",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 6,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "148.00",
+      "currency": "EUR",
+      "grandTotal": "203.00",
+      "total": "203.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "OS"
+    ]
+  },
+  {
+    "departureDate": "2025-10-08",
+    "destinationLocationCode": "CDG",
+    "id": "1001",
+    "itineraries": [
+      {
+        "duration": "PT2H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "321"
+            },
+            "arrival": {
+              "at": "2025-10-08T11:00:00Z",
+              "iataCode": "CDG",
+              "terminal": "n/a"
+            },
+            "carrierCode": "AF",
+            "departure": {
+              "at": "2025-10-08T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT2H",
+            "number": "1235",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 9,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "215.00",
+      "currency": "EUR",
+      "grandTotal": "271.00",
+      "total": "271.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "AF"
+    ]
+  },
+  {
+    "departureDate": "2025-11-10",
+    "destinationLocationCode": "JFK",
+    "id": "1002",
+    "itineraries": [
+      {
+        "duration": "PT9H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "77W"
+            },
+            "arrival": {
+              "at": "2025-11-10T18:00:00Z",
+              "iataCode": "JFK",
+              "terminal": "n/a"
+            },
+            "carrierCode": "OS",
+            "departure": {
+              "at": "2025-11-10T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT9H",
+            "number": "087",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 4,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "690.00",
+      "currency": "EUR",
+      "grandTotal": "747.00",
+      "total": "747.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "OS"
+    ]
+  },
+  {
+    "departureDate": "2025-12-12",
+    "destinationLocationCode": "LHR",
+    "id": "1003",
+    "itineraries": [
+      {
+        "duration": "PT2H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "320"
+            },
+            "arrival": {
+              "at": "2025-12-12T11:00:00Z",
+              "iataCode": "LHR",
+              "terminal": "n/a"
+            },
+            "carrierCode": "BA",
+            "departure": {
+              "at": "2025-12-12T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT2H",
+            "number": "697",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 9,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "235.00",
+      "currency": "EUR",
+      "grandTotal": "293.00",
+      "total": "293.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "BA"
+    ]
+  },
+  {
+    "departureDate": "2026-01-14",
+    "destinationLocationCode": "PRG",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT1H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "320"
+            },
+            "arrival": {
+              "at": "2026-01-14T10:00:00Z",
+              "iataCode": "PRG",
+              "terminal": "n/a"
+            },
+            "carrierCode": "OS",
+            "departure": {
+              "at": "2026-01-14T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT1H",
+            "number": "731",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 6,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "148.00",
+      "currency": "EUR",
+      "grandTotal": "207.00",
+      "total": "207.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "OS"
+    ]
+  },
+  {
+    "departureDate": "2026-02-16",
+    "destinationLocationCode": "CDG",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT2H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "321"
+            },
+            "arrival": {
+              "at": "2026-02-16T11:00:00Z",
+              "iataCode": "CDG",
+              "terminal": "n/a"
+            },
+            "carrierCode": "AF",
+            "departure": {
+              "at": "2026-02-16T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT2H",
+            "number": "1235",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 9,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "215.00",
+      "currency": "EUR",
+      "grandTotal": "270.00",
+      "total": "270.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "AF"
+    ]
+  },
+  {
+    "departureDate": "2026-03-18",
+    "destinationLocationCode": "JFK",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT9H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "77W"
+            },
+            "arrival": {
+              "at": "2026-03-18T18:00:00Z",
+              "iataCode": "JFK",
+              "terminal": "n/a"
+            },
+            "carrierCode": "OS",
+            "departure": {
+              "at": "2026-03-18T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT9H",
+            "number": "087",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 4,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "690.00",
+      "currency": "EUR",
+      "grandTotal": "746.00",
+      "total": "746.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "OS"
+    ]
+  },
+  {
+    "departureDate": "2026-04-20",
+    "destinationLocationCode": "LHR",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT2H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "320"
+            },
+            "arrival": {
+              "at": "2026-04-20T11:00:00Z",
+              "iataCode": "LHR",
+              "terminal": "n/a"
+            },
+            "carrierCode": "BA",
+            "departure": {
+              "at": "2026-04-20T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT2H",
+            "number": "697",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 9,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "235.00",
+      "currency": "EUR",
+      "grandTotal": "292.00",
+      "total": "292.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "BA"
+    ]
+  },
+  {
+    "departureDate": "2026-05-22",
+    "destinationLocationCode": "PRG",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT1H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "320"
+            },
+            "arrival": {
+              "at": "2026-05-22T10:00:00Z",
+              "iataCode": "PRG",
+              "terminal": "n/a"
+            },
+            "carrierCode": "OS",
+            "departure": {
+              "at": "2026-05-22T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT1H",
+            "number": "731",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 6,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "148.00",
+      "currency": "EUR",
+      "grandTotal": "206.00",
+      "total": "206.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "OS"
+    ]
+  },
+  {
+    "departureDate": "2026-06-24",
+    "destinationLocationCode": "CDG",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT2H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "321"
+            },
+            "arrival": {
+              "at": "2026-06-24T11:00:00Z",
+              "iataCode": "CDG",
+              "terminal": "n/a"
+            },
+            "carrierCode": "AF",
+            "departure": {
+              "at": "2026-06-24T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT2H",
+            "number": "1235",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 9,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "215.00",
+      "currency": "EUR",
+      "grandTotal": "274.00",
+      "total": "274.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "AF"
+    ]
+  },
+  {
+    "departureDate": "2026-07-06",
+    "destinationLocationCode": "JFK",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT9H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "77W"
+            },
+            "arrival": {
+              "at": "2026-07-06T18:00:00Z",
+              "iataCode": "JFK",
+              "terminal": "n/a"
+            },
+            "carrierCode": "OS",
+            "departure": {
+              "at": "2026-07-06T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT9H",
+            "number": "087",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 4,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "690.00",
+      "currency": "EUR",
+      "grandTotal": "745.00",
+      "total": "745.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "OS"
+    ]
+  },
+  {
+    "departureDate": "2026-08-08",
+    "destinationLocationCode": "LHR",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT2H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "320"
+            },
+            "arrival": {
+              "at": "2026-08-08T11:00:00Z",
+              "iataCode": "LHR",
+              "terminal": "n/a"
+            },
+            "carrierCode": "BA",
+            "departure": {
+              "at": "2026-08-08T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT2H",
+            "number": "697",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 9,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "235.00",
+      "currency": "EUR",
+      "grandTotal": "291.00",
+      "total": "291.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "BA"
+    ]
+  },
+  {
+    "departureDate": "2026-09-10",
+    "destinationLocationCode": "PRG",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT1H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "320"
+            },
+            "arrival": {
+              "at": "2026-09-10T10:00:00Z",
+              "iataCode": "PRG",
+              "terminal": "n/a"
+            },
+            "carrierCode": "OS",
+            "departure": {
+              "at": "2026-09-10T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT1H",
+            "number": "731",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 6,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "148.00",
+      "currency": "EUR",
+      "grandTotal": "205.00",
+      "total": "205.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "OS"
+    ]
+  },
+  {
+    "departureDate": "2026-10-12",
+    "destinationLocationCode": "CDG",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT2H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "321"
+            },
+            "arrival": {
+              "at": "2026-10-12T11:00:00Z",
+              "iataCode": "CDG",
+              "terminal": "n/a"
+            },
+            "carrierCode": "AF",
+            "departure": {
+              "at": "2026-10-12T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT2H",
+            "number": "1235",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 9,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "215.00",
+      "currency": "EUR",
+      "grandTotal": "273.00",
+      "total": "273.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "AF"
+    ]
+  },
+  {
+    "departureDate": "2026-11-14",
+    "destinationLocationCode": "JFK",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT9H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "77W"
+            },
+            "arrival": {
+              "at": "2026-11-14T18:00:00Z",
+              "iataCode": "JFK",
+              "terminal": "n/a"
+            },
+            "carrierCode": "OS",
+            "departure": {
+              "at": "2026-11-14T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT9H",
+            "number": "087",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 4,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "690.00",
+      "currency": "EUR",
+      "grandTotal": "749.00",
+      "total": "749.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "OS"
+    ]
+  },
+  {
+    "departureDate": "2026-12-16",
+    "destinationLocationCode": "LHR",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT2H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "320"
+            },
+            "arrival": {
+              "at": "2026-12-16T11:00:00Z",
+              "iataCode": "LHR",
+              "terminal": "n/a"
+            },
+            "carrierCode": "BA",
+            "departure": {
+              "at": "2026-12-16T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT2H",
+            "number": "697",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 9,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "235.00",
+      "currency": "EUR",
+      "grandTotal": "290.00",
+      "total": "290.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "BA"
+    ]
+  },
+  {
+    "departureDate": "2027-01-18",
+    "destinationLocationCode": "PRG",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT1H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "320"
+            },
+            "arrival": {
+              "at": "2027-01-18T10:00:00Z",
+              "iataCode": "PRG",
+              "terminal": "n/a"
+            },
+            "carrierCode": "OS",
+            "departure": {
+              "at": "2027-01-18T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT1H",
+            "number": "731",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 6,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "148.00",
+      "currency": "EUR",
+      "grandTotal": "204.00",
+      "total": "204.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "OS"
+    ]
+  },
+  {
+    "departureDate": "2027-02-20",
+    "destinationLocationCode": "CDG",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT2H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "321"
+            },
+            "arrival": {
+              "at": "2027-02-20T11:00:00Z",
+              "iataCode": "CDG",
+              "terminal": "n/a"
+            },
+            "carrierCode": "AF",
+            "departure": {
+              "at": "2027-02-20T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT2H",
+            "number": "1235",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 9,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "215.00",
+      "currency": "EUR",
+      "grandTotal": "272.00",
+      "total": "272.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "AF"
+    ]
+  },
+  {
+    "departureDate": "2027-03-22",
+    "destinationLocationCode": "JFK",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT9H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "77W"
+            },
+            "arrival": {
+              "at": "2027-03-22T18:00:00Z",
+              "iataCode": "JFK",
+              "terminal": "n/a"
+            },
+            "carrierCode": "OS",
+            "departure": {
+              "at": "2027-03-22T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT9H",
+            "number": "087",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 4,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "690.00",
+      "currency": "EUR",
+      "grandTotal": "748.00",
+      "total": "748.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "OS"
+    ]
+  },
+  {
+    "departureDate": "2027-04-24",
+    "destinationLocationCode": "LHR",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT2H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "320"
+            },
+            "arrival": {
+              "at": "2027-04-24T11:00:00Z",
+              "iataCode": "LHR",
+              "terminal": "n/a"
+            },
+            "carrierCode": "BA",
+            "departure": {
+              "at": "2027-04-24T09:00:00Z",
+              "iataCode": "VIE",
+              "terminal": "n/a"
+            },
+            "duration": "PT2H",
+            "number": "697",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 9,
+    "oneWay": true,
+    "originLocationCode": "VIE",
+    "price": {
+      "base": "235.00",
+      "currency": "EUR",
+      "grandTotal": "294.00",
+      "total": "294.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "n/a",
+        "price": {
+          "currency": "EUR",
+          "total": "0"
+        },
+        "travelerId": "0",
+        "travelerType": "general"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "BA"
+    ]
+  }
+]

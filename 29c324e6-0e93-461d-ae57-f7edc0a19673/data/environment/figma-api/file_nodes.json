@@ -1,0 +1,249 @@
+{
+  "FK001abcdefg": {
+    "id": "0:0",
+    "name": "Document",
+    "type": "DOCUMENT",
+    "children": [
+      {
+        "id": "1:2",
+        "name": "Home",
+        "type": "CANVAS",
+        "backgroundColor": {
+          "r": 0.98,
+          "g": 0.96,
+          "b": 0.93,
+          "a": 1
+        },
+        "children": [
+          {
+            "id": "5:10",
+            "name": "Hero Section",
+            "type": "FRAME",
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 0,
+              "width": 1440,
+              "height": 800
+            },
+            "children": [
+              {
+                "id": "5:11",
+                "name": "Headline",
+                "type": "TEXT",
+                "characters": "Where Two Roads Meet"
+              },
+              {
+                "id": "5:12",
+                "name": "Subheadline",
+                "type": "TEXT",
+                "characters": "Music lessons for all ages in Kansas City, Missouri"
+              },
+              {
+                "id": "5:13",
+                "name": "CTA Button",
+                "type": "INSTANCE",
+                "componentId": "comp-crx-cta"
+              }
+            ]
+          },
+          {
+            "id": "5:20",
+            "name": "About Section",
+            "type": "FRAME",
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 820,
+              "width": 1440,
+              "height": 600
+            },
+            "children": [
+              {
+                "id": "5:21",
+                "name": "About Copy",
+                "type": "TEXT",
+                "characters": "Jessica Webb has led Crossroads Conservatory since 2021"
+              },
+              {
+                "id": "5:22",
+                "name": "Instructor Photo",
+                "type": "RECTANGLE"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "FK002hijklmn": {
+    "id": "0:0",
+    "name": "Document",
+    "type": "DOCUMENT",
+    "children": [
+      {
+        "id": "1:2",
+        "name": "Classes",
+        "type": "CANVAS",
+        "backgroundColor": {
+          "r": 0.98,
+          "g": 0.96,
+          "b": 0.93,
+          "a": 1
+        },
+        "children": [
+          {
+            "id": "8:1",
+            "name": "Class Grid",
+            "type": "FRAME",
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 0,
+              "width": 1440,
+              "height": 1200
+            },
+            "children": [
+              {
+                "id": "8:10",
+                "name": "Beginner Saxophone Card",
+                "type": "INSTANCE",
+                "characters": "Class schedule and tuition"
+              },
+              {
+                "id": "8:11",
+                "name": "Intermediate Piano Card",
+                "type": "INSTANCE",
+                "characters": "Lessons, ensembles, and performances"
+              },
+              {
+                "id": "8:12",
+                "name": "Youth Jazz Combo Card",
+                "type": "INSTANCE",
+                "characters": "Crossroads Conservatory of Music"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "FK003opqrstu": {
+    "id": "0:0",
+    "name": "Document",
+    "type": "DOCUMENT",
+    "children": [
+      {
+        "id": "1:2",
+        "name": "Poster",
+        "type": "CANVAS",
+        "backgroundColor": {
+          "r": 0.08,
+          "g": 0.05,
+          "b": 0.04,
+          "a": 1
+        },
+        "children": [
+          {
+            "id": "3:1",
+            "name": "Showcase Poster 18x24",
+            "type": "FRAME",
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 0,
+              "width": 1080,
+              "height": 1440
+            },
+            "children": [
+              {
+                "id": "3:5",
+                "name": "Showcase Title",
+                "type": "TEXT",
+                "characters": "Crossroads 5th Anniversary Showcase"
+              },
+              {
+                "id": "3:6",
+                "name": "Date Banner",
+                "type": "TEXT",
+                "characters": "October 10  The Phoenix, Kansas City"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "FK004vwxyz12": {
+    "id": "0:0",
+    "name": "Document",
+    "type": "DOCUMENT",
+    "children": [
+      {
+        "id": "1:2",
+        "name": "Brand Kit",
+        "type": "CANVAS",
+        "backgroundColor": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        },
+        "children": [
+          {
+            "id": "10:1",
+            "name": "Colors",
+            "type": "FRAME",
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 0,
+              "width": 800,
+              "height": 400
+            },
+            "children": [
+              {
+                "id": "10:10",
+                "name": "Midnight Blue",
+                "type": "RECTANGLE",
+                "componentId": "comp-crx-color-midnight"
+              },
+              {
+                "id": "10:11",
+                "name": "Brass Gold",
+                "type": "RECTANGLE",
+                "componentId": "comp-crx-color-brass"
+              },
+              {
+                "id": "10:12",
+                "name": "Warm Cream",
+                "type": "RECTANGLE",
+                "componentId": "comp-crx-color-cream"
+              }
+            ]
+          },
+          {
+            "id": "10:20",
+            "name": "Typography",
+            "type": "FRAME",
+            "absoluteBoundingBox": {
+              "x": 0,
+              "y": 440,
+              "width": 800,
+              "height": 400
+            },
+            "children": [
+              {
+                "id": "10:21",
+                "name": "Heading - Playfair Display",
+                "type": "TEXT",
+                "componentId": "comp-crx-cta"
+              },
+              {
+                "id": "10:22",
+                "name": "Body - Source Sans Pro",
+                "type": "TEXT",
+                "componentId": "comp-crx-card"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "escalation_policy_id": "PPOL001",
+    "name": "Primary on-call",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-2",
+    "name": "Escalation - Ops",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-3",
+    "name": "Digitisation Pipeline On-Call",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-4",
+    "name": "Web Tier Escalation",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-5",
+    "name": "Collection API On-Call",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-6",
+    "name": "Infrastructure Escalation",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-7",
+    "name": "Secondary On-Call",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-8",
+    "name": "Search On-Call",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-9",
+    "name": "Billing Escalation",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-10",
+    "name": "Scheduler On-Call",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-11",
+    "name": "Worker Tier Escalation",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-12",
+    "name": "Weekend On-Call",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-13",
+    "name": "Night Shift On-Call",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-14",
+    "name": "Critical Incident Escalation",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-15",
+    "name": "Database On-Call",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-16",
+    "name": "Network Escalation",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-17",
+    "name": "Storage On-Call",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-18",
+    "name": "Backup On-Call",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-19",
+    "name": "Release Escalation",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  },
+  {
+    "escalation_policy_id": "PPOL001-20",
+    "name": "Monitoring On-Call",
+    "num_loops": "2",
+    "tier1_user_id": "0",
+    "tier2_user_id": "0"
+  }
+]

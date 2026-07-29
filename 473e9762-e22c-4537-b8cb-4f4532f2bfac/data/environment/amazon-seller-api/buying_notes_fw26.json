@@ -1,0 +1,44 @@
+{
+  "category_restrictions": {
+    "blazers_max_skus": 0,
+    "knitwear_max_skus": 0,
+    "no_leather_outerwear": false,
+    "outerwear_max_skus": 0
+  },
+  "color_exclusions": {
+    "max_black_percent_of_assortment": 0,
+    "no_neon_or_fluorescent": false,
+    "preferred_tones": [
+      "n/a"
+    ]
+  },
+  "delivery_and_timeline": {
+    "final_submission_date": "n/a",
+    "max_lead_time_months_without_vp_approval": 0,
+    "priority_reorder_brands": [
+      "n/a"
+    ],
+    "vendor_delivery_deadline": "n/a"
+  },
+  "fabrication_exclusions": {
+    "max_acrylic_percent": 0,
+    "max_mohair_percent": 0,
+    "no_faux_fur": false,
+    "no_fur": false
+  },
+  "notes": {
+    "korean_designers_premium_positioning": [
+      "n/a"
+    ],
+    "mijeong_park_max_skus_without_sizing_confirmation": 0,
+    "total_sku_budget": 0
+  },
+  "pricing_limits": {
+    "max_category_budget_percent": 0,
+    "max_retail_cap_per_unit": 0,
+    "opening_price_point_min": 0
+  },
+  "submitted_by": "n/a",
+  "title": "Osterreichisches Kunstmuseum",
+  "updated": "n/a"
+}

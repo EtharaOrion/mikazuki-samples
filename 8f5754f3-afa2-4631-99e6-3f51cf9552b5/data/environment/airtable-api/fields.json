@@ -1,0 +1,134 @@
+[
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjName00001",
+    "name": "Name",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjStatus001",
+    "name": "Status",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjOwner0001",
+    "name": "Owner",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjBudget001",
+    "name": "Budget",
+    "type": "number"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskName00001",
+    "name": "Name",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskStatus001",
+    "name": "Status",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskProject01",
+    "name": "Project",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskHours0001",
+    "name": "EstimateHours",
+    "type": "number"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskDone00001",
+    "name": "Done",
+    "type": "checkbox"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactNm0001",
+    "name": "Name",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactEml001",
+    "name": "Email",
+    "type": "email"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactCo0001",
+    "name": "Company",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactRl0001",
+    "name": "Role",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjDue000001",
+    "name": "DueDate",
+    "type": "date"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjNotes0001",
+    "name": "Notes",
+    "type": "multilineText"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskAssign001",
+    "name": "AssignedTo",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskPrior001",
+    "name": "Priority",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactPh0001",
+    "name": "Phone",
+    "type": "phoneNumber"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactVnd01",
+    "name": "VendorType",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblVendors0000001",
+    "id": "fldVendorNm00001",
+    "name": "Name",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblVendors0000001",
+    "id": "fldVendorDay0001",
+    "name": "DeliveryDay",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblVendors0000001",
+    "id": "fldVendorSpnd01",
+    "name": "MonthlySpend",
+    "type": "number"
+  }
+]

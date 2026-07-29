@@ -1,0 +1,992 @@
+[
+  {
+    "author_id": "OL1000000A",
+    "description": "Pilgrim at Tinker Creek by Annie Dillard.",
+    "edition_count": "2",
+    "first_publish_year": "1974",
+    "subjects": "Biographies;Travel",
+    "title": "Pilgrim at Tinker Creek",
+    "work_id": "OL2000000W"
+  },
+  {
+    "author_id": "OL1000007A",
+    "description": "A Short History of Nearly Everything by Bill Bryson.",
+    "edition_count": "3",
+    "first_publish_year": "2003",
+    "subjects": "Travel;History",
+    "title": "A Short History of Nearly Everything",
+    "work_id": "OL2000007W"
+  },
+  {
+    "author_id": "OL1000014A",
+    "description": "Devotions by Mary Oliver.",
+    "edition_count": "4",
+    "first_publish_year": "2017",
+    "subjects": "History;Cooking",
+    "title": "Devotions",
+    "work_id": "OL2000014W"
+  },
+  {
+    "author_id": "OL1000021A",
+    "description": "Moneyball by Michael Lewis.",
+    "edition_count": "5",
+    "first_publish_year": "2003",
+    "subjects": "Cooking;Photography",
+    "title": "Moneyball",
+    "work_id": "OL2000021W"
+  },
+  {
+    "author_id": "OL1000028A",
+    "description": "Being Mortal by Atul Gawande.",
+    "edition_count": "2",
+    "first_publish_year": "2014",
+    "subjects": "Photography;Fiction",
+    "title": "Being Mortal",
+    "work_id": "OL2000028W"
+  },
+  {
+    "author_id": "OL1000035A",
+    "description": "The Splendid and the Vile by Erik Larson.",
+    "edition_count": "3",
+    "first_publish_year": "2020",
+    "subjects": "Fiction;Science",
+    "title": "The Splendid and the Vile",
+    "work_id": "OL2000035W"
+  },
+  {
+    "author_id": "OL1000042A",
+    "description": "Mountains Beyond Mountains by Tracy Kidder.",
+    "edition_count": "4",
+    "first_publish_year": "2003",
+    "subjects": "Science;Philosophy",
+    "title": "Mountains Beyond Mountains",
+    "work_id": "OL2000042W"
+  },
+  {
+    "author_id": "OL1000049A",
+    "description": "The Soul of an Octopus by Sy Montgomery.",
+    "edition_count": "5",
+    "first_publish_year": "2015",
+    "subjects": "Philosophy;Business",
+    "title": "The Soul of an Octopus",
+    "work_id": "OL2000049W"
+  },
+  {
+    "author_id": "OL1000056A",
+    "description": "The Power Broker by Robert Caro.",
+    "edition_count": "2",
+    "first_publish_year": "1974",
+    "subjects": "Business;Memoir",
+    "title": "The Power Broker",
+    "work_id": "OL2000056W"
+  },
+  {
+    "author_id": "OL1000063A",
+    "description": "Bluets by Maggie Nelson.",
+    "edition_count": "3",
+    "first_publish_year": "2009",
+    "subjects": "Memoir;Biographies",
+    "title": "Bluets",
+    "work_id": "OL2000063W"
+  },
+  {
+    "author_id": "OL1000000A-p10",
+    "description": "Pilgrim at Tinker Creek by Annie Dillard.",
+    "edition_count": "2",
+    "first_publish_year": "1974",
+    "subjects": "Biographies;Travel",
+    "title": "Pilgrim at Tinker Creek",
+    "work_id": "OL2000000W-p10"
+  },
+  {
+    "author_id": "OL1000007A-p11",
+    "description": "A Short History of Nearly Everything by Bill Bryson.",
+    "edition_count": "3",
+    "first_publish_year": "2003",
+    "subjects": "Travel;History",
+    "title": "A Short History of Nearly Everything",
+    "work_id": "OL2000007W-p11"
+  },
+  {
+    "author_id": "OL1000014A-p12",
+    "description": "Devotions by Mary Oliver.",
+    "edition_count": "4",
+    "first_publish_year": "2017",
+    "subjects": "History;Cooking",
+    "title": "Devotions",
+    "work_id": "OL2000014W-p12"
+  },
+  {
+    "author_id": "OL1000021A-p13",
+    "description": "Moneyball by Michael Lewis.",
+    "edition_count": "5",
+    "first_publish_year": "2003",
+    "subjects": "Cooking;Photography",
+    "title": "Moneyball",
+    "work_id": "OL2000021W-p13"
+  },
+  {
+    "author_id": "OL1000028A-p14",
+    "description": "Being Mortal by Atul Gawande.",
+    "edition_count": "2",
+    "first_publish_year": "2014",
+    "subjects": "Photography;Fiction",
+    "title": "Being Mortal",
+    "work_id": "OL2000028W-p14"
+  },
+  {
+    "author_id": "OL1000035A-p15",
+    "description": "The Splendid and the Vile by Erik Larson.",
+    "edition_count": "3",
+    "first_publish_year": "2020",
+    "subjects": "Fiction;Science",
+    "title": "The Splendid and the Vile",
+    "work_id": "OL2000035W-p15"
+  },
+  {
+    "author_id": "OL1000042A-p16",
+    "description": "Mountains Beyond Mountains by Tracy Kidder.",
+    "edition_count": "4",
+    "first_publish_year": "2003",
+    "subjects": "Science;Philosophy",
+    "title": "Mountains Beyond Mountains",
+    "work_id": "OL2000042W-p16"
+  },
+  {
+    "author_id": "OL1000049A-p17",
+    "description": "The Soul of an Octopus by Sy Montgomery.",
+    "edition_count": "5",
+    "first_publish_year": "2015",
+    "subjects": "Philosophy;Business",
+    "title": "The Soul of an Octopus",
+    "work_id": "OL2000049W-p17"
+  },
+  {
+    "author_id": "OL1000056A-p18",
+    "description": "The Power Broker by Robert Caro.",
+    "edition_count": "2",
+    "first_publish_year": "1974",
+    "subjects": "Business;Memoir",
+    "title": "The Power Broker",
+    "work_id": "OL2000056W-p18"
+  },
+  {
+    "author_id": "OL1000063A-p19",
+    "description": "Bluets by Maggie Nelson.",
+    "edition_count": "3",
+    "first_publish_year": "2009",
+    "subjects": "Memoir;Biographies",
+    "title": "Bluets",
+    "work_id": "OL2000063W-p19"
+  },
+  {
+    "author_id": "OL1000000A",
+    "description": "The Poisonwood Bible - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "1975",
+    "subjects": "American literature;Fiction",
+    "title": "The Poisonwood Bible",
+    "work_id": "OL9000000W"
+  },
+  {
+    "author_id": "OL1000007A",
+    "description": "Prodigal Summer - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "1976",
+    "subjects": "Family;Fiction",
+    "title": "Prodigal Summer",
+    "work_id": "OL9000001W"
+  },
+  {
+    "author_id": "OL1000014A",
+    "description": "Flight Behavior - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "1977",
+    "subjects": "Mystery;Detective",
+    "title": "Flight Behavior",
+    "work_id": "OL9000002W"
+  },
+  {
+    "author_id": "OL1000021A",
+    "description": "Unsheltered - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "1978",
+    "subjects": "Literary fiction",
+    "title": "Unsheltered",
+    "work_id": "OL9000003W"
+  },
+  {
+    "author_id": "OL1000028A",
+    "description": "The Bean Trees - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "1979",
+    "subjects": "Contemporary",
+    "title": "The Bean Trees",
+    "work_id": "OL9000004W"
+  },
+  {
+    "author_id": "OL1000035A",
+    "description": "Animal Dreams - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "1980",
+    "subjects": "American literature;Fiction",
+    "title": "Animal Dreams",
+    "work_id": "OL9000005W"
+  },
+  {
+    "author_id": "OL1000042A",
+    "description": "Pigs in Heaven - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "1981",
+    "subjects": "Family;Fiction",
+    "title": "Pigs in Heaven",
+    "work_id": "OL9000006W"
+  },
+  {
+    "author_id": "OL1000049A",
+    "description": "Demon Copperhead - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "1982",
+    "subjects": "Mystery;Detective",
+    "title": "Demon Copperhead",
+    "work_id": "OL9000007W"
+  },
+  {
+    "author_id": "OL1000056A",
+    "description": "The Lacuna - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "1983",
+    "subjects": "Literary fiction",
+    "title": "The Lacuna",
+    "work_id": "OL9000008W"
+  },
+  {
+    "author_id": "OL1000063A",
+    "description": "Homeland and Other Stories - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "1984",
+    "subjects": "Contemporary",
+    "title": "Homeland and Other Stories",
+    "work_id": "OL9000009W"
+  },
+  {
+    "author_id": "OL1000000A-p10",
+    "description": "High Tide in Tucson - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "1985",
+    "subjects": "American literature;Fiction",
+    "title": "High Tide in Tucson",
+    "work_id": "OL9000010W"
+  },
+  {
+    "author_id": "OL1000007A-p11",
+    "description": "Dinner at the Homesick Restaurant - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "1986",
+    "subjects": "Family;Fiction",
+    "title": "Dinner at the Homesick Restaurant",
+    "work_id": "OL9000011W"
+  },
+  {
+    "author_id": "OL1000014A-p12",
+    "description": "The Accidental Tourist - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "1987",
+    "subjects": "Mystery;Detective",
+    "title": "The Accidental Tourist",
+    "work_id": "OL9000012W"
+  },
+  {
+    "author_id": "OL1000021A-p13",
+    "description": "Breathing Lessons - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "1988",
+    "subjects": "Literary fiction",
+    "title": "Breathing Lessons",
+    "work_id": "OL9000013W"
+  },
+  {
+    "author_id": "OL1000028A-p14",
+    "description": "A Spool of Blue Thread - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "1989",
+    "subjects": "Contemporary",
+    "title": "A Spool of Blue Thread",
+    "work_id": "OL9000014W"
+  },
+  {
+    "author_id": "OL1000035A-p15",
+    "description": "Ladder of Years - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "1990",
+    "subjects": "American literature;Fiction",
+    "title": "Ladder of Years",
+    "work_id": "OL9000015W"
+  },
+  {
+    "author_id": "OL1000042A-p16",
+    "description": "Saint Maybe - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "1991",
+    "subjects": "Family;Fiction",
+    "title": "Saint Maybe",
+    "work_id": "OL9000016W"
+  },
+  {
+    "author_id": "OL1000049A-p17",
+    "description": "Back When We Were Grownups - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "1992",
+    "subjects": "Mystery;Detective",
+    "title": "Back When We Were Grownups",
+    "work_id": "OL9000017W"
+  },
+  {
+    "author_id": "OL1000056A-p18",
+    "description": "Vinegar Girl - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "1993",
+    "subjects": "Literary fiction",
+    "title": "Vinegar Girl",
+    "work_id": "OL9000018W"
+  },
+  {
+    "author_id": "OL1000063A-p19",
+    "description": "Redhead by the Side of the Road - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "1994",
+    "subjects": "Contemporary",
+    "title": "Redhead by the Side of the Road",
+    "work_id": "OL9000019W"
+  },
+  {
+    "author_id": "OL1000000A",
+    "description": "Clock Dance - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "1995",
+    "subjects": "American literature;Fiction",
+    "title": "Clock Dance",
+    "work_id": "OL9000020W"
+  },
+  {
+    "author_id": "OL1000007A",
+    "description": "The Amateur Marriage - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "1996",
+    "subjects": "Family;Fiction",
+    "title": "The Amateur Marriage",
+    "work_id": "OL9000021W"
+  },
+  {
+    "author_id": "OL1000014A",
+    "description": "Digging to America - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "1997",
+    "subjects": "Mystery;Detective",
+    "title": "Digging to America",
+    "work_id": "OL9000022W"
+  },
+  {
+    "author_id": "OL1000021A",
+    "description": "Noah's Compass - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "1998",
+    "subjects": "Literary fiction",
+    "title": "Noah's Compass",
+    "work_id": "OL9000023W"
+  },
+  {
+    "author_id": "OL1000028A",
+    "description": "French Braid - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "1999",
+    "subjects": "Contemporary",
+    "title": "French Braid",
+    "work_id": "OL9000024W"
+  },
+  {
+    "author_id": "OL1000035A",
+    "description": "Empire Falls - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "2000",
+    "subjects": "American literature;Fiction",
+    "title": "Empire Falls",
+    "work_id": "OL9000025W"
+  },
+  {
+    "author_id": "OL1000042A",
+    "description": "Nobody's Fool - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "2001",
+    "subjects": "Family;Fiction",
+    "title": "Nobody's Fool",
+    "work_id": "OL9000026W"
+  },
+  {
+    "author_id": "OL1000049A",
+    "description": "Everybody's Fool - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "2002",
+    "subjects": "Mystery;Detective",
+    "title": "Everybody's Fool",
+    "work_id": "OL9000027W"
+  },
+  {
+    "author_id": "OL1000056A",
+    "description": "Straight Man - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "2003",
+    "subjects": "Literary fiction",
+    "title": "Straight Man",
+    "work_id": "OL9000028W"
+  },
+  {
+    "author_id": "OL1000063A",
+    "description": "The Risk Pool - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "2004",
+    "subjects": "Contemporary",
+    "title": "The Risk Pool",
+    "work_id": "OL9000029W"
+  },
+  {
+    "author_id": "OL1000000A-p10",
+    "description": "Bridge of Sighs - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "2005",
+    "subjects": "American literature;Fiction",
+    "title": "Bridge of Sighs",
+    "work_id": "OL9000030W"
+  },
+  {
+    "author_id": "OL1000007A-p11",
+    "description": "That Old Cape Magic - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "2006",
+    "subjects": "Family;Fiction",
+    "title": "That Old Cape Magic",
+    "work_id": "OL9000031W"
+  },
+  {
+    "author_id": "OL1000014A-p12",
+    "description": "Elsewhere - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "2007",
+    "subjects": "Mystery;Detective",
+    "title": "Elsewhere",
+    "work_id": "OL9000032W"
+  },
+  {
+    "author_id": "OL1000021A-p13",
+    "description": "Chances Are - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "2008",
+    "subjects": "Literary fiction",
+    "title": "Chances Are",
+    "work_id": "OL9000033W"
+  },
+  {
+    "author_id": "OL1000028A-p14",
+    "description": "Mohawk - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "2009",
+    "subjects": "Contemporary",
+    "title": "Mohawk",
+    "work_id": "OL9000034W"
+  },
+  {
+    "author_id": "OL1000035A-p15",
+    "description": "In the Woods - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "2010",
+    "subjects": "American literature;Fiction",
+    "title": "In the Woods",
+    "work_id": "OL9000035W"
+  },
+  {
+    "author_id": "OL1000042A-p16",
+    "description": "The Likeness - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "2011",
+    "subjects": "Family;Fiction",
+    "title": "The Likeness",
+    "work_id": "OL9000036W"
+  },
+  {
+    "author_id": "OL1000049A-p17",
+    "description": "Faithful Place - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "2012",
+    "subjects": "Mystery;Detective",
+    "title": "Faithful Place",
+    "work_id": "OL9000037W"
+  },
+  {
+    "author_id": "OL1000056A-p18",
+    "description": "Broken Harbor - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "2013",
+    "subjects": "Literary fiction",
+    "title": "Broken Harbor",
+    "work_id": "OL9000038W"
+  },
+  {
+    "author_id": "OL1000063A-p19",
+    "description": "The Secret Place - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "2014",
+    "subjects": "Contemporary",
+    "title": "The Secret Place",
+    "work_id": "OL9000039W"
+  },
+  {
+    "author_id": "OL1000000A",
+    "description": "The Trespasser - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "2015",
+    "subjects": "American literature;Fiction",
+    "title": "The Trespasser",
+    "work_id": "OL9000040W"
+  },
+  {
+    "author_id": "OL1000007A",
+    "description": "The Witch Elm - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "2016",
+    "subjects": "Family;Fiction",
+    "title": "The Witch Elm",
+    "work_id": "OL9000041W"
+  },
+  {
+    "author_id": "OL1000014A",
+    "description": "The Searcher - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "2017",
+    "subjects": "Mystery;Detective",
+    "title": "The Searcher",
+    "work_id": "OL9000042W"
+  },
+  {
+    "author_id": "OL1000021A",
+    "description": "The Wych Elm - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "2018",
+    "subjects": "Literary fiction",
+    "title": "The Wych Elm",
+    "work_id": "OL9000043W"
+  },
+  {
+    "author_id": "OL1000028A",
+    "description": "Olive Kitteridge - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "2019",
+    "subjects": "Contemporary",
+    "title": "Olive Kitteridge",
+    "work_id": "OL9000044W"
+  },
+  {
+    "author_id": "OL1000035A",
+    "description": "Olive, Again - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "2020",
+    "subjects": "American literature;Fiction",
+    "title": "Olive, Again",
+    "work_id": "OL9000045W"
+  },
+  {
+    "author_id": "OL1000042A",
+    "description": "My Name Is Lucy Barton - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "2021",
+    "subjects": "Family;Fiction",
+    "title": "My Name Is Lucy Barton",
+    "work_id": "OL9000046W"
+  },
+  {
+    "author_id": "OL1000049A",
+    "description": "Anything Is Possible - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "2022",
+    "subjects": "Mystery;Detective",
+    "title": "Anything Is Possible",
+    "work_id": "OL9000047W"
+  },
+  {
+    "author_id": "OL1000056A",
+    "description": "Amy and Isabelle - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "2023",
+    "subjects": "Literary fiction",
+    "title": "Amy and Isabelle",
+    "work_id": "OL9000048W"
+  },
+  {
+    "author_id": "OL1000063A",
+    "description": "Abide with Me - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "2024",
+    "subjects": "Contemporary",
+    "title": "Abide with Me",
+    "work_id": "OL9000049W"
+  },
+  {
+    "author_id": "OL1000000A-p10",
+    "description": "The Burgess Boys - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "1975",
+    "subjects": "American literature;Fiction",
+    "title": "The Burgess Boys",
+    "work_id": "OL9000050W"
+  },
+  {
+    "author_id": "OL1000007A-p11",
+    "description": "Bel Canto - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "1976",
+    "subjects": "Family;Fiction",
+    "title": "Bel Canto",
+    "work_id": "OL9000051W"
+  },
+  {
+    "author_id": "OL1000014A-p12",
+    "description": "Commonwealth - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "1977",
+    "subjects": "Mystery;Detective",
+    "title": "Commonwealth",
+    "work_id": "OL9000052W"
+  },
+  {
+    "author_id": "OL1000021A-p13",
+    "description": "State of Wonder - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "1978",
+    "subjects": "Literary fiction",
+    "title": "State of Wonder",
+    "work_id": "OL9000053W"
+  },
+  {
+    "author_id": "OL1000028A-p14",
+    "description": "The Dutch House - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "1979",
+    "subjects": "Contemporary",
+    "title": "The Dutch House",
+    "work_id": "OL9000054W"
+  },
+  {
+    "author_id": "OL1000035A-p15",
+    "description": "Tom Lake - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "1980",
+    "subjects": "American literature;Fiction",
+    "title": "Tom Lake",
+    "work_id": "OL9000055W"
+  },
+  {
+    "author_id": "OL1000042A-p16",
+    "description": "Run - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "1981",
+    "subjects": "Family;Fiction",
+    "title": "Run",
+    "work_id": "OL9000056W"
+  },
+  {
+    "author_id": "OL1000049A-p17",
+    "description": "Gilead - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "1982",
+    "subjects": "Mystery;Detective",
+    "title": "Gilead",
+    "work_id": "OL9000057W"
+  },
+  {
+    "author_id": "OL1000056A-p18",
+    "description": "Home - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "1983",
+    "subjects": "Literary fiction",
+    "title": "Home",
+    "work_id": "OL9000058W"
+  },
+  {
+    "author_id": "OL1000063A-p19",
+    "description": "Lila - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "1984",
+    "subjects": "Contemporary",
+    "title": "Lila",
+    "work_id": "OL9000059W"
+  },
+  {
+    "author_id": "OL1000000A",
+    "description": "Jack - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "1985",
+    "subjects": "American literature;Fiction",
+    "title": "Jack",
+    "work_id": "OL9000060W"
+  },
+  {
+    "author_id": "OL1000007A",
+    "description": "Housekeeping - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "1986",
+    "subjects": "Family;Fiction",
+    "title": "Housekeeping",
+    "work_id": "OL9000061W"
+  },
+  {
+    "author_id": "OL1000014A",
+    "description": "The Round House - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "1987",
+    "subjects": "Mystery;Detective",
+    "title": "The Round House",
+    "work_id": "OL9000062W"
+  },
+  {
+    "author_id": "OL1000021A",
+    "description": "LaRose - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "1988",
+    "subjects": "Literary fiction",
+    "title": "LaRose",
+    "work_id": "OL9000063W"
+  },
+  {
+    "author_id": "OL1000028A",
+    "description": "The Night Watchman - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "1989",
+    "subjects": "Contemporary",
+    "title": "The Night Watchman",
+    "work_id": "OL9000064W"
+  },
+  {
+    "author_id": "OL1000035A",
+    "description": "Love Medicine - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "1990",
+    "subjects": "American literature;Fiction",
+    "title": "Love Medicine",
+    "work_id": "OL9000065W"
+  },
+  {
+    "author_id": "OL1000042A",
+    "description": "Angle of Repose - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "1991",
+    "subjects": "Family;Fiction",
+    "title": "Angle of Repose",
+    "work_id": "OL9000066W"
+  },
+  {
+    "author_id": "OL1000049A",
+    "description": "Crossing to Safety - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "1992",
+    "subjects": "Mystery;Detective",
+    "title": "Crossing to Safety",
+    "work_id": "OL9000067W"
+  },
+  {
+    "author_id": "OL1000056A",
+    "description": "Plainsong - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "1993",
+    "subjects": "Literary fiction",
+    "title": "Plainsong",
+    "work_id": "OL9000068W"
+  },
+  {
+    "author_id": "OL1000063A",
+    "description": "Eventide - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "1994",
+    "subjects": "Contemporary",
+    "title": "Eventide",
+    "work_id": "OL9000069W"
+  },
+  {
+    "author_id": "OL1000000A-p10",
+    "description": "Our Souls at Night - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "1995",
+    "subjects": "American literature;Fiction",
+    "title": "Our Souls at Night",
+    "work_id": "OL9000070W"
+  },
+  {
+    "author_id": "OL1000007A-p11",
+    "description": "A Gentleman in Moscow - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "1996",
+    "subjects": "Family;Fiction",
+    "title": "A Gentleman in Moscow",
+    "work_id": "OL9000071W"
+  },
+  {
+    "author_id": "OL1000014A-p12",
+    "description": "Rules of Civility - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "1997",
+    "subjects": "Mystery;Detective",
+    "title": "Rules of Civility",
+    "work_id": "OL9000072W"
+  },
+  {
+    "author_id": "OL1000021A-p13",
+    "description": "The Overstory - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "1998",
+    "subjects": "Literary fiction",
+    "title": "The Overstory",
+    "work_id": "OL9000073W"
+  },
+  {
+    "author_id": "OL1000028A-p14",
+    "description": "Bewilderment - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "1999",
+    "subjects": "Contemporary",
+    "title": "Bewilderment",
+    "work_id": "OL9000074W"
+  },
+  {
+    "author_id": "OL1000035A-p15",
+    "description": "The Goldfinch - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "2000",
+    "subjects": "American literature;Fiction",
+    "title": "The Goldfinch",
+    "work_id": "OL9000075W"
+  },
+  {
+    "author_id": "OL1000042A-p16",
+    "description": "A Little Life - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "2001",
+    "subjects": "Family;Fiction",
+    "title": "A Little Life",
+    "work_id": "OL9000076W"
+  },
+  {
+    "author_id": "OL1000049A-p17",
+    "description": "Little Fires Everywhere - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "2002",
+    "subjects": "Mystery;Detective",
+    "title": "Little Fires Everywhere",
+    "work_id": "OL9000077W"
+  },
+  {
+    "author_id": "OL1000056A-p18",
+    "description": "Everything I Never Told You - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "2003",
+    "subjects": "Literary fiction",
+    "title": "Everything I Never Told You",
+    "work_id": "OL9000078W"
+  },
+  {
+    "author_id": "OL1000063A-p19",
+    "description": "The Sympathizer - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "2004",
+    "subjects": "Contemporary",
+    "title": "The Sympathizer",
+    "work_id": "OL9000079W"
+  },
+  {
+    "author_id": "OL1000000A",
+    "description": "The Underground Railroad - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "2005",
+    "subjects": "American literature;Fiction",
+    "title": "The Underground Railroad",
+    "work_id": "OL9000080W"
+  },
+  {
+    "author_id": "OL1000007A",
+    "description": "Cutting for Stone - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "2006",
+    "subjects": "Family;Fiction",
+    "title": "Cutting for Stone",
+    "work_id": "OL9000081W"
+  },
+  {
+    "author_id": "OL1000014A",
+    "description": "The Kite Runner - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "2007",
+    "subjects": "Mystery;Detective",
+    "title": "The Kite Runner",
+    "work_id": "OL9000082W"
+  },
+  {
+    "author_id": "OL1000021A",
+    "description": "A Thousand Splendid Suns - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "2008",
+    "subjects": "Literary fiction",
+    "title": "A Thousand Splendid Suns",
+    "work_id": "OL9000083W"
+  },
+  {
+    "author_id": "OL1000028A",
+    "description": "The Namesake - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "2009",
+    "subjects": "Contemporary",
+    "title": "The Namesake",
+    "work_id": "OL9000084W"
+  },
+  {
+    "author_id": "OL1000035A",
+    "description": "Interpreter of Maladies - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "2010",
+    "subjects": "American literature;Fiction",
+    "title": "Interpreter of Maladies",
+    "work_id": "OL9000085W"
+  },
+  {
+    "author_id": "OL1000042A",
+    "description": "Middlesex - added to Michelle's reading list.",
+    "edition_count": "3",
+    "first_publish_year": "2011",
+    "subjects": "Family;Fiction",
+    "title": "Middlesex",
+    "work_id": "OL9000086W"
+  },
+  {
+    "author_id": "OL1000049A",
+    "description": "The Corrections - added to Michelle's reading list.",
+    "edition_count": "4",
+    "first_publish_year": "2012",
+    "subjects": "Mystery;Detective",
+    "title": "The Corrections",
+    "work_id": "OL9000087W"
+  },
+  {
+    "author_id": "OL1000056A",
+    "description": "Freedom - added to Michelle's reading list.",
+    "edition_count": "1",
+    "first_publish_year": "2013",
+    "subjects": "Literary fiction",
+    "title": "Freedom",
+    "work_id": "OL9000088W"
+  },
+  {
+    "author_id": "OL1000063A",
+    "description": "The Marriage Plot - added to Michelle's reading list.",
+    "edition_count": "2",
+    "first_publish_year": "2014",
+    "subjects": "Contemporary",
+    "title": "The Marriage Plot",
+    "work_id": "OL9000089W"
+  }
+]

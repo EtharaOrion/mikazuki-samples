@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ITEM_CD",
+    "type": "ITEM",
+    "name": "\"Two Roads\" CD",
+    "description": "The Jessica Webb Quartet debut album on CD (2023)",
+    "category": "Music",
+    "variation_id": "VAR_CD",
+    "variation_name": "Standard",
+    "price_amount": "1500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_VINYL",
+    "type": "ITEM",
+    "name": "\"Two Roads\" Vinyl LP",
+    "description": "Limited 180g black vinyl pressing of the debut album",
+    "category": "Music",
+    "variation_id": "VAR_VINYL",
+    "variation_name": "180g Black",
+    "price_amount": "3000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_TSHIRT",
+    "type": "ITEM",
+    "name": "Quartet T-Shirt",
+    "description": "Soft cotton tee with The Jessica Webb Quartet logo",
+    "category": "Apparel",
+    "variation_id": "VAR_TSHIRT_M",
+    "variation_name": "Medium",
+    "price_amount": "2500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_TOTE",
+    "type": "ITEM",
+    "name": "Quartet Tote Bag",
+    "description": "Natural canvas tote with quartet logo \u2014 holds a few LPs",
+    "category": "Merchandise",
+    "variation_id": "VAR_TOTE",
+    "variation_name": "Natural Canvas",
+    "price_amount": "1800",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_STICKER",
+    "type": "ITEM",
+    "name": "Quartet Logo Sticker",
+    "description": "Durable vinyl sticker \u2014 perfect for cases and laptops",
+    "category": "Merchandise",
+    "variation_id": "VAR_STICKER",
+    "variation_name": "Vinyl",
+    "price_amount": "500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_TICKET",
+    "type": "ITEM",
+    "name": "Showcase Ticket (At Door)",
+    "description": "General admission ticket sold at the door for quartet showcases",
+    "category": "Tickets",
+    "variation_id": "VAR_TICKET_GA",
+    "variation_name": "General Admission",
+    "price_amount": "2000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_POSTER",
+    "type": "ITEM",
+    "name": "Signed Tour Poster",
+    "description": "18x24 poster signed by the quartet",
+    "category": "Merchandise",
+    "variation_id": "VAR_POSTER",
+    "variation_name": "18x24",
+    "price_amount": "1000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_CD_p001",
+    "type": "ITEM",
+    "name": "Enrollment inquiry follow-up",
+    "description": "The Jessica Webb Quartet debut album on CD (2023)",
+    "category": "Music",
+    "variation_id": "VAR_CD",
+    "variation_name": "Standard",
+    "price_amount": "1500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_VINYL_p002",
+    "type": "ITEM",
+    "name": "Monthly payroll processing",
+    "description": "Limited 180g black vinyl pressing of the debut album",
+    "category": "Music",
+    "variation_id": "VAR_VINYL",
+    "variation_name": "180g Black",
+    "price_amount": "3000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_TSHIRT_p003",
+    "type": "ITEM",
+    "name": "5th Anniversary Showcase planning",
+    "description": "Soft cotton tee with The Jessica Webb Quartet logo",
+    "category": "Apparel",
+    "variation_id": "VAR_TSHIRT_M",
+    "variation_name": "Medium",
+    "price_amount": "2500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_TOTE_p004",
+    "type": "ITEM",
+    "name": "Summer camp registration",
+    "description": "Natural canvas tote with quartet logo \u2014 holds a few LPs",
+    "category": "Merchandise",
+    "variation_id": "VAR_TOTE",
+    "variation_name": "Natural Canvas",
+    "price_amount": "1800",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_STICKER_p005",
+    "type": "ITEM",
+    "name": "Substitute coverage",
+    "description": "Durable vinyl sticker \u2014 perfect for cases and laptops",
+    "category": "Merchandise",
+    "variation_id": "VAR_STICKER",
+    "variation_name": "Vinyl",
+    "price_amount": "500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_TICKET_p006",
+    "type": "ITEM",
+    "name": "Sheet music library update",
+    "description": "General admission ticket sold at the door for quartet showcases",
+    "category": "Tickets",
+    "variation_id": "VAR_TICKET_GA",
+    "variation_name": "General Admission",
+    "price_amount": "2000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_POSTER_p007",
+    "type": "ITEM",
+    "name": "Parent meeting slot",
+    "description": "18x24 poster signed by the quartet",
+    "category": "Merchandise",
+    "variation_id": "VAR_POSTER",
+    "variation_name": "18x24",
+    "price_amount": "1000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_CD_p008",
+    "type": "ITEM",
+    "name": "Ensemble arrangement rewrite",
+    "description": "The Jessica Webb Quartet debut album on CD (2023)",
+    "category": "Music",
+    "variation_id": "VAR_CD",
+    "variation_name": "Standard",
+    "price_amount": "1500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_VINYL_p009",
+    "type": "ITEM",
+    "name": "Recital program layout",
+    "description": "Limited 180g black vinyl pressing of the debut album",
+    "category": "Music",
+    "variation_id": "VAR_VINYL",
+    "variation_name": "180g Black",
+    "price_amount": "3000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_TSHIRT_p010",
+    "type": "ITEM",
+    "name": "Quartet setlist review",
+    "description": "Soft cotton tee with The Jessica Webb Quartet logo",
+    "category": "Apparel",
+    "variation_id": "VAR_TSHIRT_M",
+    "variation_name": "Medium",
+    "price_amount": "2500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_TOTE_p011",
+    "type": "ITEM",
+    "name": "Rehearsal recording listen-back",
+    "description": "Natural canvas tote with quartet logo \u2014 holds a few LPs",
+    "category": "Merchandise",
+    "variation_id": "VAR_TOTE",
+    "variation_name": "Natural Canvas",
+    "price_amount": "1800",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_STICKER_p012",
+    "type": "ITEM",
+    "name": "Second album pre-production notes",
+    "description": "Durable vinyl sticker \u2014 perfect for cases and laptops",
+    "category": "Merchandise",
+    "variation_id": "VAR_STICKER",
+    "variation_name": "Vinyl",
+    "price_amount": "500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_TICKET_p013",
+    "type": "ITEM",
+    "name": "Venue confirmation thread",
+    "description": "General admission ticket sold at the door for quartet showcases",
+    "category": "Tickets",
+    "variation_id": "VAR_TICKET_GA",
+    "variation_name": "General Admission",
+    "price_amount": "2000",
+    "currency": "USD"
+  }
+]

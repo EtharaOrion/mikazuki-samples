@@ -1,0 +1,186 @@
+[
+  {
+    "author_id": "3000",
+    "body": "Hello,\n\nI tried to buy two adult tickets for the Vienna Modern exhibition through the online shop. At the payment step the page returned an error and the card was not charged. Could you confirm nothing went through and tell me how to complete the booking?\n\nThank you.",
+    "created_at": "2026-11-20T14:52:27+00:00",
+    "id": "5000",
+    "public": "true",
+    "ticket_id": "4000"
+  },
+  {
+    "author_id": "3002",
+    "body": "Dear visitor,\n\nThank you for the report. I can confirm no charge was placed and no tickets were issued — the failure was a timeout in our payment gateway that affected checkout briefly this morning. It is now resolved. If you retry the booking the confirmation email should arrive within a few minutes. Please let us know if it happens again and we will hold the tickets for you manually.\n\nBest regards,\nVisitor Services",
+    "created_at": "2026-12-01T12:08:02+00:00",
+    "id": "5001",
+    "public": "false",
+    "ticket_id": "4000"
+  },
+  {
+    "author_id": "3001",
+    "body": "Hello,\n\nI renewed my annual membership last week, but the members' portal still shows my card as expired and will not let me book the members' preview. Could you check my account and reactivate the benefits?\n\nThank you.",
+    "created_at": "2026-12-12T15:53:17+00:00",
+    "id": "5002",
+    "public": "true",
+    "ticket_id": "4001"
+  },
+  {
+    "author_id": "3002",
+    "body": "Dear member,\n\nApologies for the inconvenience. Your renewal payment did reach us, but the membership record had not synced to the portal overnight. I have refreshed it manually — your card now shows as active through next year and preview booking is open to you. Please clear your browser cache if it still displays the old status.\n\nKind regards,\nMembership Office",
+    "created_at": "2026-12-23T02:25:35+00:00",
+    "id": "5003",
+    "public": "true",
+    "ticket_id": "4001"
+  },
+  {
+    "author_id": "3001",
+    "body": "Thank you — the portal now shows the renewal correctly and I have booked the preview. Much appreciated.",
+    "created_at": "2024-01-03T03:17:38+00:00",
+    "id": "5004",
+    "public": "false",
+    "ticket_id": "4001"
+  },
+  {
+    "author_id": "3002",
+    "body": "Hello,\n\nI teach at a Vienna gymnasium and would like to arrange a guided group visit for 25 students to the Vienna Modern exhibition. Could you send availability, group rates and the accessibility details for the education studio?\n\nThank you.",
+    "created_at": "2024-01-14T08:39:46+00:00",
+    "id": "5005",
+    "public": "true",
+    "ticket_id": "4002"
+  },
+  {
+    "author_id": "3002",
+    "body": "Dear teacher,\n\nWe would be glad to host your group. Guided school visits run Tuesday to Friday at 10:00 and 11:30, with a 60-minute tour plus optional 45 minutes in the education studio. The school group rate is reduced per student and accompanying teachers are free. The studio is step-free and equipped for up to 30. I have attached the booking form and the pre-visit worksheets.",
+    "created_at": "2024-01-25T23:30:16+00:00",
+    "id": "5006",
+    "public": "true",
+    "ticket_id": "4002"
+  },
+  {
+    "author_id": "3002",
+    "body": "This is very helpful. Friday 21st at 10:00 works for us — I have completed the form and returned it. We will take the studio session as well.",
+    "created_at": "2024-02-05T07:50:45+00:00",
+    "id": "5007",
+    "public": "true",
+    "ticket_id": "4002"
+  },
+  {
+    "author_id": "3002",
+    "body": "Booking confirmed for Friday the 21st at 10:00, studio session included. You will receive the arrival instructions a week before. We look forward to welcoming the class.",
+    "created_at": "2024-02-16T18:38:24+00:00",
+    "id": "5008",
+    "public": "false",
+    "ticket_id": "4002"
+  },
+  {
+    "author_id": "3003",
+    "body": "Hello,\n\nMy mother uses a wheelchair and we are planning a visit next month. Could you confirm step-free access to the upper galleries, and whether a companion ticket is free of charge?\n\nThank you.",
+    "created_at": "2024-02-27T20:40:00+00:00",
+    "id": "5009",
+    "public": "true",
+    "ticket_id": "4003"
+  },
+  {
+    "author_id": "3002",
+    "body": "Dear visitor,\n\nAll exhibition floors, including the upper galleries, are reachable step-free by lift, and wheelchairs are available to borrow free of charge at the cloakroom. A companion accompanying a visitor with a disability is admitted free. If you let us know your date we can have a member of staff meet you at the accessible entrance on Burgring.",
+    "created_at": "2024-03-09T04:39:18+00:00",
+    "id": "5010",
+    "public": "false",
+    "ticket_id": "4003"
+  },
+  {
+    "author_id": "3004",
+    "body": "Hello,\n\nThe Vienna Modern exhibition page on kunstmuseum.at shows a blank panel where the opening times should be, on both desktop and mobile. The rest of the site works. Flagging in case it is a display bug.",
+    "created_at": "2024-03-20T23:09:57+00:00",
+    "id": "5011",
+    "public": "true",
+    "ticket_id": "4004"
+  },
+  {
+    "author_id": "3002",
+    "body": "Thank you for flagging this. You are right — the opening-hours module was failing to load from our content system after a caching change. Our web team has pushed a fix and the panel now displays correctly. Please refresh the page; if the times still appear blank, a screenshot of your browser would help us confirm.",
+    "created_at": "2024-03-31T08:20:11+00:00",
+    "id": "5012",
+    "public": "true",
+    "ticket_id": "4004"
+  },
+  {
+    "author_id": "3004",
+    "body": "Confirmed fixed on my end — the opening times are showing again. Thank you for the quick turnaround.",
+    "created_at": "2024-04-11T21:58:54+00:00",
+    "id": "5013",
+    "public": "false",
+    "ticket_id": "4004"
+  },
+  {
+    "author_id": "3005",
+    "body": "Hello,\n\nWe would like to enquire about hiring the museum's Palais events hall for a private evening reception in the autumn. Could you provide the hire pack, capacity and catering arrangements?\n\nThank you.",
+    "created_at": "2024-04-22T07:59:33+00:00",
+    "id": "5014",
+    "public": "true",
+    "ticket_id": "4005"
+  },
+  {
+    "author_id": "3002",
+    "body": "Dear enquirer,\n\nThank you for your interest. The Palais events hall seats 120 for a dinner or holds up to 200 for a standing reception, available evenings after 18:00 once the galleries close. Catering is through our approved partners, and a curator-led viewing of the current exhibition can be added. I have attached the hire pack with rates and available dates.",
+    "created_at": "2024-05-03T15:28:21+00:00",
+    "id": "5015",
+    "public": "true",
+    "ticket_id": "4005"
+  },
+  {
+    "author_id": "3005",
+    "body": "The hire pack is clear. We are looking at a Thursday in October for around 90 guests, standing, with the exhibition viewing. Could you hold a provisional date while we confirm internally?",
+    "created_at": "2024-05-14T11:25:54+00:00",
+    "id": "5016",
+    "public": "true",
+    "ticket_id": "4005"
+  },
+  {
+    "author_id": "3002",
+    "body": "I have placed a provisional hold on Thursday 15 October for a standing reception of 90 with a curator viewing. The hold lasts two weeks; let me know when you would like to confirm and I will issue the contract.",
+    "created_at": "2024-05-25T05:57:22+00:00",
+    "id": "5017",
+    "public": "false",
+    "ticket_id": "4005"
+  },
+  {
+    "author_id": "3006",
+    "body": "Hello,\n\nI believe I left a grey scarf in the cloakroom during my visit on Saturday afternoon. Could you check whether it has been handed in and tell me how to collect it?\n\nThank you.",
+    "created_at": "2024-06-05T07:06:21+00:00",
+    "id": "5018",
+    "public": "true",
+    "ticket_id": "4006"
+  },
+  {
+    "author_id": "3002",
+    "body": "Dear visitor,\n\nGood news — a grey wool scarf was handed in to the cloakroom on Saturday and is being held in lost property under your description. You can collect it from the information desk any day between 10:00 and 18:00; please bring some identification. We will hold it for four weeks.",
+    "created_at": "2024-06-16T07:12:09+00:00",
+    "id": "5019",
+    "public": "false",
+    "ticket_id": "4006"
+  },
+  {
+    "author_id": "3007",
+    "body": "Hello,\n\nDoes the Vienna Modern audio guide include a Spanish-language track? The website lists German, English and French only. I am asking before I book for visiting family.",
+    "created_at": "2024-06-27T07:25:53+00:00",
+    "id": "5020",
+    "public": "true",
+    "ticket_id": "4007"
+  },
+  {
+    "author_id": "3002",
+    "body": "Dear visitor,\n\nAt present the Vienna Modern audio guide is available in German, English and French. A Spanish track is on our list for the next exhibition but is not ready for this one. In the meantime the printed gallery guide is available in Spanish free at the entrance, and our app offers Spanish captions for the main works.",
+    "created_at": "2024-07-08T00:44:26+00:00",
+    "id": "5021",
+    "public": "true",
+    "ticket_id": "4007"
+  },
+  {
+    "author_id": "3007",
+    "body": "That is helpful — the printed Spanish guide and app captions will do nicely. Thank you for the clear answer.",
+    "created_at": "2024-07-19T17:47:57+00:00",
+    "id": "5022",
+    "public": "false",
+    "ticket_id": "4007"
+  }
+]

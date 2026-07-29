@@ -1,0 +1,496 @@
+[
+  {
+    "Id": "4001",
+    "DocNumber": "INV-BALLET-2026-08",
+    "TxnDate": "2026-02-01",
+    "DueDate": "2026-02-11",
+    "CustomerRef": {
+      "value": "100",
+      "name": "Thornfield Ballet Academy"
+    },
+    "Line": [
+      {
+        "Amount": 500.0,
+        "Description": "Advanced class instructor stipend - August 2026. Saturday 10 AM-12 PM.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Ballet Teaching Stipend Income",
+            "value": "3"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Recurring monthly stipend invoice. Auto-generated on the 1st of each month."
+  },
+  {
+    "Id": "4002",
+    "DocNumber": "INV-BALLET-2026-09",
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-11",
+    "CustomerRef": {
+      "value": "100",
+      "name": "Thornfield Ballet Academy"
+    },
+    "Line": [
+      {
+        "Amount": 500.0,
+        "Description": "Advanced class instructor stipend - September 2026. Saturday 10 AM-12 PM.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Ballet Teaching Stipend Income",
+            "value": "3"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Recurring monthly stipend invoice. Auto-generated on the 1st of each month."
+  },
+  {
+    "Id": "4003",
+    "DocNumber": "INV-BALLET-2026-10",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-11",
+    "CustomerRef": {
+      "value": "100",
+      "name": "Thornfield Ballet Academy"
+    },
+    "Line": [
+      {
+        "Amount": 500.0,
+        "Description": "Advanced class instructor stipend - October 2026. Saturday 10 AM-12 PM.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Ballet Teaching Stipend Income",
+            "value": "3"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Recurring monthly stipend invoice. Auto-generated on the 1st of each month."
+  },
+  {
+    "Id": "4004",
+    "DocNumber": "INV-BALLET-2026-11",
+    "TxnDate": "2026-11-01",
+    "DueDate": "2026-11-11",
+    "CustomerRef": {
+      "value": "100",
+      "name": "Thornfield Ballet Academy"
+    },
+    "Line": [
+      {
+        "Amount": 500.0,
+        "Description": "Advanced class instructor stipend - November 2026. Saturday 10 AM-12 PM.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Ballet Teaching Stipend Income",
+            "value": "3"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Recurring monthly stipend invoice. Auto-generated on the 1st of each month."
+  },
+  {
+    "Id": "4005",
+    "DocNumber": "INV-BALLET-2026-12",
+    "TxnDate": "2026-12-01",
+    "DueDate": "2026-12-11",
+    "CustomerRef": {
+      "value": "100",
+      "name": "Thornfield Ballet Academy"
+    },
+    "Line": [
+      {
+        "Amount": 500.0,
+        "Description": "Advanced class instructor stipend - December 2026. Saturday 10 AM-12 PM.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Ballet Teaching Stipend Income",
+            "value": "3"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Recurring monthly stipend invoice. Auto-generated on the 1st of each month."
+  },
+  {
+    "Id": "4006",
+    "DocNumber": "INV-BALLET-2027-01",
+    "TxnDate": "2027-01-01",
+    "DueDate": "2027-01-11",
+    "CustomerRef": {
+      "value": "100",
+      "name": "Thornfield Ballet Academy"
+    },
+    "Line": [
+      {
+        "Amount": 500.0,
+        "Description": "Advanced class instructor stipend - January 2027. Saturday 10 AM-12 PM.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Ballet Teaching Stipend Income",
+            "value": "3"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Recurring monthly stipend invoice. Auto-generated on the 1st of each month."
+  },
+  {
+    "Id": "4007",
+    "DocNumber": "INV-BALLET-2027-02",
+    "TxnDate": "2027-02-01",
+    "DueDate": "2027-02-11",
+    "CustomerRef": {
+      "value": "100",
+      "name": "Thornfield Ballet Academy"
+    },
+    "Line": [
+      {
+        "Amount": 500.0,
+        "Description": "Advanced class instructor stipend - February 2027. Saturday 10 AM-12 PM.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Ballet Teaching Stipend Income",
+            "value": "3"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Recurring monthly stipend invoice. Auto-generated on the 1st of each month."
+  },
+  {
+    "Id": "4008",
+    "DocNumber": "INV-BALLET-2027-03",
+    "TxnDate": "2027-03-01",
+    "DueDate": "2027-03-11",
+    "CustomerRef": {
+      "value": "100",
+      "name": "Thornfield Ballet Academy"
+    },
+    "Line": [
+      {
+        "Amount": 500.0,
+        "Description": "Advanced class instructor stipend - March 2027. Saturday 10 AM-12 PM.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Ballet Teaching Stipend Income",
+            "value": "3"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Recurring monthly stipend invoice. Auto-generated on the 1st of each month."
+  },
+  {
+    "Id": "4009",
+    "DocNumber": "INV-BALLET-2027-04",
+    "TxnDate": "2027-04-01",
+    "DueDate": "2027-04-11",
+    "CustomerRef": {
+      "value": "100",
+      "name": "Thornfield Ballet Academy"
+    },
+    "Line": [
+      {
+        "Amount": 500.0,
+        "Description": "Advanced class instructor stipend - April 2027. Saturday 10 AM-12 PM.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Ballet Teaching Stipend Income",
+            "value": "3"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Recurring monthly stipend invoice. Auto-generated on the 1st of each month."
+  },
+  {
+    "Id": "4010",
+    "DocNumber": "INV-BALLET-2027-05",
+    "TxnDate": "2027-05-01",
+    "DueDate": "2027-05-11",
+    "CustomerRef": {
+      "value": "100",
+      "name": "Thornfield Ballet Academy"
+    },
+    "Line": [
+      {
+        "Amount": 500.0,
+        "Description": "Advanced class instructor stipend - May 2027. Saturday 10 AM-12 PM.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Ballet Teaching Stipend Income",
+            "value": "3"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Recurring monthly stipend invoice. Auto-generated on the 1st of each month."
+  },
+  {
+    "Id": "4011",
+    "DocNumber": "INV-BALLET-2027-06",
+    "TxnDate": "2027-06-01",
+    "DueDate": "2027-06-11",
+    "CustomerRef": {
+      "value": "100",
+      "name": "Thornfield Ballet Academy"
+    },
+    "Line": [
+      {
+        "Amount": 500.0,
+        "Description": "Advanced class instructor stipend - June 2027. Saturday 10 AM-12 PM.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Ballet Teaching Stipend Income",
+            "value": "3"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Recurring monthly stipend invoice. Auto-generated on the 1st of each month."
+  },
+  {
+    "Id": "4012",
+    "DocNumber": "INV-BALLET-2027-07",
+    "TxnDate": "2027-07-01",
+    "DueDate": "2027-07-11",
+    "CustomerRef": {
+      "value": "100",
+      "name": "Thornfield Ballet Academy"
+    },
+    "Line": [
+      {
+        "Amount": 500.0,
+        "Description": "Advanced class instructor stipend - July 2027. Saturday 10 AM-12 PM.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Ballet Teaching Stipend Income",
+            "value": "3"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Recurring monthly stipend invoice. Auto-generated on the 1st of each month."
+  },
+  {
+    "Id": "4013",
+    "DocNumber": "INV-REIM-2026-10-15",
+    "TxnDate": "2026-10-15",
+    "DueDate": "2026-11-14",
+    "CustomerRef": {
+      "value": "101",
+      "name": "Haverstone University - Finance"
+    },
+    "Line": [
+      {
+        "Amount": 380.0,
+        "Description": "Conference travel reimbursement - Ridgemont Structural Bio Colloquium (Nov 12). Amtrak + Uber.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Conference Reimbursements Received",
+            "value": "6"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 380.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Reimbursement / honorarium invoice."
+  },
+  {
+    "Id": "4014",
+    "DocNumber": "INV-REIM-2027-01-20",
+    "TxnDate": "2027-01-20",
+    "DueDate": "2027-02-19",
+    "CustomerRef": {
+      "value": "106",
+      "name": "MIT Computational Biology Symposium"
+    },
+    "Line": [
+      {
+        "Amount": 1250.0,
+        "Description": "Winter Symposium 2027 - speaker honorarium + travel (Cambridge, 15-17 Jan).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Conference Reimbursements Received",
+            "value": "6"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1250.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Reimbursement / honorarium invoice."
+  },
+  {
+    "Id": "4015",
+    "DocNumber": "INV-REIM-2026-11-15",
+    "TxnDate": "2026-11-15",
+    "DueDate": "2026-12-15",
+    "CustomerRef": {
+      "value": "104",
+      "name": "Ashvale Technology Institute - Reunion Fund"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Ashvale Alumni Reunion 2026 - panel honorarium (14 Nov).",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Conference Reimbursements Received",
+            "value": "6"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Reimbursement / honorarium invoice."
+  },
+  {
+    "Id": "4016",
+    "DocNumber": "INV-REIM-2027-02-05",
+    "TxnDate": "2027-02-05",
+    "DueDate": "2027-03-07",
+    "CustomerRef": {
+      "value": "108",
+      "name": "Northeast Structural Biology Consortium"
+    },
+    "Line": [
+      {
+        "Amount": 500.0,
+        "Description": "NESBC 2027 speaker honorarium and reimbursed travel.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Conference Reimbursements Received",
+            "value": "6"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Reimbursement / honorarium invoice."
+  },
+  {
+    "Id": "4017",
+    "DocNumber": "INV-REIM-2026-12-05",
+    "TxnDate": "2026-12-05",
+    "DueDate": "2027-01-04",
+    "CustomerRef": {
+      "value": "105",
+      "name": "Ridgemont Institute - Speaker Series"
+    },
+    "Line": [
+      {
+        "Amount": 750.0,
+        "Description": "Ridgemont Speaker Series honorarium - Nov 12 talk.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Conference Reimbursements Received",
+            "value": "6"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 750.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Reimbursement / honorarium invoice."
+  },
+  {
+    "Id": "4018",
+    "DocNumber": "INV-REIM-2026-12-20",
+    "TxnDate": "2026-12-20",
+    "DueDate": "2027-01-19",
+    "CustomerRef": {
+      "value": "109",
+      "name": "Undergraduate Textbook Publisher - Ashford Academic Press"
+    },
+    "Line": [
+      {
+        "Amount": 1420.0,
+        "Description": "Textbook royalty statement - Q4 2026.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Conference Reimbursements Received",
+            "value": "6"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1420.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Reimbursement / honorarium invoice."
+  },
+  {
+    "Id": "4019",
+    "DocNumber": "INV-REIM-2027-03-25",
+    "TxnDate": "2027-03-25",
+    "DueDate": "2027-04-24",
+    "CustomerRef": {
+      "value": "109",
+      "name": "Undergraduate Textbook Publisher - Ashford Academic Press"
+    },
+    "Line": [
+      {
+        "Amount": 1580.0,
+        "Description": "Textbook royalty statement - Q1 2027.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Conference Reimbursements Received",
+            "value": "6"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1580.0,
+    "Balance": 0,
+    "Status": "Paid",
+    "PrivateNote": "Reimbursement / honorarium invoice."
+  }
+]

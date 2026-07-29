@@ -1,0 +1,222 @@
+[
+  {
+    "date_created": "2026-02-22T14:10:00Z",
+    "environment": "production",
+    "event_id": "a1b2c3d4e5f60718293a4b5c6d7e8f90",
+    "id": "1000000",
+    "issue_id": "900000",
+    "message": "Contact form submission timeout when uploading attachments",
+    "platform": "php",
+    "release": "wp-core-6.5.2",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-03-14T09:22:00Z",
+    "environment": "production",
+    "event_id": "b2c3d4e5f60718293a4b5c6d7e8f9011",
+    "id": "1000001",
+    "issue_id": "900000",
+    "message": "Contact form submission timeout when uploading attachments",
+    "platform": "php",
+    "release": "wp-core-6.5.3",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-03-01T11:05:00Z",
+    "environment": "production",
+    "event_id": "c3d4e5f60718293a4b5c6d7e8f901122",
+    "id": "1000002",
+    "issue_id": "900001",
+    "message": "Undefined index: cached_practice_areas in theme functions",
+    "platform": "php",
+    "release": "wp-core-6.5.2",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-03-10T08:40:00Z",
+    "environment": "production",
+    "event_id": "d4e5f60718293a4b5c6d7e8f90112233",
+    "id": "1000003",
+    "issue_id": "900001",
+    "message": "Undefined index: cached_practice_areas in theme functions",
+    "platform": "php",
+    "release": "wp-core-6.5.3",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-03-09T17:50:00Z",
+    "environment": "production",
+    "event_id": "e5f60718293a4b5c6d7e8f9011223344",
+    "id": "1000004",
+    "issue_id": "900002",
+    "message": "TypeError: Cannot read properties of null (reading 'value') in intake widget",
+    "platform": "javascript",
+    "release": "site-theme-2026.05",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-03-15T13:30:00Z",
+    "environment": "production",
+    "event_id": "f60718293a4b5c6d7e8f901122334455",
+    "id": "1000005",
+    "issue_id": "900002",
+    "message": "TypeError: Cannot read properties of null (reading 'value') in intake widget",
+    "platform": "javascript",
+    "release": "site-theme-2026.05",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-03-11T19:02:00Z",
+    "environment": "production",
+    "event_id": "0718293a4b5c6d7e8f90112233445566",
+    "id": "1000006",
+    "issue_id": "900003",
+    "message": "Slow click handler attached to mobile menu toggle",
+    "platform": "javascript",
+    "release": "site-theme-2026.05",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-02-01T06:30:00Z",
+    "environment": "production",
+    "event_id": "a1b2c3d4e5f60718293a4b5c6d7e8f197",
+    "id": "1000107",
+    "issue_id": "900107",
+    "message": "Contact form submission timeout when uploading attachments",
+    "platform": "php",
+    "release": "wp-core-6.5.2",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-02-21T06:30:00Z",
+    "environment": "production",
+    "event_id": "b2c3d4e5f60718293a4b5c6d7e8f9119",
+    "id": "1000109",
+    "issue_id": "900108",
+    "message": "Contact form submission timeout when uploading attachments",
+    "platform": "php",
+    "release": "wp-core-6.5.3",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-02-08T06:30:00Z",
+    "environment": "production",
+    "event_id": "c3d4e5f60718293a4b5c6d7e8f901231",
+    "id": "1000111",
+    "issue_id": "900110",
+    "message": "Undefined index: cached_practice_areas in theme functions",
+    "platform": "php",
+    "release": "wp-core-6.5.2",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-02-20T06:30:00Z",
+    "environment": "production",
+    "event_id": "d4e5f60718293a4b5c6d7e8f90112343",
+    "id": "1000113",
+    "issue_id": "900111",
+    "message": "Undefined index: cached_practice_areas in theme functions",
+    "platform": "php",
+    "release": "wp-core-6.5.3",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-02-17T06:30:00Z",
+    "environment": "production",
+    "event_id": "e5f60718293a4b5c6d7e8f9011223455",
+    "id": "1000115",
+    "issue_id": "900113",
+    "message": "TypeError: Cannot read properties of null (reading 'value') in intake widget",
+    "platform": "javascript",
+    "release": "site-theme-2026.05",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-02-04T06:30:00Z",
+    "environment": "production",
+    "event_id": "f60718293a4b5c6d7e8f901122334567",
+    "id": "1000117",
+    "issue_id": "900114",
+    "message": "TypeError: Cannot read properties of null (reading 'value') in intake widget",
+    "platform": "javascript",
+    "release": "site-theme-2026.05",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-01-30T06:30:00Z",
+    "environment": "production",
+    "event_id": "0718293a4b5c6d7e8f90112233445679",
+    "id": "1000119",
+    "issue_id": "900116",
+    "message": "Slow click handler attached to mobile menu toggle",
+    "platform": "javascript",
+    "release": "site-theme-2026.05",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-02-17T06:30:00Z",
+    "environment": "production",
+    "event_id": "a1b2c3d4e5f60718293a4b5c6d7e8f204",
+    "id": "1000114",
+    "issue_id": "900114",
+    "message": "Contact form submission timeout when uploading attachments",
+    "platform": "php",
+    "release": "wp-core-6.5.2",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-02-13T06:30:00Z",
+    "environment": "production",
+    "event_id": "b2c3d4e5f60718293a4b5c6d7e8f9126",
+    "id": "1000116",
+    "issue_id": "900115",
+    "message": "Contact form submission timeout when uploading attachments",
+    "platform": "php",
+    "release": "wp-core-6.5.3",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-02-21T06:30:00Z",
+    "environment": "production",
+    "event_id": "c3d4e5f60718293a4b5c6d7e8f901238",
+    "id": "1000118",
+    "issue_id": "900117",
+    "message": "Undefined index: cached_practice_areas in theme functions",
+    "platform": "php",
+    "release": "wp-core-6.5.2",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-02-06T06:30:00Z",
+    "environment": "production",
+    "event_id": "d4e5f60718293a4b5c6d7e8f90112350",
+    "id": "1000120",
+    "issue_id": "900118",
+    "message": "Undefined index: cached_practice_areas in theme functions",
+    "platform": "php",
+    "release": "wp-core-6.5.3",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-02-17T06:30:00Z",
+    "environment": "production",
+    "event_id": "e5f60718293a4b5c6d7e8f9011223462",
+    "id": "1000122",
+    "issue_id": "900120",
+    "message": "TypeError: Cannot read properties of null (reading 'value') in intake widget",
+    "platform": "javascript",
+    "release": "site-theme-2026.05",
+    "user_email": "anonymous"
+  },
+  {
+    "date_created": "2026-02-16T06:30:00Z",
+    "environment": "production",
+    "event_id": "f60718293a4b5c6d7e8f901122334574",
+    "id": "1000124",
+    "issue_id": "900121",
+    "message": "TypeError: Cannot read properties of null (reading 'value') in intake widget",
+    "platform": "javascript",
+    "release": "site-theme-2026.05",
+    "user_email": "anonymous"
+  }
+]

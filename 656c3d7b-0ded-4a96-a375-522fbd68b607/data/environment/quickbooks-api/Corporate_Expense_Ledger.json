@@ -1,0 +1,90 @@
+{
+  "document_name": "Corporate Expense Ledger",
+  "account_id": 1,
+  "entries": [
+    {
+      "date": "2026-03-15",
+      "merchant": "Uber",
+      "employee": "Dorothy Langston",
+      "amount": 180.0
+    },
+    {
+      "date": "2026-10-15",
+      "merchant": "Amtrak",
+      "employee": "Dorothy Langston",
+      "amount": 158.0
+    },
+    {
+      "date": "2026-10-30",
+      "merchant": "Prospect Bistro (Boston)",
+      "employee": "Dorothy Langston",
+      "amount": 42.5
+    },
+    {
+      "date": "2026-11-05",
+      "merchant": "Etsy",
+      "employee": "Dorothy Langston",
+      "amount": 24.0
+    },
+    {
+      "date": "2026-11-12",
+      "merchant": "Uber",
+      "employee": "Dorothy Langston",
+      "amount": 32.0
+    },
+    {
+      "date": "2026-11-14",
+      "merchant": "Cambridge Table",
+      "employee": "Dorothy Langston",
+      "amount": 68.0
+    },
+    {
+      "date": "2026-11-20",
+      "merchant": "Legal Sea Foods (Boston)",
+      "employee": "Dorothy Langston",
+      "amount": 88.0
+    },
+    {
+      "date": "2026-12-03",
+      "merchant": "Panera Catering (Haverstone)",
+      "employee": "Dorothy Langston",
+      "amount": 55.0
+    },
+    {
+      "date": "2026-12-15",
+      "merchant": "Amazon",
+      "employee": "Dorothy Langston",
+      "amount": 240.0
+    },
+    {
+      "date": "2027-01-15",
+      "merchant": "Airbnb",
+      "employee": "Dorothy Langston",
+      "amount": 620.0
+    },
+    {
+      "date": "2027-01-16",
+      "merchant": "Flour Bakery + Cafe (Cambridge)",
+      "employee": "Dorothy Langston",
+      "amount": 45.0
+    },
+    {
+      "date": "2027-02-08",
+      "merchant": "Uber",
+      "employee": "Dorothy Langston",
+      "amount": 118.0
+    },
+    {
+      "date": "2027-02-15",
+      "merchant": "Etsy",
+      "employee": "Dorothy Langston",
+      "amount": 92.0
+    },
+    {
+      "date": "2027-03-21",
+      "merchant": "Whole Foods Catering",
+      "employee": "Dorothy Langston",
+      "amount": 145.0
+    }
+  ]
+}

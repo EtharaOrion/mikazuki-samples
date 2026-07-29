@@ -1,0 +1,162 @@
+[
+  {
+    "device_id": 987001,
+    "zone_id": "zone_001",
+    "zone_name": "Front Porch Steps",
+    "sensitivity": 7,
+    "enabled": "true",
+    "coordinates": "0.1,0.3,0.9,0.9"
+  },
+  {
+    "device_id": 987001,
+    "zone_id": "zone_002",
+    "zone_name": "Pennsylvania Ave Sidewalk",
+    "sensitivity": 4,
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.3"
+  },
+  {
+    "device_id": 987003,
+    "zone_id": "zone_003",
+    "zone_name": "Driveway Entry",
+    "sensitivity": 8,
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.5"
+  },
+  {
+    "device_id": 987003,
+    "zone_id": "zone_004",
+    "zone_name": "Package Drop Zone",
+    "sensitivity": 9,
+    "enabled": "true",
+    "coordinates": "0.2,0.5,0.8,0.9"
+  },
+  {
+    "device_id": 987001,
+    "zone_id": "zone_001",
+    "zone_name": "Instructor coordination meeting",
+    "sensitivity": 7,
+    "enabled": "true",
+    "coordinates": "0.1,0.3,0.9,0.9"
+  },
+  {
+    "device_id": 987001,
+    "zone_id": "zone_002",
+    "zone_name": "Winter recital rehearsal",
+    "sensitivity": 4,
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.3"
+  },
+  {
+    "device_id": 987003,
+    "zone_id": "zone_003",
+    "zone_name": "Student progress review",
+    "sensitivity": 8,
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.5"
+  },
+  {
+    "device_id": 987003,
+    "zone_id": "zone_004",
+    "zone_name": "Enrollment inquiry follow-up",
+    "sensitivity": 9,
+    "enabled": "true",
+    "coordinates": "0.2,0.5,0.8,0.9"
+  },
+  {
+    "device_id": 987001,
+    "zone_id": "zone_001",
+    "zone_name": "Monthly payroll processing",
+    "sensitivity": 7,
+    "enabled": "true",
+    "coordinates": "0.1,0.3,0.9,0.9"
+  },
+  {
+    "device_id": 987001,
+    "zone_id": "zone_002",
+    "zone_name": "5th Anniversary Showcase planning",
+    "sensitivity": 4,
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.3"
+  },
+  {
+    "device_id": 987003,
+    "zone_id": "zone_003",
+    "zone_name": "Summer camp registration",
+    "sensitivity": 8,
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.5"
+  },
+  {
+    "device_id": 987003,
+    "zone_id": "zone_004",
+    "zone_name": "Substitute coverage",
+    "sensitivity": 9,
+    "enabled": "true",
+    "coordinates": "0.2,0.5,0.8,0.9"
+  },
+  {
+    "device_id": 987001,
+    "zone_id": "zone_001",
+    "zone_name": "Sheet music library update",
+    "sensitivity": 7,
+    "enabled": "true",
+    "coordinates": "0.1,0.3,0.9,0.9"
+  },
+  {
+    "device_id": 987001,
+    "zone_id": "zone_002",
+    "zone_name": "Parent meeting slot",
+    "sensitivity": 4,
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.3"
+  },
+  {
+    "device_id": 987003,
+    "zone_id": "zone_003",
+    "zone_name": "Ensemble arrangement rewrite",
+    "sensitivity": 8,
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.5"
+  },
+  {
+    "device_id": 987003,
+    "zone_id": "zone_004",
+    "zone_name": "Recital program layout",
+    "sensitivity": 9,
+    "enabled": "true",
+    "coordinates": "0.2,0.5,0.8,0.9"
+  },
+  {
+    "device_id": 987001,
+    "zone_id": "zone_001",
+    "zone_name": "Quartet setlist review",
+    "sensitivity": 7,
+    "enabled": "true",
+    "coordinates": "0.1,0.3,0.9,0.9"
+  },
+  {
+    "device_id": 987001,
+    "zone_id": "zone_002",
+    "zone_name": "Rehearsal recording listen-back",
+    "sensitivity": 4,
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.3"
+  },
+  {
+    "device_id": 987003,
+    "zone_id": "zone_003",
+    "zone_name": "Second album pre-production notes",
+    "sensitivity": 8,
+    "enabled": "true",
+    "coordinates": "0.0,0.0,1.0,0.5"
+  },
+  {
+    "device_id": 987003,
+    "zone_id": "zone_004",
+    "zone_name": "Venue confirmation thread",
+    "sensitivity": 9,
+    "enabled": "true",
+    "coordinates": "0.2,0.5,0.8,0.9"
+  }
+]

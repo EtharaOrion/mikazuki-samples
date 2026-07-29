@@ -1,0 +1,35 @@
+[
+  {
+    "service_code": "03",
+    "service_name": "UPS Ground",
+    "origin_zip": "32256",
+    "dest_zip": "64111",
+    "weight_lb": 3.5,
+    "currency": "USD",
+    "total_charge": 18.4,
+    "transit_days": 4,
+    "delivery_date": "2026-01-10"
+  },
+  {
+    "service_code": "02",
+    "service_name": "UPS 2nd Day Air",
+    "origin_zip": "32256",
+    "dest_zip": "64111",
+    "weight_lb": 3.5,
+    "currency": "USD",
+    "total_charge": 34.6,
+    "transit_days": 2,
+    "delivery_date": "2026-01-08"
+  },
+  {
+    "service_code": "01",
+    "service_name": "UPS Next Day Air",
+    "origin_zip": "32256",
+    "dest_zip": "64111",
+    "weight_lb": 3.5,
+    "currency": "USD",
+    "total_charge": 78.2,
+    "transit_days": 1,
+    "delivery_date": "2026-01-07"
+  }
+]

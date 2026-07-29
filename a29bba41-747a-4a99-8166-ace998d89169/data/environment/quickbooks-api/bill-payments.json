@@ -1,0 +1,549 @@
+{
+  "QueryResponse": {
+    "BillPayment": [
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2000",
+        "Line": [
+          {
+            "Amount": 1100.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3000",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "2025 Tax Engagement - Quarterly Estimate",
+        "TotalAmt": 1100.0,
+        "TxnDate": "2026-10-02",
+        "VendorRef": {
+          "name": "Sterling CPA Group",
+          "value": "54"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2001",
+        "Line": [
+          {
+            "Amount": 850.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3001",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Monthly Reconciliation",
+        "TotalAmt": 850.0,
+        "TxnDate": "2026-01-07",
+        "VendorRef": {
+          "name": "Mendez Bookkeeping",
+          "value": "38"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2002",
+        "Line": [
+          {
+            "Amount": 425.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3002",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Subscription - Monthly",
+        "TotalAmt": 425.0,
+        "TxnDate": "2026-10-09",
+        "VendorRef": {
+          "name": "Westlaw / Thomson Reuters",
+          "value": "12"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2003",
+        "Line": [
+          {
+            "Amount": 189.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3003",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Case Management - Monthly",
+        "TotalAmt": 189.0,
+        "TxnDate": "2026-01-14",
+        "VendorRef": {
+          "name": "MyCase",
+          "value": "14"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2004",
+        "Line": [
+          {
+            "Amount": 215.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3004",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Malpractice Insurance - Monthly",
+        "TotalAmt": 215.0,
+        "TxnDate": "2026-10-16",
+        "VendorRef": {
+          "name": "Hiscox",
+          "value": "21"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2005",
+        "Line": [
+          {
+            "Amount": 1850.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3005",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Office Rent - 3400 Ponce de Leon Blvd, Ste 210",
+        "TotalAmt": 1850.0,
+        "TxnDate": "2026-01-21",
+        "VendorRef": {
+          "name": "Ponce Office Suites",
+          "value": "7"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2006",
+        "Line": [
+          {
+            "Amount": 142.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3006",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Office Electric",
+        "TotalAmt": 142.0,
+        "TxnDate": "2026-10-23",
+        "VendorRef": {
+          "name": "FPL (Florida Power & Light)",
+          "value": "31"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2007",
+        "Line": [
+          {
+            "Amount": 198.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3007",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Office Internet",
+        "TotalAmt": 198.0,
+        "TxnDate": "2026-01-28",
+        "VendorRef": {
+          "name": "Comcast Business",
+          "value": "33"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2008",
+        "Line": [
+          {
+            "Amount": 109.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3008",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Office Phone",
+        "TotalAmt": 109.0,
+        "TxnDate": "2026-10-30",
+        "VendorRef": {
+          "name": "AT&T Business",
+          "value": "34"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2009",
+        "Line": [
+          {
+            "Amount": 250.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3009",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Cleaning Service - Monthly",
+        "TotalAmt": 250.0,
+        "TxnDate": "2026-02-06",
+        "VendorRef": {
+          "name": "Sunshine Janitorial",
+          "value": "41"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2010",
+        "Line": [
+          {
+            "Amount": 85.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3010",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Confidential Shredding - Monthly",
+        "TotalAmt": 85.0,
+        "TxnDate": "2026-11-05",
+        "VendorRef": {
+          "name": "ShredIt",
+          "value": "42"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2011",
+        "Line": [
+          {
+            "Amount": 146.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3011",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Office Supplies",
+        "TotalAmt": 146.0,
+        "TxnDate": "2026-02-13",
+        "VendorRef": {
+          "name": "Office Depot",
+          "value": "43"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2012",
+        "Line": [
+          {
+            "Amount": 340.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3012",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "IT Support - Monthly Block",
+        "TotalAmt": 340.0,
+        "TxnDate": "2026-11-13",
+        "VendorRef": {
+          "name": "Coastal IT Partners",
+          "value": "44"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2013",
+        "Line": [
+          {
+            "Amount": 295.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3013",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Annual Bar Dues",
+        "TotalAmt": 295.0,
+        "TxnDate": "2026-02-20",
+        "VendorRef": {
+          "name": "Florida Bar",
+          "value": "51"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2014",
+        "Line": [
+          {
+            "Amount": 85.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3014",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Quarterly Section Dues",
+        "TotalAmt": 85.0,
+        "TxnDate": "2026-12-04",
+        "VendorRef": {
+          "name": "AAML Florida Chapter",
+          "value": "52"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2015",
+        "Line": [
+          {
+            "Amount": 160.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3015",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Annual Membership",
+        "TotalAmt": 160.0,
+        "TxnDate": "2026-02-27",
+        "VendorRef": {
+          "name": "Biscayne Bar Association",
+          "value": "53"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2016",
+        "Line": [
+          {
+            "Amount": 420.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3016",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Spanish Translation - Project",
+        "TotalAmt": 420.0,
+        "TxnDate": "2026-12-11",
+        "VendorRef": {
+          "name": "Atlanticatranslation",
+          "value": "61"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2017",
+        "Line": [
+          {
+            "Amount": 79.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3017",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Acrobat Pro - Annual",
+        "TotalAmt": 79.0,
+        "TxnDate": "2026-01-07",
+        "VendorRef": {
+          "name": "Adobe",
+          "value": "71"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2018",
+        "Line": [
+          {
+            "Amount": 125.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3018",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Process Service - Single Job",
+        "TotalAmt": 125.0,
+        "TxnDate": "2026-12-18",
+        "VendorRef": {
+          "name": "Sunshine Process",
+          "value": "72"
+        }
+      },
+      {
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Biscayne Bay FCU - Brooks Family Law Operating"
+          }
+        },
+        "Id": "BP2019",
+        "Line": [
+          {
+            "Amount": 64.0,
+            "LinkedTxn": [
+              {
+                "TxnId": "BILL3019",
+                "TxnType": "Bill"
+              }
+            ]
+          }
+        ],
+        "PayType": "Check",
+        "PrivateNote": "Office Coffee - Monthly",
+        "TotalAmt": 64.0,
+        "TxnDate": "2026-01-14",
+        "VendorRef": {
+          "name": "Granite Coffee",
+          "value": "73"
+        }
+      }
+    ],
+    "maxResults": 20,
+    "startPosition": 1,
+    "totalCount": 20
+  }
+}

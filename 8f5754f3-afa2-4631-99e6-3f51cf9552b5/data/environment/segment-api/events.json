@@ -1,0 +1,178 @@
+[
+  {
+    "messageId": "msg_etav0001",
+    "type": "page",
+    "userId": "user_visitor_001",
+    "event": "Sunday roast at Ellen's parents' - Bayside, 5 PM.",
+    "timestamp": "2026-01-01T09:00:00Z",
+    "properties": "name=Home;url=/"
+  },
+  {
+    "messageId": "msg_etav0002",
+    "type": "page",
+    "userId": "user_visitor_002",
+    "event": "Kevin's Tuesday call - order the halibut for Friday special.",
+    "timestamp": "2026-02-02T10:07:00Z",
+    "properties": "name=Menu;url=/menu"
+  },
+  {
+    "messageId": "msg_etav0003",
+    "type": "page",
+    "userId": "user_visitor_003",
+    "event": "Sunday roast at Ellen's parents' - Bayside, 5 PM.",
+    "timestamp": "2026-03-03T11:14:00Z",
+    "properties": "name=Hours & Location;url=/hours"
+  },
+  {
+    "messageId": "msg_etav0004",
+    "type": "page",
+    "userId": "user_visitor_004",
+    "event": "Alex soccer game Saturday 11 AM - leave the tavern to Sophia.",
+    "timestamp": "2026-01-04T12:21:00Z",
+    "properties": "name=Reservations;url=/reservations"
+  },
+  {
+    "messageId": "msg_etav0005",
+    "type": "page",
+    "userId": "user_visitor_005",
+    "event": "Uncle Stuart Wed lunch chess - usual 1 PM.",
+    "timestamp": "2026-02-05T13:28:00Z",
+    "properties": "name=Gift Cards;url=/gift-cards"
+  },
+  {
+    "messageId": "msg_etav0006",
+    "type": "page",
+    "userId": "user_visitor_006",
+    "event": "Ellen quarterly books review Sunday morning - bring the shift schedules.",
+    "timestamp": "2026-01-06T14:35:00Z",
+    "properties": "name=Private Events;url=/events"
+  },
+  {
+    "messageId": "msg_etav0007",
+    "type": "track",
+    "userId": "user_visitor_007",
+    "event": "Menu Item Viewed",
+    "timestamp": "2026-02-07T15:42:00Z",
+    "properties": "item=Eleanor's Pot Roast;price=28.00"
+  },
+  {
+    "messageId": "msg_etav0008",
+    "type": "track",
+    "userId": "user_visitor_008",
+    "event": "Menu Item Viewed",
+    "timestamp": "2026-03-08T16:49:00Z",
+    "properties": "item=Grilled NY Strip;price=38.00"
+  },
+  {
+    "messageId": "msg_etav0009",
+    "type": "track",
+    "userId": "user_visitor_009",
+    "event": "Menu Item Viewed",
+    "timestamp": "2026-01-09T17:56:00Z",
+    "properties": "item=Tavern Burger;price=18.00"
+  },
+  {
+    "messageId": "msg_etav0010",
+    "type": "track",
+    "userId": "user_visitor_010",
+    "event": "Reservation Started",
+    "timestamp": "2026-02-10T18:03:00Z",
+    "properties": "party_size=4;source=website"
+  },
+  {
+    "messageId": "msg_etav0011",
+    "type": "track",
+    "userId": "user_visitor_011",
+    "event": "Reservation Completed",
+    "timestamp": "2026-01-11T09:10:00Z",
+    "properties": "party_size=4;deposit=25.00;currency=USD"
+  },
+  {
+    "messageId": "msg_etav0012",
+    "type": "track",
+    "userId": "user_visitor_012",
+    "event": "Gift Card Added to Cart",
+    "timestamp": "2026-02-12T10:17:00Z",
+    "properties": "amount=50.00;currency=USD"
+  },
+  {
+    "messageId": "msg_etav0013",
+    "type": "track",
+    "userId": "user_visitor_013",
+    "event": "Gift Card Purchased",
+    "timestamp": "2026-03-13T11:24:00Z",
+    "properties": "amount=50.00;currency=USD"
+  },
+  {
+    "messageId": "msg_etav0014",
+    "type": "track",
+    "userId": "user_visitor_014",
+    "event": "Newsletter Signup",
+    "timestamp": "2026-01-14T12:31:00Z",
+    "properties": "source=footer-form"
+  },
+  {
+    "messageId": "msg_etav0015",
+    "type": "track",
+    "userId": "user_visitor_015",
+    "event": "Menu Search",
+    "timestamp": "2026-02-15T13:38:00Z",
+    "properties": "query=brisket"
+  },
+  {
+    "messageId": "msg_etav0016",
+    "type": "track",
+    "userId": "user_visitor_016",
+    "event": "Menu Search",
+    "timestamp": "2026-01-16T14:45:00Z",
+    "properties": "query=gluten free"
+  },
+  {
+    "messageId": "msg_etav0017",
+    "type": "page",
+    "userId": "user_visitor_017",
+    "event": "Ellen quarterly books review Sunday morning - bring the shift schedules.",
+    "timestamp": "2026-02-17T15:52:00Z",
+    "properties": "name=Wine Tasting;url=/events/wine-tasting"
+  },
+  {
+    "messageId": "msg_etav0018",
+    "type": "track",
+    "userId": "user_visitor_018",
+    "event": "Directions Clicked",
+    "timestamp": "2026-03-18T16:59:00Z",
+    "properties": "destination=31-09 Broadway Astoria NY"
+  },
+  {
+    "messageId": "msg_etav0019",
+    "type": "track",
+    "userId": "user_visitor_019",
+    "event": "Phone Clicked",
+    "timestamp": "2026-01-19T17:06:00Z",
+    "properties": "number=+17185550110"
+  },
+  {
+    "messageId": "msg_etav0020",
+    "type": "page",
+    "userId": "user_visitor_020",
+    "event": "Alex soccer game Saturday 11 AM - leave the tavern to Sophia.",
+    "timestamp": "2026-02-20T18:13:00Z",
+    "properties": "name=About;url=/about"
+  },
+  {
+    "messageId": "msg_etav0021",
+    "type": "track",
+    "userId": "user_visitor_021",
+    "event": "Reservation Completed",
+    "timestamp": "2026-01-21T09:20:00Z",
+    "properties": "party_size=2;deposit=25.00;currency=USD"
+  },
+  {
+    "messageId": "msg_etav0022",
+    "type": "track",
+    "userId": "user_visitor_022",
+    "event": "Gift Card Purchased",
+    "timestamp": "2026-02-22T10:27:00Z",
+    "properties": "amount=100.00;currency=USD"
+  }
+]

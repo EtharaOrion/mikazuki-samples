@@ -1,0 +1,182 @@
+[
+  {
+    "id": "d-1a2b3c4d5e6f7081",
+    "name": "Reservation Confirmation",
+    "generation": "dynamic",
+    "subject": "Your reservation at Eleanor's Tavern is confirmed, {{first_name}}!",
+    "html_content": "<h1>See you soon, {{first_name}}</h1><p>Your table for {{party_size}} is confirmed for {{reservation_time}} at Eleanor's Tavern, 31-09 Broadway, Astoria.</p>",
+    "active": "true",
+    "updated_at": "2026-02-10T10:00:00Z"
+  },
+  {
+    "id": "d-2b3c4d5e6f708192",
+    "name": "Gift Card Receipt",
+    "generation": "dynamic",
+    "subject": "Your Eleanor's Tavern gift card receipt",
+    "html_content": "<p>Thank you for your purchase of a {{amount}} gift card. Card code: {{card_code}}.</p>",
+    "active": "true",
+    "updated_at": "2026-02-12T11:30:00Z"
+  },
+  {
+    "id": "d-3c4d5e6f70819203",
+    "name": "Private Event Confirmation",
+    "generation": "dynamic",
+    "subject": "Your private event at Eleanor's Tavern is booked",
+    "html_content": "<h2>Booked, {{first_name}}!</h2><p>Your {{event_type}} for {{guest_count}} guests on {{event_date}} in the {{space}} is confirmed. A deposit receipt is attached.</p>",
+    "active": "true",
+    "updated_at": "2026-02-20T09:15:00Z"
+  },
+  {
+    "id": "d-4d5e6f7081920314",
+    "name": "Reservation Reminder",
+    "generation": "dynamic",
+    "subject": "Reminder: your table at Eleanor's Tavern tomorrow",
+    "html_content": "<p>Just a friendly reminder about your reservation for {{party_size}} tomorrow at {{reservation_time}}.</p>",
+    "active": "true",
+    "updated_at": "2026-02-22T14:00:00Z"
+  },
+  {
+    "id": "d-5e6f708192031425",
+    "name": "Reservation Cancellation",
+    "generation": "dynamic",
+    "subject": "Your Eleanor's Tavern reservation has been cancelled",
+    "html_content": "<p>Your reservation for {{reservation_time}} has been cancelled. We hope to see you another time.</p>",
+    "active": "true",
+    "updated_at": "2026-01-28T08:00:00Z"
+  },
+  {
+    "id": "d-6f70819203142536",
+    "name": "Wine Tasting Ticket Confirmation",
+    "generation": "dynamic",
+    "subject": "Your wine tasting seats are confirmed",
+    "html_content": "<p>You're confirmed for {{session}} with {{seats}} seat(s). See you at the tavern!</p>",
+    "active": "true",
+    "updated_at": "2026-03-01T08:00:00Z"
+  },
+  {
+    "id": "d-7081920314253647",
+    "name": "Waitlist Notification",
+    "generation": "dynamic",
+    "subject": "A table just opened up at Eleanor's Tavern, {{first_name}}",
+    "html_content": "<p>Good news, {{first_name}}! A table for {{party_size}} is now available at {{available_time}}. Reply within 15 minutes to claim it.</p>",
+    "active": "true",
+    "updated_at": "2026-02-25T16:00:00Z"
+  },
+  {
+    "id": "d-8192031425364758",
+    "name": "Newsletter Welcome",
+    "generation": "dynamic",
+    "subject": "Welcome to the Eleanor's Tavern table, {{first_name}}",
+    "html_content": "<h2>Welcome, {{first_name}}!</h2><p>Thanks for joining our list. Expect seasonal menus, wine tastings, and the occasional pie recipe.</p>",
+    "active": "true",
+    "updated_at": "2026-02-28T09:00:00Z"
+  },
+  {
+    "id": "d-9203142536475869",
+    "name": "Private Event Inquiry Reply",
+    "generation": "dynamic",
+    "subject": "Thanks for your private event inquiry",
+    "html_content": "<p>Hi {{first_name}}, thanks for asking about hosting your {{event_type}} with us. Sophia will follow up within one business day with availability and pricing.</p>",
+    "active": "true",
+    "updated_at": "2026-03-02T10:30:00Z"
+  },
+  {
+    "id": "d-0314253647586970",
+    "name": "Gift Card Delivery",
+    "generation": "dynamic",
+    "subject": "You've received an Eleanor's Tavern gift card!",
+    "html_content": "<h2>A gift for you, {{recipient_name}}</h2><p>{{sender_name}} sent you a {{amount}} gift card. Use code {{card_code}} on your next visit.</p>",
+    "active": "true",
+    "updated_at": "2026-02-15T12:00:00Z"
+  },
+  {
+    "id": "d-1425364758697081",
+    "name": "Monthly Newsletter",
+    "generation": "dynamic",
+    "subject": "What's cooking this month at Eleanor's Tavern",
+    "html_content": "<h1>{{month}} at the Tavern</h1><p>This month's specials, upcoming events, and a note from Carlton.</p>",
+    "active": "true",
+    "updated_at": "2026-03-03T08:30:00Z"
+  },
+  {
+    "id": "d-2536475869708192",
+    "name": "Birthday Offer",
+    "generation": "dynamic",
+    "subject": "Happy birthday from Eleanor's Tavern, {{first_name}}!",
+    "html_content": "<p>Happy birthday, {{first_name}}! Stop by this month for a complimentary slice of house-made apple pie. Just mention this email.</p>",
+    "active": "true",
+    "updated_at": "2026-01-18T09:00:00Z"
+  },
+  {
+    "id": "d-3647586970819203",
+    "name": "Patio Season Announcement",
+    "generation": "dynamic",
+    "subject": "Our patio opens for the spring season",
+    "html_content": "<p>Patio season is almost here. Reserve one of our 24 outdoor seats for dinner Tuesday through Sunday once the patio opens for the season.</p>",
+    "active": "true",
+    "updated_at": "2026-01-05T11:00:00Z"
+  },
+  {
+    "id": "d-4758697081920314",
+    "name": "Holiday Hours Notice",
+    "generation": "dynamic",
+    "subject": "Eleanor's Tavern holiday hours",
+    "html_content": "<p>Hi {{first_name}}, here are our hours for the upcoming holidays. As always, we're closed Mondays.</p>",
+    "active": "true",
+    "updated_at": "2026-11-20T10:00:00Z"
+  },
+  {
+    "id": "d-5869708192031425",
+    "name": "Review Request",
+    "generation": "dynamic",
+    "subject": "How was your visit to Eleanor's Tavern?",
+    "html_content": "<p>Thanks for dining with us, {{first_name}}. We'd love to hear how it went, leave us a quick review and help your neighbors find us.</p>",
+    "active": "true",
+    "updated_at": "2026-02-28T14:00:00Z"
+  },
+  {
+    "id": "d-6970819203142536",
+    "name": "Catering Quote",
+    "generation": "dynamic",
+    "subject": "Your Eleanor's Tavern catering quote",
+    "html_content": "<p>Hi {{first_name}}, attached is your catering quote for {{guest_count}} guests on {{event_date}}. Let us know if you'd like to adjust the menu.</p>",
+    "active": "true",
+    "updated_at": "2026-03-04T15:30:00Z"
+  },
+  {
+    "id": "d-7081920314253648",
+    "name": "Wine Club Update",
+    "generation": "dynamic",
+    "subject": "This quarter's wine club selections",
+    "html_content": "<p>Hi {{first_name}}, your {{quarter}} wine club bottles are ready. Pick them up at the tavern any day we're open.</p>",
+    "active": "true",
+    "updated_at": "2026-01-01T09:00:00Z"
+  },
+  {
+    "id": "d-8192031425364759",
+    "name": "Reservation No-Show Notice",
+    "generation": "dynamic",
+    "subject": "We missed you at Eleanor's Tavern",
+    "html_content": "<p>Hi {{first_name}}, we held your table for {{party_size}} but didn't see you. We hope everything is okay, feel free to rebook anytime.</p>",
+    "active": "false",
+    "updated_at": "2026-03-15T18:00:00Z"
+  },
+  {
+    "id": "d-9203142536475870",
+    "name": "Job Application Acknowledgment",
+    "generation": "dynamic",
+    "subject": "Thanks for applying to Eleanor's Tavern",
+    "html_content": "<p>Hi {{first_name}}, thanks for your interest in the {{position}} role. We'll review your application and reach out if there's a fit.</p>",
+    "active": "true",
+    "updated_at": "2026-02-22T11:00:00Z"
+  },
+  {
+    "id": "d-0314253647586971",
+    "name": "Jazz Sundays Invite",
+    "generation": "dynamic",
+    "subject": "Live jazz this Sunday at Eleanor's Tavern",
+    "html_content": "<p>Join us this Sunday for live jazz and a special brunch menu. {{first_name}}, reserve your table early, these fill up fast.</p>",
+    "active": "true",
+    "updated_at": "2026-02-18T10:00:00Z"
+  }
+]

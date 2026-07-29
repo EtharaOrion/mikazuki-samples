@@ -1,0 +1,162 @@
+[
+  {
+    "service_id": "PS001",
+    "name": "crossroads-booking",
+    "description": "Booking and ticketing API for crossroadsconservatory.com",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS002",
+    "name": "crossroads-web",
+    "description": "crossroadsconservatory.com main website",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS003",
+    "name": "crossroads-db",
+    "description": "Postgres database backing the booking system",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS1002",
+    "name": "Theory class discussion",
+    "description": "Booking and ticketing API for crossroadsconservatory.com",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS004",
+    "name": "Instructor coordination meeting",
+    "description": "crossroadsconservatory.com main website",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS006",
+    "name": "Winter recital rehearsal",
+    "description": "Postgres database backing the booking system",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS005",
+    "name": "Student progress review",
+    "description": "Booking and ticketing API for crossroadsconservatory.com",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS007",
+    "name": "Enrollment inquiry follow-up",
+    "description": "crossroadsconservatory.com main website",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS009",
+    "name": "Monthly payroll processing",
+    "description": "Postgres database backing the booking system",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS008",
+    "name": "5th Anniversary Showcase planning",
+    "description": "Booking and ticketing API for crossroadsconservatory.com",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS010",
+    "name": "Summer camp registration",
+    "description": "crossroadsconservatory.com main website",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS012",
+    "name": "Substitute coverage",
+    "description": "Postgres database backing the booking system",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS011",
+    "name": "Sheet music library update",
+    "description": "Booking and ticketing API for crossroadsconservatory.com",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS013",
+    "name": "Parent meeting slot",
+    "description": "crossroadsconservatory.com main website",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS015",
+    "name": "Ensemble arrangement rewrite",
+    "description": "Postgres database backing the booking system",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS014",
+    "name": "Recital program layout",
+    "description": "Booking and ticketing API for crossroadsconservatory.com",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS016",
+    "name": "Quartet setlist review",
+    "description": "crossroadsconservatory.com main website",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS018",
+    "name": "Rehearsal recording listen-back",
+    "description": "Postgres database backing the booking system",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS017",
+    "name": "Second album pre-production notes",
+    "description": "Booking and ticketing API for crossroadsconservatory.com",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS019",
+    "name": "Venue confirmation thread",
+    "description": "crossroadsconservatory.com main website",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  }
+]

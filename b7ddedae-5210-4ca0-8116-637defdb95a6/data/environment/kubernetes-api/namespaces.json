@@ -1,0 +1,122 @@
+[
+  {
+    "created_time": "2024-01-15T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "default",
+    "status": "Active"
+  },
+  {
+    "created_time": "2024-01-15T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "kube-system",
+    "status": "Active"
+  },
+  {
+    "created_time": "2024-01-15T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "ingress-nginx",
+    "status": "Active"
+  },
+  {
+    "created_time": "2024-01-15T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "monitoring",
+    "status": "Active"
+  },
+  {
+    "created_time": "2024-01-15T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "platform",
+    "status": "Active"
+  },
+  {
+    "created_time": "2024-01-15T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "data",
+    "status": "Active"
+  },
+  {
+    "created_time": "2024-07-28T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "logging",
+    "status": "Active"
+  },
+  {
+    "created_time": "2025-06-30T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "cert-manager",
+    "status": "Active"
+  },
+  {
+    "created_time": "2026-12-02T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "argocd",
+    "status": "Active"
+  },
+  {
+    "created_time": "2026-11-04T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "digitisation",
+    "status": "Active"
+  },
+  {
+    "created_time": "2024-10-06T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "media",
+    "status": "Active"
+  },
+  {
+    "created_time": "2025-09-08T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "search",
+    "status": "Active"
+  },
+  {
+    "created_time": "2026-02-10T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "ingest",
+    "status": "Active"
+  },
+  {
+    "created_time": "2024-01-13T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "cache",
+    "status": "Active"
+  },
+  {
+    "created_time": "2024-12-15T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "storage",
+    "status": "Active"
+  },
+  {
+    "created_time": "2025-11-17T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "backup",
+    "status": "Active"
+  },
+  {
+    "created_time": "2026-10-21T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "observability",
+    "status": "Active"
+  },
+  {
+    "created_time": "2024-03-23T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "vault",
+    "status": "Active"
+  },
+  {
+    "created_time": "2025-02-23T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "registry",
+    "status": "Active"
+  },
+  {
+    "created_time": "2026-01-26T09:00:00Z",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=osterreichisches-kunstmuseum",
+    "name": "staging",
+    "status": "Active"
+  }
+]

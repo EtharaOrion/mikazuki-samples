@@ -1,0 +1,182 @@
+[
+  {
+    "id": "INBOX",
+    "name": "INBOX",
+    "type": "system",
+    "messages_total": "19",
+    "messages_unread": "8",
+    "threads_total": "19",
+    "threads_unread": "8"
+  },
+  {
+    "id": "SENT",
+    "name": "SENT",
+    "type": "system",
+    "messages_total": "2",
+    "messages_unread": "0",
+    "threads_total": "2",
+    "threads_unread": "0"
+  },
+  {
+    "id": "DRAFTS",
+    "name": "DRAFT",
+    "type": "system",
+    "messages_total": "4",
+    "messages_unread": "0",
+    "threads_total": "4",
+    "threads_unread": "0"
+  },
+  {
+    "id": "TRASH",
+    "name": "TRASH",
+    "type": "system",
+    "messages_total": "0",
+    "messages_unread": "0",
+    "threads_total": "0",
+    "threads_unread": "0"
+  },
+  {
+    "id": "SPAM",
+    "name": "SPAM",
+    "type": "system",
+    "messages_total": "1",
+    "messages_unread": "1",
+    "threads_total": "1",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_vendors",
+    "name": "Vendors",
+    "type": "user",
+    "messages_total": "7",
+    "messages_unread": "2",
+    "threads_total": "7",
+    "threads_unread": "2"
+  },
+  {
+    "id": "Label_family",
+    "name": "Family",
+    "type": "user",
+    "messages_total": "4",
+    "messages_unread": "3",
+    "threads_total": "4",
+    "threads_unread": "3"
+  },
+  {
+    "id": "Label_restaurant",
+    "name": "Restaurant",
+    "type": "user",
+    "messages_total": "2",
+    "messages_unread": "2",
+    "threads_total": "2",
+    "threads_unread": "2"
+  },
+  {
+    "id": "Label_school",
+    "name": "School",
+    "type": "user",
+    "messages_total": "2",
+    "messages_unread": "0",
+    "threads_total": "2",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_receipts",
+    "name": "Receipts",
+    "type": "user",
+    "messages_total": "4",
+    "messages_unread": "0",
+    "threads_total": "4",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_followup",
+    "name": "Follow up",
+    "type": "user",
+    "messages_total": "6",
+    "messages_unread": "5",
+    "threads_total": "6",
+    "threads_unread": "5"
+  },
+  {
+    "id": "Label_payroll",
+    "name": "Payroll",
+    "type": "user",
+    "messages_total": "5",
+    "messages_unread": "1",
+    "threads_total": "5",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_reservations",
+    "name": "Reservations",
+    "type": "user",
+    "messages_total": "9",
+    "messages_unread": "4",
+    "threads_total": "9",
+    "threads_unread": "4"
+  },
+  {
+    "id": "Label_insurance",
+    "name": "Insurance",
+    "type": "user",
+    "messages_total": "3",
+    "messages_unread": "0",
+    "threads_total": "3",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_taxes",
+    "name": "Taxes",
+    "type": "user",
+    "messages_total": "4",
+    "messages_unread": "1",
+    "threads_total": "4",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_events",
+    "name": "Private Events",
+    "type": "user",
+    "messages_total": "6",
+    "messages_unread": "2",
+    "threads_total": "6",
+    "threads_unread": "2"
+  },
+  {
+    "id": "Label_marketing",
+    "name": "Marketing",
+    "type": "user",
+    "messages_total": "5",
+    "messages_unread": "1",
+    "threads_total": "5",
+    "threads_unread": "1"
+  },
+  {
+    "id": "Label_permits",
+    "name": "Permits & Licenses",
+    "type": "user",
+    "messages_total": "3",
+    "messages_unread": "0",
+    "threads_total": "3",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_fishing",
+    "name": "Fishing Trips",
+    "type": "user",
+    "messages_total": "2",
+    "messages_unread": "0",
+    "threads_total": "2",
+    "threads_unread": "0"
+  },
+  {
+    "id": "Label_maintenance",
+    "name": "Maintenance",
+    "type": "user",
+    "messages_total": "4",
+    "messages_unread": "2",
+    "threads_total": "4",
+    "threads_unread": "2"
+  }
+]

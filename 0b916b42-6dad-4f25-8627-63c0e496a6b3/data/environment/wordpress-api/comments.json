@@ -1,0 +1,32 @@
+[
+  {
+    "id": "3001",
+    "post": "1001",
+    "author_name": "Marcus Giles",
+    "author_email": "marcus.giles@gmail.com",
+    "content": "Great post - thanks for sharing.",
+    "status": "approved",
+    "date": "2026-07-09T08:25:55+00:00",
+    "parent": "0"
+  },
+  {
+    "id": "3002",
+    "post": "1002",
+    "author_name": "Mary Claire Giles",
+    "author_email": "maryclaire.giles@gmail.com",
+    "content": "I'd love to hear more about the planning side.",
+    "status": "approved",
+    "date": "2026-07-13T20:16:19+00:00",
+    "parent": "0"
+  },
+  {
+    "id": "3003",
+    "post": "1003",
+    "author_name": "Jason Giles",
+    "author_email": "jason.giles@gmail.com",
+    "content": "Bookmarked. Will revisit next month.",
+    "status": "approved",
+    "date": "2026-07-09T01:02:58+00:00",
+    "parent": "0"
+  }
+]

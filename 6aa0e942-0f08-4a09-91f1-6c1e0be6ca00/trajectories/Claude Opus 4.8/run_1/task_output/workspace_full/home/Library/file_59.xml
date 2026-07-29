@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue title="Vienna Modern, Art and Society 1890 to 1930" edition="first" printRun="1200" approvedBy="Joyce Padilla">
+  <frontMatter>
+    <foreword author="Joyce Padilla" role="Director"/>
+    <essay title="A Parallel Secession" author="Joyce Padilla"/>
+    <acknowledgements lenders="15"/>
+  </frontMatter>
+  <rooms>
+    <room number="1" theme="The break with the academy">
+      <object cat="001">
+        <artist life="1862 to 1918">Gustav Klimt</artist>
+        <title year="1903">Landscape study by a lake</title>
+        <medium>Oil on canvas</medium>
+        <dimensionsCm height="90" width="90"/>
+        <lender>Prague National Gallery</lender>
+        <onLoan>true</onLoan>
+      </object>
+      <object cat="002">
+        <artist life="1863 to 1920">Koloman Moser</artist>
+        <title year="1901">Decorative panel with stylised figures</title>
+        <medium>Tempera on panel</medium>
+        <dimensionsCm height="120" width="60"/>
+        <lender>New York Ringstrasse Gallery</lender>
+        <onLoan>true</onLoan>
+      </object>
+    </room>
+    <room number="2" theme="Women at the centre and the margins">
+      <object cat="011">
+        <artist life="1863 to 1934">Broncia Koller-Pinell</artist>
+        <title year="1907">Interior with seated figure</title>
+        <medium>Oil on canvas</medium>
+        <dimensionsCm height="100" width="80"/>
+        <lender>Permanent collection</lender>
+        <onLoan>false</onLoan>
+      </object>
+      <object cat="012">
+        <artist life="1869 to 1957">Helene Funke</artist>
+        <title year="1910">Still life with bold reds</title>
+        <medium>Oil on canvas</medium>
+        <dimensionsCm height="73" width="60"/>
+        <lender>Permanent collection</lender>
+        <onLoan>false</onLoan>
+      </object>
+      <object cat="013">
+        <artist life="1874 to 1956">Teresa Feodorowna Ries</artist>
+        <title year="1900">Figure refusing the pose</title>
+        <medium>Marble</medium>
+        <dimensionsCm height="140" width="55"/>
+        <lender>Permanent collection</lender>
+        <onLoan>false</onLoan>
+      </object>
+    </room>
+    <room number="3" theme="The late landscape">
+      <object cat="021">
+        <artist life="1853 to 1918">Ferdinand Hodler</artist>
+        <title year="1915">Study of light on a mountain lake</title>
+        <medium>Oil on board</medium>
+        <dimensionsCm height="65" width="80"/>
+        <lender>Zurich Art House</lender>
+        <onLoan>true</onLoan>
+      </object>
+      <object cat="022">
+        <artist life="1890 to 1918">Egon Schiele</artist>
+        <title year="1913">View of a town from the hill</title>
+        <medium>Oil on canvas</medium>
+        <dimensionsCm height="100" width="120"/>
+        <lender>London Modern Gallery</lender>
+        <onLoan>true</onLoan>
+      </object>
+    </room>
+    <room number="4" theme="Design and the single conversation">
+      <object cat="031">
+        <artist life="1867 to 1908">Secession workshop</artist>
+        <title year="1902">Poster set for the spring exhibition</title>
+        <medium>Lithograph</medium>
+        <dimensionsCm height="95" width="63"/>
+        <lender>Vienna Print Collection</lender>
+        <onLoan>true</onLoan>
+      </object>
+    </room>
+  </rooms>
+  <production>
+    <publicationDate>2026-10-01</publicationDate>
+    <pages>248</pages>
+    <languages>German, English</languages>
+    <printApprovedDate>2026-02-12</printApprovedDate>
+  </production>
+</catalogue>

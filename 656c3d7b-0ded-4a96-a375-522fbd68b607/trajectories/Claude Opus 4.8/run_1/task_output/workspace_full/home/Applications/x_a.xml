@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SampleRegistry version="2.1" lastUpdated="2026-02-14">
+
+  <Laboratory>
+    <Name>Langston Lab</Name>
+    <Institution>Haverstone University</Institution>
+    <Department>Department of Computational Biology</Department>
+    <PI>Dorothy Langston</PI>
+    <Contact>dorothy.langston@Finthesiss.ai</Contact>
+    <Building>Life Sciences Building</Building>
+    <Room>204B</Room>
+  </Laboratory>
+
+  <Samples>
+
+    <Sample id="LLS-2024-001" type="ProteinComplex" species="Homo sapiens">
+      <Name>RecA-SSB nucleoprotein complex</Name>
+      <Description>Co-purified RecA and SSB proteins assembled under physiological salt conditions. Used for initial allosteric coupling pilot experiments.</Description>
+      <CollectionDate>2024-05-03</CollectionDate>
+      <PreparedBy>Ryan Kirkland</PreparedBy>
+      <StorageLocation>Haverstone University Life Sciences Building, Room 204B, Freezer Unit 3, Shelf 2, Box 1, Position A1</StorageLocation>
+      <StorageCondition>-80C, flash-frozen in liquid nitrogen prior to storage</StorageCondition>
+      <Volume unit="mL">2.0</Volume>
+      <Concentration unit="mg/mL">3.1</Concentration>
+      <Status>Active</Status>
+      <LinkedGrant>WFS-2024-0417</LinkedGrant>
+      <Notes>Initial preparation for WFS Year 1 structural characterization. Purity confirmed at 95% by SDS-PAGE. Complex stability verified by SEC-MALS at 4C.</Notes>
+    </Sample>
+
+    <Sample id="LLS-2024-002" type="GenomicDNA" species="Homo sapiens">
+      <Name>HEK293T total genomic DNA extraction</Name>
+      <Description>High-molecular-weight genomic DNA extracted from HEK293T cells using a modified CTAB protocol. Intended for targeted amplicon sequencing to validate interaction network predictions.</Description>
+      <CollectionDate>2024-05-17</CollectionDate>
+      <PreparedBy>Wei Chen</PreparedBy>
+      <StorageLocation>Haverstone University Life Sciences Building, Room 204B, Freezer Unit 1, Shelf 1, Box 2, Position B3</StorageLocation>
+      <StorageCondition>-20C, TE buffer pH 8.0</StorageCondition>
+      <Volume unit="mL">1.0</Volume>
+      <Concentration unit="ng/uL">185.4</Concentration>
+      <Status>Active</Status>
+      <LinkedGrant>WFS-2024-0417</LinkedGrant>
+      <Notes>A260/A280 ratio 1.89. A260/A230 ratio 2.11. RNase A treated prior to storage. Fragment size above 20 kb confirmed by pulsed-field gel.</Notes>
+    </Sample>
+
+    <Sample id="LLS-2024-003" type="PlasmidConstruct" species="Escherichia coli">
+      <Name>pET28a-14-3-3 sigma isoform expression vector</Name>
+      <Description>His-tagged 14-3-3 sigma isoform cloned into pET28a for bacterial overexpression. Construct used to generate purified scaffold protein for network binding assays.</Description>
+      <CollectionDate>2024-06-09</CollectionDate>
+      <PreparedBy>Sarah Okonkwo</PreparedBy>
+      <StorageLocation>Haverstone University Life Sciences Building, Room 204B, Freezer Unit 1, Shelf 3, Box 4, Position C2</StorageLocation>
+      <StorageCondition>-20C, EB buffer, 50 ng/uL working stock</StorageCondition>
+      <Volume unit="mL">0.5</Volume>
+      <Concentration unit="ng/uL">50.0</Concentration>
+      <Status>Active</Status>
+      <LinkedGrant>WFS-2024-0417</LinkedGrant>
+      <Notes>Sequence confirmed by Sanger sequencing across full insert. Glycerol stock of BL21(DE3) transformants stored separately in Box 5. Restriction digest pattern matches expected 5.1 kb and 0.75 kb bands.</Notes>
+    </Sample>
+
+    <Sample id="LLS-2024-004" type="PurifiedProtein" species="Homo sapiens">
+      <Name>14-3-3 scaffold protein assembly, zeta isoform</Name>
+      <Description>Recombinant 14-3-3 zeta expressed in E. coli BL21(DE3), purified by IMAC and size-exclusion chromatography. Used as reference scaffold in allosteric coupling assays.</Description>
+      <CollectionDate>2024-07-22</CollectionDate>
+      <PreparedBy>Ryan Kirkland</PreparedBy>
+      <StorageLocation>Haverstone University Life Sciences Building, Room 204B, Freezer Unit 3, Shelf 2, Box 1, Position A2</StorageLocation>
+      <StorageCondition>-80C, 10 mM HEPES pH 7.5, 150 mM NaCl, 5% glycerol</StorageCondition>
+      <Volume unit="mL">1.5</Volume>
+      <Concentration unit="mg/mL">4.7</Concentration>
+      <Status>Active</Status>
+      <LinkedGrant>WFS-2024-0417</LinkedGrant>
+      <Notes>Purity greater than 98% by SDS-PAGE and Coomassie staining. Endotoxin level below 0.1 EU/mL confirmed by LAL assay. Thermal shift assay Tm = 52.3C in standard buffer.</Notes>
+    </Sample>
+
+    <Sample id="LLS-2024-005" type="CellLysate" species="Homo sapiens">
+      <Name>HeLa cell lysate for interactome pulldown</Name>
+      <Description>Total protein lysate prepared from HeLa cells under native conditions. Used as input material for co-immunoprecipitation experiments targeting the PDZ domain scaffold network.</Description>
+      <CollectionDate>2024-08-05</CollectionDate>
+      <PreparedBy>Marcus Torres</PreparedBy>
+      <StorageLocation>Haverstone University Life Sciences Building, Room 204B, Freezer Unit 2, Shelf 1, Box 3, Position D5</StorageLocation>
+      <StorageCondition>-80C, RIPA buffer supplemented with protease inhibitor cocktail</StorageCondition>
+      <Volume unit="mL">3.0</Volume>
+      <Concentration unit="mg/mL">8.2</Concentration>
+      <Status>Depleted</Status>
+      <LinkedGrant>NGC-2025-1182</LinkedGrant>
+      <Notes>Protein concentration determined by BCA assay. Sample fully consumed in pulldown experiments conducted August-October 2024. Downstream MS data filed under project NGC-interactome-2024.</Notes>
+    </Sample>
+
+    <Sample id="LLS-2024-006" type="ProteinComplex" species="Homo sapiens">
+      <Name>Hsp70-DnaJ chaperone pair heterodimer</Name>
+      <Description>Co-expressed and co-purified Hsp70 and DnaJ (DNAJB1) proteins forming a stable heterodimeric chaperone complex. Central sample set for network topology analysis.</Description>
+      <CollectionDate>2024-09-14</CollectionDate>
+      <PreparedBy>Sarah Okonkwo</PreparedBy>
+      <StorageLocation>Haverstone University Life Sciences Building, Room 204B, Freezer Unit 3, Shelf 2, Box 2, Position B1</StorageLocation>
+      <StorageCondition>-80C, 25 mM Tris pH 7.4, 100 mM KCl, 1 mM DTT, 10% glycerol</StorageCondition>
+      <Volume unit="mL">1.8</Volume>
+      <Concentration unit="mg/mL">2.9</Concentration>
+      <Status>Active</Status>
+      <LinkedGrant>WFS-2024-0417</LinkedGrant>
+      <Notes>Complex stoichiometry 1:1 confirmed by native PAGE and analytical ultracentrifugation. ATPase activity retained in complex form. Batch LLS-2024-006-B prepared October 2024 as backup aliquot.</Notes>
+    </Sample>
+
+    <Sample id="LLS-2024-007" type="BufferControl" species="N/A">
+      <Name>HEPES-based assay buffer control batch A</Name>
+      <Description>Standard assay buffer prepared in-house for use in all fluorescence anisotropy and ITC experiments. Stored alongside protein samples to confirm absence of signal background.</Description>
+      <CollectionDate>2024-09-14</CollectionDate>
+      <PreparedBy>James Osei</PreparedBy>
+      <StorageLocation>Haverstone University Life Sciences Building, Room 204B, Cold Room, Shelf 1, Rack 2</StorageLocation>
+      <StorageCondition>4C, autoclaved and 0.22 um filtered</StorageCondition>
+      <Volume unit="mL">500.0</Volume>
+      <Concentration unit="mg/mL">0.0</Concentration>
+      <Status>Depleted</Status>
+      <LinkedGrant>WFS-2024-0417</LinkedGrant>
+      <Notes>Composition: 20 mM HEPES pH 7.5, 150 mM NaCl, 2 mM MgCl2, 0.5 mM TCEP. Full batch consumed by end of 2024. Batch B prepared January 2025.</Notes>
+    </Sample>
+
+    <Sample id="LLS-2025-001" type="ProteinComplex" species="Homo sapiens">
+      <Name>PDZ domain scaffold complex with SH3 adaptor</Name>
+      <Description>Ternary complex comprising MAGI-1 PDZ domain, SH3-containing adaptor protein SORBS3, and synthetic phosphopeptide ligand. Key sample for allosteric network mapping in Year 2.</Description>
+      <CollectionDate>2025-02-18</CollectionDate>
+      <PreparedBy>Ryan Kirkland</PreparedBy>
+      <StorageLocation>Haverstone University Life Sciences Building, Room 204B, Freezer Unit 3, Shelf 3, Box 1, Position A1</StorageLocation>
+      <StorageCondition>-80C, 20 mM sodium phosphate pH 6.8, 100 mM NaCl, 2 mM beta-mercaptoethanol</StorageCondition>
+      <Volume unit="mL">1.2</Volume>
+      <Concentration unit="mg/mL">5.6</Concentration>
+      <Status>Active</Status>
+      <LinkedGrant>WFS-2024-0417</LinkedGrant>
+      <Notes>Complex verified by native mass spectrometry in collaboration with Haverstone MS core facility. NMR titration data collected February 2025 shows distinct chemical shift perturbations at allosteric interface.</Notes>
+    </Sample>
+
+    <Sample id="LLS-2025-002" type="GenomicDNA" species="Saccharomyces cerevisiae">
+      <Name>S. cerevisiae BY4741 genomic DNA for comparative network analysis</Name>
+      <Description>Yeast genomic DNA from standard lab strain BY4741. Extracted for use in comparative protein interaction network analysis across eukaryotic organisms.</Description>
+      <CollectionDate>2025-03-07</CollectionDate>
+      <PreparedBy>Wei Chen</PreparedBy>
+      <StorageLocation>Haverstone University Life Sciences Building, Room 204B, Freezer Unit 1, Shelf 1, Box 3, Position B4</StorageLocation>
+      <StorageCondition>-20C, TE buffer pH 8.0</StorageCondition>
+      <Volume unit="mL">0.8</Volume>
+      <Concentration unit="ng/uL">210.7</Concentration>
+      <Status>Active</Status>
+      <LinkedGrant>NGC-2025-1182</LinkedGrant>
+      <Notes>A260/A280 = 1.92. Prepared from overnight culture in YPAD media at OD600 = 1.4. DNA quality confirmed by gel electrophoresis showing intact high-molecular-weight band.</Notes>
+    </Sample>
+
+    <Sample id="LLS-2025-003" type="PlasmidConstruct" species="Homo sapiens">
+      <Name>pGEX-6P-calmodulin target peptide fusion vector</Name>
+      <Description>GST-tagged calmodulin binding domain peptide cloned into pGEX-6P-1 for expression and pulldown studies. Central construct for calmodulin network experiments under NGC grant.</Description>
+      <CollectionDate>2025-04-23</CollectionDate>
+      <PreparedBy>Aisha Patel</PreparedBy>
+      <StorageLocation>Haverstone University Life Sciences Building, Room 204B, Freezer Unit 1, Shelf 3, Box 5, Position A3</StorageLocation>
+      <StorageCondition>-20C, sterile water, 100 ng/uL stock</StorageCondition>
+      <Volume unit="mL">0.3</Volume>
+      <Concentration unit="ng/uL">100.0</Concentration>
+      <Status>Active</Status>
+      <LinkedGrant>NGC-2025-1182</LinkedGrant>
+      <Notes>Cloning performed by Aisha Patel, sequence verified May 2025. Insert confirmed by double digest BamHI/EcoRI yielding 0.31 kb and 4.97 kb fragments. Glycerol stock DH5alpha transformant stored in Box 6.</Notes>
+    </Sample>
+
+    <Sample id="LLS-2025-004" type="PurifiedProtein" species="Homo sapiens">
+      <Name>Calmodulin-target peptide complex, Ca2+-loaded form</Name>
+      <Description>Recombinant calmodulin saturated with CaCl2 and pre-incubated with synthetic CaM-binding peptide from MLCK. Used to investigate calcium-dependent allosteric conformational coupling.</Description>
+      <CollectionDate>2025-06-11</CollectionDate>
+      <PreparedBy>Sarah Okonkwo</PreparedBy>
+      <StorageLocation>Haverstone University Life Sciences Building, Room 204B, Freezer Unit 3, Shelf 3, Box 2, Position C3</StorageLocation>
+      <StorageCondition>-80C, 20 mM HEPES pH 7.5, 150 mM KCl, 2 mM CaCl2, 5% glycerol</StorageCondition>
+      <Volume unit="mL">1.0</Volume>
+      <Concentration unit="mg/mL">3.8</Concentration>
+      <Status>Active</Status>
+      <LinkedGrant>NGC-2025-1182</LinkedGrant>
+      <Notes>Binding confirmed by ITC with Kd 12 nM under these conditions. Circular dichroism spectrum consistent with predominantly alpha-helical conformation. Calcium stoichiometry verified at 4 Ca2+ per calmodulin molecule by atomic absorption spectroscopy.</Notes>
+    </Sample>
+
+    <Sample id="LLS-2025-005" type="CellLysate" species="Homo sapiens">
+      <Name>MCF7 nuclear fraction for transcription factor network analysis</Name>
+      <Description>Nuclear protein extract from MCF7 breast epithelial cells isolated by differential centrifugation. Used for proximity ligation assays and network interaction mapping.</Description>
+      <CollectionDate>2025-08-29</CollectionDate>
+      <PreparedBy>Marcus Torres</PreparedBy>
+      <StorageLocation>Haverstone University Life Sciences Building, Room 204B, Freezer Unit 2, Shelf 2, Box 1, Position E2</StorageLocation>
+      <StorageCondition>-80C, nuclear extraction buffer with protease and phosphatase inhibitors</StorageCondition>
+      <Volume unit="mL">2.5</Volume>
+      <Concentration unit="mg/mL">6.4</Concentration>
+      <Status>Reserved</Status>
+      <LinkedGrant>NGC-2025-1182</LinkedGrant>
+      <Notes>Reserved for planned proximity ligation experiments in October 2025 as detailed in NGC Year 1 progress report. Nuclear purity confirmed by Western blot for Lamin A/C (positive) and GAPDH (negative). Do not use without PI approval.</Notes>
+    </Sample>
+
+    <Sample id="LLS-2025-006" type="ProteinComplex" species="Homo sapiens">
+      <Name>Grb2-SOS1 RAS activator signaling assembly</Name>
+      <Description>Purified binary complex of Grb2 adaptor protein and SOS1 catalytic domain. Provides a model system for multi-domain allosteric signal propagation across flexible linker regions.</Description>
+      <CollectionDate>2025-10-07</CollectionDate>
+      <PreparedBy>Ryan Kirkland</PreparedBy>
+      <StorageLocation>Haverstone University Life Sciences Building, Room 204B, Freezer Unit 3, Shelf 3, Box 3, Position A4</StorageLocation>
+      <StorageCondition>-80C, 50 mM Tris pH 8.0, 200 mM NaCl, 5 mM EDTA, 1 mM TCEP, 10% glycerol</StorageCondition>
+      <Volume unit="mL">1.4</Volume>
+      <Concentration unit="mg/mL">2.1</Concentration>
+      <Status>Active</Status>
+      <LinkedGrant>WFS-2024-0417</LinkedGrant>
+      <Notes>Stoichiometry confirmed by SEC-MALS as 1:1 complex, MW 88.3 kDa. Nucleotide exchange activity of SOS1 domain reduced 2.3-fold upon Grb2 binding, consistent with allosteric inhibition model.</Notes>
+    </Sample>
+
+    <Sample id="LLS-2025-007" type="PlasmidConstruct" species="Homo sapiens">
+      <Name>pcDNA3.1-mCherry-SNAP25 expression vector for FRET imaging</Name>
+      <Description>Mammalian expression vector encoding mCherry-tagged SNAP25 synaptic protein for use in cellular FRET experiments to monitor complex assembly in live cells.</Description>
+      <CollectionDate>2025-11-19</CollectionDate>
+      <PreparedBy>Wei Chen</PreparedBy>
+      <StorageLocation>Haverstone University Life Sciences Building, Room 204B, Freezer Unit 1, Shelf 3, Box 6, Position B1</StorageLocation>
+      <StorageCondition>-20C, EB buffer, working stock 50 ng/uL</StorageCondition>
+      <Volume unit="mL">0.4</Volume>
+      <Concentration unit="ng/uL">50.0</Concentration>
+      <Status>Active</Status>
+      <LinkedGrant>NGC-2025-1182</LinkedGrant>
+      <Notes>Construct designed in collaboration with Dr. Elena Voss at Ridgemont Institute. mCherry fluorescence confirmed in transiently transfected HEK293 cells by confocal microscopy. Sequence verified across full insert including fusion junction.</Notes>
+    </Sample>
+
+    <Sample id="LLS-2025-008" type="BufferControl" species="N/A">
+      <Name>Phosphate-based ITC reference buffer batch C</Name>
+      <Description>Reference buffer prepared for isothermal titration calorimetry experiments. Matched exactly to calmodulin sample dialysis buffer for heat of dilution subtraction.</Description>
+      <CollectionDate>2025-12-02</CollectionDate>
+      <PreparedBy>James Osei</PreparedBy>
+      <StorageLocation>Haverstone University Life Sciences Building, Room 204B, Cold Room, Shelf 1, Rack 3</StorageLocation>
+      <StorageCondition>4C, prepared fresh and filtered within 48 hours of use</StorageCondition>
+      <Volume unit="mL">250.0</Volume>
+      <Concentration unit="mg/mL">0.0</Concentration>
+      <Status>Depleted</Status>
+      <LinkedGrant>NGC-2025-1182</LinkedGrant>
+      <Notes>Composition: 50 mM sodium phosphate pH 7.0, 150 mM NaCl, 2 mM CaCl2. Batch consumed in December 2025 ITC run series. Batch D prepared January 2026.</Notes>
+    </Sample>
+
+    <Sample id="LLS-2026-001" type="ProteinComplex" species="Homo sapiens">
+      <Name>p53 tetramerization domain with MDM2 binding peptide</Name>
+      <Description>Recombinant p53 tetramerization domain (residues 325-356) in complex with stapled MDM2-binding alpha-helical peptide. Prepared for allosteric network manuscript revision data.</Description>
+      <CollectionDate>2026-01-13</CollectionDate>
+      <PreparedBy>Sarah Okonkwo</PreparedBy>
+      <StorageLocation>Haverstone University Life Sciences Building, Room 204B, Freezer Unit 3, Shelf 4, Box 1, Position A1</StorageLocation>
+      <StorageCondition>-80C, 20 mM Tris pH 8.0, 100 mM NaCl, 2 mM TCEP, 5% glycerol</StorageCondition>
+      <Volume unit="mL">0.9</Volume>
+      <Concentration unit="mg/mL">1.7</Concentration>
+      <Status>Active</Status>
+      <LinkedGrant>WFS-2024-0417</LinkedGrant>
+      <Notes>Prepared to generate supporting data for manuscript revision at The Ashford Journal of Molecular Biology. Complex Kd 35 nM by fluorescence anisotropy. Reviewer 2 requested additional binding experiments at physiological ionic strength.</Notes>
+    </Sample>
+
+    <Sample id="LLS-2026-002" type="PurifiedProtein" species="Homo sapiens">
+      <Name>Ubiquitin E2 conjugating enzyme UBE2D3 wild type</Name>
+      <Description>Full-length UBE2D3 purified from E. coli for use in ubiquitin cascade network reconstruction experiments. Supports new aim added in NGC Year 1 no-cost extension request.</Description>
+      <CollectionDate>2026-02-04</CollectionDate>
+      <PreparedBy>Ryan Kirkland</PreparedBy>
+      <StorageLocation>Haverstone University Life Sciences Building, Room 204B, Freezer Unit 3, Shelf 4, Box 1, Position B2</StorageLocation>
+      <StorageCondition>-80C, 20 mM HEPES pH 7.5, 50 mM NaCl, 1 mM DTT, 10% glycerol</StorageCondition>
+      <Volume unit="mL">1.1</Volume>
+      <Concentration unit="mg/mL">6.3</Concentration>
+      <Status>Active</Status>
+      <LinkedGrant>NGC-2025-1182</LinkedGrant>
+      <Notes>Purity confirmed at 97% by SDS-PAGE. Thioester activity assay positive with E1 and ubiquitin at 37C. Aliquots prepared at 0.5 mL each to avoid freeze-thaw cycles. Batch 2026-002-B to be prepared October 2026 per project timeline.</Notes>
+    </Sample>
+
+  </Samples>
+
+  <RegistryStats generatedDate="2026-02-14">
+    <TotalSamples>17</TotalSamples>
+    <ActiveSamples>11</ActiveSamples>
+    <DepletedSamples>3</DepletedSamples>
+    <ArchivedSamples>0</ArchivedSamples>
+    <ReservedSamples>1</ReservedSamples>
+    <ByType>
+      <TypeCount type="ProteinComplex">5</TypeCount>
+      <TypeCount type="GenomicDNA">2</TypeCount>
+      <TypeCount type="PlasmidConstruct">3</TypeCount>
+      <TypeCount type="CellLysate">2</TypeCount>
+      <TypeCount type="PurifiedProtein">3</TypeCount>
+      <TypeCount type="BufferControl">2</TypeCount>
+    </ByType>
+    <ByGrant>
+      <GrantCount grant="WFS-2024-0417">10</GrantCount>
+      <GrantCount grant="NGC-2025-1182">7</GrantCount>
+    </ByGrant>
+    <LastInventoryAudit>2026-02-14</LastInventoryAudit>
+    <AuditConductedBy>James Osei</AuditConductedBy>
+  </RegistryStats>
+
+</SampleRegistry>

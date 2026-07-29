@@ -1,0 +1,142 @@
+[
+  {
+    "id": "classPage",
+    "name": "Class Page",
+    "displayField": "title",
+    "description": "A class offering page on the Crossroads Conservatory website",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"level\",\"name\":\"Level\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false},{\"id\":\"schedule\",\"name\":\"Schedule\",\"type\":\"Symbol\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "event",
+    "name": "Event",
+    "displayField": "title",
+    "description": "A Conservatory event or performance listing",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"date\",\"name\":\"Date\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "blogPost",
+    "name": "Blog Post",
+    "displayField": "title",
+    "description": "A Crossroads Conservatory blog article",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"Text\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"published\",\"name\":\"Published\",\"type\":\"Boolean\",\"required\":false}]"
+  },
+  {
+    "id": "classPage_p001",
+    "name": "Theory class discussion",
+    "displayField": "title",
+    "description": "A class offering page on the Crossroads Conservatory website",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"level\",\"name\":\"Level\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false},{\"id\":\"schedule\",\"name\":\"Schedule\",\"type\":\"Symbol\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "event_p002",
+    "name": "Instructor coordination meeting",
+    "displayField": "title",
+    "description": "A Conservatory event or performance listing",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"date\",\"name\":\"Date\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "blogPost_p003",
+    "name": "Winter recital rehearsal",
+    "displayField": "title",
+    "description": "A Crossroads Conservatory blog article",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"Text\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"published\",\"name\":\"Published\",\"type\":\"Boolean\",\"required\":false}]"
+  },
+  {
+    "id": "classPage_p004",
+    "name": "Student progress review",
+    "displayField": "title",
+    "description": "A class offering page on the Crossroads Conservatory website",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"level\",\"name\":\"Level\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false},{\"id\":\"schedule\",\"name\":\"Schedule\",\"type\":\"Symbol\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "event_p005",
+    "name": "Enrollment inquiry follow-up",
+    "displayField": "title",
+    "description": "A Conservatory event or performance listing",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"date\",\"name\":\"Date\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "blogPost_p006",
+    "name": "Monthly payroll processing",
+    "displayField": "title",
+    "description": "A Crossroads Conservatory blog article",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"Text\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"published\",\"name\":\"Published\",\"type\":\"Boolean\",\"required\":false}]"
+  },
+  {
+    "id": "classPage_p007",
+    "name": "5th Anniversary Showcase planning",
+    "displayField": "title",
+    "description": "A class offering page on the Crossroads Conservatory website",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"level\",\"name\":\"Level\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false},{\"id\":\"schedule\",\"name\":\"Schedule\",\"type\":\"Symbol\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "event_p008",
+    "name": "Summer camp registration",
+    "displayField": "title",
+    "description": "A Conservatory event or performance listing",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"date\",\"name\":\"Date\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "blogPost_p009",
+    "name": "Substitute coverage",
+    "displayField": "title",
+    "description": "A Crossroads Conservatory blog article",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"Text\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"published\",\"name\":\"Published\",\"type\":\"Boolean\",\"required\":false}]"
+  },
+  {
+    "id": "classPage_p010",
+    "name": "Sheet music library update",
+    "displayField": "title",
+    "description": "A class offering page on the Crossroads Conservatory website",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"level\",\"name\":\"Level\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false},{\"id\":\"schedule\",\"name\":\"Schedule\",\"type\":\"Symbol\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "event_p011",
+    "name": "Parent meeting slot",
+    "displayField": "title",
+    "description": "A Conservatory event or performance listing",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"date\",\"name\":\"Date\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "blogPost_p012",
+    "name": "Ensemble arrangement rewrite",
+    "displayField": "title",
+    "description": "A Crossroads Conservatory blog article",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"Text\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"published\",\"name\":\"Published\",\"type\":\"Boolean\",\"required\":false}]"
+  },
+  {
+    "id": "classPage_p013",
+    "name": "Recital program layout",
+    "displayField": "title",
+    "description": "A class offering page on the Crossroads Conservatory website",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"level\",\"name\":\"Level\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false},{\"id\":\"schedule\",\"name\":\"Schedule\",\"type\":\"Symbol\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "event_p014",
+    "name": "Quartet setlist review",
+    "displayField": "title",
+    "description": "A Conservatory event or performance listing",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"date\",\"name\":\"Date\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "blogPost_p015",
+    "name": "Rehearsal recording listen-back",
+    "displayField": "title",
+    "description": "A Crossroads Conservatory blog article",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"Text\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"published\",\"name\":\"Published\",\"type\":\"Boolean\",\"required\":false}]"
+  },
+  {
+    "id": "classPage_p016",
+    "name": "Second album pre-production notes",
+    "displayField": "title",
+    "description": "A class offering page on the Crossroads Conservatory website",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"level\",\"name\":\"Level\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false},{\"id\":\"schedule\",\"name\":\"Schedule\",\"type\":\"Symbol\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  },
+  {
+    "id": "event_p017",
+    "name": "Venue confirmation thread",
+    "displayField": "title",
+    "description": "A Conservatory event or performance listing",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"date\",\"name\":\"Date\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"description\",\"name\":\"Description\",\"type\":\"Text\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false}]"
+  }
+]

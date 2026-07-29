@@ -1,0 +1,222 @@
+[
+  {
+    "available_replicas": "1",
+    "created_time": "2025-09-15T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/web:1.0.0",
+    "name": "web",
+    "namespace": "default",
+    "ready_replicas": "1",
+    "replicas": "1",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "1"
+  },
+  {
+    "available_replicas": "3",
+    "created_time": "2025-09-15T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/api:1.0.1",
+    "name": "api",
+    "namespace": "default",
+    "ready_replicas": "3",
+    "replicas": "3",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "3"
+  },
+  {
+    "available_replicas": "2",
+    "created_time": "2025-09-15T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/worker:1.0.2",
+    "name": "worker",
+    "namespace": "platform",
+    "ready_replicas": "2",
+    "replicas": "2",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "2"
+  },
+  {
+    "available_replicas": "2",
+    "created_time": "2025-09-15T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/scheduler:1.0.3",
+    "name": "scheduler",
+    "namespace": "platform",
+    "ready_replicas": "2",
+    "replicas": "2",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "2"
+  },
+  {
+    "available_replicas": "2",
+    "created_time": "2025-09-15T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/billing:1.0.4",
+    "name": "billing",
+    "namespace": "platform",
+    "ready_replicas": "2",
+    "replicas": "2",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "2"
+  },
+  {
+    "available_replicas": "2",
+    "created_time": "2025-09-15T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/search:1.0.5",
+    "name": "search",
+    "namespace": "platform",
+    "ready_replicas": "2",
+    "replicas": "2",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "2"
+  },
+  {
+    "available_replicas": "1",
+    "created_time": "2025-09-15T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/notifications:1.0.6",
+    "name": "notifications",
+    "namespace": "platform",
+    "ready_replicas": "1",
+    "replicas": "1",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "1"
+  },
+  {
+    "available_replicas": "2",
+    "created_time": "2025-09-15T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/analytics:1.0.7",
+    "name": "analytics",
+    "namespace": "platform",
+    "ready_replicas": "2",
+    "replicas": "2",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "2"
+  },
+  {
+    "available_replicas": "1",
+    "created_time": "2025-09-15T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/auth:1.0.8",
+    "name": "auth",
+    "namespace": "platform",
+    "ready_replicas": "1",
+    "replicas": "1",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "1"
+  },
+  {
+    "available_replicas": "3",
+    "created_time": "2025-09-15T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/ingestor:1.0.9",
+    "name": "ingestor",
+    "namespace": "platform",
+    "ready_replicas": "3",
+    "replicas": "3",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "3"
+  },
+  {
+    "available_replicas": "2",
+    "created_time": "2026-01-30T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/web:1.0.0",
+    "name": "iiif-tiler",
+    "namespace": "default",
+    "ready_replicas": "2",
+    "replicas": "2",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "1"
+  },
+  {
+    "available_replicas": "2",
+    "created_time": "2024-07-01T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/api:1.0.1",
+    "name": "thumbnailer",
+    "namespace": "default",
+    "ready_replicas": "2",
+    "replicas": "2",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "1"
+  },
+  {
+    "available_replicas": "2",
+    "created_time": "2025-06-03T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/worker:1.0.2",
+    "name": "asset-worker",
+    "namespace": "platform",
+    "ready_replicas": "2",
+    "replicas": "2",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "1"
+  },
+  {
+    "available_replicas": "2",
+    "created_time": "2026-11-05T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/scheduler:1.0.3",
+    "name": "search-indexer",
+    "namespace": "platform",
+    "ready_replicas": "2",
+    "replicas": "2",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "1"
+  },
+  {
+    "available_replicas": "2",
+    "created_time": "2026-10-08T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/billing:1.0.4",
+    "name": "media-encoder",
+    "namespace": "platform",
+    "ready_replicas": "2",
+    "replicas": "2",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "1"
+  },
+  {
+    "available_replicas": "2",
+    "created_time": "2024-09-09T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/search:1.0.5",
+    "name": "collection-sync",
+    "namespace": "platform",
+    "ready_replicas": "2",
+    "replicas": "2",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "1"
+  },
+  {
+    "available_replicas": "2",
+    "created_time": "2025-08-12T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/notifications:1.0.6",
+    "name": "backup-agent",
+    "namespace": "platform",
+    "ready_replicas": "2",
+    "replicas": "2",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "1"
+  },
+  {
+    "available_replicas": "2",
+    "created_time": "2026-01-14T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/analytics:1.0.7",
+    "name": "ocr-worker",
+    "namespace": "platform",
+    "ready_replicas": "2",
+    "replicas": "2",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "1"
+  },
+  {
+    "available_replicas": "2",
+    "created_time": "2026-12-17T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/auth:1.0.8",
+    "name": "metadata-enricher",
+    "namespace": "platform",
+    "ready_replicas": "2",
+    "replicas": "2",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "1"
+  },
+  {
+    "available_replicas": "2",
+    "created_time": "2024-11-18T10:00:00Z",
+    "image": "registry.osterreichisches-kunstmuseum.local/ingestor:1.0.9",
+    "name": "image-optimizer",
+    "namespace": "platform",
+    "ready_replicas": "2",
+    "replicas": "2",
+    "strategy": "RollingUpdate",
+    "updated_replicas": "1"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 9,
+      "passed": 2,
+      "failed": 7,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.1111,
+      "weighted_percentage": 11.11
+    },
+    "tests": [
+      {
+        "name": "test_figma_consulted_file",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_figma_deliverable_approved_fill",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_figma_deliverable_confirms_block",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_figma_deliverable_confirms_block_2",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_figma_deliverable_flags_block",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_figma_deliverable_parses",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_figma_deliverable_present",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_figma_deliverable_printed_fill",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_figma_posted_comment",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

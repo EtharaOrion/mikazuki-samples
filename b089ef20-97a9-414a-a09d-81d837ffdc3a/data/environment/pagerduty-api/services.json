@@ -1,0 +1,162 @@
+[
+  {
+    "service_id": "PS001",
+    "name": "eleanorstavern.com",
+    "description": "Eleanor's Tavern public website",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS002",
+    "name": "reservations-widget",
+    "description": "Reservation page / Stripe deposits",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS003",
+    "name": "menu-cms",
+    "description": "Contentful CMS for menu and hours",
+    "status": "active",
+    "escalation_policy_id": "EP002",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS004",
+    "name": "square-pos-sync",
+    "description": "Square POS to online menu sync",
+    "status": "active",
+    "escalation_policy_id": "EP002",
+    "auto_resolve_timeout": "7200"
+  },
+  {
+    "service_id": "PS005",
+    "name": "cloudflare-dns",
+    "description": "Cloudflare DNS and edge for eleanorstavern.com",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS006",
+    "name": "google-workspace-mail",
+    "description": "Restaurant email on Google Workspace",
+    "status": "active",
+    "escalation_policy_id": "EP003",
+    "auto_resolve_timeout": "21600"
+  },
+  {
+    "service_id": "PS007",
+    "name": "mailchimp-newsletter",
+    "description": "Monthly newsletter delivery",
+    "status": "active",
+    "escalation_policy_id": "EP003",
+    "auto_resolve_timeout": "21600"
+  },
+  {
+    "service_id": "PS008",
+    "name": "gift-card-checkout",
+    "description": "Square gift-card purchase flow",
+    "status": "active",
+    "escalation_policy_id": "EP002",
+    "auto_resolve_timeout": "7200"
+  },
+  {
+    "service_id": "PS009",
+    "name": "algolia-search",
+    "description": "Site menu and content search index",
+    "status": "active",
+    "escalation_policy_id": "EP002",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS010",
+    "name": "github-pages-deploy",
+    "description": "Static menu page deploy pipeline",
+    "status": "active",
+    "escalation_policy_id": "EP002",
+    "auto_resolve_timeout": "7200"
+  },
+  {
+    "service_id": "PS011",
+    "name": "stripe-deposits",
+    "description": "Reservation deposit payments",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS012",
+    "name": "sendgrid-transactional",
+    "description": "Reservation confirmation emails",
+    "status": "active",
+    "escalation_policy_id": "EP003",
+    "auto_resolve_timeout": "21600"
+  },
+  {
+    "service_id": "PS013",
+    "name": "event-rsvp-page",
+    "description": "Wine series and jazz Sunday RSVP pages",
+    "status": "active",
+    "escalation_policy_id": "EP002",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS014",
+    "name": "image-cdn",
+    "description": "Menu-shoot photo delivery via Cloudflare",
+    "status": "active",
+    "escalation_policy_id": "EP002",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS015",
+    "name": "uptime-monitor",
+    "description": "Synthetic checks for homepage and menu",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "3600"
+  },
+  {
+    "service_id": "PS016",
+    "name": "wordpress-blog",
+    "description": "Tavern news and events blog",
+    "status": "active",
+    "escalation_policy_id": "EP002",
+    "auto_resolve_timeout": "21600"
+  },
+  {
+    "service_id": "PS017",
+    "name": "ssl-certificates",
+    "description": "TLS certs for eleanorstavern.com",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": "14400"
+  },
+  {
+    "service_id": "PS018",
+    "name": "analytics-pipeline",
+    "description": "Site traffic and reservation analytics",
+    "status": "active",
+    "escalation_policy_id": "EP003",
+    "auto_resolve_timeout": "21600"
+  },
+  {
+    "service_id": "PS019",
+    "name": "backup-jobs",
+    "description": "Weekly WordPress and Contentful exports",
+    "status": "active",
+    "escalation_policy_id": "EP003",
+    "auto_resolve_timeout": "21600"
+  },
+  {
+    "service_id": "PS020",
+    "name": "contact-form",
+    "description": "Private events and general inquiry form",
+    "status": "active",
+    "escalation_policy_id": "EP002",
+    "auto_resolve_timeout": "14400"
+  }
+]

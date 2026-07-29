@@ -1,0 +1,43 @@
+{
+  "CompanyInfo": {
+    "CompanyName": "Dorothy Langston (Sole Proprietor)",
+    "LegalName": "Dorothy Langston",
+    "CompanyAddr": {
+      "Line1": "48 Willow Ridge Lane",
+      "City": "Thornfield",
+      "CountrySubDivisionCode": "NJ",
+      "PostalCode": "08542"
+    },
+    "Email": {
+      "Address": "dorothy.langston@finthesiss.ai"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "(609) 555-2400"
+    },
+    "FiscalYearStartMonth": "January",
+    "Country": "US",
+    "IndustryType": "Educational Services",
+    "NameValue": [
+      {
+        "Name": "OwnerName",
+        "Value": "Dorothy Langston"
+      },
+      {
+        "Name": "PrimaryOccupation",
+        "Value": "Associate Professor of Computational Biology, Haverstone University"
+      },
+      {
+        "Name": "SecondaryOccupation",
+        "Value": "Advanced Ballet Instructor, Thornfield Ballet Academy"
+      },
+      {
+        "Name": "TaxContext",
+        "Value": "Personal QuickBooks entity for Schedule C income: ballet teaching stipend, textbook royalties, guest lecture fees, conference reimbursements."
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2017-08-15T10:00:00-04:00",
+      "LastUpdatedTime": "2026-08-01T09:00:00-04:00"
+    }
+  }
+}

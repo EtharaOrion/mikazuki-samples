@@ -1,0 +1,42 @@
+[
+  {
+    "active": true,
+    "id": "flag_4001",
+    "key": "new-onboarding",
+    "name": "New Onboarding Flow",
+    "project_id": 1,
+    "rollout_percentage": 100
+  },
+  {
+    "active": true,
+    "id": "flag_4002",
+    "key": "beta-dashboard",
+    "name": "Beta Dashboard",
+    "project_id": 1,
+    "rollout_percentage": 50
+  },
+  {
+    "active": false,
+    "id": "flag_4003",
+    "key": "dark-mode",
+    "name": "Dark Mode",
+    "project_id": 1,
+    "rollout_percentage": 0
+  },
+  {
+    "active": true,
+    "id": "flag_4004",
+    "key": "ai-suggestions",
+    "name": "AI Suggestions",
+    "project_id": 1,
+    "rollout_percentage": 25
+  },
+  {
+    "active": true,
+    "id": "flag_4005",
+    "key": "export-csv",
+    "name": "Export CSV",
+    "project_id": 1,
+    "rollout_percentage": 75
+  }
+]

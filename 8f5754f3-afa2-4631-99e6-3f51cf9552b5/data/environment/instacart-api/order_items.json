@@ -1,0 +1,770 @@
+[
+  {
+    "order_id": "ic-3001",
+    "product_id": "prod-tf-001",
+    "quantity": "2",
+    "unit_price": "4.49",
+    "line_total": "8.98",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3001",
+    "product_id": "prod-tf-002",
+    "quantity": "1",
+    "unit_price": "5.29",
+    "line_total": "5.29",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3001",
+    "product_id": "prod-tf-004",
+    "quantity": "2",
+    "unit_price": "8.99",
+    "line_total": "17.98",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3001",
+    "product_id": "prod-tf-007",
+    "quantity": "1",
+    "unit_price": "5.49",
+    "line_total": "5.49",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3001",
+    "product_id": "prod-tf-005",
+    "quantity": "1",
+    "unit_price": "5.99",
+    "line_total": "5.99",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3001",
+    "product_id": "prod-tf-006",
+    "quantity": "1",
+    "unit_price": "3.99",
+    "line_total": "3.99",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3002",
+    "product_id": "prod-am-002",
+    "quantity": "1",
+    "unit_price": "9.49",
+    "line_total": "9.49",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3002",
+    "product_id": "prod-am-003",
+    "quantity": "1",
+    "unit_price": "16.99",
+    "line_total": "16.99",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3002",
+    "product_id": "prod-am-001",
+    "quantity": "1",
+    "unit_price": "6.99",
+    "line_total": "6.99",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3002",
+    "product_id": "prod-am-004",
+    "quantity": "1",
+    "unit_price": "3.49",
+    "line_total": "3.49",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3003",
+    "product_id": "prod-tf-001",
+    "quantity": "2",
+    "unit_price": "4.49",
+    "line_total": "8.99",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3003",
+    "product_id": "prod-tf-004",
+    "quantity": "2",
+    "unit_price": "8.99",
+    "line_total": "17.99",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3003",
+    "product_id": "prod-tf-011",
+    "quantity": "1",
+    "unit_price": "6.99",
+    "line_total": "7.0",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3003",
+    "product_id": "prod-tf-010",
+    "quantity": "3",
+    "unit_price": "1.99",
+    "line_total": "5.97",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3003",
+    "product_id": "prod-tf-008",
+    "quantity": "1",
+    "unit_price": "4.79",
+    "line_total": "4.79",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3003",
+    "product_id": "prod-tf-006",
+    "quantity": "2",
+    "unit_price": "3.99",
+    "line_total": "7.98",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3004",
+    "product_id": "prod-kf-001",
+    "quantity": "1",
+    "unit_price": "4.49",
+    "line_total": "4.49",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3004",
+    "product_id": "prod-kf-002",
+    "quantity": "1",
+    "unit_price": "2.99",
+    "line_total": "2.99",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3004",
+    "product_id": "prod-kf-003",
+    "quantity": "2",
+    "unit_price": "6.49",
+    "line_total": "12.98",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3004",
+    "product_id": "prod-kf-004",
+    "quantity": "1",
+    "unit_price": "1.99",
+    "line_total": "1.99",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3004",
+    "product_id": "prod-kf-005",
+    "quantity": "1",
+    "unit_price": "11.99",
+    "line_total": "11.99",
+    "replacement_for": "prod-kf-005"
+  },
+  {
+    "order_id": "ic-3005",
+    "product_id": "prod-tf-002",
+    "quantity": "2",
+    "unit_price": "5.29",
+    "line_total": "10.58",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3005",
+    "product_id": "prod-tf-003",
+    "quantity": "2",
+    "unit_price": "1.79",
+    "line_total": "3.58",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3005",
+    "product_id": "prod-tf-007",
+    "quantity": "1",
+    "unit_price": "5.49",
+    "line_total": "5.5",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3005",
+    "product_id": "prod-tf-004",
+    "quantity": "2",
+    "unit_price": "8.99",
+    "line_total": "18.0",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3005",
+    "product_id": "prod-tf-008",
+    "quantity": "1",
+    "unit_price": "4.79",
+    "line_total": "4.8",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3006",
+    "product_id": "prod-am-002",
+    "quantity": "1",
+    "unit_price": "9.49",
+    "line_total": "9.5",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3006",
+    "product_id": "prod-am-001",
+    "quantity": "2",
+    "unit_price": "6.99",
+    "line_total": "13.98",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3006",
+    "product_id": "prod-am-004",
+    "quantity": "2",
+    "unit_price": "3.49",
+    "line_total": "6.98",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3006",
+    "product_id": "prod-am-003",
+    "quantity": "1",
+    "unit_price": "11.01",
+    "line_total": "11.01",
+    "replacement_for": "prod-am-003"
+  },
+  {
+    "order_id": "ic-3007",
+    "product_id": "prod-tf-001",
+    "quantity": "2",
+    "unit_price": "4.49",
+    "line_total": "9.0",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3007",
+    "product_id": "prod-tf-006",
+    "quantity": "2",
+    "unit_price": "3.99",
+    "line_total": "7.99",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3007",
+    "product_id": "prod-tf-005",
+    "quantity": "1",
+    "unit_price": "7.49",
+    "line_total": "7.49",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3007",
+    "product_id": "prod-tf-003",
+    "quantity": "3",
+    "unit_price": "1.79",
+    "line_total": "5.37",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3007",
+    "product_id": "prod-tf-010",
+    "quantity": "5",
+    "unit_price": "1.99",
+    "line_total": "9.95",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3008",
+    "product_id": "prod-costco-001",
+    "quantity": "2",
+    "unit_price": "4.99",
+    "line_total": "9.98",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3008",
+    "product_id": "prod-kf-005",
+    "quantity": "2",
+    "unit_price": "11.99",
+    "line_total": "23.98",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3008",
+    "product_id": "prod-tf-004",
+    "quantity": "4",
+    "unit_price": "8.99",
+    "line_total": "35.96",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3008",
+    "product_id": "prod-tf-001",
+    "quantity": "2",
+    "unit_price": "4.49",
+    "line_total": "9.01",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3009",
+    "product_id": "prod-tf-002",
+    "quantity": "2",
+    "unit_price": "5.29",
+    "line_total": "10.59",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3009",
+    "product_id": "prod-tf-004",
+    "quantity": "2",
+    "unit_price": "8.99",
+    "line_total": "18.01",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3009",
+    "product_id": "prod-tf-007",
+    "quantity": "1",
+    "unit_price": "5.49",
+    "line_total": "5.51",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3009",
+    "product_id": "prod-tf-011",
+    "quantity": "1",
+    "unit_price": "8.49",
+    "line_total": "8.49",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3009",
+    "product_id": "prod-tf-003",
+    "quantity": "2",
+    "unit_price": "1.79",
+    "line_total": "3.59",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3010",
+    "product_id": "prod-kf-001",
+    "quantity": "1",
+    "unit_price": "4.49",
+    "line_total": "4.5",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3010",
+    "product_id": "prod-kf-003",
+    "quantity": "2",
+    "unit_price": "6.49",
+    "line_total": "12.99",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3010",
+    "product_id": "prod-kf-002",
+    "quantity": "1",
+    "unit_price": "2.99",
+    "line_total": "3.0",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3010",
+    "product_id": "prod-kf-004",
+    "quantity": "2",
+    "unit_price": "1.99",
+    "line_total": "3.98",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3010",
+    "product_id": "prod-wf-002",
+    "quantity": "2",
+    "unit_price": "3.49",
+    "line_total": "7.01",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3011",
+    "product_id": "prod-tf-001",
+    "quantity": "2",
+    "unit_price": "4.49",
+    "line_total": "9.02",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3011",
+    "product_id": "prod-tf-004",
+    "quantity": "3",
+    "unit_price": "8.99",
+    "line_total": "26.97",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3011",
+    "product_id": "prod-tf-005",
+    "quantity": "1",
+    "unit_price": "7.49",
+    "line_total": "7.5",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3011",
+    "product_id": "prod-tf-008",
+    "quantity": "1",
+    "unit_price": "4.79",
+    "line_total": "4.81",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3011",
+    "product_id": "prod-tf-003",
+    "quantity": "1",
+    "unit_price": "1.79",
+    "line_total": "1.79",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3012",
+    "product_id": "prod-am-001",
+    "quantity": "1",
+    "unit_price": "6.99",
+    "line_total": "7.02",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3012",
+    "product_id": "prod-am-002",
+    "quantity": "1",
+    "unit_price": "9.49",
+    "line_total": "9.51",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3012",
+    "product_id": "prod-am-004",
+    "quantity": "2",
+    "unit_price": "3.49",
+    "line_total": "7.03",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3012",
+    "product_id": "prod-tf-006",
+    "quantity": "1",
+    "unit_price": "3.99",
+    "line_total": "4.0",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3013",
+    "product_id": "prod-tf-002",
+    "quantity": "1",
+    "unit_price": "5.29",
+    "line_total": "5.3",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3013",
+    "product_id": "prod-tf-004",
+    "quantity": "2",
+    "unit_price": "8.99",
+    "line_total": "18.02",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3013",
+    "product_id": "prod-tf-007",
+    "quantity": "1",
+    "unit_price": "5.49",
+    "line_total": "5.52",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3013",
+    "product_id": "prod-tf-001",
+    "quantity": "1",
+    "unit_price": "4.49",
+    "line_total": "4.51",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3013",
+    "product_id": "prod-tf-003",
+    "quantity": "5",
+    "unit_price": "1.79",
+    "line_total": "8.95",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3014",
+    "product_id": "prod-cvs-001",
+    "quantity": "1",
+    "unit_price": "12.99",
+    "line_total": "13.0",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3014",
+    "product_id": "prod-tf-005",
+    "quantity": "1",
+    "unit_price": "7.49",
+    "line_total": "7.51",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3014",
+    "product_id": "prod-tf-006",
+    "quantity": "1",
+    "unit_price": "3.99",
+    "line_total": "4.01",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3015",
+    "product_id": "prod-tf-001",
+    "quantity": "2",
+    "unit_price": "4.49",
+    "line_total": "9.03",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3015",
+    "product_id": "prod-tf-004",
+    "quantity": "2",
+    "unit_price": "8.99",
+    "line_total": "18.03",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3015",
+    "product_id": "prod-tf-011",
+    "quantity": "1",
+    "unit_price": "8.49",
+    "line_total": "8.5",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3015",
+    "product_id": "prod-tf-002",
+    "quantity": "1",
+    "unit_price": "5.29",
+    "line_total": "5.31",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3015",
+    "product_id": "prod-tf-010",
+    "quantity": "3",
+    "unit_price": "1.99",
+    "line_total": "5.98",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3016",
+    "product_id": "prod-kf-003",
+    "quantity": "2",
+    "unit_price": "6.49",
+    "line_total": "13.01",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3016",
+    "product_id": "prod-kf-001",
+    "quantity": "1",
+    "unit_price": "4.49",
+    "line_total": "4.52",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3016",
+    "product_id": "prod-kf-002",
+    "quantity": "1",
+    "unit_price": "2.99",
+    "line_total": "3.01",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3016",
+    "product_id": "prod-kf-004",
+    "quantity": "2",
+    "unit_price": "1.99",
+    "line_total": "4.02",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3016",
+    "product_id": "prod-wf-002",
+    "quantity": "2",
+    "unit_price": "3.49",
+    "line_total": "7.04",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3017",
+    "product_id": "prod-tf-004",
+    "quantity": "3",
+    "unit_price": "8.99",
+    "line_total": "26.98",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3017",
+    "product_id": "prod-tf-001",
+    "quantity": "2",
+    "unit_price": "4.49",
+    "line_total": "9.04",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3017",
+    "product_id": "prod-tf-007",
+    "quantity": "2",
+    "unit_price": "5.49",
+    "line_total": "10.98",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3017",
+    "product_id": "prod-tf-005",
+    "quantity": "1",
+    "unit_price": "7.49",
+    "line_total": "7.52",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3018",
+    "product_id": "prod-am-002",
+    "quantity": "1",
+    "unit_price": "9.49",
+    "line_total": "9.52",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3018",
+    "product_id": "prod-am-003",
+    "quantity": "1",
+    "unit_price": "16.99",
+    "line_total": "17.0",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3018",
+    "product_id": "prod-am-004",
+    "quantity": "1",
+    "unit_price": "3.49",
+    "line_total": "3.5",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3018",
+    "product_id": "prod-am-001",
+    "quantity": "1",
+    "unit_price": "6.99",
+    "line_total": "7.05",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3019",
+    "product_id": "prod-tf-002",
+    "quantity": "1",
+    "unit_price": "5.29",
+    "line_total": "5.32",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3019",
+    "product_id": "prod-tf-004",
+    "quantity": "2",
+    "unit_price": "8.99",
+    "line_total": "18.04",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3019",
+    "product_id": "prod-tf-006",
+    "quantity": "2",
+    "unit_price": "3.99",
+    "line_total": "8.0",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3019",
+    "product_id": "prod-tf-003",
+    "quantity": "3",
+    "unit_price": "1.79",
+    "line_total": "5.38",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3019",
+    "product_id": "prod-tf-008",
+    "quantity": "1",
+    "unit_price": "4.79",
+    "line_total": "4.82",
+    "replacement_for": "prod-tf-008"
+  },
+  {
+    "order_id": "ic-3020",
+    "product_id": "prod-tf-001",
+    "quantity": "2",
+    "unit_price": "4.49",
+    "line_total": "9.05",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3020",
+    "product_id": "prod-tf-004",
+    "quantity": "2",
+    "unit_price": "8.99",
+    "line_total": "18.05",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3020",
+    "product_id": "prod-tf-007",
+    "quantity": "1",
+    "unit_price": "5.49",
+    "line_total": "5.53",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3020",
+    "product_id": "prod-tf-005",
+    "quantity": "1",
+    "unit_price": "7.49",
+    "line_total": "7.53",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3020",
+    "product_id": "prod-tf-003",
+    "quantity": "3",
+    "unit_price": "1.79",
+    "line_total": "5.39",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3021",
+    "product_id": "prod-wf-001",
+    "quantity": "2",
+    "unit_price": "13.99",
+    "line_total": "27.98",
+    "replacement_for": "N/A - no substitution offered"
+  },
+  {
+    "order_id": "ic-3021",
+    "product_id": "prod-wf-002",
+    "quantity": "3",
+    "unit_price": "3.49",
+    "line_total": "10.47",
+    "replacement_for": "N/A - no substitution offered"
+  }
+]

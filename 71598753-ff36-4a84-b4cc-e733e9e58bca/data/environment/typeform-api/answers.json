@@ -1,0 +1,142 @@
+[
+  {
+    "answer": "A.R.",
+    "field_id": "fld-palmetto-initials",
+    "field_type": "short_text",
+    "ref": "initials",
+    "response_id": "resp-palmetto-001"
+  },
+  {
+    "answer": "Custody",
+    "field_id": "fld-palmetto-matter",
+    "field_type": "multiple_choice",
+    "ref": "matter_type",
+    "response_id": "resp-palmetto-001"
+  },
+  {
+    "answer": "Yes",
+    "field_id": "fld-palmetto-children",
+    "field_type": "multiple_choice",
+    "ref": "has_children",
+    "response_id": "resp-palmetto-001"
+  },
+  {
+    "answer": "Under $25k",
+    "field_id": "fld-palmetto-income",
+    "field_type": "multiple_choice",
+    "ref": "income_band",
+    "response_id": "resp-palmetto-001"
+  },
+  {
+    "answer": "33145",
+    "field_id": "fld-palmetto-zip",
+    "field_type": "short_text",
+    "ref": "zip",
+    "response_id": "resp-palmetto-001"
+  },
+  {
+    "answer": "J.T.",
+    "field_id": "fld-palmetto-initials",
+    "field_type": "short_text",
+    "ref": "initials",
+    "response_id": "resp-palmetto-002"
+  },
+  {
+    "answer": "Divorce",
+    "field_id": "fld-palmetto-matter",
+    "field_type": "multiple_choice",
+    "ref": "matter_type",
+    "response_id": "resp-palmetto-002"
+  },
+  {
+    "answer": "No",
+    "field_id": "fld-palmetto-children",
+    "field_type": "multiple_choice",
+    "ref": "has_children",
+    "response_id": "resp-palmetto-002"
+  },
+  {
+    "answer": "$25k-$50k",
+    "field_id": "fld-palmetto-income",
+    "field_type": "multiple_choice",
+    "ref": "income_band",
+    "response_id": "resp-palmetto-002"
+  },
+  {
+    "answer": "33135",
+    "field_id": "fld-palmetto-zip",
+    "field_type": "short_text",
+    "ref": "zip",
+    "response_id": "resp-palmetto-002"
+  },
+  {
+    "answer": "S.K.",
+    "field_id": "fld-palmetto-initials",
+    "field_type": "short_text",
+    "ref": "initials",
+    "response_id": "resp-palmetto-003"
+  },
+  {
+    "answer": "Custody",
+    "field_id": "fld-palmetto-matter",
+    "field_type": "multiple_choice",
+    "ref": "matter_type",
+    "response_id": "resp-palmetto-003"
+  },
+  {
+    "answer": "Yes",
+    "field_id": "fld-palmetto-children",
+    "field_type": "multiple_choice",
+    "ref": "has_children",
+    "response_id": "resp-palmetto-003"
+  },
+  {
+    "answer": "$25k-$50k",
+    "field_id": "fld-palmetto-income",
+    "field_type": "multiple_choice",
+    "ref": "income_band",
+    "response_id": "resp-palmetto-003"
+  },
+  {
+    "answer": "33125",
+    "field_id": "fld-palmetto-zip",
+    "field_type": "short_text",
+    "ref": "zip",
+    "response_id": "resp-palmetto-003"
+  },
+  {
+    "answer": "B.T.",
+    "field_id": "fld-palmetto-initials",
+    "field_type": "short_text",
+    "ref": "initials",
+    "response_id": "resp-palmetto-004"
+  },
+  {
+    "answer": "Other family law",
+    "field_id": "fld-palmetto-matter",
+    "field_type": "multiple_choice",
+    "ref": "matter_type",
+    "response_id": "resp-palmetto-004"
+  },
+  {
+    "answer": "No",
+    "field_id": "fld-palmetto-children",
+    "field_type": "multiple_choice",
+    "ref": "has_children",
+    "response_id": "resp-palmetto-004"
+  },
+  {
+    "answer": "Under $25k",
+    "field_id": "fld-palmetto-income",
+    "field_type": "multiple_choice",
+    "ref": "income_band",
+    "response_id": "resp-palmetto-004"
+  },
+  {
+    "answer": "33155",
+    "field_id": "fld-palmetto-zip",
+    "field_type": "short_text",
+    "ref": "zip",
+    "response_id": "resp-palmetto-004"
+  }
+]

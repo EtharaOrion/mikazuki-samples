@@ -1,0 +1,66 @@
+[
+  {
+    "id": "src_web01",
+    "name": "Bridgeport Avenue Elementary (Hartford Public Schools) Marketing Website",
+    "slug": "marketing-website",
+    "enabled": "true",
+    "type": "javascript",
+    "created_at": "2026-03-11T04:45:04+00:00"
+  },
+  {
+    "id": "src_ios01",
+    "name": "Bridgeport Avenue Elementary (Hartford Public Schools) iOS App",
+    "slug": "ios-app",
+    "enabled": "true",
+    "type": "ios",
+    "created_at": "2026-06-15T10:41:15+00:00"
+  },
+  {
+    "id": "src_and01",
+    "name": "Bridgeport Avenue Elementary (Hartford Public Schools) Android App",
+    "slug": "android-app",
+    "enabled": "true",
+    "type": "android",
+    "created_at": "2026-06-19T00:07:21+00:00"
+  },
+  {
+    "id": "src_srv01",
+    "name": "Bridgeport Avenue Elementary (Hartford Public Schools) Backend Server",
+    "slug": "backend-server",
+    "enabled": "true",
+    "type": "server",
+    "created_at": "2026-03-20T16:03:05+00:00"
+  },
+  {
+    "id": "src_old01",
+    "name": "Legacy Customer Portal",
+    "slug": "legacy-portal",
+    "enabled": "true",
+    "type": "javascript",
+    "created_at": "2026-06-08T16:26:45+00:00"
+  },
+  {
+    "id": "src_app01",
+    "name": "Bridgeport Avenue Elementary (Hartford Public Schools) Web App",
+    "slug": "web-app",
+    "enabled": "true",
+    "type": "javascript",
+    "created_at": "2026-06-07T14:23:37+00:00"
+  },
+  {
+    "id": "src_etl01",
+    "name": "Bridgeport Avenue Elementary (Hartford Public Schools) ETL Pipeline",
+    "slug": "etl-pipeline",
+    "enabled": "true",
+    "type": "server",
+    "created_at": "2026-06-01T09:06:24+00:00"
+  },
+  {
+    "id": "src_chat01",
+    "name": "Bridgeport Avenue Elementary (Hartford Public Schools) Chat Widget",
+    "slug": "chat-widget",
+    "enabled": "true",
+    "type": "javascript",
+    "created_at": "2026-07-14T21:22:14+00:00"
+  }
+]

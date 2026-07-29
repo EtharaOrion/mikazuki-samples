@@ -1,0 +1,914 @@
+[
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Matthias Vogl",
+      "value": "1001"
+    },
+    "DocNumber": "4001",
+    "DueDate": "2024-03-27",
+    "Id": "4001",
+    "Line": [
+      {
+        "Amount": 744.58,
+        "Description": "Curator's Circle membership - monthly",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 2,
+          "UnitPrice": 372.29
+        }
+      },
+      {
+        "Amount": 744.58,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4001-0",
+        "LineNum": 0,
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Paid",
+    "TotalAmt": 744.58,
+    "TxnDate": "2024-04-01"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Lena Vogl",
+      "value": "1002"
+    },
+    "DocNumber": "4002",
+    "DueDate": "2024-04-07",
+    "Id": "4002",
+    "Line": [
+      {
+        "Amount": 1905.52,
+        "Description": "Founders Circle membership - monthly",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4002-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Founders Circle membership - monthly",
+            "value": "3002"
+          },
+          "Qty": 3,
+          "UnitPrice": 952.76
+        }
+      },
+      {
+        "Amount": 1905.52,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4002-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Paid",
+    "TotalAmt": 1905.52,
+    "TxnDate": "2024-04-12"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Felix Vogl",
+      "value": "1003"
+    },
+    "DocNumber": "4003",
+    "DueDate": "2024-04-18",
+    "Id": "4003",
+    "Line": [
+      {
+        "Amount": 1449.73,
+        "Description": "Patrons Circle membership - monthly",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4003-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Patrons Circle membership - monthly",
+            "value": "3003"
+          },
+          "Qty": 4,
+          "UnitPrice": 724.865
+        }
+      },
+      {
+        "Amount": 1449.73,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4003-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Paid",
+    "TotalAmt": 1449.73,
+    "TxnDate": "2024-04-23"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Gloria Padilla",
+      "value": "1004"
+    },
+    "DocNumber": "4004",
+    "DueDate": "2024-04-29",
+    "Id": "4004",
+    "Line": [
+      {
+        "Amount": 742.39,
+        "Description": "Founders Circle membership - annual",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4004-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Founders Circle membership - annual",
+            "value": "3004"
+          },
+          "Qty": 2,
+          "UnitPrice": 371.195
+        }
+      },
+      {
+        "Amount": 742.39,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4004-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Paid",
+    "TotalAmt": 742.39,
+    "TxnDate": "2024-05-04"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Ernesto Padilla",
+      "value": "1005"
+    },
+    "DocNumber": "4005",
+    "DueDate": "2024-05-10",
+    "Id": "4005",
+    "Line": [
+      {
+        "Amount": 473.73,
+        "Description": "Exhibition sponsorship - implementation",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4005-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Exhibition sponsorship - implementation",
+            "value": "3005"
+          },
+          "Qty": 1,
+          "UnitPrice": 236.865
+        }
+      },
+      {
+        "Amount": 473.73,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4005-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Open",
+    "TotalAmt": 473.73,
+    "TxnDate": "2024-05-15"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Catalina Padilla-Hofer",
+      "value": "1006"
+    },
+    "DocNumber": "4006",
+    "DueDate": "2024-05-21",
+    "Id": "4006",
+    "Line": [
+      {
+        "Amount": 874.74,
+        "Description": "Private curator-led tour - 60 min",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4006-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Private curator-led tour - 60 min",
+            "value": "3006"
+          },
+          "Qty": 4,
+          "UnitPrice": 437.37
+        }
+      },
+      {
+        "Amount": 874.74,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4006-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Open",
+    "TotalAmt": 874.74,
+    "TxnDate": "2024-05-26"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Josef Hofer",
+      "value": "1007"
+    },
+    "DocNumber": "4007",
+    "DueDate": "2024-06-01",
+    "Id": "4007",
+    "Line": [
+      {
+        "Amount": 2664.29,
+        "Description": "Vienna Modern catalogue - hardcover bundle",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4007-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Vienna Modern catalogue - hardcover bundle",
+            "value": "3007"
+          },
+          "Qty": 4,
+          "UnitPrice": 1332.145
+        }
+      },
+      {
+        "Amount": 2664.29,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4007-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Open",
+    "TotalAmt": 2664.29,
+    "TxnDate": "2024-06-06"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Mia Hofer",
+      "value": "1008"
+    },
+    "DocNumber": "4008",
+    "DueDate": "2024-06-12",
+    "Id": "4008",
+    "Line": [
+      {
+        "Amount": 2704.97,
+        "Description": "Museum welcome pack",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4008-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Museum welcome pack",
+            "value": "3008"
+          },
+          "Qty": 1,
+          "UnitPrice": 1352.485
+        }
+      },
+      {
+        "Amount": 2704.97,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4008-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Open",
+    "TotalAmt": 2704.97,
+    "TxnDate": "2024-06-17"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Matthias Vogl",
+      "value": "1001"
+    },
+    "DocNumber": "4001",
+    "DueDate": "2025-11-27",
+    "Id": "4001-2",
+    "Line": [
+      {
+        "Amount": 744.58,
+        "Description": "Curator's Circle membership - monthly",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 2,
+          "UnitPrice": 372.29
+        }
+      },
+      {
+        "Amount": 744.58,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Paid",
+    "TotalAmt": 744.58,
+    "TxnDate": "2025-12-02"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Lena Vogl",
+      "value": "1002"
+    },
+    "DocNumber": "4001",
+    "DueDate": "2026-11-01",
+    "Id": "4001-3",
+    "Line": [
+      {
+        "Amount": 1905.52,
+        "Description": "Curator's Circle membership - monthly",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 3,
+          "UnitPrice": 952.76
+        }
+      },
+      {
+        "Amount": 1905.52,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Paid",
+    "TotalAmt": 1905.52,
+    "TxnDate": "2026-11-06"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Felix Vogl",
+      "value": "1003"
+    },
+    "DocNumber": "4001",
+    "DueDate": "2024-04-02",
+    "Id": "4001-4",
+    "Line": [
+      {
+        "Amount": 1449.73,
+        "Description": "Curator's Circle membership - monthly",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 4,
+          "UnitPrice": 724.865
+        }
+      },
+      {
+        "Amount": 1449.73,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Paid",
+    "TotalAmt": 1449.73,
+    "TxnDate": "2024-04-07"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Gloria Padilla",
+      "value": "1004"
+    },
+    "DocNumber": "4001",
+    "DueDate": "2025-03-05",
+    "Id": "4001-5",
+    "Line": [
+      {
+        "Amount": 742.39,
+        "Description": "Curator's Circle membership - monthly",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 2,
+          "UnitPrice": 371.195
+        }
+      },
+      {
+        "Amount": 742.39,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Paid",
+    "TotalAmt": 742.39,
+    "TxnDate": "2025-03-10"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Ernesto Padilla",
+      "value": "1005"
+    },
+    "DocNumber": "4001",
+    "DueDate": "2026-02-05",
+    "Id": "4001-6",
+    "Line": [
+      {
+        "Amount": 473.73,
+        "Description": "Curator's Circle membership - monthly",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 1,
+          "UnitPrice": 236.865
+        }
+      },
+      {
+        "Amount": 473.73,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Open",
+    "TotalAmt": 473.73,
+    "TxnDate": "2026-02-10"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Catalina Padilla-Hofer",
+      "value": "1006"
+    },
+    "DocNumber": "4001",
+    "DueDate": "2026-01-10",
+    "Id": "4001-7",
+    "Line": [
+      {
+        "Amount": 874.74,
+        "Description": "Curator's Circle membership - monthly",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 4,
+          "UnitPrice": 437.37
+        }
+      },
+      {
+        "Amount": 874.74,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Open",
+    "TotalAmt": 874.74,
+    "TxnDate": "2026-01-15"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Josef Hofer",
+      "value": "1007"
+    },
+    "DocNumber": "4001",
+    "DueDate": "2024-06-11",
+    "Id": "4001-8",
+    "Line": [
+      {
+        "Amount": 2664.29,
+        "Description": "Curator's Circle membership - monthly",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 4,
+          "UnitPrice": 1332.145
+        }
+      },
+      {
+        "Amount": 2664.29,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Open",
+    "TotalAmt": 2664.29,
+    "TxnDate": "2024-06-16"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Mia Hofer",
+      "value": "1008"
+    },
+    "DocNumber": "4001",
+    "DueDate": "2025-05-14",
+    "Id": "4001-9",
+    "Line": [
+      {
+        "Amount": 2704.97,
+        "Description": "Curator's Circle membership - monthly",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 1,
+          "UnitPrice": 1352.485
+        }
+      },
+      {
+        "Amount": 2704.97,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Open",
+    "TotalAmt": 2704.97,
+    "TxnDate": "2025-05-19"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Dr. Stefan Koenig",
+      "value": "1009"
+    },
+    "DocNumber": "4001",
+    "DueDate": "2026-10-16",
+    "Id": "4001-10",
+    "Line": [
+      {
+        "Amount": 744.58,
+        "Description": "Curator's Circle membership - monthly",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 2,
+          "UnitPrice": 372.29
+        }
+      },
+      {
+        "Amount": 744.58,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Paid",
+    "TotalAmt": 744.58,
+    "TxnDate": "2026-10-21"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Dr. Margarethe Huber",
+      "value": "1010"
+    },
+    "DocNumber": "4001",
+    "DueDate": "2026-03-18",
+    "Id": "4001-11",
+    "Line": [
+      {
+        "Amount": 1905.52,
+        "Description": "Curator's Circle membership - monthly",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 3,
+          "UnitPrice": 952.76
+        }
+      },
+      {
+        "Amount": 1905.52,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Paid",
+    "TotalAmt": 1905.52,
+    "TxnDate": "2026-03-23"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Heinrich Sommer",
+      "value": "1011"
+    },
+    "DocNumber": "4001",
+    "DueDate": "2024-08-20",
+    "Id": "4001-12",
+    "Line": [
+      {
+        "Amount": 1449.73,
+        "Description": "Curator's Circle membership - monthly",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 4,
+          "UnitPrice": 724.865
+        }
+      },
+      {
+        "Amount": 1449.73,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Paid",
+    "TotalAmt": 1449.73,
+    "TxnDate": "2024-08-25"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Bundesministerin Clara Winkler",
+      "value": "1012"
+    },
+    "DocNumber": "4001",
+    "DueDate": "2025-07-23",
+    "Id": "4001-13",
+    "Line": [
+      {
+        "Amount": 742.39,
+        "Description": "Curator's Circle membership - monthly",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "line-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 2,
+          "UnitPrice": 371.195
+        }
+      },
+      {
+        "Amount": 742.39,
+        "Description": "Subtotal",
+        "DetailType": "SubTotalLineDetail",
+        "Id": "sub-4001-0",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Curator's Circle membership - monthly",
+            "value": "3001"
+          },
+          "Qty": 0,
+          "UnitPrice": 372.29
+        },
+        "SubTotalLineDetail": {}
+      }
+    ],
+    "Status": "Paid",
+    "TotalAmt": 742.39,
+    "TxnDate": "2025-07-28"
+  }
+]

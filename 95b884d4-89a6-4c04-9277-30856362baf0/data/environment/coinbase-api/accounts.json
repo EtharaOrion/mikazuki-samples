@@ -1,0 +1,80 @@
+[
+  {
+    "id": "6a618156-a0f7-9bbe-490c-ef78666685ed",
+    "name": "ETC Wallet",
+    "primary": "true",
+    "type": "wallet",
+    "currency_code": "ETC",
+    "currency_name": "Ethereum Classic",
+    "balance_amount": "0.44132700",
+    "native_balance_amount": "10.81",
+    "native_currency": "USD",
+    "created_at": "2025-01-21T00:00:00Z",
+    "updated_at": "2026-07-14T00:00:00Z"
+  },
+  {
+    "id": "6d8ec764-c9a0-e18d-4dfa-48e36b74ad4d",
+    "name": "FTM Wallet",
+    "primary": "false",
+    "type": "wallet",
+    "currency_code": "FTM",
+    "currency_name": "Fantom",
+    "balance_amount": "0.20018300",
+    "native_balance_amount": "0.20",
+    "native_currency": "USD",
+    "created_at": "2025-03-22T00:00:00Z",
+    "updated_at": "2026-07-13T00:00:00Z"
+  },
+  {
+    "id": "36841a5e-4bfc-b390-4d76-35386e0bffc7",
+    "name": "OP Wallet",
+    "primary": "false",
+    "type": "wallet",
+    "currency_code": "OP",
+    "currency_name": "Optimism",
+    "balance_amount": "0.24964400",
+    "native_balance_amount": "0.42",
+    "native_currency": "USD",
+    "created_at": "2025-05-21T00:00:00Z",
+    "updated_at": "2026-07-12T00:00:00Z"
+  },
+  {
+    "id": "d16b949e-b86f-4ca7-4d4d-80069b95132e",
+    "name": "BNB Wallet",
+    "primary": "false",
+    "type": "wallet",
+    "currency_code": "BNB",
+    "currency_name": "BNB",
+    "balance_amount": "1.34988700",
+    "native_balance_amount": "728.94",
+    "native_currency": "USD",
+    "created_at": "2025-07-20T00:00:00Z",
+    "updated_at": "2026-07-11T00:00:00Z"
+  },
+  {
+    "id": "ad34e7b1-68ae-588d-4c43-bf078b7b5742",
+    "name": "QNT Wallet",
+    "primary": "false",
+    "type": "wallet",
+    "currency_code": "QNT",
+    "currency_name": "Quant",
+    "balance_amount": "0.79027500",
+    "native_balance_amount": "0.79",
+    "native_currency": "USD",
+    "created_at": "2025-09-18T00:00:00Z",
+    "updated_at": "2026-07-10T00:00:00Z"
+  },
+  {
+    "id": "f420d2e0-16ea-d0a1-4236-a3bf3f72bd5b",
+    "name": "AVAX Wallet",
+    "primary": "false",
+    "type": "wallet",
+    "currency_code": "AVAX",
+    "currency_name": "Avalanche",
+    "balance_amount": "0.50540000",
+    "native_balance_amount": "13.95",
+    "native_currency": "USD",
+    "created_at": "2025-11-17T00:00:00Z",
+    "updated_at": "2026-07-09T00:00:00Z"
+  }
+]

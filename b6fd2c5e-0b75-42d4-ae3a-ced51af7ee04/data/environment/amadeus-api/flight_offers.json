@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "1",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Atlanta, GA",
+    "destinationLocationCode": "Atlanta, GA",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 8,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-05T08:30:00"
+            },
+            "carrierCode": "SW",
+            "number": "1829",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-08T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T08:30:00"
+            },
+            "carrierCode": "SW",
+            "number": "1388",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "315.09",
+      "base": "258.37",
+      "grandTotal": "315.09"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "315.09"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "SW"
+    ]
+  },
+  {
+    "id": "2",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Memphis, TN",
+    "destinationLocationCode": "Memphis, TN",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 5,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T08:15:00"
+            },
+            "arrival": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-05T10:15:00"
+            },
+            "carrierCode": "SW",
+            "number": "1862",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-08T08:15:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T10:15:00"
+            },
+            "carrierCode": "SW",
+            "number": "1879",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "238.02",
+      "base": "195.18",
+      "grandTotal": "238.02"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "238.02"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "SW"
+    ]
+  },
+  {
+    "id": "3",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Chattanooga, TN",
+    "destinationLocationCode": "Chattanooga, TN",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 4,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-05T08:30:00"
+            },
+            "carrierCode": "DL",
+            "number": "1284",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-08T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T08:30:00"
+            },
+            "carrierCode": "DL",
+            "number": "1551",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "328.24",
+      "base": "269.16",
+      "grandTotal": "328.24"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "328.24"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "4",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Charlotte, NC",
+    "destinationLocationCode": "Charlotte, NC",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T08:15:00"
+            },
+            "arrival": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-05T10:15:00"
+            },
+            "carrierCode": "SW",
+            "number": "1449",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-08T08:15:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T10:15:00"
+            },
+            "carrierCode": "SW",
+            "number": "1424",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "344.53",
+      "base": "282.51",
+      "grandTotal": "344.53"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "344.53"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "SW"
+    ]
+  },
+  {
+    "id": "5",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Nashville, TN",
+    "destinationLocationCode": "Nashville, TN",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 5,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T08:15:00"
+            },
+            "arrival": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-05T10:15:00"
+            },
+            "carrierCode": "DL",
+            "number": "1952",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-08T08:15:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T10:15:00"
+            },
+            "carrierCode": "DL",
+            "number": "1500",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "324.4",
+      "base": "266.01",
+      "grandTotal": "324.4"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "324.4"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "6",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Birmingham, AL",
+    "destinationLocationCode": "Birmingham, AL",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 8,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-05T08:30:00"
+            },
+            "carrierCode": "SW",
+            "number": "1314",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-08T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T08:30:00"
+            },
+            "carrierCode": "SW",
+            "number": "1159",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "332.36",
+      "base": "272.54",
+      "grandTotal": "332.36"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "332.36"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "SW"
+    ]
+  },
+  {
+    "id": "7",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Jackson, MS",
+    "destinationLocationCode": "Jackson, MS",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 8,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T16:05:00"
+            },
+            "arrival": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-05T18:05:00"
+            },
+            "carrierCode": "DL",
+            "number": "1964",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-08T16:05:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T18:05:00"
+            },
+            "carrierCode": "DL",
+            "number": "1475",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "206.64",
+      "base": "169.44",
+      "grandTotal": "206.64"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "206.64"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "8",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Dallas, TX",
+    "destinationLocationCode": "Dallas, TX",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 8,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-05T08:30:00"
+            },
+            "carrierCode": "SW",
+            "number": "1608",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-08T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T08:30:00"
+            },
+            "carrierCode": "SW",
+            "number": "1767",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "190.1",
+      "base": "155.88",
+      "grandTotal": "190.1"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "190.1"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "SW"
+    ]
+  },
+  {
+    "id": "9",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Atlanta, GA",
+    "destinationLocationCode": "Atlanta, GA",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 4,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-05T08:30:00"
+            },
+            "carrierCode": "AA",
+            "number": "1702",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-08T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T08:30:00"
+            },
+            "carrierCode": "AA",
+            "number": "1216",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "306.91",
+      "base": "251.67",
+      "grandTotal": "306.91"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "306.91"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "AA"
+    ]
+  },
+  {
+    "id": "10",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Memphis, TN",
+    "destinationLocationCode": "Memphis, TN",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T08:15:00"
+            },
+            "arrival": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-05T10:15:00"
+            },
+            "carrierCode": "SW",
+            "number": "1208",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-08T08:15:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T10:15:00"
+            },
+            "carrierCode": "SW",
+            "number": "1159",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "317.0",
+      "base": "259.94",
+      "grandTotal": "317.0"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "317.0"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "SW"
+    ]
+  },
+  {
+    "id": "11",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Chattanooga, TN",
+    "destinationLocationCode": "Chattanooga, TN",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 6,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-05T08:30:00"
+            },
+            "carrierCode": "AA",
+            "number": "1537",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-08T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T08:30:00"
+            },
+            "carrierCode": "AA",
+            "number": "1660",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "239.59",
+      "base": "196.46",
+      "grandTotal": "239.59"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "239.59"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "AA"
+    ]
+  },
+  {
+    "id": "12",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Charlotte, NC",
+    "destinationLocationCode": "Charlotte, NC",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 6,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-05T08:30:00"
+            },
+            "carrierCode": "SW",
+            "number": "1986",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-08T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T08:30:00"
+            },
+            "carrierCode": "SW",
+            "number": "1284",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "264.36",
+      "base": "216.78",
+      "grandTotal": "264.36"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "264.36"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "SW"
+    ]
+  },
+  {
+    "id": "13",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Nashville, TN",
+    "destinationLocationCode": "Nashville, TN",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 5,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T08:15:00"
+            },
+            "arrival": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-05T10:15:00"
+            },
+            "carrierCode": "DL",
+            "number": "1221",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-08T08:15:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T10:15:00"
+            },
+            "carrierCode": "DL",
+            "number": "1544",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "201.7",
+      "base": "165.39",
+      "grandTotal": "201.7"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "201.7"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "14",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Birmingham, AL",
+    "destinationLocationCode": "Birmingham, AL",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 9,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-05T08:30:00"
+            },
+            "carrierCode": "SW",
+            "number": "1616",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-08T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T08:30:00"
+            },
+            "carrierCode": "SW",
+            "number": "1148",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "273.78",
+      "base": "224.5",
+      "grandTotal": "273.78"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "273.78"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "SW"
+    ]
+  },
+  {
+    "id": "15",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Jackson, MS",
+    "destinationLocationCode": "Jackson, MS",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 6,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T10:45:00"
+            },
+            "arrival": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-05T12:45:00"
+            },
+            "carrierCode": "DL",
+            "number": "1285",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-08T10:45:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T12:45:00"
+            },
+            "carrierCode": "DL",
+            "number": "1308",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "197.15",
+      "base": "161.66",
+      "grandTotal": "197.15"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "197.15"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "16",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Dallas, TX",
+    "destinationLocationCode": "Dallas, TX",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 8,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T16:05:00"
+            },
+            "arrival": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-05T18:05:00"
+            },
+            "carrierCode": "DL",
+            "number": "1861",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-08T16:05:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T18:05:00"
+            },
+            "carrierCode": "DL",
+            "number": "1772",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "239.31",
+      "base": "196.23",
+      "grandTotal": "239.31"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "239.31"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "17",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Atlanta, GA",
+    "destinationLocationCode": "Atlanta, GA",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 4,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T10:45:00"
+            },
+            "arrival": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-05T12:45:00"
+            },
+            "carrierCode": "SW",
+            "number": "1956",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-08T10:45:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T12:45:00"
+            },
+            "carrierCode": "SW",
+            "number": "1130",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "306.24",
+      "base": "251.12",
+      "grandTotal": "306.24"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "306.24"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "SW"
+    ]
+  },
+  {
+    "id": "18",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Memphis, TN",
+    "destinationLocationCode": "Memphis, TN",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 9,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-05T08:30:00"
+            },
+            "carrierCode": "AA",
+            "number": "1706",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-08T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T08:30:00"
+            },
+            "carrierCode": "AA",
+            "number": "1214",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "372.71",
+      "base": "305.62",
+      "grandTotal": "372.71"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "372.71"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "AA"
+    ]
+  },
+  {
+    "id": "19",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Chattanooga, TN",
+    "destinationLocationCode": "Chattanooga, TN",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 8,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-05T08:30:00"
+            },
+            "carrierCode": "AA",
+            "number": "1700",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DFW",
+              "terminal": "0",
+              "at": "2026-03-08T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T08:30:00"
+            },
+            "carrierCode": "AA",
+            "number": "1740",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "360.51",
+      "base": "295.62",
+      "grandTotal": "360.51"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "360.51"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "AA"
+    ]
+  },
+  {
+    "id": "20",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "Charlotte, NC",
+    "destinationLocationCode": "Charlotte, NC",
+    "departureDate": "Recorded",
+    "oneWay": false,
+    "numberOfBookableSeats": 4,
+    "itineraries": [
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-05T18:40:00"
+            },
+            "arrival": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-05T20:40:00"
+            },
+            "carrierCode": "DL",
+            "number": "1165",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      },
+      {
+        "duration": "PT2H15M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "DAL",
+              "terminal": "1",
+              "at": "2026-03-08T18:40:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "0",
+              "at": "2026-03-08T20:40:00"
+            },
+            "carrierCode": "DL",
+            "number": "1539",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H15M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "205.46",
+      "base": "168.48",
+      "grandTotal": "205.46"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "205.46"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  }
+]

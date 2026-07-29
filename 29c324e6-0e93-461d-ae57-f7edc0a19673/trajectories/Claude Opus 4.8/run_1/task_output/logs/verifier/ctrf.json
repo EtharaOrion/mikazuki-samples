@@ -1,0 +1,60 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 8,
+      "passed": 2,
+      "failed": 6,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.2,
+      "weighted_percentage": 20.0
+    },
+    "tests": [
+      {
+        "name": "test_drive_proposal_filed_endpoint_called",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_drive_proposal_height",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_drive_proposal_width",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_servicenow_incident_on_hold",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_servicenow_incident_update_endpoint_called",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_servicenow_scope_read_endpoint_called",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_servicenow_ticket_close_penalty",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_trello_flyer_board_penalty",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

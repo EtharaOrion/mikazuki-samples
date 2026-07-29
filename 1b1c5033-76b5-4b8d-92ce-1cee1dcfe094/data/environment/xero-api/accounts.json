@@ -1,0 +1,102 @@
+[
+  {
+    "account_id": "fcfe0721-9f4f-69bd-49d5-f43edca38fd5",
+    "code": "200",
+    "description": "Standard sales revenue",
+    "enable_payments_to_account": "false",
+    "name": "Sales",
+    "status": "ACTIVE",
+    "tax_type": "OUTPUT2",
+    "type": "REVENUE"
+  },
+  {
+    "account_id": "7f2f13ad-b4b4-e888-4da6-8f095f84fcdc",
+    "code": "260",
+    "description": "Other income",
+    "enable_payments_to_account": "false",
+    "name": "Other Revenue",
+    "status": "ACTIVE",
+    "tax_type": "OUTPUT2",
+    "type": "REVENUE"
+  },
+  {
+    "account_id": "8ae2dbc2-3c19-2085-4c9a-975131283cd9",
+    "code": "310",
+    "description": "COGS",
+    "enable_payments_to_account": "false",
+    "name": "Cost of Goods Sold",
+    "status": "ACTIVE",
+    "tax_type": "INPUT2",
+    "type": "EXPENSE"
+  },
+  {
+    "account_id": "11f157cf-08f4-4c9b-4b70-9ec5a3e661a5",
+    "code": "400",
+    "description": "Marketing spend",
+    "enable_payments_to_account": "false",
+    "name": "Advertising",
+    "status": "ACTIVE",
+    "tax_type": "INPUT2",
+    "type": "EXPENSE"
+  },
+  {
+    "account_id": "d197f79b-c7bf-69b9-4991-2b87c0af4021",
+    "code": "404",
+    "description": "Bank fees",
+    "enable_payments_to_account": "false",
+    "name": "Bank Fees",
+    "status": "ACTIVE",
+    "tax_type": "INPUT2",
+    "type": "EXPENSE"
+  },
+  {
+    "account_id": "2d56bffb-e47d-72bc-4539-1b71615bf536",
+    "code": "420",
+    "description": "Telecom expenses",
+    "enable_payments_to_account": "false",
+    "name": "Telephone & Internet",
+    "status": "ACTIVE",
+    "tax_type": "INPUT2",
+    "type": "EXPENSE"
+  },
+  {
+    "account_id": "e0bd5dbc-cc68-30a9-4b5b-dd40f1f3445f",
+    "code": "485",
+    "description": "Misc expenses",
+    "enable_payments_to_account": "false",
+    "name": "General Expenses",
+    "status": "ACTIVE",
+    "tax_type": "INPUT2",
+    "type": "EXPENSE"
+  },
+  {
+    "account_id": "7d576175-e59d-6696-4ee0-6ccdcd7e0a3d",
+    "code": "610",
+    "description": "Trade receivables",
+    "enable_payments_to_account": "false",
+    "name": "Accounts Receivable",
+    "status": "ACTIVE",
+    "tax_type": "NONE",
+    "type": "CURRENT"
+  },
+  {
+    "account_id": "01a2fef6-5548-42bd-4472-4c23a465e731",
+    "code": "800",
+    "description": "Trade payables",
+    "enable_payments_to_account": "false",
+    "name": "Accounts Payable",
+    "status": "ACTIVE",
+    "tax_type": "NONE",
+    "type": "CURRLIAB"
+  },
+  {
+    "account_id": "580e1fc9-9ed5-0d88-49e6-b4312aba6afb",
+    "code": "090",
+    "description": "Operating account",
+    "enable_payments_to_account": "true",
+    "name": "Business Bank Account",
+    "status": "ACTIVE",
+    "tax_type": "NONE",
+    "type": "BANK"
+  }
+]

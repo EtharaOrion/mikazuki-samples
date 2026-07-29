@@ -1,0 +1,23 @@
+[
+  {
+    "baseId": "appOrbit001",
+    "id": "tblExhibProjects01",
+    "name": "Exhibition Projects",
+    "primaryFieldId": "fldExhibName00001",
+    "records_csv": "records_projects.json"
+  },
+  {
+    "baseId": "appOrbit001",
+    "id": "tblCuratorTasks001",
+    "name": "Curatorial Tasks",
+    "primaryFieldId": "fldTaskTitle00001",
+    "records_csv": "records_tasks.json"
+  },
+  {
+    "baseId": "appOrbit001",
+    "id": "tblDonorContacts01",
+    "name": "Donor & Partner Contacts",
+    "primaryFieldId": "fldContactNm00001",
+    "records_csv": "records_contacts.json"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "70000",
+    "candidate_id": "60000",
+    "job_id": "2000",
+    "status": "hired",
+    "applied_at": "2026-10-05T10:00:00-05:00",
+    "current_stage": "Application Review",
+    "last_activity_at": "2026-10-05T10:00:00-05:00"
+  },
+  {
+    "id": "70001",
+    "candidate_id": "60001",
+    "job_id": "2001",
+    "status": "active",
+    "applied_at": "2026-10-07T10:00:00-05:00",
+    "current_stage": "Phone Screen",
+    "last_activity_at": "2026-10-15T09:00:00+00:00"
+  },
+  {
+    "id": "70002",
+    "candidate_id": "60002",
+    "job_id": "2002",
+    "status": "active",
+    "applied_at": "2026-10-09T10:00:00-05:00",
+    "current_stage": "Onsite",
+    "last_activity_at": "2026-10-21T09:00:00+00:00"
+  },
+  {
+    "id": "70003",
+    "candidate_id": "60003",
+    "job_id": "2003",
+    "status": "hired",
+    "applied_at": "2026-10-12T10:00:00-05:00",
+    "current_stage": "Offer",
+    "last_activity_at": "2026-10-28T09:00:00+00:00"
+  },
+  {
+    "id": "70004",
+    "candidate_id": "60004",
+    "job_id": "2004",
+    "status": "active",
+    "applied_at": "2026-10-14T10:00:00-05:00",
+    "current_stage": "Hired",
+    "last_activity_at": "2026-11-05T09:00:00+00:00"
+  },
+  {
+    "id": "70005",
+    "candidate_id": "60005",
+    "job_id": "2000",
+    "status": "active",
+    "applied_at": "2026-10-16T10:00:00-05:00",
+    "current_stage": "Rejected",
+    "last_activity_at": "2026-11-12T09:00:00+00:00"
+  },
+  {
+    "id": "70006",
+    "candidate_id": "60006",
+    "job_id": "2001",
+    "status": "hired",
+    "applied_at": "2026-10-19T10:00:00-05:00",
+    "current_stage": "Application Review",
+    "last_activity_at": "2026-11-20T09:00:00+00:00"
+  },
+  {
+    "id": "70007",
+    "candidate_id": "60007",
+    "job_id": "2002",
+    "status": "active",
+    "applied_at": "2026-10-21T10:00:00-05:00",
+    "current_stage": "Phone Screen",
+    "last_activity_at": "2026-11-25T09:00:00+00:00"
+  },
+  {
+    "id": "70008",
+    "candidate_id": "60008",
+    "job_id": "2003",
+    "status": "active",
+    "applied_at": "2026-10-23T10:00:00-05:00",
+    "current_stage": "Onsite",
+    "last_activity_at": "2026-11-30T09:00:00+00:00"
+  },
+  {
+    "id": "70009",
+    "candidate_id": "60009",
+    "job_id": "2004",
+    "status": "hired",
+    "applied_at": "2026-10-26T10:00:00-05:00",
+    "current_stage": "Offer",
+    "last_activity_at": "2026-12-02T09:00:00+00:00"
+  },
+  {
+    "id": "70010",
+    "candidate_id": "60010",
+    "job_id": "2000",
+    "status": "active",
+    "applied_at": "2026-10-28T10:00:00-05:00",
+    "current_stage": "Hired",
+    "last_activity_at": "2026-12-08T09:00:00+00:00"
+  },
+  {
+    "id": "70011",
+    "candidate_id": "60011",
+    "job_id": "2001",
+    "status": "active",
+    "applied_at": "2026-10-30T10:00:00-05:00",
+    "current_stage": "Rejected",
+    "last_activity_at": "2026-12-12T09:00:00+00:00"
+  },
+  {
+    "id": "70012",
+    "candidate_id": "60012",
+    "job_id": "2002",
+    "status": "hired",
+    "applied_at": "2026-11-02T10:00:00-05:00",
+    "current_stage": "Application Review",
+    "last_activity_at": "2026-12-19T09:00:00+00:00"
+  },
+  {
+    "id": "70013",
+    "candidate_id": "60013",
+    "job_id": "2003",
+    "status": "active",
+    "applied_at": "2026-11-04T10:00:00-05:00",
+    "current_stage": "Phone Screen",
+    "last_activity_at": "2026-12-30T09:00:00+00:00"
+  },
+  {
+    "id": "70014",
+    "candidate_id": "60014",
+    "job_id": "2004",
+    "status": "active",
+    "applied_at": "2026-11-06T10:00:00-05:00",
+    "current_stage": "Onsite",
+    "last_activity_at": "2026-11-06T10:00:00-05:00"
+  },
+  {
+    "id": "70015",
+    "candidate_id": "60015",
+    "job_id": "2000",
+    "status": "hired",
+    "applied_at": "2026-11-09T10:00:00-05:00",
+    "current_stage": "Offer",
+    "last_activity_at": "2026-11-09T10:00:00-05:00"
+  },
+  {
+    "id": "70016",
+    "candidate_id": "60016",
+    "job_id": "2001",
+    "status": "active",
+    "applied_at": "2026-11-11T10:00:00-05:00",
+    "current_stage": "Hired",
+    "last_activity_at": "2026-11-11T10:00:00-05:00"
+  },
+  {
+    "id": "70017",
+    "candidate_id": "60017",
+    "job_id": "2002",
+    "status": "active",
+    "applied_at": "2026-11-13T10:00:00-05:00",
+    "current_stage": "Rejected",
+    "last_activity_at": "2026-11-13T10:00:00-05:00"
+  },
+  {
+    "id": "70018",
+    "candidate_id": "60018",
+    "job_id": "2003",
+    "status": "hired",
+    "applied_at": "2026-11-16T10:00:00-05:00",
+    "current_stage": "Application Review",
+    "last_activity_at": "2026-11-16T10:00:00-05:00"
+  },
+  {
+    "id": "70019",
+    "candidate_id": "60019",
+    "job_id": "2004",
+    "status": "active",
+    "applied_at": "2026-11-18T10:00:00-05:00",
+    "current_stage": "Phone Screen",
+    "last_activity_at": "2026-11-18T10:00:00-05:00"
+  },
+  {
+    "id": "70020",
+    "candidate_id": "60000",
+    "job_id": "2000",
+    "status": "active",
+    "applied_at": "2026-11-20T10:00:00-05:00",
+    "current_stage": "Onsite",
+    "last_activity_at": "2026-11-20T10:00:00-05:00"
+  },
+  {
+    "id": "70021",
+    "candidate_id": "60001",
+    "job_id": "2001",
+    "status": "hired",
+    "applied_at": "2026-11-23T10:00:00-05:00",
+    "current_stage": "Offer",
+    "last_activity_at": "2026-12-22T09:00:00+00:00"
+  }
+]

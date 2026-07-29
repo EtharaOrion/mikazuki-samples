@@ -1,0 +1,822 @@
+[
+  {
+    "Id": "4001",
+    "DocNumber": "E-2026-001",
+    "TxnDate": "2026-03-01",
+    "ExpirationDate": "2026-03-31",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Heartland Jazz Festival"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 450.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Jazz workshop series, 3 sessions, spring 2026",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Workshop/Clinic Session"
+          },
+          "UnitPrice": 150.0,
+          "Qty": 3
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-03-09",
+    "LinkedTxn": [
+      {
+        "TxnId": "5004",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-01T10:00:00-06:00",
+      "LastUpdatedTime": "2026-03-09T11:00:00-05:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4002",
+    "DocNumber": "E-2026-002",
+    "TxnDate": "2026-03-05",
+    "ExpirationDate": "2026-03-31",
+    "CustomerRef": {
+      "value": "3",
+      "name": "Priya Nair"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 220.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Intermediate Private Lesson Package \u2014 spring 2026",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "1",
+            "name": "Private Lesson Package"
+          },
+          "UnitPrice": 220.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 220.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2026-01-15T10:00:00-06:00",
+    "LinkedTxn": [
+      {
+        "TxnId": "Invoice-linked",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-05T09:00:00-06:00",
+      "LastUpdatedTime": "2026-03-05T09:00:00-06:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4003",
+    "DocNumber": "E-2026-003",
+    "TxnDate": "2026-03-10",
+    "ExpirationDate": "2026-04-10",
+    "CustomerRef": {
+      "value": "4",
+      "name": "Karen Wallace"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 350.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Summer Jazz Camp \u2014 one student, two weeks",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "4",
+            "name": "Summer Jazz Camp"
+          },
+          "UnitPrice": 350.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 350.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2026-05-22T11:30:00-05:00",
+    "LinkedTxn": [
+      {
+        "TxnId": "Invoice-linked",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-10T13:30:00-05:00",
+      "LastUpdatedTime": "2026-03-10T13:30:00-05:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4004",
+    "DocNumber": "E-2026-004",
+    "TxnDate": "2026-03-14",
+    "ExpirationDate": "2026-04-14",
+    "CustomerRef": {
+      "value": "2",
+      "name": "David Brennan"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 160.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Group Theory Class \u2014 spring term",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "3",
+            "name": "Group Theory Class"
+          },
+          "UnitPrice": 160.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 160.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2027-01-20T10:00:00-06:00",
+    "LinkedTxn": [
+      {
+        "TxnId": "Invoice-linked",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-14T10:15:00-05:00",
+      "LastUpdatedTime": "2026-03-14T10:15:00-05:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4005",
+    "DocNumber": "E-2026-005",
+    "TxnDate": "2026-03-18",
+    "ExpirationDate": "2026-04-18",
+    "CustomerRef": {
+      "value": "6",
+      "name": "Angela Reyes"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 480.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Youth Ensemble Tuition \u2014 spring semester",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "2",
+            "name": "Ensemble Tuition"
+          },
+          "UnitPrice": 480.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 480.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2025-12-03T11:00:00-06:00",
+    "LinkedTxn": [
+      {
+        "TxnId": "Invoice-linked",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-18T09:45:00-05:00",
+      "LastUpdatedTime": "2026-03-18T09:45:00-05:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4100",
+    "DocNumber": "E-2026-100",
+    "TxnDate": "2026-01-05",
+    "ExpirationDate": "2026-02-04",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Heartland Jazz Festival"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 350.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Jazz workshop clinic session",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Workshop/Clinic Session"
+          },
+          "UnitPrice": 350.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 350.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-01-14",
+    "LinkedTxn": [
+      {
+        "TxnId": "6000",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-05T00:00:00-06:00",
+      "LastUpdatedTime": "2026-01-14T00:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "4101",
+    "DocNumber": "E-2026-101",
+    "TxnDate": "2026-01-20",
+    "ExpirationDate": "2026-02-19",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Heartland Jazz Festival"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 350.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Jazz workshop clinic session",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Workshop/Clinic Session"
+          },
+          "UnitPrice": 350.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 350.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-01-29",
+    "LinkedTxn": [
+      {
+        "TxnId": "6001",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-20T00:00:00-06:00",
+      "LastUpdatedTime": "2026-01-29T00:00:00-05:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4102",
+    "DocNumber": "E-2026-102",
+    "TxnDate": "2026-02-04",
+    "ExpirationDate": "2026-03-06",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Heartland Jazz Festival"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 350.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Jazz workshop clinic session",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Workshop/Clinic Session"
+          },
+          "UnitPrice": 350.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 350.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-13",
+    "LinkedTxn": [
+      {
+        "TxnId": "6002",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-04T00:00:00-06:00",
+      "LastUpdatedTime": "2026-02-13T00:00:00-05:00"
+    },
+    "SyncToken": "3"
+  },
+  {
+    "Id": "4103",
+    "DocNumber": "E-2026-103",
+    "TxnDate": "2026-02-19",
+    "ExpirationDate": "2026-03-21",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Heartland Jazz Festival"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 350.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Jazz workshop clinic session",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Workshop/Clinic Session"
+          },
+          "UnitPrice": 350.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 350.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-28",
+    "LinkedTxn": [
+      {
+        "TxnId": "6003",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-19T00:00:00-06:00",
+      "LastUpdatedTime": "2026-02-28T00:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "4104",
+    "DocNumber": "E-2026-104",
+    "TxnDate": "2026-03-06",
+    "ExpirationDate": "2026-04-05",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Heartland Jazz Festival"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 350.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Jazz workshop clinic session",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Workshop/Clinic Session"
+          },
+          "UnitPrice": 350.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 350.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-03-15",
+    "LinkedTxn": [
+      {
+        "TxnId": "6004",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-06T00:00:00-06:00",
+      "LastUpdatedTime": "2026-03-15T00:00:00-05:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "5001",
+    "DocNumber": "E-2026-001",
+    "TxnDate": "2026-03-01",
+    "ExpirationDate": "2026-03-31",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Heartland Jazz Festival"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 450.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Jazz workshop series, 3 sessions, spring 2026",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Workshop/Clinic Session"
+          },
+          "UnitPrice": 150.0,
+          "Qty": 3
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-03-09",
+    "LinkedTxn": [
+      {
+        "TxnId": "5004",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-01T10:00:00-06:00",
+      "LastUpdatedTime": "2026-03-09T11:00:00-05:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "5002",
+    "DocNumber": "E-2026-002",
+    "TxnDate": "2026-03-05",
+    "ExpirationDate": "2026-03-31",
+    "CustomerRef": {
+      "value": "3",
+      "name": "Priya Nair"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 220.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Intermediate Private Lesson Package \u2014 spring 2026",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "1",
+            "name": "Private Lesson Package"
+          },
+          "UnitPrice": 220.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 220.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2025-12-03T11:00:00-06:00",
+    "LinkedTxn": [
+      {
+        "TxnId": "Invoice-linked",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-05T09:00:00-06:00",
+      "LastUpdatedTime": "2026-03-05T09:00:00-06:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "5003",
+    "DocNumber": "E-2026-003",
+    "TxnDate": "2026-03-10",
+    "ExpirationDate": "2026-04-10",
+    "CustomerRef": {
+      "value": "4",
+      "name": "Karen Wallace"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 350.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Summer Jazz Camp \u2014 one student, two weeks",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "4",
+            "name": "Summer Jazz Camp"
+          },
+          "UnitPrice": 350.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 350.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2026-03-11T09:45:00-05:00",
+    "LinkedTxn": [
+      {
+        "TxnId": "Invoice-linked",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-10T13:30:00-05:00",
+      "LastUpdatedTime": "2026-03-10T13:30:00-05:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "5004",
+    "DocNumber": "E-2026-004",
+    "TxnDate": "2026-03-14",
+    "ExpirationDate": "2026-04-14",
+    "CustomerRef": {
+      "value": "2",
+      "name": "David Brennan"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 160.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Group Theory Class \u2014 spring term",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "3",
+            "name": "Group Theory Class"
+          },
+          "UnitPrice": 160.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 160.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2026-11-05T13:20:00-06:00",
+    "LinkedTxn": [
+      {
+        "TxnId": "Invoice-linked",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-14T10:15:00-05:00",
+      "LastUpdatedTime": "2026-03-14T10:15:00-05:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "5005",
+    "DocNumber": "E-2026-005",
+    "TxnDate": "2026-03-18",
+    "ExpirationDate": "2026-04-18",
+    "CustomerRef": {
+      "value": "6",
+      "name": "Angela Reyes"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 480.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Youth Ensemble Tuition \u2014 spring semester",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "2",
+            "name": "Ensemble Tuition"
+          },
+          "UnitPrice": 480.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 480.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2025-10-14T09:00:00-05:00",
+    "LinkedTxn": [
+      {
+        "TxnId": "Invoice-linked",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-18T09:45:00-05:00",
+      "LastUpdatedTime": "2026-03-18T09:45:00-05:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "5100",
+    "DocNumber": "E-2026-100",
+    "TxnDate": "2026-01-05",
+    "ExpirationDate": "2026-02-04",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Heartland Jazz Festival"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 350.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Jazz workshop clinic session",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Workshop/Clinic Session"
+          },
+          "UnitPrice": 350.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 350.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-01-14",
+    "LinkedTxn": [
+      {
+        "TxnId": "6000",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-05T00:00:00-06:00",
+      "LastUpdatedTime": "2026-01-14T00:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "5101",
+    "DocNumber": "E-2026-101",
+    "TxnDate": "2026-01-20",
+    "ExpirationDate": "2026-02-19",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Heartland Jazz Festival"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 350.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Jazz workshop clinic session",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Workshop/Clinic Session"
+          },
+          "UnitPrice": 350.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 350.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-01-29",
+    "LinkedTxn": [
+      {
+        "TxnId": "6001",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-20T00:00:00-06:00",
+      "LastUpdatedTime": "2026-01-29T00:00:00-05:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "5102",
+    "DocNumber": "E-2026-102",
+    "TxnDate": "2026-02-04",
+    "ExpirationDate": "2026-03-06",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Heartland Jazz Festival"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 350.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Jazz workshop clinic session",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Workshop/Clinic Session"
+          },
+          "UnitPrice": 350.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 350.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-13",
+    "LinkedTxn": [
+      {
+        "TxnId": "6002",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-04T00:00:00-06:00",
+      "LastUpdatedTime": "2026-02-13T00:00:00-05:00"
+    },
+    "SyncToken": "3"
+  },
+  {
+    "Id": "5103",
+    "DocNumber": "E-2026-103",
+    "TxnDate": "2026-02-19",
+    "ExpirationDate": "2026-03-21",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Heartland Jazz Festival"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 350.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Jazz workshop clinic session",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Workshop/Clinic Session"
+          },
+          "UnitPrice": 350.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 350.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-28",
+    "LinkedTxn": [
+      {
+        "TxnId": "6003",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-19T00:00:00-06:00",
+      "LastUpdatedTime": "2026-02-28T00:00:00-05:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "5104",
+    "DocNumber": "E-2026-104",
+    "TxnDate": "2026-03-06",
+    "ExpirationDate": "2026-04-05",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Heartland Jazz Festival"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 350.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Jazz workshop clinic session",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Workshop/Clinic Session"
+          },
+          "UnitPrice": 350.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 350.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-03-15",
+    "LinkedTxn": [
+      {
+        "TxnId": "6004",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-06T00:00:00-06:00",
+      "LastUpdatedTime": "2026-03-15T00:00:00-05:00"
+    },
+    "SyncToken": "2"
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 12,
+      "passed": 5,
+      "failed": 7,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.3125,
+      "weighted_percentage": 31.25
+    },
+    "tests": [
+      {
+        "name": "test_annotated_photo",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_board_discovery",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_board_read_before_update",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_board_shortfall",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_board_update_called",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_board_verified_count",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_buyer_emails_posted",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_claim_count_copied",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_mirror_order_placed",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_mirror_read",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_reorder_placed",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_storefront_read",
+        "status": "passed",
+        "duration": 0
+      }
+    ]
+  }
+}

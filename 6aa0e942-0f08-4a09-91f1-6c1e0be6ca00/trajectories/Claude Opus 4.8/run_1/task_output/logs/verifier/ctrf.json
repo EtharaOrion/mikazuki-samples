@@ -1,0 +1,60 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 8,
+      "passed": 3,
+      "failed": 5,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.5385,
+      "weighted_percentage": 53.85
+    },
+    "tests": [
+      {
+        "name": "test_google_drive_card_jpeg_dims_within_printable_bounds",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_google_drive_card_jpeg_present_on_desktop",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_google_drive_card_specs_present_on_desktop",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_google_drive_files_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_google_drive_files_state_unchanged",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_slack_external_message_posted",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_slack_history_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_slack_messages_state_unchanged",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

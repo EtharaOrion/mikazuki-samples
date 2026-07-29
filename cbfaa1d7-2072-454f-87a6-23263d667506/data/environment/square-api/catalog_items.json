@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ITEM_NMT6",
+    "type": "ITEM",
+    "name": "6-Session Neurologic Music Therapy Package",
+    "description": "Block of six 60-minute individual NMT sessions",
+    "category": "Session Packages",
+    "variation_id": "VAR_NMT6",
+    "variation_name": "Package of 6",
+    "price_amount": "42000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_SESSION",
+    "type": "ITEM",
+    "name": "Individual 60-Minute Session",
+    "description": "Single individual neurologic music therapy session",
+    "category": "Sessions",
+    "variation_id": "VAR_SESS60",
+    "variation_name": "60 minutes",
+    "price_amount": "8500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_INTAKE",
+    "type": "ITEM",
+    "name": "Initial Intake and Assessment",
+    "description": "90-minute intake, history, and treatment-plan draft",
+    "category": "Sessions",
+    "variation_id": "VAR_INTAKE",
+    "variation_name": "90 minutes",
+    "price_amount": "15000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_GROUP",
+    "type": "ITEM",
+    "name": "Adult Group Session (Drop-In)",
+    "description": "Community drop-in group session",
+    "category": "Group",
+    "variation_id": "VAR_GROUP",
+    "variation_name": "Drop-in",
+    "price_amount": "4000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_GIFT",
+    "type": "ITEM",
+    "name": "Practice Gift Certificate",
+    "description": "Gift certificate redeemable toward any session",
+    "category": "Gift",
+    "variation_id": "VAR_GIFT",
+    "variation_name": "Standard",
+    "price_amount": "10000",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_HOMEKIT",
+    "type": "ITEM",
+    "name": "Home Practice Starter Kit",
+    "description": "Egg shakers, hand drum, and printed practice guide",
+    "category": "Merch",
+    "variation_id": "VAR_KIT",
+    "variation_name": "Standard",
+    "price_amount": "6500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_NMT4",
+    "type": "ITEM",
+    "name": "4-Session Starter Package",
+    "description": "Block of four 60-minute individual NMT sessions",
+    "category": "Session Packages",
+    "variation_id": "VAR_NMT4",
+    "variation_name": "Package of 4",
+    "price_amount": "30000",
+    "currency": "USD"
+  }
+]

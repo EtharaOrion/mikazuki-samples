@@ -1,0 +1,35 @@
+{
+  "item": {
+    "item_id": "item-dorothy-langston",
+    "institution_id": "ins-dorothy-langston",
+    "webhook": "https://hooks.finthesiss.ai/plaid",
+    "available_products": [
+      "balance",
+      "identity",
+      "auth"
+    ],
+    "billed_products": [
+      "transactions"
+    ],
+    "consent_expiration_time": "2026-04-21T16:20:00-04:00",
+    "update_type": "background"
+  },
+  "institution": {
+    "institution_id": "ins-dorothy-langston",
+    "name": "Truist Bank",
+    "products": [
+      "transactions",
+      "auth",
+      "balance",
+      "identity"
+    ],
+    "country_codes": [
+      "US"
+    ],
+    "url": "https://www.truist.com",
+    "primary_color": "#4e2a84",
+    "routing_numbers": [
+      "063107513"
+    ]
+  }
+}

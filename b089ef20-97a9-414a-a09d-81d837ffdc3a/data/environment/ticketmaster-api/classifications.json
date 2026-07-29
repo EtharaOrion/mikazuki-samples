@@ -1,0 +1,128 @@
+[
+  {
+    "id": "cls-sports-soccer",
+    "segment": "Sports",
+    "genre": "Soccer",
+    "subgenre": "MLS"
+  },
+  {
+    "id": "cls-sports-basketball",
+    "segment": "Sports",
+    "genre": "Basketball",
+    "subgenre": "NBA"
+  },
+  {
+    "id": "cls-sports-baseball",
+    "segment": "Sports",
+    "genre": "Baseball",
+    "subgenre": "MLB"
+  },
+  {
+    "id": "cls-arts-theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "subgenre": "Musical"
+  },
+  {
+    "id": "cls-arts-play",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "subgenre": "Play"
+  },
+  {
+    "id": "cls-music-rock",
+    "segment": "Music",
+    "genre": "Rock",
+    "subgenre": "Classic Rock"
+  },
+  {
+    "id": "cls-music-folk",
+    "segment": "Music",
+    "genre": "Rock",
+    "subgenre": "Folk Rock"
+  },
+  {
+    "id": "cls-music-country",
+    "segment": "Music",
+    "genre": "Country",
+    "subgenre": "Outlaw Country"
+  },
+  {
+    "id": "cls-music-americana",
+    "segment": "Music",
+    "genre": "Folk",
+    "subgenre": "Americana"
+  },
+  {
+    "id": "cls-music-jazz",
+    "segment": "Music",
+    "genre": "Jazz",
+    "subgenre": "Bebop"
+  },
+  {
+    "id": "cls-music-blues",
+    "segment": "Music",
+    "genre": "Blues",
+    "subgenre": "Delta Blues"
+  },
+  {
+    "id": "cls-sports-hockey",
+    "segment": "Sports",
+    "genre": "Hockey",
+    "subgenre": "NHL"
+  },
+  {
+    "id": "cls-sports-football",
+    "segment": "Sports",
+    "genre": "Football",
+    "subgenre": "NFL"
+  },
+  {
+    "id": "cls-sports-soccer-intl",
+    "segment": "Sports",
+    "genre": "Soccer",
+    "subgenre": "International"
+  },
+  {
+    "id": "cls-arts-comedy",
+    "segment": "Arts & Theatre",
+    "genre": "Comedy",
+    "subgenre": "Stand-Up"
+  },
+  {
+    "id": "cls-arts-classical",
+    "segment": "Arts & Theatre",
+    "genre": "Classical",
+    "subgenre": "Orchestral"
+  },
+  {
+    "id": "cls-arts-dance",
+    "segment": "Arts & Theatre",
+    "genre": "Dance",
+    "subgenre": "Ballet"
+  },
+  {
+    "id": "cls-music-folk-singer",
+    "segment": "Music",
+    "genre": "Folk",
+    "subgenre": "Singer-Songwriter"
+  },
+  {
+    "id": "cls-misc-food",
+    "segment": "Miscellaneous",
+    "genre": "Food & Drink",
+    "subgenre": "Food Festival"
+  },
+  {
+    "id": "cls-misc-fair",
+    "segment": "Miscellaneous",
+    "genre": "Fairs & Festivals",
+    "subgenre": "Street Fair"
+  },
+  {
+    "id": "cls-film-screening",
+    "segment": "Film",
+    "genre": "Documentary",
+    "subgenre": "Screening"
+  }
+]

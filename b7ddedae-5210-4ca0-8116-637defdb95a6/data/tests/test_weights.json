@@ -1,0 +1,13 @@
+{
+  "test_desktop_hero_jpg_present": 5,
+  "test_desktop_hero_jpg_signature_valid": 3,
+  "test_desktop_specs_txt_present": 5,
+  "test_target_product_visibility_unchanged": 5,
+  "test_target_product_price_unchanged": 3,
+  "test_products_collection_size_unchanged": 3,
+  "test_gmail_messages_collection_size_unchanged": 5,
+  "test_audit_shows_bigcommerce_catalog_read": 3,
+  "test_audit_shows_gmail_messages_read": 3,
+  "test_audit_shows_no_bigcommerce_writes": 5,
+  "test_audit_shows_no_gmail_send": 3
+}

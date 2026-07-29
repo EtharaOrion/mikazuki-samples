@@ -1,0 +1,282 @@
+[
+  {
+    "Id": "8001",
+    "Line": [
+      {
+        "Amount": 224.04,
+        "Description": "Charge - account, 2026-10-13"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-13T00:00:00-00:00"
+    },
+    "TotalAmt": 224.04,
+    "TxnDate": "2026-10-13"
+  },
+  {
+    "Id": "8002",
+    "Line": [
+      {
+        "Amount": 365.01,
+        "Description": "Charge - account, 2026-10-09"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-09T00:00:00-00:00"
+    },
+    "TotalAmt": 365.01,
+    "TxnDate": "2026-10-09"
+  },
+  {
+    "Id": "8003",
+    "Line": [
+      {
+        "Amount": 536.76,
+        "Description": "Charge - account, 2026-10-05"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-05T00:00:00-00:00"
+    },
+    "TotalAmt": 536.76,
+    "TxnDate": "2026-10-05"
+  },
+  {
+    "Id": "8004",
+    "Line": [
+      {
+        "Amount": 273.33,
+        "Description": "Charge - account, 2026-10-01"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-01T00:00:00-00:00"
+    },
+    "TotalAmt": 273.33,
+    "TxnDate": "2026-10-01"
+  },
+  {
+    "Id": "8005",
+    "Line": [
+      {
+        "Amount": 311.87,
+        "Description": "Charge - account, 2026-02-28"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-28T00:00:00-00:00"
+    },
+    "TotalAmt": 311.87,
+    "TxnDate": "2026-02-28"
+  },
+  {
+    "Id": "8006",
+    "Line": [
+      {
+        "Amount": 245.84,
+        "Description": "Charge - account, 2026-02-24"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-24T00:00:00-00:00"
+    },
+    "TotalAmt": 245.84,
+    "TxnDate": "2026-02-24"
+  },
+  {
+    "Id": "8107",
+    "Line": [
+      {
+        "Amount": 224.04,
+        "Description": "Charge - account, 2026-10-16"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-13T12:00:00-04:00"
+    },
+    "TotalAmt": 224.04,
+    "TxnDate": "2026-10-16"
+  },
+  {
+    "Id": "8109",
+    "Line": [
+      {
+        "Amount": 365.01,
+        "Description": "Charge - account, 2026-12-27"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-11T12:00:00-04:00"
+    },
+    "TotalAmt": 365.01,
+    "TxnDate": "2026-12-27"
+  },
+  {
+    "Id": "8111",
+    "Line": [
+      {
+        "Amount": 536.76,
+        "Description": "Charge - account, 2026-10-20"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-06T12:00:00-04:00"
+    },
+    "TotalAmt": 536.76,
+    "TxnDate": "2026-10-20"
+  },
+  {
+    "Id": "8113",
+    "Line": [
+      {
+        "Amount": 273.33,
+        "Description": "Charge - account, 2026-10-10"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-16T12:00:00-04:00"
+    },
+    "TotalAmt": 273.33,
+    "TxnDate": "2026-10-10"
+  },
+  {
+    "Id": "8115",
+    "Line": [
+      {
+        "Amount": 311.87,
+        "Description": "Charge - account, 2026-10-06"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-16T12:00:00-04:00"
+    },
+    "TotalAmt": 311.87,
+    "TxnDate": "2026-10-06"
+  },
+  {
+    "Id": "8117",
+    "Line": [
+      {
+        "Amount": 245.84,
+        "Description": "Charge - account, 2026-10-20"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-28T12:00:00-04:00"
+    },
+    "TotalAmt": 245.84,
+    "TxnDate": "2026-10-20"
+  },
+  {
+    "Id": "8124",
+    "Line": [
+      {
+        "Amount": 224.04,
+        "Description": "Charge - account, 2026-10-15"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-07T12:00:00-04:00"
+    },
+    "TotalAmt": 224.04,
+    "TxnDate": "2026-10-15"
+  },
+  {
+    "Id": "8125",
+    "Line": [
+      {
+        "Amount": 365.01,
+        "Description": "Charge - account, 2026-10-15"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-10T12:00:00-04:00"
+    },
+    "TotalAmt": 365.01,
+    "TxnDate": "2026-10-15"
+  },
+  {
+    "Id": "8126",
+    "Line": [
+      {
+        "Amount": 536.76,
+        "Description": "Charge - account, 2026-10-09"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-31T12:00:00-04:00"
+    },
+    "TotalAmt": 536.76,
+    "TxnDate": "2026-10-09"
+  },
+  {
+    "Id": "8119",
+    "Line": [
+      {
+        "Amount": 273.33,
+        "Description": "Charge - account, 2026-10-12"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-12-26T12:00:00-04:00"
+    },
+    "TotalAmt": 273.33,
+    "TxnDate": "2026-10-12"
+  },
+  {
+    "Id": "8121",
+    "Line": [
+      {
+        "Amount": 311.87,
+        "Description": "Charge - account, 2026-12-29"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-04T12:00:00-04:00"
+    },
+    "TotalAmt": 311.87,
+    "TxnDate": "2026-12-29"
+  },
+  {
+    "Id": "8123",
+    "Line": [
+      {
+        "Amount": 245.84,
+        "Description": "Charge - account, 2026-12-27"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-20T12:00:00-04:00"
+    },
+    "TotalAmt": 245.84,
+    "TxnDate": "2026-12-27"
+  },
+  {
+    "Id": "8127",
+    "Line": [
+      {
+        "Amount": 224.04,
+        "Description": "Charge - account, 2026-10-21"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-15T12:00:00-04:00"
+    },
+    "TotalAmt": 224.04,
+    "TxnDate": "2026-10-21"
+  },
+  {
+    "Id": "8128",
+    "Line": [
+      {
+        "Amount": 365.01,
+        "Description": "Charge - account, 2026-10-16"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-02T12:00:00-04:00"
+    },
+    "TotalAmt": 365.01,
+    "TxnDate": "2026-10-16"
+  }
+]

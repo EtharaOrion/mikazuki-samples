@@ -1,0 +1,156 @@
+[
+  {
+    "funnel_id": "funnel_01000",
+    "name": "Client Acquisition",
+    "step_event": "intake_submitted",
+    "step_order": "1",
+    "count": "120"
+  },
+  {
+    "funnel_id": "funnel_01001",
+    "name": "Mediation Pipeline",
+    "step_event": "engagement_letter_sent",
+    "step_order": "2",
+    "count": "124"
+  },
+  {
+    "funnel_id": "funnel_01002",
+    "name": "Pro Bono Flow",
+    "step_event": "retainer_received",
+    "step_order": "3",
+    "count": "128"
+  },
+  {
+    "funnel_id": "funnel_01003",
+    "name": "Newsletter Funnel",
+    "step_event": "case_opened",
+    "step_order": "4",
+    "count": "132"
+  },
+  {
+    "funnel_id": "funnel_01004",
+    "name": "CLE Compliance",
+    "step_event": "first_court_date",
+    "step_order": "5",
+    "count": "136"
+  },
+  {
+    "funnel_id": "funnel_01005",
+    "name": "Retainer Replenishment",
+    "step_event": "mediation_scheduled",
+    "step_order": "6",
+    "count": "140"
+  },
+  {
+    "funnel_id": "funnel_01006",
+    "name": "Quarterly Review",
+    "step_event": "mediation_completed",
+    "step_order": "7",
+    "count": "144"
+  },
+  {
+    "funnel_id": "funnel_01007",
+    "name": "Year-End Close",
+    "step_event": "settlement_signed",
+    "step_order": "8",
+    "count": "148"
+  },
+  {
+    "funnel_id": "funnel_01008",
+    "name": "Custody Negotiation",
+    "step_event": "case_closed",
+    "step_order": "9",
+    "count": "152"
+  },
+  {
+    "funnel_id": "funnel_01009",
+    "name": "Settlement Pipeline",
+    "step_event": "review_submitted",
+    "step_order": "10",
+    "count": "156"
+  },
+  {
+    "funnel_id": "funnel_01010",
+    "name": "Bar Compliance",
+    "step_event": "intake_submitted",
+    "step_order": "1",
+    "count": "160"
+  },
+  {
+    "funnel_id": "funnel_01011",
+    "name": "Mediation Outcome",
+    "step_event": "engagement_letter_sent",
+    "step_order": "2",
+    "count": "164"
+  },
+  {
+    "funnel_id": "funnel_01012",
+    "name": "Document Workflow",
+    "step_event": "retainer_received",
+    "step_order": "3",
+    "count": "168"
+  },
+  {
+    "funnel_id": "funnel_01013",
+    "name": "Co-Parent Comm",
+    "step_event": "case_opened",
+    "step_order": "4",
+    "count": "172"
+  },
+  {
+    "funnel_id": "funnel_01014",
+    "name": "Holiday Schedule",
+    "step_event": "first_court_date",
+    "step_order": "5",
+    "count": "176"
+  },
+  {
+    "funnel_id": "funnel_01015",
+    "name": "Tax Doc Workflow",
+    "step_event": "mediation_scheduled",
+    "step_order": "6",
+    "count": "180"
+  },
+  {
+    "funnel_id": "funnel_01016",
+    "name": "Annual Survey",
+    "step_event": "mediation_completed",
+    "step_order": "7",
+    "count": "184"
+  },
+  {
+    "funnel_id": "funnel_01017",
+    "name": "Welcome Series",
+    "step_event": "settlement_signed",
+    "step_order": "8",
+    "count": "188"
+  },
+  {
+    "funnel_id": "funnel_01018",
+    "name": "Renewal Cycle",
+    "step_event": "case_closed",
+    "step_order": "9",
+    "count": "192"
+  },
+  {
+    "funnel_id": "funnel_01019",
+    "name": "Estate Referral",
+    "step_event": "review_submitted",
+    "step_order": "10",
+    "count": "196"
+  },
+  {
+    "funnel_id": "funnel_01020",
+    "name": "Mediation Onboard",
+    "step_event": "intake_submitted",
+    "step_order": "1",
+    "count": "200"
+  },
+  {
+    "funnel_id": "funnel_01021",
+    "name": "Probono Onboard",
+    "step_event": "engagement_letter_sent",
+    "step_order": "2",
+    "count": "204"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjName00001",
+    "name": "Amanda Tran",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjStatus001",
+    "name": "Samuel Tran",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjOwner0001",
+    "name": "Grace Tran",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjBudget001",
+    "name": "Emmanuel Tran",
+    "type": "number"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskName00001",
+    "name": "Ruth Nguyen",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskStatus001",
+    "name": "James Harris",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskProject01",
+    "name": "Angela Brooks",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskHours0001",
+    "name": "Monica Wells",
+    "type": "number"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskDone00001",
+    "name": "Michael Hayes",
+    "type": "checkbox"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactNm0001",
+    "name": "Janet Williams",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactEml001",
+    "name": "Carolyn Odom",
+    "type": "email"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactCo0001",
+    "name": "Marcus Reed",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblContacts00001",
+    "id": "fldContactRl0001",
+    "name": "Derek Johnson",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjName00001-001",
+    "name": "Terrence Walker",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjStatus001-001",
+    "name": "William Chen",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjOwner0001-001",
+    "name": "Patricia Pham",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblProjects00001",
+    "id": "fldProjBudget001-001",
+    "name": "Eleanor Simms",
+    "type": "number"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskName00001-001",
+    "name": "Marcus Brown",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskStatus001-001",
+    "name": "Aaron Kim",
+    "type": "singleSelect"
+  },
+  {
+    "tableId": "tblTasks00000001",
+    "id": "fldTaskProject01-001",
+    "name": "Sarah Chen",
+    "type": "singleLineText"
+  }
+]

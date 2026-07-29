@@ -1,0 +1,602 @@
+[
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5001",
+    "DueDate": "2024-04-16",
+    "Id": "5001",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 452.31,
+        "Description": "Loan transit insurance - Vienna Modern October",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5001-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 452.31,
+    "TxnDate": "2024-04-21",
+    "VendorRef": {
+      "name": "Wiener Versicherung (Loan Transit)",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5002",
+    "DueDate": "2024-04-27",
+    "Id": "5002",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 923.05,
+        "Description": "Catalogue printing - softcover run",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5002-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 923.05,
+    "TxnDate": "2024-05-02",
+    "VendorRef": {
+      "name": "Kunsttransporte Hasenkamp Wien",
+      "value": "2002"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5003",
+    "DueDate": "2024-05-08",
+    "Id": "5003",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 1355.81,
+        "Description": "Conservation supplies - works on paper",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5003-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 1355.81,
+    "TxnDate": "2024-05-13",
+    "VendorRef": {
+      "name": "Restaurierungsatelier Sokolova",
+      "value": "2003"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5004",
+    "DueDate": "2024-05-19",
+    "Id": "5004",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 444.02,
+        "Description": "Catering - opening gala October 1",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5004-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 444.02,
+    "TxnDate": "2024-05-24",
+    "VendorRef": {
+      "name": "Druckerei Holzhausen",
+      "value": "2004"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5005",
+    "DueDate": "2024-05-30",
+    "Id": "5005",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 720.63,
+        "Description": "AV equipment rental - press preview",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5005-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 720.63,
+    "TxnDate": "2024-06-04",
+    "VendorRef": {
+      "name": "Museumssicherheit Brunner GmbH",
+      "value": "2005"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5001",
+    "DueDate": "2024-04-26",
+    "Id": "5001-2",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 452.31,
+        "Description": "Security services - Vienna Modern opening week",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5001-2-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 452.31,
+    "TxnDate": "2024-05-01",
+    "VendorRef": {
+      "name": "Wiener Versicherung (Loan Transit)",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5002",
+    "DueDate": "2025-03-29",
+    "Id": "5001-3",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 923.05,
+        "Description": "Signage and wayfinding - gallery 4",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5001-3-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 923.05,
+    "TxnDate": "2025-04-03",
+    "VendorRef": {
+      "name": "Wiener Versicherung (Loan Transit)",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5003",
+    "DueDate": "2026-03-01",
+    "Id": "5001-4",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 1355.81,
+        "Description": "Translation services - catalogue essays DE/EN",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5001-4-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 1355.81,
+    "TxnDate": "2026-03-06",
+    "VendorRef": {
+      "name": "Wiener Versicherung (Loan Transit)",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5004",
+    "DueDate": "2026-02-03",
+    "Id": "5001-5",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 444.02,
+        "Description": "Catalogue distribution - international shipping",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5001-5-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 444.02,
+    "TxnDate": "2026-02-08",
+    "VendorRef": {
+      "name": "Wiener Versicherung (Loan Transit)",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5005",
+    "DueDate": "2024-07-05",
+    "Id": "5001-6",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 720.63,
+        "Description": "Patrons reception - December holiday event",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5001-6-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 720.63,
+    "TxnDate": "2024-07-10",
+    "VendorRef": {
+      "name": "Wiener Versicherung (Loan Transit)",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5001",
+    "DueDate": "2025-06-07",
+    "Id": "5001-7",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 452.31,
+        "Description": "Loan transit insurance - Vienna Modern October",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5001-7-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 452.31,
+    "TxnDate": "2025-06-12",
+    "VendorRef": {
+      "name": "Wiener Versicherung (Loan Transit)",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5002",
+    "DueDate": "2026-11-09",
+    "Id": "5001-8",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 923.05,
+        "Description": "Catalogue printing - softcover run",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5001-8-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 923.05,
+    "TxnDate": "2026-11-14",
+    "VendorRef": {
+      "name": "Wiener Versicherung (Loan Transit)",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5003",
+    "DueDate": "2026-10-12",
+    "Id": "5001-9",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 1355.81,
+        "Description": "Conservation supplies - works on paper",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5001-9-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 1355.81,
+    "TxnDate": "2026-10-17",
+    "VendorRef": {
+      "name": "Wiener Versicherung (Loan Transit)",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5004",
+    "DueDate": "2024-09-13",
+    "Id": "5001-10",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 444.02,
+        "Description": "Catering - opening gala October 1",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5001-10-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 444.02,
+    "TxnDate": "2024-09-18",
+    "VendorRef": {
+      "name": "Wiener Versicherung (Loan Transit)",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5005",
+    "DueDate": "2025-08-16",
+    "Id": "5001-11",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 720.63,
+        "Description": "AV equipment rental - press preview",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5001-11-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 720.63,
+    "TxnDate": "2025-08-21",
+    "VendorRef": {
+      "name": "Wiener Versicherung (Loan Transit)",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5001",
+    "DueDate": "2026-01-18",
+    "Id": "5001-12",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 452.31,
+        "Description": "Security services - Vienna Modern opening week",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5001-12-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 452.31,
+    "TxnDate": "2026-01-23",
+    "VendorRef": {
+      "name": "Wiener Versicherung (Loan Transit)",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5002",
+    "DueDate": "2026-12-21",
+    "Id": "5001-13",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 923.05,
+        "Description": "Signage and wayfinding - gallery 4",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5001-13-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 923.05,
+    "TxnDate": "2026-12-26",
+    "VendorRef": {
+      "name": "Wiener Versicherung (Loan Transit)",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5003",
+    "DueDate": "2024-11-22",
+    "Id": "5001-14",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 1355.81,
+        "Description": "Translation services - catalogue essays DE/EN",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5001-14-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 1355.81,
+    "TxnDate": "2024-11-27",
+    "VendorRef": {
+      "name": "Wiener Versicherung (Loan Transit)",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5004",
+    "DueDate": "2025-10-25",
+    "Id": "5001-15",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 444.02,
+        "Description": "Catalogue distribution - international shipping",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5001-15-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 444.02,
+    "TxnDate": "2025-10-30",
+    "VendorRef": {
+      "name": "Wiener Versicherung (Loan Transit)",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5005",
+    "DueDate": "2026-03-29",
+    "Id": "5001-16",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 720.63,
+        "Description": "Patrons reception - December holiday event",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "bill-5001-16-1",
+        "LineNum": 0,
+        "Quantity": 0,
+        "UnitPrice": 0
+      }
+    ],
+    "PrivateNote": "Vienna Modern operating expense - Q4 2026",
+    "TotalAmt": 720.63,
+    "TxnDate": "2026-10-03",
+    "VendorRef": {
+      "name": "Wiener Versicherung (Loan Transit)",
+      "value": "2001"
+    }
+  }
+]

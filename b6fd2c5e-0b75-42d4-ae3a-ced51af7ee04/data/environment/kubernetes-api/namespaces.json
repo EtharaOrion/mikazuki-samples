@@ -1,0 +1,122 @@
+[
+  {
+    "name": "default",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=default",
+    "created_time": "2025-08-01T09:00:00Z"
+  },
+  {
+    "name": "kube-system",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-system",
+    "created_time": "2025-08-01T09:00:00Z"
+  },
+  {
+    "name": "prod",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=prod;team=platform",
+    "created_time": "2025-08-12T11:30:00Z"
+  },
+  {
+    "name": "staging",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=default",
+    "created_time": "2025-08-04T09:00:00Z"
+  },
+  {
+    "name": "dev",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-system",
+    "created_time": "2025-08-05T09:00:00Z"
+  },
+  {
+    "name": "ops",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=prod;team=platform",
+    "created_time": "2025-08-17T11:30:00Z"
+  },
+  {
+    "name": "ministry",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=default",
+    "created_time": "2025-08-07T09:00:00Z"
+  },
+  {
+    "name": "stream",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-system",
+    "created_time": "2025-08-08T09:00:00Z"
+  },
+  {
+    "name": "album",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=prod;team=platform",
+    "created_time": "2025-08-20T11:30:00Z"
+  },
+  {
+    "name": "giving",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=default",
+    "created_time": "2025-08-10T09:00:00Z"
+  },
+  {
+    "name": "fund",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-system",
+    "created_time": "2025-08-11T09:00:00Z"
+  },
+  {
+    "name": "worship",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=prod;team=platform",
+    "created_time": "2025-08-23T11:30:00Z"
+  },
+  {
+    "name": "youth",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=default",
+    "created_time": "2025-08-13T09:00:00Z"
+  },
+  {
+    "name": "choir",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-system",
+    "created_time": "2025-08-14T09:00:00Z"
+  },
+  {
+    "name": "fedex",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=prod;team=platform",
+    "created_time": "2025-08-26T11:30:00Z"
+  },
+  {
+    "name": "ups",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=default",
+    "created_time": "2025-08-16T09:00:00Z"
+  },
+  {
+    "name": "uber",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-system",
+    "created_time": "2025-08-17T09:00:00Z"
+  },
+  {
+    "name": "twilio",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=prod;team=platform",
+    "created_time": "2025-08-29T11:30:00Z"
+  },
+  {
+    "name": "ring",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=default",
+    "created_time": "2025-08-19T09:00:00Z"
+  },
+  {
+    "name": "plaid",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-system",
+    "created_time": "2025-08-20T09:00:00Z"
+  }
+]

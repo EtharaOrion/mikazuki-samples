@@ -1,0 +1,122 @@
+[
+  {
+    "name": "web",
+    "namespace": "default",
+    "type": "LoadBalancer",
+    "cluster_ip": "10.20.1.1",
+    "external_ip": "203.0.113.10",
+    "port": "80",
+    "target_port": "8080",
+    "protocol": "TCP",
+    "selector": "app=web",
+    "created_time": "2024-02-01T09:00:00Z"
+  },
+  {
+    "name": "api",
+    "namespace": "default",
+    "type": "ClusterIP",
+    "cluster_ip": "10.20.2.1",
+    "external_ip": "",
+    "port": "81",
+    "target_port": "8081",
+    "protocol": "TCP",
+    "selector": "app=api",
+    "created_time": "2024-02-01T09:00:00Z"
+  },
+  {
+    "name": "worker",
+    "namespace": "platform",
+    "type": "ClusterIP",
+    "cluster_ip": "10.20.3.1",
+    "external_ip": "",
+    "port": "82",
+    "target_port": "8082",
+    "protocol": "TCP",
+    "selector": "app=worker",
+    "created_time": "2024-02-01T09:00:00Z"
+  },
+  {
+    "name": "scheduler",
+    "namespace": "platform",
+    "type": "ClusterIP",
+    "cluster_ip": "10.20.4.1",
+    "external_ip": "",
+    "port": "83",
+    "target_port": "8083",
+    "protocol": "TCP",
+    "selector": "app=scheduler",
+    "created_time": "2024-02-01T09:00:00Z"
+  },
+  {
+    "name": "billing",
+    "namespace": "platform",
+    "type": "ClusterIP",
+    "cluster_ip": "10.20.5.1",
+    "external_ip": "",
+    "port": "84",
+    "target_port": "8084",
+    "protocol": "TCP",
+    "selector": "app=billing",
+    "created_time": "2024-02-01T09:00:00Z"
+  },
+  {
+    "name": "search",
+    "namespace": "platform",
+    "type": "ClusterIP",
+    "cluster_ip": "10.20.6.1",
+    "external_ip": "",
+    "port": "85",
+    "target_port": "8085",
+    "protocol": "TCP",
+    "selector": "app=search",
+    "created_time": "2024-02-01T09:00:00Z"
+  },
+  {
+    "name": "notifications",
+    "namespace": "platform",
+    "type": "ClusterIP",
+    "cluster_ip": "10.20.7.1",
+    "external_ip": "",
+    "port": "86",
+    "target_port": "8086",
+    "protocol": "TCP",
+    "selector": "app=notifications",
+    "created_time": "2024-02-01T09:00:00Z"
+  },
+  {
+    "name": "analytics",
+    "namespace": "platform",
+    "type": "ClusterIP",
+    "cluster_ip": "10.20.8.1",
+    "external_ip": "",
+    "port": "87",
+    "target_port": "8087",
+    "protocol": "TCP",
+    "selector": "app=analytics",
+    "created_time": "2024-02-01T09:00:00Z"
+  },
+  {
+    "name": "auth",
+    "namespace": "platform",
+    "type": "ClusterIP",
+    "cluster_ip": "10.20.9.1",
+    "external_ip": "",
+    "port": "88",
+    "target_port": "8088",
+    "protocol": "TCP",
+    "selector": "app=auth",
+    "created_time": "2024-02-01T09:00:00Z"
+  },
+  {
+    "name": "ingestor",
+    "namespace": "platform",
+    "type": "ClusterIP",
+    "cluster_ip": "10.20.10.1",
+    "external_ip": "",
+    "port": "89",
+    "target_port": "8089",
+    "protocol": "TCP",
+    "selector": "app=ingestor",
+    "created_time": "2024-02-01T09:00:00Z"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "item": {
+    "item_id": "item_orbit_8a1f2c",
+    "institution_id": "ins_109512",
+    "webhook": "https://gawcenter.org/plaid/webhook",
+    "available_products": [
+      "balance",
+      "identity"
+    ],
+    "billed_products": [
+      "transactions",
+      "auth"
+    ],
+    "consent_expiration_time": "2026-11-01T09:00:00Z",
+    "update_type": "background"
+  },
+  "institution": {
+    "institution_id": "ins_109512",
+    "name": "Cascade Federal Bank",
+    "products": [
+      "transactions",
+      "auth",
+      "balance",
+      "identity"
+    ],
+    "country_codes": [
+      "US"
+    ],
+    "url": "https://www.cascadefed.gawcenter.org",
+    "primary_color": "#1a73a8",
+    "routing_numbers": [
+      "122105155"
+    ]
+  }
+}

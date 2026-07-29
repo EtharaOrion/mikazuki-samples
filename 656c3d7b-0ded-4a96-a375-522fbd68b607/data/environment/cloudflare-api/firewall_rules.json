@@ -1,0 +1,32 @@
+[
+  {
+    "action": "block",
+    "created_on": "2024-02-01T09:00:00.000000Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "f899139df5e1059396431415e770c6dd",
+    "paused": false,
+    "priority": 1,
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2024-02-01T09:00:00.000000Z",
+    "description": "Challenge high-risk countries",
+    "expression": "(ip.geoip.country in {\"KP\"})",
+    "id": "38b3eff8baf56627478ec76a704e9b52",
+    "paused": false,
+    "priority": 2,
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "allow",
+    "created_on": "2024-02-01T09:00:00.000000Z",
+    "description": "Allow known partners",
+    "expression": "(ip.src in {198.51.100.0/24})",
+    "id": "ec8956637a99787bd197eacd77acce5e",
+    "paused": false,
+    "priority": 3,
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  }
+]

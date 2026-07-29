@@ -1,0 +1,332 @@
+[
+  {
+    "Id": "5201",
+    "TxnDate": "2025-01-02",
+    "TotalAmt": 845.0,
+    "Line": [
+      {
+        "Description": "Empire Meat Purveyors - emergency steak restock for weekend",
+        "Amount": 845.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-01-02T08:30:00-04:00"
+    },
+    "PrivateNote": "none"
+  },
+  {
+    "Id": "5202",
+    "TxnDate": "2025-02-14",
+    "TotalAmt": 1290.0,
+    "Line": [
+      {
+        "Description": "Atlantic Seafood Supply - oysters and salmon for Bautista quinceanera",
+        "Amount": 1290.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-02-14T09:00:00-04:00"
+    },
+    "PrivateNote": "Charged to event"
+  },
+  {
+    "Id": "5203",
+    "TxnDate": "2025-03-20",
+    "TotalAmt": 420.0,
+    "Line": [
+      {
+        "Description": "Metro Restaurant Supply - replacement sheet pans and tongs",
+        "Amount": 420.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-03-20T11:15:00-04:00"
+    },
+    "PrivateNote": "none"
+  },
+  {
+    "Id": "5204",
+    "TxnDate": "2025-10-05",
+    "TotalAmt": 680.0,
+    "Line": [
+      {
+        "Description": "Greenmarket Produce Partners - fall produce and squash for cobbler",
+        "Amount": 680.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-10-05T07:45:00-04:00"
+    },
+    "PrivateNote": "none"
+  },
+  {
+    "Id": "5205",
+    "TxnDate": "2025-11-11",
+    "TotalAmt": 2000.0,
+    "Line": [
+      {
+        "Description": "Empire Restaurant Insurance Group - workers comp installment",
+        "Amount": 2000.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-11T10:00:00-05:00"
+    },
+    "PrivateNote": "none"
+  },
+  {
+    "Id": "5206",
+    "TxnDate": "2025-12-01",
+    "TotalAmt": 1845.6,
+    "Line": [
+      {
+        "Description": "Con Edison - December electric bill",
+        "Amount": 1845.6
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-12-01T09:00:00-05:00"
+    },
+    "PrivateNote": "Auto-pay"
+  },
+  {
+    "Id": "5207",
+    "TxnDate": "2025-12-18",
+    "TotalAmt": 560.0,
+    "Line": [
+      {
+        "Description": "Hudson Valley Wine Imports - holiday wine restock",
+        "Amount": 560.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-12-18T14:00:00-05:00"
+    },
+    "PrivateNote": "none"
+  },
+  {
+    "Id": "5208",
+    "TxnDate": "2026-01-09",
+    "TotalAmt": 329.0,
+    "Line": [
+      {
+        "Description": "Toast POS - monthly subscription January",
+        "Amount": 329.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-09T09:00:00-05:00"
+    },
+    "PrivateNote": "Auto-pay"
+  },
+  {
+    "Id": "5209",
+    "TxnDate": "2026-01-22",
+    "TotalAmt": 915.0,
+    "Line": [
+      {
+        "Description": "Steinway Gas & HVAC Service - walk-in cooler compressor repair",
+        "Amount": 915.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-22T13:30:00-05:00"
+    },
+    "PrivateNote": "Compressor failed Sunday night"
+  },
+  {
+    "Id": "5210",
+    "TxnDate": "2026-02-03",
+    "TotalAmt": 75.0,
+    "Line": [
+      {
+        "Description": "Mailchimp - February email campaign",
+        "Amount": 75.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-03T09:00:00-05:00"
+    },
+    "PrivateNote": "none"
+  },
+  {
+    "Id": "5211",
+    "TxnDate": "2026-02-14",
+    "TotalAmt": 1120.0,
+    "Line": [
+      {
+        "Description": "Atlantic Seafood Supply - Valentine's dinner seafood special",
+        "Amount": 1120.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-14T08:00:00-05:00"
+    },
+    "PrivateNote": "Busy night"
+  },
+  {
+    "Id": "5212",
+    "TxnDate": "2026-02-27",
+    "TotalAmt": 260.0,
+    "Line": [
+      {
+        "Description": "Queens Linen & Uniform Co. - new server aprons",
+        "Amount": 260.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-27T10:00:00-05:00"
+    },
+    "PrivateNote": "none"
+  },
+  {
+    "Id": "5213",
+    "TxnDate": "2026-03-12",
+    "TotalAmt": 485.0,
+    "Line": [
+      {
+        "Description": "Boroughs Waste & Sanitation - grease trap pump-out",
+        "Amount": 485.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-12T07:30:00-04:00"
+    },
+    "PrivateNote": "none"
+  },
+  {
+    "Id": "5214",
+    "TxnDate": "2026-03-28",
+    "TotalAmt": 640.25,
+    "Line": [
+      {
+        "Description": "Astoria Bakery & Dairy - pie shells and butter",
+        "Amount": 640.25
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-28T08:15:00-04:00"
+    },
+    "PrivateNote": "none"
+  },
+  {
+    "Id": "5215",
+    "TxnDate": "2026-01-04",
+    "TotalAmt": 189.99,
+    "Line": [
+      {
+        "Description": "Verizon Business - internet and phone April",
+        "Amount": 189.99
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-04T09:00:00-04:00"
+    },
+    "PrivateNote": "Auto-pay"
+  },
+  {
+    "Id": "5216",
+    "TxnDate": "2026-01-19",
+    "TotalAmt": 1380.0,
+    "Line": [
+      {
+        "Description": "Empire Meat Purveyors - NY strip and pot roast cuts",
+        "Amount": 1380.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-19T08:00:00-04:00"
+    },
+    "PrivateNote": "none"
+  },
+  {
+    "Id": "5217",
+    "TxnDate": "2026-02-02",
+    "TotalAmt": 312.0,
+    "Line": [
+      {
+        "Description": "NYC Water Board - water and sewer",
+        "Amount": 312.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-02T09:00:00-04:00"
+    },
+    "PrivateNote": "none"
+  },
+  {
+    "Id": "5218",
+    "TxnDate": "2026-02-16",
+    "TotalAmt": 230.0,
+    "Line": [
+      {
+        "Description": "Metro Restaurant Supply - smallwares and cleaning supplies",
+        "Amount": 230.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-16T11:00:00-04:00"
+    },
+    "PrivateNote": "none"
+  },
+  {
+    "Id": "5219",
+    "TxnDate": "2026-02-28",
+    "TotalAmt": 850.0,
+    "Line": [
+      {
+        "Description": "Kim CPA & Associates - sales tax filing assistance",
+        "Amount": 850.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-28T15:00:00-04:00"
+    },
+    "PrivateNote": "Quarterly NY sales tax"
+  },
+  {
+    "Id": "5220",
+    "TxnDate": "2026-03-06",
+    "TotalAmt": 1450.0,
+    "Line": [
+      {
+        "Description": "Atlantic Seafood Supply - weekend seafood delivery",
+        "Amount": 1450.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-06T08:00:00-04:00"
+    },
+    "PrivateNote": "none"
+  },
+  {
+    "Id": "5221",
+    "TxnDate": "2026-03-15",
+    "TotalAmt": 720.3,
+    "Line": [
+      {
+        "Description": "National Grid - June gas bill",
+        "Amount": 720.3
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-15T09:00:00-04:00"
+    },
+    "PrivateNote": "Auto-pay"
+  },
+  {
+    "Id": "5222",
+    "TxnDate": "2026-03-20",
+    "TotalAmt": 560.0,
+    "Line": [
+      {
+        "Description": "Five Boroughs Beverage - craft beer kegs for summer",
+        "Amount": 560.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-20T10:30:00-04:00"
+    },
+    "PrivateNote": "none"
+  }
+]

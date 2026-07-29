@@ -1,0 +1,62 @@
+[
+  {
+    "alert_type": "warning",
+    "date_happened": 1782732778,
+    "host": "web-1.haverstone-university.internal",
+    "id": 3000001,
+    "priority": "normal",
+    "tags": "service:api;env:prod",
+    "text": "API gateway 5xx spike detected by monitor.",
+    "title": "API gateway 5xx spike"
+  },
+  {
+    "alert_type": "warning",
+    "date_happened": 1782694673,
+    "host": "web-2.haverstone-university.internal",
+    "id": 3000002,
+    "priority": "low",
+    "tags": "service:api;env:prod",
+    "text": "Database connection pool exhausted detected by monitor.",
+    "title": "Database connection pool exhausted"
+  },
+  {
+    "alert_type": "error",
+    "date_happened": 1782686566,
+    "host": "web-3.haverstone-university.internal",
+    "id": 3000003,
+    "priority": "low",
+    "tags": "service:api;env:prod",
+    "text": "Slow checkout latency detected by monitor.",
+    "title": "Slow checkout latency"
+  },
+  {
+    "alert_type": "error",
+    "date_happened": 1782699669,
+    "host": "web-4.haverstone-university.internal",
+    "id": 3000004,
+    "priority": "normal",
+    "tags": "service:api;env:prod",
+    "text": "Auth service 503s for SSO logins detected by monitor.",
+    "title": "Auth service 503s for SSO logins"
+  },
+  {
+    "alert_type": "info",
+    "date_happened": 1782739550,
+    "host": "web-5.haverstone-university.internal",
+    "id": 3000005,
+    "priority": "normal",
+    "tags": "service:api;env:prod",
+    "text": "Background worker queue backing up detected by monitor.",
+    "title": "Background worker queue backing up"
+  },
+  {
+    "alert_type": "warning",
+    "date_happened": 1782678085,
+    "host": "web-6.haverstone-university.internal",
+    "id": 3000006,
+    "priority": "normal",
+    "tags": "service:api;env:prod",
+    "text": "DNS resolution intermittent detected by monitor.",
+    "title": "DNS resolution intermittent"
+  }
+]

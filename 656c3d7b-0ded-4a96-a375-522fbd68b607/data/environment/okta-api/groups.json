@@ -1,0 +1,37 @@
+[
+  {
+    "created": "2024-01-15T09:10:00.000Z",
+    "description": "All engineers",
+    "id": "00gcfcd20849",
+    "name": "engineering",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2024-01-15T09:10:00.000Z",
+    "description": "Product designers",
+    "id": "00gc4ca4238a",
+    "name": "design",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2024-01-15T09:10:00.000Z",
+    "description": "Operations team",
+    "id": "00gc81e728d9",
+    "name": "ops",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2024-01-15T09:10:00.000Z",
+    "description": "Department heads",
+    "id": "00geccbc87e4",
+    "name": "leadership",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2024-01-15T09:10:00.000Z",
+    "description": "All employees",
+    "id": "00ga87ff679a",
+    "name": "everyone",
+    "type": "OKTA_GROUP"
+  }
+]

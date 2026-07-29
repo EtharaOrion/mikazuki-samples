@@ -1,0 +1,31 @@
+{
+  "CompanyInfo": {
+    "CompanyName": "Crossroads Conservatory of Music",
+    "LegalName": "Crossroads Conservatory of Music LLC",
+    "CompanyAddr": {
+      "Line1": "1420 Grand Blvd",
+      "City": "Kansas City",
+      "CountrySubDivisionCode": "MO",
+      "PostalCode": "64108"
+    },
+    "Email": {
+      "Address": "info@crossroadsconservatory.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "(816) 221-7700"
+    },
+    "FiscalYearStartMonth": "January",
+    "Country": "US",
+    "IndustryType": "Arts & Entertainment",
+    "NameValue": [
+      {
+        "Name": "OwnerName",
+        "Value": "Jessica Webb"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2021-01-11T09:00:00-06:00",
+      "LastUpdatedTime": "2026-03-10T09:15:00-05:00"
+    }
+  }
+}

@@ -1,0 +1,233 @@
+[
+  {
+    "id": "00u01carlton",
+    "first_name": "Carlton",
+    "last_name": "McGee",
+    "email": "carlton.mcgee@eleanorstavern.com",
+    "login": "carlton.mcgee@eleanorstavern.com",
+    "status": "ACTIVE",
+    "created": "2024-02-18T10:00:00.000Z",
+    "activated": "2024-02-18T10:05:00.000Z",
+    "last_login": "2026-03-22T18:00:00.000Z"
+  },
+  {
+    "id": "00u02sophia",
+    "first_name": "Sophia",
+    "last_name": "Kastner",
+    "email": "sophia.k@eleanorstavern.com",
+    "login": "sophia.k@eleanorstavern.com",
+    "status": "ACTIVE",
+    "created": "2024-03-01T11:00:00.000Z",
+    "activated": "2024-03-01T11:05:00.000Z",
+    "last_login": "2026-03-23T08:30:00.000Z"
+  },
+  {
+    "id": "00u03daniel",
+    "first_name": "Daniel",
+    "last_name": "McGee",
+    "email": "daniel.mcgee@gmail.com",
+    "login": "daniel.mcgee@gmail.com",
+    "status": "ACTIVE",
+    "created": "2024-03-05T11:00:00.000Z",
+    "activated": "2024-03-05T11:05:00.000Z",
+    "last_login": "2026-03-21T15:00:00.000Z"
+  },
+  {
+    "id": "00u04priya",
+    "first_name": "Priya",
+    "last_name": "Desai",
+    "email": "priya@desaiwebstudio.com",
+    "login": "priya@desaiwebstudio.com",
+    "status": "ACTIVE",
+    "created": "2024-02-18T09:30:00.000Z",
+    "activated": "2024-02-18T09:35:00.000Z",
+    "last_login": "2026-02-14T16:30:00.000Z"
+  },
+  {
+    "id": "00u05ellen",
+    "first_name": "Ellen",
+    "last_name": "McGee",
+    "email": "ellen.mcgee@gmail.com",
+    "login": "ellen.mcgee@gmail.com",
+    "status": "ACTIVE",
+    "created": "2024-01-01T10:00:00.000Z",
+    "activated": "2024-01-01T10:05:00.000Z",
+    "last_login": "2026-03-20T12:00:00.000Z"
+  },
+  {
+    "id": "00u06marcus",
+    "first_name": "Marcus",
+    "last_name": "Rivera",
+    "email": "marcus.r@eleanorstavern.com",
+    "login": "marcus.r@eleanorstavern.com",
+    "status": "ACTIVE",
+    "created": "2024-02-10T10:00:00.000Z",
+    "activated": "2024-02-10T10:05:00.000Z",
+    "last_login": "2026-03-19T17:00:00.000Z"
+  },
+  {
+    "id": "00u07grace",
+    "first_name": "Grace",
+    "last_name": "Okafor",
+    "email": "grace.o@eleanorstavern.com",
+    "login": "grace.o@eleanorstavern.com",
+    "status": "ACTIVE",
+    "created": "2024-03-12T10:00:00.000Z",
+    "activated": "2024-03-12T10:05:00.000Z",
+    "last_login": "2026-03-22T16:00:00.000Z"
+  },
+  {
+    "id": "00u08nina",
+    "first_name": "Nina",
+    "last_name": "Petrova",
+    "email": "nina.p@eleanorstavern.com",
+    "login": "nina.p@eleanorstavern.com",
+    "status": "ACTIVE",
+    "created": "2024-01-01T10:00:00.000Z",
+    "activated": "2024-01-01T10:05:00.000Z",
+    "last_login": "2026-03-21T20:00:00.000Z"
+  },
+  {
+    "id": "00u09tyler",
+    "first_name": "Tyler",
+    "last_name": "Brennan",
+    "email": "tyler.b@eleanorstavern.com",
+    "login": "tyler.b@eleanorstavern.com",
+    "status": "ACTIVE",
+    "created": "2024-02-15T10:00:00.000Z",
+    "activated": "2024-02-15T10:05:00.000Z",
+    "last_login": "2026-03-18T17:00:00.000Z"
+  },
+  {
+    "id": "00u10hannah",
+    "first_name": "Hannah",
+    "last_name": "Lieberman",
+    "email": "hannah.l@eleanorstavern.com",
+    "login": "hannah.l@eleanorstavern.com",
+    "status": "ACTIVE",
+    "created": "2024-03-01T10:00:00.000Z",
+    "activated": "2024-03-01T10:05:00.000Z",
+    "last_login": "2026-03-20T18:00:00.000Z"
+  },
+  {
+    "id": "00u11devon",
+    "first_name": "Devon",
+    "last_name": "Parker",
+    "email": "devon.p@eleanorstavern.com",
+    "login": "devon.p@eleanorstavern.com",
+    "status": "SUSPENDED",
+    "created": "2024-03-20T10:00:00.000Z",
+    "activated": "2024-03-20T10:05:00.000Z",
+    "last_login": "2026-03-15T18:00:00.000Z"
+  },
+  {
+    "id": "00u12aisha",
+    "first_name": "Aisha",
+    "last_name": "Khan",
+    "email": "aisha.k@eleanorstavern.com",
+    "login": "aisha.k@eleanorstavern.com",
+    "status": "ACTIVE",
+    "created": "2025-03-16T10:00:00.000Z",
+    "activated": "2025-03-16T10:05:00.000Z",
+    "last_login": "2026-03-22T19:00:00.000Z"
+  },
+  {
+    "id": "00u13ravi",
+    "first_name": "Ravi",
+    "last_name": "Patel",
+    "email": "ravi.p@eleanorstavern.com",
+    "login": "ravi.p@eleanorstavern.com",
+    "status": "ACTIVE",
+    "created": "2024-10-01T10:00:00.000Z",
+    "activated": "2024-10-01T10:05:00.000Z",
+    "last_login": "2026-03-19T18:30:00.000Z"
+  },
+  {
+    "id": "00u14luis",
+    "first_name": "Luis",
+    "last_name": "Mendoza",
+    "email": "luis.m@eleanorstavern.com",
+    "login": "luis.m@eleanorstavern.com",
+    "status": "ACTIVE",
+    "created": "2024-10-15T10:00:00.000Z",
+    "activated": "2024-10-15T10:05:00.000Z",
+    "last_login": "2026-03-21T14:00:00.000Z"
+  },
+  {
+    "id": "00u15maya",
+    "first_name": "Maya",
+    "last_name": "Chen",
+    "email": "maya.c@eleanorstavern.com",
+    "login": "maya.c@eleanorstavern.com",
+    "status": "ACTIVE",
+    "created": "2025-01-10T10:00:00.000Z",
+    "activated": "2025-01-10T10:05:00.000Z",
+    "last_login": "2026-03-20T17:00:00.000Z"
+  },
+  {
+    "id": "00u16jordan",
+    "first_name": "Jordan",
+    "last_name": "Bell",
+    "email": "jordan.b@eleanorstavern.com",
+    "login": "jordan.b@eleanorstavern.com",
+    "status": "ACTIVE",
+    "created": "2025-02-01T10:00:00.000Z",
+    "activated": "2025-02-01T10:05:00.000Z",
+    "last_login": "2026-03-18T16:00:00.000Z"
+  },
+  {
+    "id": "00u17pedro",
+    "first_name": "Pedro",
+    "last_name": "Alvarez",
+    "email": "pedro.a@eleanorstavern.com",
+    "login": "pedro.a@eleanorstavern.com",
+    "status": "ACTIVE",
+    "created": "2024-11-01T10:00:00.000Z",
+    "activated": "2024-11-01T10:05:00.000Z",
+    "last_login": "2026-03-21T18:00:00.000Z"
+  },
+  {
+    "id": "00u18oscar",
+    "first_name": "Oscar",
+    "last_name": "Ruiz",
+    "email": "oscar.r@eleanorstavern.com",
+    "login": "oscar.r@eleanorstavern.com",
+    "status": "ACTIVE",
+    "created": "2024-11-15T10:00:00.000Z",
+    "activated": "2024-11-15T10:05:00.000Z",
+    "last_login": "2026-03-20T19:00:00.000Z"
+  },
+  {
+    "id": "00u19sam",
+    "first_name": "Sam",
+    "last_name": "Whitfield",
+    "email": "sam.w@eleanorstavern.com",
+    "login": "sam.w@eleanorstavern.com",
+    "status": "ACTIVE",
+    "created": "2025-03-01T10:00:00.000Z",
+    "activated": "2025-03-01T10:05:00.000Z",
+    "last_login": "2026-03-19T18:00:00.000Z"
+  },
+  {
+    "id": "00u20hannahnew",
+    "first_name": "Maria",
+    "last_name": "Delgado",
+    "email": "maria@greenmarketproduce.com",
+    "login": "maria@greenmarketproduce.com",
+    "status": "ACTIVE",
+    "created": "2025-01-01T10:00:00.000Z",
+    "activated": "2025-01-01T10:05:00.000Z",
+    "last_login": "2026-02-28T10:00:00.000Z"
+  },
+  {
+    "id": "00u21kevin",
+    "first_name": "Kevin",
+    "last_name": "Walsh",
+    "email": "kevin@atlanticseafood.com",
+    "login": "kevin@atlanticseafood.com",
+    "status": "ACTIVE",
+    "created": "2025-01-15T10:00:00.000Z",
+    "activated": "2025-01-15T10:05:00.000Z",
+    "last_login": "2026-02-28T09:00:00.000Z"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "asset_id": "b6d1aa75-5c14-4920-aef3-7eb33a01c123",
+    "symbol": "VTI",
+    "qty": "20",
+    "avg_entry_price": "248.20",
+    "current_price": "261.45",
+    "side": "long",
+    "market_value": "5229.00",
+    "cost_basis": "4964.00",
+    "unrealized_pl": "265.00"
+  },
+  {
+    "asset_id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+    "symbol": "SPY",
+    "qty": "6",
+    "avg_entry_price": "478.30",
+    "current_price": "531.25",
+    "side": "long",
+    "market_value": "3187.50",
+    "cost_basis": "2869.80",
+    "unrealized_pl": "317.70"
+  },
+  {
+    "asset_id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+    "symbol": "AAPL",
+    "qty": "8",
+    "avg_entry_price": "178.50",
+    "current_price": "191.25",
+    "side": "long",
+    "market_value": "1530.00",
+    "cost_basis": "1428.00",
+    "unrealized_pl": "102.00"
+  },
+  {
+    "asset_id": "f30d734c-2806-4d0d-b145-f9fee271c5cd",
+    "symbol": "MSFT",
+    "qty": "3",
+    "avg_entry_price": "402.10",
+    "current_price": "418.60",
+    "side": "long",
+    "market_value": "1255.80",
+    "cost_basis": "1206.30",
+    "unrealized_pl": "49.50"
+  },
+  {
+    "asset_id": "69b6d1aa-5c14-4920-aef3-7eb33a01c456",
+    "symbol": "QQQ",
+    "qty": "4",
+    "avg_entry_price": "455.00",
+    "current_price": "471.85",
+    "side": "long",
+    "market_value": "1887.40",
+    "cost_basis": "1820.00",
+    "unrealized_pl": "67.40"
+  }
+]

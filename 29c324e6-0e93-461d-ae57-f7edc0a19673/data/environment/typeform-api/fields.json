@@ -1,0 +1,202 @@
+[
+  {
+    "field_id": "fld-enroll-name",
+    "form_id": "frm-enroll-01",
+    "title": "Student's full name",
+    "field_type": "short_text",
+    "ref": "student_name",
+    "required": true,
+    "choices": "Jessica Webb",
+    "order": 1
+  },
+  {
+    "field_id": "fld-enroll-email",
+    "form_id": "frm-enroll-01",
+    "title": "Parent or guardian email address",
+    "field_type": "email",
+    "ref": "email",
+    "required": true,
+    "choices": "Jessica Webb",
+    "order": 2
+  },
+  {
+    "field_id": "fld-enroll-level",
+    "form_id": "frm-enroll-01",
+    "title": "Which instrument is the student interested in?",
+    "field_type": "multiple_choice",
+    "ref": "instrument",
+    "required": true,
+    "choices": "Guitar|Saxophone|Piano|Drums|Not sure yet",
+    "order": 3
+  },
+  {
+    "field_id": "fld-enroll-exp",
+    "form_id": "frm-enroll-01",
+    "title": "How many years of experience does the student have?",
+    "field_type": "short_text",
+    "ref": "experience_years",
+    "required": false,
+    "choices": "Jessica Webb",
+    "order": 4
+  },
+  {
+    "field_id": "fld-festival-name",
+    "form_id": "frm-festival-02",
+    "title": "Camper's full name",
+    "field_type": "short_text",
+    "ref": "camper_name",
+    "required": true,
+    "choices": "Jessica Webb",
+    "order": 1
+  },
+  {
+    "field_id": "fld-festival-email",
+    "form_id": "frm-festival-02",
+    "title": "Parent or guardian email address",
+    "field_type": "email",
+    "ref": "parent_email",
+    "required": true,
+    "choices": "Jessica Webb",
+    "order": 2
+  },
+  {
+    "field_id": "fld-festival-role",
+    "form_id": "frm-festival-02",
+    "title": "Which camp session would you like to register for?",
+    "field_type": "multiple_choice",
+    "ref": "camp_session",
+    "required": true,
+    "choices": "Week 1|Week 2|Both weeks|Single-day intro",
+    "order": 3
+  },
+  {
+    "field_id": "fld-feedback-name",
+    "form_id": "frm-feedback-03",
+    "title": "Your name (optional)",
+    "field_type": "short_text",
+    "ref": "parent_name",
+    "required": false,
+    "choices": "Jessica Webb",
+    "order": 1
+  },
+  {
+    "field_id": "fld-feedback-rating",
+    "form_id": "frm-feedback-03",
+    "title": "Overall rating of your experience this term",
+    "field_type": "rating",
+    "ref": "overall_rating",
+    "required": true,
+    "choices": "Jessica Webb",
+    "order": 2
+  },
+  {
+    "field_id": "fld-feedback-comments",
+    "form_id": "frm-feedback-03",
+    "title": "What did your child enjoy most this term?",
+    "field_type": "short_text",
+    "ref": "comments",
+    "required": false,
+    "choices": "Jessica Webb",
+    "order": 3
+  },
+  {
+    "field_id": "fld-enroll-name_p001",
+    "form_id": "frm-enroll-01",
+    "title": "Summer camp registration",
+    "field_type": "short_text",
+    "ref": "student_name",
+    "required": true,
+    "choices": "Jessica Webb",
+    "order": 1
+  },
+  {
+    "field_id": "fld-enroll-email_p002",
+    "form_id": "frm-enroll-01",
+    "title": "Substitute coverage",
+    "field_type": "email",
+    "ref": "email",
+    "required": true,
+    "choices": "Jessica Webb",
+    "order": 2
+  },
+  {
+    "field_id": "fld-enroll-level_p003",
+    "form_id": "frm-enroll-01",
+    "title": "Sheet music library update",
+    "field_type": "multiple_choice",
+    "ref": "instrument",
+    "required": true,
+    "choices": "Guitar|Saxophone|Piano|Drums|Not sure yet",
+    "order": 3
+  },
+  {
+    "field_id": "fld-enroll-exp_p004",
+    "form_id": "frm-enroll-01",
+    "title": "Parent meeting slot",
+    "field_type": "short_text",
+    "ref": "experience_years",
+    "required": false,
+    "choices": "Jessica Webb",
+    "order": 4
+  },
+  {
+    "field_id": "fld-festival-name_p005",
+    "form_id": "frm-festival-02",
+    "title": "Ensemble arrangement rewrite",
+    "field_type": "short_text",
+    "ref": "camper_name",
+    "required": true,
+    "choices": "Jessica Webb",
+    "order": 1
+  },
+  {
+    "field_id": "fld-festival-email_p006",
+    "form_id": "frm-festival-02",
+    "title": "Recital program layout",
+    "field_type": "email",
+    "ref": "parent_email",
+    "required": true,
+    "choices": "Jessica Webb",
+    "order": 2
+  },
+  {
+    "field_id": "fld-festival-role_p007",
+    "form_id": "frm-festival-02",
+    "title": "Quartet setlist review",
+    "field_type": "multiple_choice",
+    "ref": "camp_session",
+    "required": true,
+    "choices": "Week 1|Week 2|Both weeks|Single-day intro",
+    "order": 3
+  },
+  {
+    "field_id": "fld-feedback-name_p008",
+    "form_id": "frm-feedback-03",
+    "title": "Rehearsal recording listen-back",
+    "field_type": "short_text",
+    "ref": "parent_name",
+    "required": false,
+    "choices": "Jessica Webb",
+    "order": 1
+  },
+  {
+    "field_id": "fld-feedback-rating_p009",
+    "form_id": "frm-feedback-03",
+    "title": "Second album pre-production notes",
+    "field_type": "rating",
+    "ref": "overall_rating",
+    "required": true,
+    "choices": "Jessica Webb",
+    "order": 2
+  },
+  {
+    "field_id": "fld-feedback-comments_p010",
+    "form_id": "frm-feedback-03",
+    "title": "Venue confirmation thread",
+    "field_type": "short_text",
+    "ref": "comments",
+    "required": false,
+    "choices": "Jessica Webb",
+    "order": 3
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "access_role": "owner",
+    "color_id": "1",
+    "description": "Primary calendar",
+    "id": "joyce.padilla@Finthesiss.ai",
+    "primary": "true",
+    "summary": "Joyce Padilla",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "writer",
+    "color_id": "2",
+    "description": "Shared work calendar",
+    "id": "osterreichisches-kunstmuseum-team@kunstmuseum.at",
+    "primary": "false",
+    "summary": "Osterreichisches Kunstmuseum - team",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "owner",
+    "color_id": "5",
+    "description": "Shared family calendar",
+    "id": "joyce-padilla-family@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Family",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "reader",
+    "color_id": "8",
+    "description": "Public holidays",
+    "id": "holiday@group.v.calendar.google.com",
+    "primary": "false",
+    "summary": "Holidays in Austria",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "writer",
+    "color_id": "3",
+    "description": "Exhibition openings and public programme",
+    "id": "exhibitions@kunstmuseum.at",
+    "primary": "false",
+    "summary": "Exhibitions & Openings",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "writer",
+    "color_id": "4",
+    "description": "Board of Trustees meetings and strategy",
+    "id": "board-trustees@kunstmuseum.at",
+    "primary": "false",
+    "summary": "Board & Trustees",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "writer",
+    "color_id": "6",
+    "description": "Loans, registrar and lender coordination",
+    "id": "loans-registrar@kunstmuseum.at",
+    "primary": "false",
+    "summary": "Loans & Registrar",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "writer",
+    "color_id": "7",
+    "description": "Collection Digitisation Initiative, Phase 2",
+    "id": "digitisation@kunstmuseum.at",
+    "primary": "false",
+    "summary": "Digitisation Initiative",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "writer",
+    "color_id": "9",
+    "description": "Press and communications schedule",
+    "id": "press-comms@kunstmuseum.at",
+    "primary": "false",
+    "summary": "Press & Communications",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "reader",
+    "color_id": "10",
+    "description": "Matthias Vogl - shared schedule",
+    "id": "matthias.vogl.history@gmail.com",
+    "primary": "false",
+    "summary": "Matthias Vogl",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "reader",
+    "color_id": "11",
+    "description": "Lena Vogl - shared schedule",
+    "id": "lena.vogl.lit@gmail.com",
+    "primary": "false",
+    "summary": "Lena Vogl",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "reader",
+    "color_id": "12",
+    "description": "Felix Vogl - shared schedule",
+    "id": "felix.vogl.music@gmail.com",
+    "primary": "false",
+    "summary": "Felix Vogl",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "reader",
+    "color_id": "13",
+    "description": "Gloria Padilla - Graz",
+    "id": "gloria.padilla.graz@gmail.com",
+    "primary": "false",
+    "summary": "Gloria Padilla (Graz)",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "reader",
+    "color_id": "14",
+    "description": "Pilates sessions",
+    "id": "studio-koerperwerk@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Pilates - Studio Körperwerk",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "reader",
+    "color_id": "15",
+    "description": "Wiener Staatsoper season",
+    "id": "staatsoper-season@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Wiener Staatsoper season",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "reader",
+    "color_id": "16",
+    "description": "Musikverein concerts",
+    "id": "musikverein-concerts@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Musikverein concerts",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "reader",
+    "color_id": "17",
+    "description": "Association of European Museums - Austria chapter",
+    "id": "aem-austria@group.calendar.google.com",
+    "primary": "false",
+    "summary": "AEM Austria",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "reader",
+    "color_id": "18",
+    "description": "European Museum of the Year Award jury",
+    "id": "emya-jury@group.calendar.google.com",
+    "primary": "false",
+    "summary": "EMYA jury",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "reader",
+    "color_id": "19",
+    "description": "Austrian public holidays and observances",
+    "id": "austria-holidays@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Austria Holidays",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "access_role": "reader",
+    "color_id": "20",
+    "description": "Vienna Modern festival programme",
+    "id": "vienna-modern@group.calendar.google.com",
+    "primary": "false",
+    "summary": "Vienna Modern",
+    "time_zone": "Europe/Vienna"
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "owners": {
+    "acc_chk_001": [
+      {
+        "names": [
+          "Robert Kim"
+        ],
+        "emails": [
+          {
+            "data": "jessica.webb@finthesiss.ai",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+18164719082",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "4112 Pennsylvania Ave",
+              "city": "Kansas City",
+              "region": "MO",
+              "postal_code": "64111",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_sav_002": [
+      {
+        "names": [
+          "Gianna Webb"
+        ],
+        "emails": [
+          {
+            "data": "jessica.webb@finthesiss.ai",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+18164719082",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "4112 Pennsylvania Ave",
+              "city": "Kansas City",
+              "region": "MO",
+              "postal_code": "64111",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "column_id": "status",
+    "board_id": "board-101",
+    "title": "Status",
+    "type": "status",
+    "position": 1
+  },
+  {
+    "column_id": "owner",
+    "board_id": "board-101",
+    "title": "Owner",
+    "type": "person",
+    "position": 2
+  },
+  {
+    "column_id": "due",
+    "board_id": "board-101",
+    "title": "Due Date",
+    "type": "date",
+    "position": 3
+  },
+  {
+    "column_id": "notes",
+    "board_id": "board-101",
+    "title": "Notes",
+    "type": "text",
+    "position": 4
+  },
+  {
+    "column_id": "status",
+    "board_id": "board-102",
+    "title": "Instructor coordination meeting",
+    "type": "status",
+    "position": 1
+  },
+  {
+    "column_id": "owner",
+    "board_id": "board-102",
+    "title": "Winter recital rehearsal",
+    "type": "person",
+    "position": 2
+  },
+  {
+    "column_id": "send_date",
+    "board_id": "board-102",
+    "title": "Send Date",
+    "type": "date",
+    "position": 3
+  },
+  {
+    "column_id": "status",
+    "board_id": "board-201",
+    "title": "Enrollment inquiry follow-up",
+    "type": "status",
+    "position": 1
+  },
+  {
+    "column_id": "owner",
+    "board_id": "board-201",
+    "title": "Monthly payroll processing",
+    "type": "person",
+    "position": 2
+  },
+  {
+    "column_id": "date",
+    "board_id": "board-201",
+    "title": "Target Date",
+    "type": "date",
+    "position": 3
+  },
+  {
+    "column_id": "status_p001",
+    "board_id": "board-101",
+    "title": "Summer camp registration",
+    "type": "status",
+    "position": 1
+  },
+  {
+    "column_id": "owner_p002",
+    "board_id": "board-101",
+    "title": "Substitute coverage",
+    "type": "person",
+    "position": 2
+  },
+  {
+    "column_id": "due_p003",
+    "board_id": "board-101",
+    "title": "Sheet music library update",
+    "type": "date",
+    "position": 3
+  },
+  {
+    "column_id": "notes_p004",
+    "board_id": "board-101",
+    "title": "Parent meeting slot",
+    "type": "text",
+    "position": 4
+  },
+  {
+    "column_id": "status_p005",
+    "board_id": "board-102",
+    "title": "Ensemble arrangement rewrite",
+    "type": "status",
+    "position": 1
+  },
+  {
+    "column_id": "owner_p006",
+    "board_id": "board-102",
+    "title": "Recital program layout",
+    "type": "person",
+    "position": 2
+  },
+  {
+    "column_id": "send_date_p007",
+    "board_id": "board-102",
+    "title": "Quartet setlist review",
+    "type": "date",
+    "position": 3
+  },
+  {
+    "column_id": "status_p008",
+    "board_id": "board-201",
+    "title": "Rehearsal recording listen-back",
+    "type": "status",
+    "position": 1
+  },
+  {
+    "column_id": "owner_p009",
+    "board_id": "board-201",
+    "title": "Second album pre-production notes",
+    "type": "person",
+    "position": 2
+  },
+  {
+    "column_id": "date_p010",
+    "board_id": "board-201",
+    "title": "Venue confirmation thread",
+    "type": "date",
+    "position": 3
+  }
+]

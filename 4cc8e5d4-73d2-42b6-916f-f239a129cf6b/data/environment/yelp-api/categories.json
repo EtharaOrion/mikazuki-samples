@@ -1,0 +1,152 @@
+[
+  {
+    "alias": "food",
+    "title": "Food",
+    "parent": ""
+  },
+  {
+    "alias": "bakeries",
+    "title": "Bakeries",
+    "parent": "food"
+  },
+  {
+    "alias": "beer_and_wine",
+    "title": "Beer, Wine & Spirits",
+    "parent": "food"
+  },
+  {
+    "alias": "breweries",
+    "title": "Breweries",
+    "parent": "food"
+  },
+  {
+    "alias": "bubbletea",
+    "title": "Bubble Tea",
+    "parent": "food"
+  },
+  {
+    "alias": "butcher",
+    "title": "Butcher",
+    "parent": "food"
+  },
+  {
+    "alias": "restaurants",
+    "title": "Restaurants",
+    "parent": ""
+  },
+  {
+    "alias": "afghani",
+    "title": "Afghan",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "african",
+    "title": "African",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "american",
+    "title": "American (Traditional)",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "newamerican",
+    "title": "American (New)",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "argentine",
+    "title": "Argentine",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "shopping",
+    "title": "Shopping",
+    "parent": ""
+  },
+  {
+    "alias": "antiques",
+    "title": "Antiques",
+    "parent": "shopping"
+  },
+  {
+    "alias": "artsandcrafts",
+    "title": "Arts & Crafts",
+    "parent": "shopping"
+  },
+  {
+    "alias": "bookstores",
+    "title": "Bookstores",
+    "parent": "shopping"
+  },
+  {
+    "alias": "childcloth",
+    "title": "Children's Clothing",
+    "parent": "shopping"
+  },
+  {
+    "alias": "cosmetics",
+    "title": "Cosmetics & Beauty Supply",
+    "parent": "shopping"
+  },
+  {
+    "alias": "active",
+    "title": "Active Life",
+    "parent": ""
+  },
+  {
+    "alias": "amusementparks",
+    "title": "Amusement Parks",
+    "parent": "active"
+  },
+  {
+    "alias": "aquariums",
+    "title": "Aquariums",
+    "parent": "active"
+  },
+  {
+    "alias": "beaches",
+    "title": "Beaches",
+    "parent": "active"
+  },
+  {
+    "alias": "bikerentals",
+    "title": "Bike Rentals",
+    "parent": "active"
+  },
+  {
+    "alias": "bowling",
+    "title": "Bowling",
+    "parent": "active"
+  },
+  {
+    "alias": "nightlife",
+    "title": "Nightlife",
+    "parent": ""
+  },
+  {
+    "alias": "bars",
+    "title": "Bars",
+    "parent": "nightlife"
+  },
+  {
+    "alias": "danceclubs",
+    "title": "Dance Clubs",
+    "parent": "nightlife"
+  },
+  {
+    "alias": "karaoke",
+    "title": "Karaoke",
+    "parent": "nightlife"
+  },
+  {
+    "alias": "lounges",
+    "title": "Lounges",
+    "parent": "nightlife"
+  },
+  {
+    "alias": "pubs",
+    "title": "Pubs",
+    "parent": "nightlife"
+  }
+]

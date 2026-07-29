@@ -1,0 +1,2788 @@
+{
+  "chimes": [
+    {
+      "id": "60000",
+      "description": "Chime 1 - Foyer",
+      "device_id": "chime_0000",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "false"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-1",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-01T09:00:00Z",
+      "firmware_version": "2.0.70.12",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -52
+    },
+    {
+      "id": "60001",
+      "description": "Chime 2 - Kitchen",
+      "device_id": "chime_0001",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "true"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-2",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-02T09:00:00Z",
+      "firmware_version": "2.0.71.13",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -53
+    },
+    {
+      "id": "60002",
+      "description": "Chime 3 - Aux 2",
+      "device_id": "chime_0002",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "false"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-3",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-03T09:00:00Z",
+      "firmware_version": "2.0.72.14",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -54
+    },
+    {
+      "id": "60003",
+      "description": "Chime 4 - Aux 3",
+      "device_id": "chime_0003",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "true"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-4",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-04T09:00:00Z",
+      "firmware_version": "2.0.73.15",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "60004",
+      "description": "Chime 5 - Aux 4",
+      "device_id": "chime_0004",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "false"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-5",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-05T09:00:00Z",
+      "firmware_version": "2.0.74.16",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -56
+    },
+    {
+      "id": "60005",
+      "description": "Chime 6 - Aux 5",
+      "device_id": "chime_0005",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "true"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-6",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-06T09:00:00Z",
+      "firmware_version": "2.0.75.17",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -57
+    },
+    {
+      "id": "60006",
+      "description": "Chime 7 - Aux 6",
+      "device_id": "chime_0006",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "false"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-7",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-07T09:00:00Z",
+      "firmware_version": "2.0.76.18",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -58
+    },
+    {
+      "id": "60007",
+      "description": "Chime 8 - Aux 7",
+      "device_id": "chime_0007",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "true"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-8",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-08T09:00:00Z",
+      "firmware_version": "2.0.77.19",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -59
+    },
+    {
+      "id": "60008",
+      "description": "Chime 9 - Aux 8",
+      "device_id": "chime_0008",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "false"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-9",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-09T09:00:00Z",
+      "firmware_version": "2.0.78.20",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -60
+    },
+    {
+      "id": "60009",
+      "description": "Chime 10 - Aux 9",
+      "device_id": "chime_0009",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "true"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-10",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-10T09:00:00Z",
+      "firmware_version": "2.0.79.21",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -61
+    },
+    {
+      "id": "60010",
+      "description": "Chime 11 - Aux 10",
+      "device_id": "chime_0010",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "false"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-11",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-11T09:00:00Z",
+      "firmware_version": "2.0.80.22",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -62
+    },
+    {
+      "id": "60011",
+      "description": "Chime 12 - Aux 11",
+      "device_id": "chime_0011",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "true"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-12",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-12T09:00:00Z",
+      "firmware_version": "2.0.81.23",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -63
+    },
+    {
+      "id": "60012",
+      "description": "Chime 13 - Aux 12",
+      "device_id": "chime_0012",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "false"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-13",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-13T09:00:00Z",
+      "firmware_version": "2.0.82.24",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -64
+    },
+    {
+      "id": "60013",
+      "description": "Chime 14 - Aux 13",
+      "device_id": "chime_0013",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "true"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-14",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-14T09:00:00Z",
+      "firmware_version": "2.0.83.25",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -65
+    },
+    {
+      "id": "60014",
+      "description": "Chime 15 - Aux 14",
+      "device_id": "chime_0014",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "false"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-15",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-15T09:00:00Z",
+      "firmware_version": "2.0.84.26",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -66
+    },
+    {
+      "id": "60015",
+      "description": "Chime 16 - Aux 15",
+      "device_id": "chime_0015",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "true"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-16",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-16T09:00:00Z",
+      "firmware_version": "2.0.85.27",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -67
+    },
+    {
+      "id": "60016",
+      "description": "Chime 17 - Aux 16",
+      "device_id": "chime_0016",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "false"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-17",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-17T09:00:00Z",
+      "firmware_version": "2.0.86.28",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -68
+    },
+    {
+      "id": "60017",
+      "description": "Chime 18 - Aux 17",
+      "device_id": "chime_0017",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "true"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-18",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-18T09:00:00Z",
+      "firmware_version": "2.0.87.29",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -69
+    },
+    {
+      "id": "60018",
+      "description": "Chime 19 - Aux 18",
+      "device_id": "chime_0018",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "false"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-19",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-19T09:00:00Z",
+      "firmware_version": "2.0.88.30",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -70
+    },
+    {
+      "id": "60019",
+      "description": "Chime 20 - Aux 19",
+      "device_id": "chime_0019",
+      "features": {
+        "ringtones_enabled": "true",
+        "wifi_extender_enabled": "true"
+      },
+      "settings": {
+        "ding_audio_user_id": null,
+        "linked_doorbots": [
+          "50000",
+          "50001"
+        ],
+        "motion_audio_user_id": null,
+        "volume": "7",
+        "ding_audio_id": "ding-20",
+        "motion_audio_id": null
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-20T09:00:00Z",
+      "firmware_version": "2.0.89.31",
+      "kind": "chime_v2",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -71
+    }
+  ],
+  "doorbots": [
+    {
+      "id": "50000",
+      "description": "Doorbot 1 - Front Door",
+      "device_id": "doorbot_0000",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-01T09:00:00Z",
+      "firmware_version": "2.0.70.12",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 78,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50001",
+      "description": "Doorbot 2 - Driveway",
+      "device_id": "doorbot_0001",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-02T09:00:00Z",
+      "firmware_version": "2.0.71.13",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 75,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50002",
+      "description": "Doorbot 3 - Aux 2",
+      "device_id": "doorbot_0002",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-03T09:00:00Z",
+      "firmware_version": "2.0.72.14",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 72,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50003",
+      "description": "Doorbot 4 - Aux 3",
+      "device_id": "doorbot_0003",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-04T09:00:00Z",
+      "firmware_version": "2.0.73.15",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 69,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50004",
+      "description": "Doorbot 5 - Aux 4",
+      "device_id": "doorbot_0004",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-05T09:00:00Z",
+      "firmware_version": "2.0.74.16",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 66,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50005",
+      "description": "Doorbot 6 - Aux 5",
+      "device_id": "doorbot_0005",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-06T09:00:00Z",
+      "firmware_version": "2.0.75.17",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 63,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50006",
+      "description": "Doorbot 7 - Aux 6",
+      "device_id": "doorbot_0006",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-07T09:00:00Z",
+      "firmware_version": "2.0.76.18",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 60,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50007",
+      "description": "Doorbot 8 - Aux 7",
+      "device_id": "doorbot_0007",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-08T09:00:00Z",
+      "firmware_version": "2.0.77.19",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 57,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50008",
+      "description": "Doorbot 9 - Aux 8",
+      "device_id": "doorbot_0008",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-09T09:00:00Z",
+      "firmware_version": "2.0.78.20",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 54,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50009",
+      "description": "Doorbot 10 - Aux 9",
+      "device_id": "doorbot_0009",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-10T09:00:00Z",
+      "firmware_version": "2.0.79.21",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 51,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50010",
+      "description": "Doorbot 11 - Aux 10",
+      "device_id": "doorbot_0010",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-11T09:00:00Z",
+      "firmware_version": "2.0.80.22",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 48,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50011",
+      "description": "Doorbot 12 - Aux 11",
+      "device_id": "doorbot_0011",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-12T09:00:00Z",
+      "firmware_version": "2.0.81.23",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 45,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50012",
+      "description": "Doorbot 13 - Aux 12",
+      "device_id": "doorbot_0012",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-13T09:00:00Z",
+      "firmware_version": "2.0.82.24",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 42,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50013",
+      "description": "Doorbot 14 - Aux 13",
+      "device_id": "doorbot_0013",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-14T09:00:00Z",
+      "firmware_version": "2.0.83.25",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 39,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50014",
+      "description": "Doorbot 15 - Aux 14",
+      "device_id": "doorbot_0014",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-15T09:00:00Z",
+      "firmware_version": "2.0.84.26",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 36,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50015",
+      "description": "Doorbot 16 - Aux 15",
+      "device_id": "doorbot_0015",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-16T09:00:00Z",
+      "firmware_version": "2.0.85.27",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 33,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50016",
+      "description": "Doorbot 17 - Aux 16",
+      "device_id": "doorbot_0016",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-17T09:00:00Z",
+      "firmware_version": "2.0.86.28",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 30,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50017",
+      "description": "Doorbot 18 - Aux 17",
+      "device_id": "doorbot_0017",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-18T09:00:00Z",
+      "firmware_version": "2.0.87.29",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 27,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50018",
+      "description": "Doorbot 19 - Aux 18",
+      "device_id": "doorbot_0018",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-19T09:00:00Z",
+      "firmware_version": "2.0.88.30",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 24,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    },
+    {
+      "id": "50019",
+      "description": "Doorbot 20 - Aux 19",
+      "device_id": "doorbot_0019",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "show_recordings": true
+      },
+      "settings": {
+        "chime_settings": {
+          "enabled": "true",
+          "type": "ding",
+          "duration": 4
+        },
+        "doorbell_volume": "8",
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "true",
+        "people_detection_enabled": "true"
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-20T09:00:00Z",
+      "firmware_version": "2.0.89.31",
+      "kind": "doorbell_v5",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 21,
+      "external_connection": false,
+      "led_status": "on",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "ring_snooze": null
+    }
+  ],
+  "stickup_cams": [
+    {
+      "id": "40000",
+      "description": "Stickup Cam 1 - Backyard main",
+      "device_id": "stickup_0000",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-01T09:00:00Z",
+      "firmware_version": "2.0.70.12",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 82,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40001",
+      "description": "Stickup Cam 2 - Backyard 1",
+      "device_id": "stickup_0001",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-02T09:00:00Z",
+      "firmware_version": "2.0.71.13",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 78,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40002",
+      "description": "Stickup Cam 3 - Backyard 2",
+      "device_id": "stickup_0002",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-03T09:00:00Z",
+      "firmware_version": "2.0.72.14",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 74,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40003",
+      "description": "Stickup Cam 4 - Backyard 3",
+      "device_id": "stickup_0003",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-04T09:00:00Z",
+      "firmware_version": "2.0.73.15",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 70,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40004",
+      "description": "Stickup Cam 5 - Backyard 4",
+      "device_id": "stickup_0004",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-05T09:00:00Z",
+      "firmware_version": "2.0.74.16",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 66,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40005",
+      "description": "Stickup Cam 6 - Backyard 5",
+      "device_id": "stickup_0005",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-06T09:00:00Z",
+      "firmware_version": "2.0.75.17",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 62,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40006",
+      "description": "Stickup Cam 7 - Backyard 6",
+      "device_id": "stickup_0006",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-07T09:00:00Z",
+      "firmware_version": "2.0.76.18",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 58,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40007",
+      "description": "Stickup Cam 8 - Backyard 7",
+      "device_id": "stickup_0007",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-08T09:00:00Z",
+      "firmware_version": "2.0.77.19",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 54,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40008",
+      "description": "Stickup Cam 9 - Backyard 8",
+      "device_id": "stickup_0008",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-09T09:00:00Z",
+      "firmware_version": "2.0.78.20",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 50,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40009",
+      "description": "Stickup Cam 10 - Backyard 9",
+      "device_id": "stickup_0009",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-10T09:00:00Z",
+      "firmware_version": "2.0.79.21",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 46,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40010",
+      "description": "Stickup Cam 11 - Backyard 10",
+      "device_id": "stickup_0010",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-11T09:00:00Z",
+      "firmware_version": "2.0.80.22",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 42,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40011",
+      "description": "Stickup Cam 12 - Backyard 11",
+      "device_id": "stickup_0011",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-12T09:00:00Z",
+      "firmware_version": "2.0.81.23",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 38,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40012",
+      "description": "Stickup Cam 13 - Backyard 12",
+      "device_id": "stickup_0012",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-13T09:00:00Z",
+      "firmware_version": "2.0.82.24",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 34,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40013",
+      "description": "Stickup Cam 14 - Backyard 13",
+      "device_id": "stickup_0013",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-14T09:00:00Z",
+      "firmware_version": "2.0.83.25",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 30,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40014",
+      "description": "Stickup Cam 15 - Backyard 14",
+      "device_id": "stickup_0014",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-15T09:00:00Z",
+      "firmware_version": "2.0.84.26",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 26,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40015",
+      "description": "Stickup Cam 16 - Backyard 15",
+      "device_id": "stickup_0015",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-16T09:00:00Z",
+      "firmware_version": "2.0.85.27",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 22,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40016",
+      "description": "Stickup Cam 17 - Backyard 16",
+      "device_id": "stickup_0016",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-17T09:00:00Z",
+      "firmware_version": "2.0.86.28",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 18,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40017",
+      "description": "Stickup Cam 18 - Backyard 17",
+      "device_id": "stickup_0017",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-18T09:00:00Z",
+      "firmware_version": "2.0.87.29",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 14,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40018",
+      "description": "Stickup Cam 19 - Backyard 18",
+      "device_id": "stickup_0018",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-19T09:00:00Z",
+      "firmware_version": "2.0.88.30",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 10,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": "40019",
+      "description": "Stickup Cam 20 - Backyard 19",
+      "device_id": "stickup_0019",
+      "features": {
+        "advanced_motion_enabled": "true",
+        "motion_message_enabled": "true",
+        "motions_enabled": "true",
+        "people_only_enabled": "false",
+        "shadow_correction_enabled": "true",
+        "night_vision_enabled": true,
+        "show_recordings": true
+      },
+      "settings": {
+        "motion_detection_enabled": "true",
+        "motion_sensitivity": "5",
+        "package_detection_enabled": "false",
+        "people_detection_enabled": "true",
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "address": "1428 Palermo Avenue, Coral Gables, FL 33134",
+      "created_at": "2026-10-20T09:00:00Z",
+      "firmware_version": "2.0.89.31",
+      "kind": "stickup_cam_v3",
+      "latitude": 25.7203,
+      "longitude": -80.2589,
+      "location_id": "loc-bfl-palermo-001",
+      "owned": true,
+      "owner": {
+        "id": 4001001,
+        "first_name": "Michelle",
+        "last_name": "Brooks"
+      },
+      "time_zone": "America/New_York",
+      "alerts": {
+        "connection": "online"
+      },
+      "battery_life": 6,
+      "external_connection": false,
+      "led_status": "off",
+      "motion_snooze": null,
+      "night_mode_status": "auto",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    }
+  ]
+}

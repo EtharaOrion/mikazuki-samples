@@ -1,0 +1,162 @@
+[
+  {
+    "template_id": "tmpl-vendor-msa",
+    "name": "Vendor Master Service Agreement",
+    "description": "Standard supply/MSA terms for tavern vendors",
+    "shared": "true",
+    "owner_name": "Carlton McGee",
+    "created_time": "2024-01-08T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-lease-addendum",
+    "name": "Commercial Lease Addendum",
+    "description": "Lease addenda and renewals for 31-09 Broadway",
+    "shared": "false",
+    "owner_name": "Rebecca Stein",
+    "created_time": "2024-02-10T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-liquor-license",
+    "name": "Liquor License Renewal Authorization",
+    "description": "NY State liquor license renewal paperwork",
+    "shared": "false",
+    "owner_name": "Rebecca Stein",
+    "created_time": "2024-12-15T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-staff-onboarding",
+    "name": "Staff Onboarding Packet",
+    "description": "New-hire forms, handbook acknowledgment, W-4",
+    "shared": "true",
+    "owner_name": "Carlton McGee",
+    "created_time": "2023-02-01T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-catering-contract",
+    "name": "Private Event Catering Contract",
+    "description": "Booking terms and deposit schedule for private events",
+    "shared": "true",
+    "owner_name": "Sophia Kastner",
+    "created_time": "2023-02-12T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-seafood-supply",
+    "name": "Atlantic Seafood Supply Agreement",
+    "description": "Weekly fish delivery terms with Kevin Walsh",
+    "shared": "false",
+    "owner_name": "Daniel McGee",
+    "created_time": "2023-03-20T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-wine-distributor",
+    "name": "Wine Distributor Purchase Agreement",
+    "description": "Hudson Valley Wine Imports supply and pricing terms",
+    "shared": "false",
+    "owner_name": "Carlton McGee",
+    "created_time": "2023-02-03T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-produce-supply",
+    "name": "Produce Vendor Supply Agreement",
+    "description": "Weekly produce delivery terms for the kitchen",
+    "shared": "false",
+    "owner_name": "Daniel McGee",
+    "created_time": "2023-03-14T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-equipment-lease",
+    "name": "Kitchen Equipment Lease",
+    "description": "Lease for walk-in cooler and dish machine",
+    "shared": "false",
+    "owner_name": "Carlton McGee",
+    "created_time": "2023-10-09T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-pos-services",
+    "name": "Square POS Services Agreement",
+    "description": "Point-of-sale and payments processing terms",
+    "shared": "false",
+    "owner_name": "Carlton McGee",
+    "created_time": "2023-11-21T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-server-w4",
+    "name": "Server Tip Reporting Acknowledgment",
+    "description": "Tip declaration and reporting policy for FOH staff",
+    "shared": "true",
+    "owner_name": "Sophia Kastner",
+    "created_time": "2024-01-30T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-nda-consultant",
+    "name": "Consultant Non-Disclosure Agreement",
+    "description": "NDA for menu and recipe consultants",
+    "shared": "false",
+    "owner_name": "Carlton McGee",
+    "created_time": "2024-02-25T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-hvac-maintenance",
+    "name": "HVAC Maintenance Service Contract",
+    "description": "Quarterly HVAC and ventilation service terms",
+    "shared": "false",
+    "owner_name": "Carlton McGee",
+    "created_time": "2024-03-18T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-linen-service",
+    "name": "Linen Service Agreement",
+    "description": "Weekly tablecloth and napkin rental terms",
+    "shared": "false",
+    "owner_name": "Sophia Kastner",
+    "created_time": "2024-01-22T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-waste-removal",
+    "name": "Waste Removal Service Contract",
+    "description": "Commercial trash and grease trap pickup terms",
+    "shared": "false",
+    "owner_name": "Carlton McGee",
+    "created_time": "2024-02-28T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-gift-card-terms",
+    "name": "Gift Card Program Terms",
+    "description": "Terms and conditions for tavern gift cards",
+    "shared": "true",
+    "owner_name": "Carlton McGee",
+    "created_time": "2024-03-11T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-insurance-cert",
+    "name": "Liability Insurance Certificate Request",
+    "description": "General liability and liquor liability coverage forms",
+    "shared": "false",
+    "owner_name": "Rebecca Stein",
+    "created_time": "2024-01-08T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-cleaning-service",
+    "name": "Nightly Cleaning Service Agreement",
+    "description": "After-hours deep cleaning and floor care terms",
+    "shared": "false",
+    "owner_name": "Sophia Kastner",
+    "created_time": "2024-03-16T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-photo-release",
+    "name": "Event Photography Release",
+    "description": "Photo and media release for private events",
+    "shared": "true",
+    "owner_name": "Carlton McGee",
+    "created_time": "2024-10-27T09:00:00Z"
+  },
+  {
+    "template_id": "tmpl-meat-supply",
+    "name": "Butcher Supply Agreement",
+    "description": "Weekly grilled meats and dry-aged beef supply terms",
+    "shared": "false",
+    "owner_name": "Daniel McGee",
+    "created_time": "2024-11-19T09:00:00Z"
+  }
+]

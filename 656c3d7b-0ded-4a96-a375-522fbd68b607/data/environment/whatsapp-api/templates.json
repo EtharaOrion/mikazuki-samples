@@ -1,0 +1,82 @@
+[
+  {
+    "body_text": "Hi {{1}}, your order {{2}} has shipped and will arrive by {{3}}.",
+    "category": "UTILITY",
+    "header_text": "Order update",
+    "language": "en_US",
+    "name": "order_shipped",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Reminder: your appointment on {{1}} at {{2}} is confirmed.",
+    "category": "UTILITY",
+    "header_text": "Order update",
+    "language": "en_US",
+    "name": "appointment_reminder",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Welcome to Haverstone University, {{1}}! Use {{2}} for 10% off your first order.",
+    "category": "MARKETING",
+    "header_text": "Welcome to Haverstone University",
+    "language": "en_US",
+    "name": "welcome_offer",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Your verification code is {{1}}. It expires in 10 minutes.",
+    "category": "AUTHENTICATION",
+    "header_text": "Order update",
+    "language": "en_US",
+    "name": "otp_verify",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, did our support resolve your issue today?",
+    "category": "UTILITY",
+    "header_text": "Welcome to Haverstone University",
+    "language": "en_US",
+    "name": "support_followup",
+    "status": "PENDING"
+  },
+  {
+    "body_text": "Sunday 8pm call to Boston. Do you want video or audio tonight?",
+    "category": "Utility",
+    "header_text": "Sunday call reminder",
+    "language": "en",
+    "name": "family_sunday_call",
+    "status": "approved"
+  },
+  {
+    "body_text": "Reminder: Langston Lab seminar Wednesday 2pm. Zoom link in calendar.",
+    "category": "Marketing",
+    "header_text": "Langston Lab Seminar",
+    "language": "en",
+    "name": "lab_seminar_invite",
+    "status": "approved"
+  },
+  {
+    "body_text": "Saturday advanced class at 10am. Please bring pointe shoes for the barre work.",
+    "category": "Utility",
+    "header_text": "Advanced Class Update",
+    "language": "en",
+    "name": "ballet_class_note",
+    "status": "approved"
+  },
+  {
+    "body_text": "Thank you for the birthday note - it landed right during my deep-focus block, but I read it after noon.",
+    "category": "Utility",
+    "header_text": "Birthday thanks",
+    "language": "en",
+    "name": "dorothy_bday_thanks",
+    "status": "approved"
+  },
+  {
+    "body_text": "Whitfield year-3 budget update draft due 26 Feb. Sending my sections to Ryan for review.",
+    "category": "Utility",
+    "header_text": "Grant deadline",
+    "language": "en",
+    "name": "grant_deadline_ping",
+    "status": "approved"
+  }
+]

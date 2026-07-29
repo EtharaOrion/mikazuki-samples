@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookingConfig site="crossroadsconservatory.com" generated="2026-10-01" version="3.2">
+  <school>
+    <name>Crossroads Conservatory of Music</name>
+    <address>1420 Grand Blvd, Kansas City, MO 64108</address>
+    <phone>(816) 555-0190</phone>
+    <email>jessica.webb@finthesiss.ai</email>
+    <owner>Jessica Webb</owner>
+    <admin>Claire Reynolds</admin>
+  </school>
+  <payments>
+    <provider name="Card Processor" mode="live" enabled="true"/>
+    <provider name="Card Reader" mode="live" enabled="true" use="in person recitals"/>
+    <currency>USD</currency>
+  </payments>
+  <services>
+    <service id="sax" label="Saxophone Lessons" instructor="Jessica Webb, Anthony Ruiz" durationMin="45" price="160" unit="month"/>
+    <service id="piano" label="Piano Lessons" instructor="Raymond Coleman, Priya Nair" durationMin="45" price="160" unit="month"/>
+    <service id="guitar" label="Guitar Lessons" instructor="Marcus Bell" durationMin="45" price="160" unit="month"/>
+    <service id="drums" label="Drum Lessons" instructor="Tomoko Ishida" durationMin="45" price="160" unit="month"/>
+    <service id="voice" label="Voice Lessons" instructor="Diane Foster" durationMin="45" price="160" unit="month"/>
+    <service id="bass" label="Bass Lessons" instructor="Luke Vance" durationMin="45" price="160" unit="month"/>
+    <service id="ensemble" label="Teen Jazz Ensemble" instructor="Raymond Coleman" durationMin="120" price="120" unit="month"/>
+    <service id="camp2027" label="Summer Teen Jazz Camp" start="2027-07-10" end="2027-07-24" price="350" capacity="20"/>
+  </services>
+  <events>
+    <event id="showcase" label="5th Anniversary Showcase" date="2026-10-10" time="18:00" venue="The Phoenix" ticketing="online"/>
+    <event id="holiday" label="Holiday Recital" date="2026-12-19" time="14:00" venue="Crossroads Studio"/>
+  </events>
+  <integrations>
+    <integration name="Calendar" status="connected"/>
+    <integration name="Scheduling" status="connected" use="trial lessons"/>
+    <integration name="Newsletter" status="connected" use="newsletter"/>
+    <integration name="Ticketing" status="connected" use="showcase tickets"/>
+  </integrations>
+  <pages>
+    <page path="/" title="Home" lastmod="2026-10-01"/>
+    <page path="/lessons" title="Lessons and Pricing" lastmod="2026-10-01"/>
+    <page path="/book" title="Book a Trial Lesson" lastmod="2026-10-01" form="typeform"/>
+    <page path="/camp" title="Summer Camp 2027" lastmod="2026-10-01"/>
+    <page path="/showcase" title="5th Anniversary Showcase" lastmod="2026-10-01"/>
+  </pages>
+</bookingConfig>

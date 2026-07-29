@@ -1,0 +1,75 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 11,
+      "passed": 0,
+      "failed": 11,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.0,
+      "weighted_percentage": 0.0
+    },
+    "tests": [
+      {
+        "name": "test_annotated_screenshot",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_jira_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_leads_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_opportunities_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_read_before_update",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_record_cr_finding",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_record_created",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_record_missing_option",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_record_update_called",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_record_widget_finding",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_stage_passed",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

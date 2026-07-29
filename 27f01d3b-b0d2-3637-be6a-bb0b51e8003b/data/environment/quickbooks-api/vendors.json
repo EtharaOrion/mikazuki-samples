@@ -1,0 +1,97 @@
+[
+  {
+    "Id": "1",
+    "DisplayName": "Grand Arts Properties LLC",
+    "CompanyName": "Grand Arts Properties LLC",
+    "PrimaryEmailAddr": {
+      "Address": "leasing@grandartsproperties.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "(816) 471-6620"
+    },
+    "BillAddr_Line1": "1420 Grand Blvd",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64108",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "",
+    "Vendor1099": "false"
+  },
+  {
+    "Id": "2",
+    "DisplayName": "Sweetwater Sound",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "sales@sweetwater.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "(260) 432-8176"
+    },
+    "BillAddr_Line1": "1815 Westport Rd",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64111",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "",
+    "Vendor1099": "false"
+  },
+  {
+    "Id": "3",
+    "DisplayName": "Heartland Insurance Group",
+    "CompanyName": "Heartland Insurance Group",
+    "PrimaryEmailAddr": {
+      "Address": "billing@heartlandinsgroup.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "(816) 753-4410"
+    },
+    "BillAddr_Line1": "3400 Broadway Blvd",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64105",
+    "Balance": "220.00",
+    "Active": "true",
+    "AcctNum": "",
+    "Vendor1099": "false"
+  },
+  {
+    "Id": "4",
+    "DisplayName": "Evergy",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "service@evergy.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "(816) 471-5275"
+    },
+    "BillAddr_Line1": "4520 Main St",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64110",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "",
+    "Vendor1099": "false"
+  },
+  {
+    "Id": "5",
+    "DisplayName": "Gloria Martin CPA",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "gloria.martin@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "(816) 502-7129"
+    },
+    "BillAddr_Line1": "1200 Central St",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64112",
+    "Balance": "800.00",
+    "Active": "true",
+    "AcctNum": "",
+    "Vendor1099": "false"
+  }
+]

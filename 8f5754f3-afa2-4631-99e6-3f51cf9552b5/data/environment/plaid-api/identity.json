@@ -1,0 +1,72 @@
+{
+  "owners": {
+    "acc_chk_001": [
+      {
+        "names": [
+          "Carlton McGee",
+          "Ellen McGee"
+        ],
+        "emails": [
+          {
+            "data": "carlton.mcgee@eleanorstavern.com",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+17185550101",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "31-22 29th Street",
+              "city": "Astoria",
+              "region": "NY",
+              "postal_code": "11106",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_sav_002": [
+      {
+        "names": [
+          "Ellen McGee",
+          "Carlton McGee"
+        ],
+        "emails": [
+          {
+            "data": "ellen.mcgee@gmail.com",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+17185550134",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "31-22 29th Street",
+              "city": "Astoria",
+              "region": "NY",
+              "postal_code": "11106",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ]
+  }
+}

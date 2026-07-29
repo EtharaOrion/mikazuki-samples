@@ -1,0 +1,191 @@
+[
+  {
+    "name": "etw-web-1",
+    "up": "true",
+    "apps": "nginx;web",
+    "sources": "agent",
+    "cpu_pct": "12.4",
+    "mem_pct": "38.0",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-web-2",
+    "up": "true",
+    "apps": "nginx;web",
+    "sources": "agent",
+    "cpu_pct": "9.8",
+    "mem_pct": "35.3",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-cms-1",
+    "up": "true",
+    "apps": "wordpress;php-fpm",
+    "sources": "agent",
+    "cpu_pct": "18.1",
+    "mem_pct": "52.5",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-reservations-1",
+    "up": "true",
+    "apps": "node;reservations",
+    "sources": "agent",
+    "cpu_pct": "6.2",
+    "mem_pct": "28.7",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-reservations-2",
+    "up": "true",
+    "apps": "node;reservations",
+    "sources": "agent",
+    "cpu_pct": "7.4",
+    "mem_pct": "31.2",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-db-primary",
+    "up": "true",
+    "apps": "postgres;db",
+    "sources": "agent",
+    "cpu_pct": "22.6",
+    "mem_pct": "61.8",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-db-replica",
+    "up": "true",
+    "apps": "postgres;db",
+    "sources": "agent",
+    "cpu_pct": "11.3",
+    "mem_pct": "48.4",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-cache-1",
+    "up": "true",
+    "apps": "redis;cache",
+    "sources": "agent",
+    "cpu_pct": "4.9",
+    "mem_pct": "22.1",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-pos-bridge-1",
+    "up": "true",
+    "apps": "square;pos-bridge",
+    "sources": "agent",
+    "cpu_pct": "3.8",
+    "mem_pct": "19.6",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-email-worker-1",
+    "up": "true",
+    "apps": "node;klaviyo-sync",
+    "sources": "agent",
+    "cpu_pct": "5.1",
+    "mem_pct": "26.4",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-analytics-1",
+    "up": "true",
+    "apps": "node;mixpanel-export",
+    "sources": "agent",
+    "cpu_pct": "8.7",
+    "mem_pct": "33.9",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-web-3",
+    "up": "true",
+    "apps": "nginx;web",
+    "sources": "agent",
+    "cpu_pct": "10.6",
+    "mem_pct": "36.7",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-loadbalancer-1",
+    "up": "true",
+    "apps": "haproxy;lb",
+    "sources": "agent",
+    "cpu_pct": "14.2",
+    "mem_pct": "27.0",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-staging-web-1",
+    "up": "true",
+    "apps": "nginx;web;staging",
+    "sources": "agent",
+    "cpu_pct": "2.1",
+    "mem_pct": "15.8",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-staging-db-1",
+    "up": "true",
+    "apps": "postgres;db;staging",
+    "sources": "agent",
+    "cpu_pct": "3.3",
+    "mem_pct": "24.5",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-backup-1",
+    "up": "true",
+    "apps": "restic;backup",
+    "sources": "agent",
+    "cpu_pct": "1.6",
+    "mem_pct": "12.3",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-cms-2",
+    "up": "true",
+    "apps": "wordpress;php-fpm",
+    "sources": "agent",
+    "cpu_pct": "16.4",
+    "mem_pct": "49.1",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-cdn-edge-1",
+    "up": "true",
+    "apps": "varnish;cdn",
+    "sources": "agent",
+    "cpu_pct": "9.0",
+    "mem_pct": "30.2",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-monitoring-1",
+    "up": "false",
+    "apps": "grafana;monitoring",
+    "sources": "agent",
+    "cpu_pct": "0.0",
+    "mem_pct": "0.0",
+    "last_reported": "1742629800"
+  },
+  {
+    "name": "etw-cron-1",
+    "up": "true",
+    "apps": "cron;jobs",
+    "sources": "agent",
+    "cpu_pct": "2.4",
+    "mem_pct": "14.7",
+    "last_reported": "1742716200"
+  },
+  {
+    "name": "etw-search-1",
+    "up": "true",
+    "apps": "elasticsearch;search",
+    "sources": "agent",
+    "cpu_pct": "19.8",
+    "mem_pct": "57.2",
+    "last_reported": "1742716200"
+  }
+]

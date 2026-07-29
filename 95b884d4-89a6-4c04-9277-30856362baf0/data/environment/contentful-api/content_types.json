@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ct-blog-post",
+    "name": "Blog post",
+    "displayField": "title",
+    "description": "Long-form blog posts",
+    "fields_json": "[{\"id\":\"title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"type\":\"RichText\",\"required\":false}]"
+  },
+  {
+    "id": "ct-author",
+    "name": "Author",
+    "displayField": "name",
+    "description": "Author byline",
+    "fields_json": "[{\"id\":\"name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"type\":\"Text\",\"required\":false}]"
+  },
+  {
+    "id": "ct-page",
+    "name": "Landing page",
+    "displayField": "title",
+    "description": "Marketing landing pages",
+    "fields_json": "[{\"id\":\"title\",\"type\":\"Symbol\"},{\"id\":\"hero\",\"type\":\"Symbol\"},{\"id\":\"cta_label\",\"type\":\"Symbol\"}]"
+  }
+]

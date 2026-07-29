@@ -1,0 +1,62 @@
+[
+  {
+    "tracking_number": "794653210001",
+    "status_code": "DL",
+    "status_description": "Delivered",
+    "carrier_code": "FDXG",
+    "service_name": "FedEx Ground",
+    "ship_date": "2025-11-05",
+    "estimated_delivery": "2025-11-11",
+    "latest_event": "Delivered",
+    "latest_event_location": "Los Angeles, CA",
+    "latest_event_time": "2025-11-11T14:10:00Z"
+  },
+  {
+    "tracking_number": "794653210002",
+    "status_code": "DL",
+    "status_description": "Delivered",
+    "carrier_code": "FDXE",
+    "service_name": "FedEx 2Day",
+    "ship_date": "2025-11-18",
+    "estimated_delivery": "2025-11-20",
+    "latest_event": "Delivered",
+    "latest_event_location": "Chicago, IL",
+    "latest_event_time": "2025-11-20T11:30:00Z"
+  },
+  {
+    "tracking_number": "794653210003",
+    "status_code": "DL",
+    "status_description": "Delivered",
+    "carrier_code": "FDXG",
+    "service_name": "FedEx Ground",
+    "ship_date": "2025-12-03",
+    "estimated_delivery": "2025-12-09",
+    "latest_event": "Delivered",
+    "latest_event_location": "Chicago, IL",
+    "latest_event_time": "2025-12-09T15:22:00Z"
+  },
+  {
+    "tracking_number": "794653210004",
+    "status_code": "DL",
+    "status_description": "Delivered",
+    "carrier_code": "FDXE",
+    "service_name": "FedEx Priority Overnight",
+    "ship_date": "2025-12-15",
+    "estimated_delivery": "2025-12-16",
+    "latest_event": "Delivered",
+    "latest_event_location": "New York, NY",
+    "latest_event_time": "2025-12-16T09:45:00Z"
+  },
+  {
+    "tracking_number": "794653210005",
+    "status_code": "IT",
+    "status_description": "In transit",
+    "carrier_code": "FDXG",
+    "service_name": "FedEx Ground",
+    "ship_date": "2026-03-23",
+    "estimated_delivery": "2026-03-27",
+    "latest_event": "Departed FedEx facility",
+    "latest_event_location": "Kansas City, MO",
+    "latest_event_time": "2026-03-24T03:40:00Z"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "item": {
+    "item_id": "item_chase_9f4b21",
+    "institution_id": "ins_56",
+    "webhook": "https://hooks.eleanorstavern.com/plaid/webhook",
+    "available_products": [
+      "balance",
+      "identity"
+    ],
+    "billed_products": [
+      "transactions",
+      "auth"
+    ],
+    "consent_expiration_time": "2026-05-15T14:30:00Z",
+    "update_type": "background"
+  },
+  "institution": {
+    "institution_id": "ins_56",
+    "name": "Chase",
+    "products": [
+      "transactions",
+      "auth",
+      "balance",
+      "identity"
+    ],
+    "country_codes": [
+      "US"
+    ],
+    "url": "https://www.chase.com",
+    "primary_color": "#117aca",
+    "routing_numbers": [
+      "021000021"
+    ]
+  }
+}

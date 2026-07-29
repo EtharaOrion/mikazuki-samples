@@ -1,0 +1,44 @@
+{
+  "user_id": 1,
+  "username": "carltonmcgee",
+  "display_name": "Carlton McGee",
+  "email": "carlton.mcgee@eleanorstavern.com",
+  "date_of_birth": "1981-11-14",
+  "sex": "male",
+  "height_cm": 180.3,
+  "current_weight_lbs": 205.0,
+  "goal_weight_lbs": 185.0,
+  "activity_level": "lightly_active",
+  "profile_image_url": "https://mfp-static.s3.amazonaws.com/avatars/carltonmcgee.jpg",
+  "location": "Astoria, NY",
+  "joined_date": "2025-02-18",
+  "daily_calorie_goal": 2000,
+  "macro_goals": {
+    "carbs_pct": 40,
+    "fat_pct": 30,
+    "protein_pct": 30
+  },
+  "nutrient_goals": {
+    "calories": 2000,
+    "total_fat_g": 67,
+    "saturated_fat_g": 18,
+    "cholesterol_mg": 200,
+    "sodium_mg": 2300,
+    "total_carbs_g": 200,
+    "dietary_fiber_g": 30,
+    "sugars_g": 50,
+    "protein_g": 150,
+    "potassium_mg": 3500,
+    "vitamin_a_pct": 100,
+    "vitamin_c_pct": 100,
+    "calcium_pct": 100,
+    "iron_pct": 100
+  },
+  "weekly_weight_goal_lbs": -1.0,
+  "units": {
+    "weight": "lbs",
+    "height": "inches",
+    "water": "cups",
+    "energy": "calories"
+  }
+}

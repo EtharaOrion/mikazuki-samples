@@ -1,0 +1,549 @@
+{
+  "QueryResponse": {
+    "BillPayment": [
+      {
+        "Id": "5001",
+        "VendorRef": {
+          "value": "9",
+          "name": "Broadway Astoria Realty LLC"
+        },
+        "TxnDate": "2026-01-02",
+        "TotalAmt": 12000.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3001",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 12000.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2101 - April rent"
+      },
+      {
+        "Id": "5002",
+        "VendorRef": {
+          "value": "9",
+          "name": "Broadway Astoria Realty LLC"
+        },
+        "TxnDate": "2026-02-02",
+        "TotalAmt": 12000.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3002",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 12000.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2102 - May rent"
+      },
+      {
+        "Id": "5003",
+        "VendorRef": {
+          "value": "1",
+          "name": "Atlantic Seafood Supply"
+        },
+        "TxnDate": "2026-01-25",
+        "TotalAmt": 2840.5,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3004",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 2840.5
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2103 - Atlantic Seafood"
+      },
+      {
+        "Id": "5004",
+        "VendorRef": {
+          "value": "1",
+          "name": "Atlantic Seafood Supply"
+        },
+        "TxnDate": "2026-02-15",
+        "TotalAmt": 3120.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3005",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 3120.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2104 - Atlantic Seafood"
+      },
+      {
+        "Id": "5005",
+        "VendorRef": {
+          "value": "2",
+          "name": "Greenmarket Produce Partners"
+        },
+        "TxnDate": "2026-01-28",
+        "TotalAmt": 1685.4,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3007",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 1685.4
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2105 - Greenmarket Produce"
+      },
+      {
+        "Id": "5006",
+        "VendorRef": {
+          "value": "2",
+          "name": "Greenmarket Produce Partners"
+        },
+        "TxnDate": "2026-02-26",
+        "TotalAmt": 1820.75,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3008",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 1820.75
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2106 - Greenmarket Produce"
+      },
+      {
+        "Id": "5007",
+        "VendorRef": {
+          "value": "3",
+          "name": "Empire Meat Purveyors"
+        },
+        "TxnDate": "2026-01-28",
+        "TotalAmt": 3960.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3010",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 3960.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2107 - Empire Meat"
+      },
+      {
+        "Id": "5008",
+        "VendorRef": {
+          "value": "3",
+          "name": "Empire Meat Purveyors"
+        },
+        "TxnDate": "2026-03-02",
+        "TotalAmt": 4310.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3011",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 4310.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2108 - Empire Meat"
+      },
+      {
+        "Id": "5009",
+        "VendorRef": {
+          "value": "4",
+          "name": "Hudson Valley Wine Imports"
+        },
+        "TxnDate": "2026-02-09",
+        "TotalAmt": 3120.75,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3013",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 3120.75
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2109 - Hudson Valley Wine"
+      },
+      {
+        "Id": "5010",
+        "VendorRef": {
+          "value": "5",
+          "name": "Five Boroughs Beverage"
+        },
+        "TxnDate": "2026-02-26",
+        "TotalAmt": 1890.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3015",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 1890.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2110 - Five Boroughs Beverage"
+      },
+      {
+        "Id": "5011",
+        "VendorRef": {
+          "value": "10",
+          "name": "Con Edison"
+        },
+        "TxnDate": "2026-02-28",
+        "TotalAmt": 1845.6,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3017",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 1845.6
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Auto-pay - Con Edison"
+      },
+      {
+        "Id": "5012",
+        "VendorRef": {
+          "value": "11",
+          "name": "National Grid"
+        },
+        "TxnDate": "2026-03-03",
+        "TotalAmt": 720.3,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3018",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 720.3
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Auto-pay - National Grid"
+      },
+      {
+        "Id": "5013",
+        "VendorRef": {
+          "value": "13",
+          "name": "NYC Water Board"
+        },
+        "TxnDate": "2026-02-28",
+        "TotalAmt": 312.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3019",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 312.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2111 - NYC Water Board"
+      },
+      {
+        "Id": "5014",
+        "VendorRef": {
+          "value": "19",
+          "name": "Boroughs Waste & Sanitation"
+        },
+        "TxnDate": "2026-02-19",
+        "TotalAmt": 485.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3020",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 485.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2112 - Boroughs Waste"
+      },
+      {
+        "Id": "5015",
+        "VendorRef": {
+          "value": "20",
+          "name": "Empire Restaurant Insurance Group"
+        },
+        "TxnDate": "2026-01-14",
+        "TotalAmt": 6000.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3021",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 6000.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2113 - Q2 insurance premium"
+      },
+      {
+        "Id": "5016",
+        "VendorRef": {
+          "value": "7",
+          "name": "Metro Restaurant Supply"
+        },
+        "TxnDate": "2026-02-27",
+        "TotalAmt": 980.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3023",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 980.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2114 - Metro Restaurant Supply"
+      },
+      {
+        "Id": "5017",
+        "VendorRef": {
+          "value": "15",
+          "name": "Kim CPA & Associates"
+        },
+        "TxnDate": "2026-01-23",
+        "TotalAmt": 850.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3024",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 850.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2115 - Kim CPA Q1"
+      },
+      {
+        "Id": "5018",
+        "VendorRef": {
+          "value": "16",
+          "name": "Toast POS"
+        },
+        "TxnDate": "2026-02-14",
+        "TotalAmt": 329.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3025",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 329.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Auto-pay - Toast POS"
+      },
+      {
+        "Id": "5019",
+        "VendorRef": {
+          "value": "18",
+          "name": "Mailchimp"
+        },
+        "TxnDate": "2026-02-12",
+        "TotalAmt": 75.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3026",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 75.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Auto-pay - Mailchimp"
+      },
+      {
+        "Id": "5020",
+        "VendorRef": {
+          "value": "21",
+          "name": "Steinway Gas & HVAC Service"
+        },
+        "TxnDate": "2026-03-04",
+        "TotalAmt": 640.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3027",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 640.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Operating Checking"
+          }
+        },
+        "PrivateNote": "Check #2116 - Steinway HVAC repair"
+      }
+    ],
+    "startPosition": 1,
+    "maxResults": 100,
+    "totalCount": 20
+  }
+}

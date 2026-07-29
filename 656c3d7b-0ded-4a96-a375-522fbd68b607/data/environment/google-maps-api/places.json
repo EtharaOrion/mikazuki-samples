@@ -1,0 +1,562 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1136 Pine St, Thornfield, AZ 85004",
+    "lat": 33.422298,
+    "lng": -112.042202,
+    "name": "The Cheesecake Factory",
+    "place_id": "ChIJ009998d4cb",
+    "price_level": 3,
+    "rating": 4.2,
+    "types": [
+      "restaurant|food|meal_takeaway|establishment"
+    ],
+    "user_ratings_total": 2990
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "351 Oak Pl, Thornfield, AZ 85004",
+    "lat": 33.44718,
+    "lng": -112.093643,
+    "name": "Olive Garden",
+    "place_id": "ChIJ00b9b2f490",
+    "price_level": 2,
+    "rating": 4.1,
+    "types": [
+      "restaurant|food|meal_takeaway|establishment"
+    ],
+    "user_ratings_total": 2174
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "494 Ash Pl, Thornfield, AZ 85004",
+    "lat": 33.449152,
+    "lng": -112.055048,
+    "name": "P.F. Chang's",
+    "place_id": "ChIJ003228c154",
+    "price_level": 3,
+    "rating": 4.2,
+    "types": [
+      "restaurant|food|meal_takeaway|establishment"
+    ],
+    "user_ratings_total": 3600
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "155 Chestnut Ln, Thornfield, AZ 85004",
+    "lat": 33.41059,
+    "lng": -112.031156,
+    "name": "Chick-fil-A",
+    "place_id": "ChIJ000d8342b0",
+    "price_level": 1,
+    "rating": 4.9,
+    "types": [
+      "meal_takeaway|restaurant|food|establishment"
+    ],
+    "user_ratings_total": 4454
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1362 Pine St, Thornfield, AZ 85004",
+    "lat": 33.485811,
+    "lng": -112.078454,
+    "name": "Wendy's",
+    "place_id": "ChIJ0062138035",
+    "price_level": 1,
+    "rating": 3.9,
+    "types": [
+      "meal_takeaway|restaurant|food|establishment"
+    ],
+    "user_ratings_total": 2784
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "388 Walnut St, Thornfield, AZ 85004",
+    "lat": 33.444912,
+    "lng": -112.033011,
+    "name": "Taco Bell",
+    "place_id": "ChIJ0067cc7db0",
+    "price_level": 1,
+    "rating": 3.8,
+    "types": [
+      "meal_takeaway|restaurant|food|establishment"
+    ],
+    "user_ratings_total": 4565
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "176 Maple Blvd, Thornfield, AZ 85004",
+    "lat": 33.483258,
+    "lng": -112.044749,
+    "name": "Subway",
+    "place_id": "ChIJ00719ecf00",
+    "price_level": 1,
+    "rating": 3.7,
+    "types": [
+      "meal_takeaway|restaurant|food|establishment"
+    ],
+    "user_ratings_total": 1547
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1214 Elm Ln, Thornfield, AZ 85004",
+    "lat": 33.488327,
+    "lng": -112.079708,
+    "name": "Starbucks",
+    "place_id": "ChIJ0027ae09ce",
+    "price_level": 2,
+    "rating": 4.5,
+    "types": [
+      "cafe|food|point_of_interest|store|establishment|establishment"
+    ],
+    "user_ratings_total": 4337
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "898 Birch Rd, Thornfield, AZ 85004",
+    "lat": 33.404059,
+    "lng": -112.055511,
+    "name": "Dunkin'",
+    "place_id": "ChIJ00f551bbf3",
+    "price_level": 1,
+    "rating": 4.2,
+    "types": [
+      "cafe|food|point_of_interest|store|establishment"
+    ],
+    "user_ratings_total": 796
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "647 Maple Blvd, Thornfield, AZ 85004",
+    "lat": 33.445079,
+    "lng": -112.10219,
+    "name": "Peet's Coffee",
+    "place_id": "ChIJ00405bccbd",
+    "price_level": 2,
+    "rating": 4.2,
+    "types": [
+      "cafe|food|point_of_interest|store|establishment"
+    ],
+    "user_ratings_total": 308
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "655 Elm Ln, Thornfield, AZ 85004",
+    "lat": 33.486586,
+    "lng": -112.054359,
+    "name": "Blue Bottle Coffee",
+    "place_id": "ChIJ00431e816b",
+    "price_level": 3,
+    "rating": 4.7,
+    "types": [
+      "cafe|food|point_of_interest|store|establishment"
+    ],
+    "user_ratings_total": 2216
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1024 Birch Pl, Thornfield, AZ 85004",
+    "lat": 33.4168,
+    "lng": -112.02831,
+    "name": "La Colombe",
+    "place_id": "ChIJ00d1dd49d5",
+    "price_level": 2,
+    "rating": 4.3,
+    "types": [
+      "cafe|food|point_of_interest|store|establishment"
+    ],
+    "user_ratings_total": 221
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "293 Willow Ln, Thornfield, AZ 85004",
+    "lat": 33.425182,
+    "lng": -112.067556,
+    "name": "Philz Coffee",
+    "place_id": "ChIJ002c93c91b",
+    "price_level": 2,
+    "rating": 4.9,
+    "types": [
+      "cafe|food|point_of_interest|store|establishment"
+    ],
+    "user_ratings_total": 3039
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "133 Elm Ave, Thornfield, AZ 85004",
+    "lat": 33.471047,
+    "lng": -112.034185,
+    "name": "McDonald's",
+    "place_id": "ChIJ00013c6517",
+    "price_level": 1,
+    "rating": 4.0,
+    "types": [
+      "meal_takeaway|restaurant|food|establishment"
+    ],
+    "user_ratings_total": 3661
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "879 Cedar Blvd, Thornfield, AZ 85004",
+    "lat": 33.41344,
+    "lng": -112.06835,
+    "name": "Chipotle Mexican Grill",
+    "place_id": "ChIJ005ac09f25",
+    "price_level": 2,
+    "rating": 4.3,
+    "types": [
+      "meal_takeaway|restaurant|food|establishment"
+    ],
+    "user_ratings_total": 2653
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1076 Pine Pl, Thornfield, AZ 85004",
+    "lat": 33.437704,
+    "lng": -112.111701,
+    "name": "Sweetgreen",
+    "place_id": "ChIJ00952b030c",
+    "price_level": 2,
+    "rating": 4.5,
+    "types": [
+      "meal_takeaway|restaurant|food|establishment"
+    ],
+    "user_ratings_total": 1792
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "482 Cedar Blvd, Thornfield, AZ 85004",
+    "lat": 33.495299,
+    "lng": -112.046566,
+    "name": "Shake Shack",
+    "place_id": "ChIJ0026a25ab4",
+    "price_level": 2,
+    "rating": 4.6,
+    "types": [
+      "meal_takeaway|restaurant|food|establishment"
+    ],
+    "user_ratings_total": 524
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1343 Walnut Rd, Thornfield, AZ 85004",
+    "lat": 33.45021,
+    "lng": -112.053653,
+    "name": "In-N-Out Burger",
+    "place_id": "ChIJ00488e5f4f",
+    "price_level": 1,
+    "rating": 4.8,
+    "types": [
+      "meal_takeaway|restaurant|food|establishment"
+    ],
+    "user_ratings_total": 3974
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "434 Walnut Blvd, Thornfield, AZ 85004",
+    "lat": 33.407246,
+    "lng": -112.05573,
+    "name": "Five Guys",
+    "place_id": "ChIJ002481493e",
+    "price_level": 2,
+    "rating": 4.6,
+    "types": [
+      "meal_takeaway|restaurant|food|establishment"
+    ],
+    "user_ratings_total": 3128
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "895 Chestnut Pl, Thornfield, AZ 85004",
+    "lat": 33.432138,
+    "lng": -112.045884,
+    "name": "Panera Bread",
+    "place_id": "ChIJ00dec501ca",
+    "price_level": 2,
+    "rating": 4.2,
+    "types": [
+      "meal_takeaway|restaurant|food|bakery|establishment"
+    ],
+    "user_ratings_total": 1907
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "813 Chestnut Ave, Thornfield, AZ 85004",
+    "lat": 33.477868,
+    "lng": -112.057887,
+    "name": "Cava",
+    "place_id": "ChIJ0036223da3",
+    "price_level": 2,
+    "rating": 4.4,
+    "types": [
+      "meal_takeaway|restaurant|food|establishment"
+    ],
+    "user_ratings_total": 1345
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "698 Ash St, Thornfield, AZ 85004",
+    "lat": 33.476351,
+    "lng": -112.072475,
+    "name": "Whole Foods Market",
+    "place_id": "ChIJ00d095f6ee",
+    "price_level": 3,
+    "rating": 4.3,
+    "types": [
+      "grocery_or_supermarket|supermarket|food|store|establishment"
+    ],
+    "user_ratings_total": 3060
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1333 Walnut Pl, Thornfield, AZ 85004",
+    "lat": 33.418852,
+    "lng": -112.053924,
+    "name": "Trader Joe's",
+    "place_id": "ChIJ002d3cbb1c",
+    "price_level": 2,
+    "rating": 4.7,
+    "types": [
+      "grocery_or_supermarket|supermarket|food|store|establishment"
+    ],
+    "user_ratings_total": 3957
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "39 Elm Pl, Thornfield, AZ 85004",
+    "lat": 33.441055,
+    "lng": -112.121599,
+    "name": "Safeway",
+    "place_id": "ChIJ00179f5bf5",
+    "price_level": 2,
+    "rating": 4.1,
+    "types": [
+      "grocery_or_supermarket|supermarket|food|store|establishment"
+    ],
+    "user_ratings_total": 3137
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "156 Chestnut St, Thornfield, AZ 85004",
+    "lat": 33.44654,
+    "lng": -112.058865,
+    "name": "Kroger",
+    "place_id": "ChIJ002813c68b",
+    "price_level": 2,
+    "rating": 4.2,
+    "types": [
+      "grocery_or_supermarket|supermarket|food|store|establishment"
+    ],
+    "user_ratings_total": 4613
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "710 Willow Rd, Thornfield, AZ 85004",
+    "lat": 33.439138,
+    "lng": -112.086775,
+    "name": "Publix",
+    "place_id": "ChIJ009e8bd964",
+    "price_level": 2,
+    "rating": 4.6,
+    "types": [
+      "grocery_or_supermarket|supermarket|food|store|establishment"
+    ],
+    "user_ratings_total": 3452
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "970 Maple Pl, Thornfield, AZ 85004",
+    "lat": 33.403514,
+    "lng": -112.084972,
+    "name": "H-E-B",
+    "place_id": "ChIJ006849e25e",
+    "price_level": 2,
+    "rating": 4.6,
+    "types": [
+      "grocery_or_supermarket|supermarket|food|store|establishment"
+    ],
+    "user_ratings_total": 3970
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "69 Chestnut Ave, Thornfield, AZ 85004",
+    "lat": 33.399811,
+    "lng": -112.116471,
+    "name": "Wegmans",
+    "place_id": "ChIJ00a7b06733",
+    "price_level": 2,
+    "rating": 4.9,
+    "types": [
+      "grocery_or_supermarket|supermarket|food|store|establishment"
+    ],
+    "user_ratings_total": 58
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "582 Maple Ave, Thornfield, AZ 85004",
+    "lat": 33.498241,
+    "lng": -112.064429,
+    "name": "Albertsons",
+    "place_id": "ChIJ0074410442",
+    "price_level": 2,
+    "rating": 4.3,
+    "types": [
+      "grocery_or_supermarket|supermarket|food|store|establishment"
+    ],
+    "user_ratings_total": 2373
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "501 Chestnut Blvd, Thornfield, AZ 85004",
+    "lat": 33.491717,
+    "lng": -112.024901,
+    "name": "Costco Wholesale",
+    "place_id": "ChIJ006bd27b3a",
+    "price_level": 2,
+    "rating": 4.5,
+    "types": [
+      "department_store|grocery_or_supermarket|food|store|establishment"
+    ],
+    "user_ratings_total": 350
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1133 Oak Rd, Thornfield, AZ 85004",
+    "lat": 33.462752,
+    "lng": -112.04417,
+    "name": "Target",
+    "place_id": "ChIJ00ea1d5ab6",
+    "price_level": 2,
+    "rating": 4.3,
+    "types": [
+      "department_store|store|point_of_interest|establishment"
+    ],
+    "user_ratings_total": 4293
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "380 Walnut Ln, Thornfield, AZ 85004",
+    "lat": 33.472167,
+    "lng": -112.024828,
+    "name": "Walmart",
+    "place_id": "ChIJ00eaadff94",
+    "price_level": 1,
+    "rating": 3.8,
+    "types": [
+      "department_store|store|grocery_or_supermarket|establishment"
+    ],
+    "user_ratings_total": 3804
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "602 Maple Ave, Thornfield, AZ 85004",
+    "lat": 33.472074,
+    "lng": -112.056865,
+    "name": "Walmart Supercenter",
+    "place_id": "ChIJ009d82e0b0",
+    "price_level": 1,
+    "rating": 3.8,
+    "types": [
+      "department_store|supermarket|store|establishment"
+    ],
+    "user_ratings_total": 4371
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1232 Oak Rd, Thornfield, AZ 85004",
+    "lat": 33.466867,
+    "lng": -112.037413,
+    "name": "Sam's Club",
+    "place_id": "ChIJ006ab6a233",
+    "price_level": 2,
+    "rating": 4.5,
+    "types": [
+      "department_store|store|establishment"
+    ],
+    "user_ratings_total": 799
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "525 Oak Ln, Thornfield, AZ 85004",
+    "lat": 33.428195,
+    "lng": -112.027598,
+    "name": "BJ's Wholesale Club",
+    "place_id": "ChIJ0038d722d3",
+    "price_level": 2,
+    "rating": 4.3,
+    "types": [
+      "department_store|store|establishment"
+    ],
+    "user_ratings_total": 2145
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1299 Elm Ave, Thornfield, AZ 85004",
+    "lat": 33.476878,
+    "lng": -112.02723,
+    "name": "The Home Depot",
+    "place_id": "ChIJ0006b780ae",
+    "price_level": 2,
+    "rating": 4.2,
+    "types": [
+      "home_goods_store|hardware_store|store|establishment"
+    ],
+    "user_ratings_total": 4485
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "701 Chestnut Rd, Thornfield, AZ 85004",
+    "lat": 33.466838,
+    "lng": -112.102181,
+    "name": "Lowe's",
+    "place_id": "ChIJ0091d61b7a",
+    "price_level": 2,
+    "rating": 4.0,
+    "types": [
+      "home_goods_store|hardware_store|store|establishment"
+    ],
+    "user_ratings_total": 2330
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "580 Willow Ave, Thornfield, AZ 85004",
+    "lat": 33.45384,
+    "lng": -112.029395,
+    "name": "IKEA",
+    "place_id": "ChIJ004b2a35b3",
+    "price_level": 2,
+    "rating": 4.8,
+    "types": [
+      "furniture_store|home_goods_store|store|establishment"
+    ],
+    "user_ratings_total": 3847
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "871 Birch Ave, Thornfield, AZ 85004",
+    "lat": 33.467372,
+    "lng": -112.055475,
+    "name": "Ace Hardware",
+    "place_id": "ChIJ0015f9738c",
+    "price_level": 2,
+    "rating": 4.8,
+    "types": [
+      "hardware_store|home_goods_store|store|establishment"
+    ],
+    "user_ratings_total": 1085
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "839 Elm Pl, Thornfield, AZ 85004",
+    "lat": 33.496797,
+    "lng": -112.028598,
+    "name": "CVS Pharmacy",
+    "place_id": "ChIJ003b68578f",
+    "price_level": 2,
+    "rating": 4.0,
+    "types": [
+      "pharmacy|health|store|establishment"
+    ],
+    "user_ratings_total": 4502
+  }
+]

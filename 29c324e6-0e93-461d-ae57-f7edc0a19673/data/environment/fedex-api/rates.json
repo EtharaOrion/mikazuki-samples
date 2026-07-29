@@ -1,0 +1,57 @@
+[
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "64108",
+    "dest_zip": "90048",
+    "weight_lb": 0.5,
+    "currency": "USD",
+    "net_charge": 8.2,
+    "transit_days": 5,
+    "delivery_day": "2026-01-13"
+  },
+  {
+    "service_type": "FEDEX_2_DAY",
+    "service_name": "FedEx 2Day",
+    "origin_zip": "64108",
+    "dest_zip": "90048",
+    "weight_lb": 0.5,
+    "currency": "USD",
+    "net_charge": 19.45,
+    "transit_days": 2,
+    "delivery_day": "2026-01-08"
+  },
+  {
+    "service_type": "STANDARD_OVERNIGHT",
+    "service_name": "FedEx Standard Overnight",
+    "origin_zip": "64108",
+    "dest_zip": "90048",
+    "weight_lb": 0.5,
+    "currency": "USD",
+    "net_charge": 38.9,
+    "transit_days": 1,
+    "delivery_day": "2026-01-07"
+  },
+  {
+    "service_type": "PRIORITY_OVERNIGHT",
+    "service_name": "FedEx Priority Overnight",
+    "origin_zip": "64108",
+    "dest_zip": "90048",
+    "weight_lb": 0.5,
+    "currency": "USD",
+    "net_charge": 48.75,
+    "transit_days": 1,
+    "delivery_day": "2026-01-07"
+  },
+  {
+    "service_type": "FEDEX_EXPRESS_SAVER",
+    "service_name": "FedEx Express Saver",
+    "origin_zip": "64108",
+    "dest_zip": "60614",
+    "weight_lb": 0.5,
+    "currency": "USD",
+    "net_charge": 14.6,
+    "transit_days": 3,
+    "delivery_day": "2026-01-09"
+  }
+]

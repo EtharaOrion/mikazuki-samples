@@ -1,0 +1,52 @@
+[
+  {
+    "alias": "newamerican",
+    "title": "New American",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "ethiopian",
+    "title": "Ethiopian",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "european",
+    "title": "European",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "tradamerican",
+    "title": "American (Traditional)",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "restaurants",
+    "title": "Restaurants",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "jazzandblues",
+    "title": "Jazz & Blues",
+    "parent": "musicvenues"
+  },
+  {
+    "alias": "musicvenues",
+    "title": "Music Venues",
+    "parent": "arts"
+  },
+  {
+    "alias": "arts",
+    "title": "Arts & Entertainment",
+    "parent": "arts"
+  },
+  {
+    "alias": "nightlife",
+    "title": "Nightlife",
+    "parent": "nightlife"
+  },
+  {
+    "alias": "bars",
+    "title": "Bars",
+    "parent": "nightlife"
+  }
+]

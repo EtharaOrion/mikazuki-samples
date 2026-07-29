@@ -1,0 +1,191 @@
+[
+  {
+    "name": "curiosity",
+    "status": "active",
+    "landing_date": "2012-08-06",
+    "launch_date": "2011-11-26",
+    "max_sol": "4120",
+    "max_date": "2026-02-02",
+    "total_photos": "712450"
+  },
+  {
+    "name": "perseverance",
+    "status": "active",
+    "landing_date": "2021-02-18",
+    "launch_date": "2020-07-30",
+    "max_sol": "1480",
+    "max_date": "2026-01-28",
+    "total_photos": "412300"
+  },
+  {
+    "name": "opportunity",
+    "status": "complete",
+    "landing_date": "2004-01-25",
+    "launch_date": "2003-07-07",
+    "max_sol": "5111",
+    "max_date": "2018-06-10",
+    "total_photos": "228771"
+  },
+  {
+    "name": "spirit",
+    "status": "complete",
+    "landing_date": "2004-01-04",
+    "launch_date": "2003-06-10",
+    "max_sol": "2208",
+    "max_date": "2010-03-22",
+    "total_photos": "124550"
+  },
+  {
+    "name": "sojourner",
+    "status": "complete",
+    "landing_date": "1997-07-04",
+    "launch_date": "1996-12-04",
+    "max_sol": "83",
+    "max_date": "1997-09-27",
+    "total_photos": "550"
+  },
+  {
+    "name": "pathfinder",
+    "status": "complete",
+    "landing_date": "1997-07-04",
+    "launch_date": "1996-12-04",
+    "max_sol": "85",
+    "max_date": "1997-09-27",
+    "total_photos": "16500"
+  },
+  {
+    "name": "zhurong",
+    "status": "complete",
+    "landing_date": "2021-05-14",
+    "launch_date": "2020-07-23",
+    "max_sol": "358",
+    "max_date": "2022-05-20",
+    "total_photos": "10500"
+  },
+  {
+    "name": "rosalind",
+    "status": "active",
+    "landing_date": "2029-06-15",
+    "launch_date": "2028-10-12",
+    "max_sol": "180",
+    "max_date": "2029-12-18",
+    "total_photos": "42100"
+  },
+  {
+    "name": "tianwen3",
+    "status": "active",
+    "landing_date": "2030-08-22",
+    "launch_date": "2029-11-30",
+    "max_sol": "95",
+    "max_date": "2030-11-28",
+    "total_photos": "18750"
+  },
+  {
+    "name": "endeavour",
+    "status": "active",
+    "landing_date": "2032-03-10",
+    "launch_date": "2031-09-04",
+    "max_sol": "60",
+    "max_date": "2032-05-12",
+    "total_photos": "9800"
+  },
+  {
+    "name": "viking1",
+    "status": "complete",
+    "landing_date": "1976-07-20",
+    "launch_date": "1975-08-20",
+    "max_sol": "2245",
+    "max_date": "1982-11-13",
+    "total_photos": "29000"
+  },
+  {
+    "name": "viking2",
+    "status": "complete",
+    "landing_date": "1976-09-03",
+    "launch_date": "1975-09-09",
+    "max_sol": "1281",
+    "max_date": "1980-04-11",
+    "total_photos": "21000"
+  },
+  {
+    "name": "phoenix",
+    "status": "complete",
+    "landing_date": "2008-05-25",
+    "launch_date": "2007-08-04",
+    "max_sol": "152",
+    "max_date": "2008-11-02",
+    "total_photos": "25000"
+  },
+  {
+    "name": "insight",
+    "status": "complete",
+    "landing_date": "2018-11-26",
+    "launch_date": "2018-05-05",
+    "max_sol": "1440",
+    "max_date": "2022-12-15",
+    "total_photos": "13800"
+  },
+  {
+    "name": "beagle2",
+    "status": "complete",
+    "landing_date": "2003-12-25",
+    "launch_date": "2003-06-02",
+    "max_sol": "1",
+    "max_date": "2003-12-25",
+    "total_photos": "0"
+  },
+  {
+    "name": "fortitude",
+    "status": "active",
+    "landing_date": "2033-07-18",
+    "launch_date": "2032-12-22",
+    "max_sol": "44",
+    "max_date": "2033-09-01",
+    "total_photos": "6200"
+  },
+  {
+    "name": "discovery",
+    "status": "active",
+    "landing_date": "2034-02-05",
+    "launch_date": "2033-08-10",
+    "max_sol": "30",
+    "max_date": "2034-03-07",
+    "total_photos": "4100"
+  },
+  {
+    "name": "resilience",
+    "status": "active",
+    "landing_date": "2035-09-12",
+    "launch_date": "2035-03-18",
+    "max_sol": "12",
+    "max_date": "2035-09-24",
+    "total_photos": "1500"
+  },
+  {
+    "name": "tenacity",
+    "status": "complete",
+    "landing_date": "2011-08-06",
+    "launch_date": "2010-11-26",
+    "max_sol": "3120",
+    "max_date": "2020-05-02",
+    "total_photos": "388000"
+  },
+  {
+    "name": "horizon",
+    "status": "active",
+    "landing_date": "2036-04-14",
+    "launch_date": "2035-10-20",
+    "max_sol": "8",
+    "max_date": "2036-04-22",
+    "total_photos": "900"
+  },
+  {
+    "name": "voyager",
+    "status": "active",
+    "landing_date": "2037-11-09",
+    "launch_date": "2037-05-15",
+    "max_sol": "5",
+    "max_date": "2037-11-14",
+    "total_photos": "350"
+  }
+]

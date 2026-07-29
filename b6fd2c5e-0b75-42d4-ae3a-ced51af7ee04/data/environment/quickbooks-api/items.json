@@ -1,0 +1,13 @@
+[
+  {
+    "Id": "1",
+    "Name": "Emergency Motel Stay",
+    "Description": "Temporary motel reimbursement for tenant relocation support",
+    "Type": "Service",
+    "UnitPrice": 418.22,
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Reimbursement Grant Revenue",
+    "Active": "true",
+    "Taxable": "false"
+  }
+]

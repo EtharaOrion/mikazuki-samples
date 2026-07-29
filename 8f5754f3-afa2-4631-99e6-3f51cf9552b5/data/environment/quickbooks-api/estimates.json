@@ -1,0 +1,1028 @@
+[
+  {
+    "Id": "4001",
+    "DocNumber": "E-1001",
+    "TxnDate": "2025-01-20",
+    "ExpirationDate": "2025-02-19",
+    "CustomerRef": {
+      "value": "15",
+      "name": "The Bautista Family"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 5200.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Quinceanera catering prix fixe - 80 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 65.0,
+          "Qty": 80
+        }
+      },
+      {
+        "Id": "2",
+        "LineNum": 2,
+        "Amount": 1400.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Bar package",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "24",
+            "name": "The Eleanor"
+          },
+          "UnitPrice": 17.5,
+          "Qty": 80
+        }
+      }
+    ],
+    "TotalAmt": 6600.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2025-01-28",
+    "LinkedTxn": [
+      {
+        "TxnId": "7001",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-01-20T10:00:00-04:00",
+      "LastUpdatedTime": "2025-02-16T10:00:00-04:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4002",
+    "DocNumber": "E-1002",
+    "TxnDate": "2025-10-25",
+    "ExpirationDate": "2025-11-24",
+    "CustomerRef": {
+      "value": "13",
+      "name": "Vincent Caruso"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 2925.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Anniversary dinner - 45 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 65.0,
+          "Qty": 45
+        }
+      },
+      {
+        "Id": "2",
+        "LineNum": 2,
+        "Amount": 660.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Bourbon flight stations",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "27",
+            "name": "Bourbon Flight"
+          },
+          "UnitPrice": 22.0,
+          "Qty": 30
+        }
+      }
+    ],
+    "TotalAmt": 3585.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2025-11-02",
+    "LinkedTxn": [
+      {
+        "TxnId": "7002",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-10-25T11:00:00-04:00",
+      "LastUpdatedTime": "2025-11-20T11:00:00-05:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4003",
+    "DocNumber": "E-1003",
+    "TxnDate": "2025-11-15",
+    "ExpirationDate": "2025-12-15",
+    "CustomerRef": {
+      "value": "12",
+      "name": "Stephanie Wu"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 3900.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Corporate holiday dinner - 60 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 65.0,
+          "Qty": 60
+        }
+      },
+      {
+        "Id": "2",
+        "LineNum": 2,
+        "Amount": 750.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Wine by the glass package",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "26",
+            "name": "Wine by the Glass"
+          },
+          "UnitPrice": 12.5,
+          "Qty": 60
+        }
+      }
+    ],
+    "TotalAmt": 4650.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2025-11-25",
+    "LinkedTxn": [
+      {
+        "TxnId": "7003",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-15T14:00:00-05:00",
+      "LastUpdatedTime": "2025-12-10T14:00:00-05:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4004",
+    "DocNumber": "E-1004",
+    "TxnDate": "2025-12-20",
+    "ExpirationDate": "2026-01-19",
+    "CustomerRef": {
+      "value": "22",
+      "name": "Steinway Little League"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 2750.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "End-of-season banquet - 50 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 55.0,
+          "Qty": 50
+        }
+      },
+      {
+        "Id": "2",
+        "LineNum": 2,
+        "Amount": 350.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Dessert table",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "24",
+            "name": "The Eleanor"
+          },
+          "UnitPrice": 17.5,
+          "Qty": 20
+        }
+      }
+    ],
+    "TotalAmt": 3100.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-01-02",
+    "LinkedTxn": [
+      {
+        "TxnId": "7004",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-12-20T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-18T09:00:00-05:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4005",
+    "DocNumber": "E-1005",
+    "TxnDate": "2026-02-15",
+    "ExpirationDate": "2026-03-17",
+    "CustomerRef": {
+      "value": "16",
+      "name": "Greg Lindqvist"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 2100.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Firm partner dinner - 30 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 70.0,
+          "Qty": 30
+        }
+      },
+      {
+        "Id": "2",
+        "LineNum": 2,
+        "Amount": 600.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Wine pairing",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "26",
+            "name": "Wine by the Glass"
+          },
+          "UnitPrice": 12.0,
+          "Qty": 50
+        }
+      }
+    ],
+    "TotalAmt": 2700.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-22",
+    "LinkedTxn": [
+      {
+        "TxnId": "7005",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-15T10:30:00-05:00",
+      "LastUpdatedTime": "2026-03-05T10:30:00-05:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4006",
+    "DocNumber": "E-1006",
+    "TxnDate": "2026-02-28",
+    "ExpirationDate": "2026-03-30",
+    "CustomerRef": {
+      "value": "21",
+      "name": "Astoria Chamber of Commerce"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 3640.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Q1 business mixer catering - 90 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 40.0,
+          "Qty": 91
+        }
+      }
+    ],
+    "TotalAmt": 3640.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-03-08",
+    "LinkedTxn": [
+      {
+        "TxnId": "7006",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-28T11:00:00-05:00",
+      "LastUpdatedTime": "2026-03-22T11:00:00-04:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4007",
+    "DocNumber": "E-1007",
+    "TxnDate": "2026-03-20",
+    "ExpirationDate": "2026-01-19",
+    "CustomerRef": {
+      "value": "23",
+      "name": "Kaufman Astoria Studios"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 3575.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Wrap-party catering - 55 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 65.0,
+          "Qty": 55
+        }
+      },
+      {
+        "Id": "2",
+        "LineNum": 2,
+        "Amount": 900.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Cocktail bar",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "24",
+            "name": "The Eleanor"
+          },
+          "UnitPrice": 18.0,
+          "Qty": 50
+        }
+      }
+    ],
+    "TotalAmt": 4475.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-01-01",
+    "LinkedTxn": [
+      {
+        "TxnId": "7007",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-20T15:00:00-04:00",
+      "LastUpdatedTime": "2026-03-20T15:00:00-04:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4008",
+    "DocNumber": "E-1008",
+    "TxnDate": "2026-01-25",
+    "ExpirationDate": "2026-02-25",
+    "CustomerRef": {
+      "value": "20",
+      "name": "The Ramirez Party"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 2275.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "40th birthday party - 35 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 65.0,
+          "Qty": 35
+        }
+      },
+      {
+        "Id": "2",
+        "LineNum": 2,
+        "Amount": 528.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Bourbon flight & craft beer",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "27",
+            "name": "Bourbon Flight"
+          },
+          "UnitPrice": 22.0,
+          "Qty": 24
+        }
+      }
+    ],
+    "TotalAmt": 2803.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-02",
+    "LinkedTxn": [
+      {
+        "TxnId": "7008",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-25T13:00:00-04:00",
+      "LastUpdatedTime": "2026-02-09T13:00:00-04:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4009",
+    "DocNumber": "E-1009",
+    "TxnDate": "2026-02-10",
+    "ExpirationDate": "2026-03-09",
+    "CustomerRef": {
+      "value": "6",
+      "name": "Fr. Nicholas Andrews"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 4550.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Parish fundraiser dinner - 70 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 65.0,
+          "Qty": 70
+        }
+      }
+    ],
+    "TotalAmt": 4550.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-02-20",
+    "LinkedTxn": [
+      {
+        "TxnId": "7009",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-10T09:00:00-04:00",
+      "LastUpdatedTime": "2026-03-01T09:00:00-04:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4010",
+    "DocNumber": "E-1010",
+    "TxnDate": "2026-02-25",
+    "ExpirationDate": "2026-03-24",
+    "CustomerRef": {
+      "value": "8",
+      "name": "The Kowalski Family"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1625.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Birthday party catering - 25 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 65.0,
+          "Qty": 25
+        }
+      },
+      {
+        "Id": "2",
+        "LineNum": 2,
+        "Amount": 210.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Dessert table",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "24",
+            "name": "The Eleanor"
+          },
+          "UnitPrice": 17.5,
+          "Qty": 12
+        }
+      }
+    ],
+    "TotalAmt": 1835.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "2026-03-01",
+    "LinkedTxn": [
+      {
+        "TxnId": "7010",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-25T10:00:00-04:00",
+      "LastUpdatedTime": "2026-03-15T10:00:00-04:00"
+    },
+    "SyncToken": "2"
+  },
+  {
+    "Id": "4011",
+    "DocNumber": "E-1011",
+    "TxnDate": "2026-03-02",
+    "ExpirationDate": "2026-01-02",
+    "CustomerRef": {
+      "value": "3",
+      "name": "The Pappas Family"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 2600.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Graduation dinner - 40 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 65.0,
+          "Qty": 40
+        }
+      }
+    ],
+    "TotalAmt": 2600.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2026-05-15T14:30:00Z",
+    "LinkedTxn": [
+      {
+        "TxnId": "4011",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-02T11:00:00-04:00",
+      "LastUpdatedTime": "2026-03-02T11:00:00-04:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4012",
+    "DocNumber": "E-1012",
+    "TxnDate": "2026-03-05",
+    "ExpirationDate": "2026-01-05",
+    "CustomerRef": {
+      "value": "12",
+      "name": "Stephanie Wu"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 3250.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Summer client appreciation - 50 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 65.0,
+          "Qty": 50
+        }
+      },
+      {
+        "Id": "2",
+        "LineNum": 2,
+        "Amount": 900.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Cocktail hour",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "24",
+            "name": "The Eleanor"
+          },
+          "UnitPrice": 18.0,
+          "Qty": 50
+        }
+      }
+    ],
+    "TotalAmt": 4150.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2026-05-15T14:30:00Z",
+    "LinkedTxn": [
+      {
+        "TxnId": "4012",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-05T14:00:00-04:00",
+      "LastUpdatedTime": "2026-03-05T14:00:00-04:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4013",
+    "DocNumber": "E-1013",
+    "TxnDate": "2026-03-08",
+    "ExpirationDate": "2026-01-08",
+    "CustomerRef": {
+      "value": "13",
+      "name": "Vincent Caruso"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 2100.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Crew appreciation dinner - 35 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 60.0,
+          "Qty": 35
+        }
+      }
+    ],
+    "TotalAmt": 2100.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2026-05-15T14:30:00Z",
+    "LinkedTxn": [
+      {
+        "TxnId": "4013",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-08T09:30:00-04:00",
+      "LastUpdatedTime": "2026-03-08T09:30:00-04:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4014",
+    "DocNumber": "E-1014",
+    "TxnDate": "2026-03-10",
+    "ExpirationDate": "2026-01-10",
+    "CustomerRef": {
+      "value": "16",
+      "name": "Greg Lindqvist"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1750.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Project completion party - 25 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 70.0,
+          "Qty": 25
+        }
+      },
+      {
+        "Id": "2",
+        "LineNum": 2,
+        "Amount": 600.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Wine pairing",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "26",
+            "name": "Wine by the Glass"
+          },
+          "UnitPrice": 15.0,
+          "Qty": 40
+        }
+      }
+    ],
+    "TotalAmt": 2350.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2026-05-15T14:30:00Z",
+    "LinkedTxn": [
+      {
+        "TxnId": "4014",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-10T10:00:00-04:00",
+      "LastUpdatedTime": "2026-03-10T10:00:00-04:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4015",
+    "DocNumber": "E-1015",
+    "TxnDate": "2026-03-12",
+    "ExpirationDate": "2026-01-12",
+    "CustomerRef": {
+      "value": "1",
+      "name": "The Hendersons"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1300.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Anniversary private dinner - 20 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 65.0,
+          "Qty": 20
+        }
+      }
+    ],
+    "TotalAmt": 1300.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2026-05-15T14:30:00Z",
+    "LinkedTxn": [
+      {
+        "TxnId": "4015",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-12T12:00:00-04:00",
+      "LastUpdatedTime": "2026-03-12T12:00:00-04:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4016",
+    "DocNumber": "E-1016",
+    "TxnDate": "2026-03-14",
+    "ExpirationDate": "2026-01-14",
+    "CustomerRef": {
+      "value": "22",
+      "name": "Steinway Little League"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1350.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Coaches appreciation lunch - 30 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 45.0,
+          "Qty": 30
+        }
+      }
+    ],
+    "TotalAmt": 1350.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2026-05-15T14:30:00Z",
+    "LinkedTxn": [
+      {
+        "TxnId": "4016",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-14T09:00:00-04:00",
+      "LastUpdatedTime": "2026-03-14T09:00:00-04:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4017",
+    "DocNumber": "E-1017",
+    "TxnDate": "2026-03-16",
+    "ExpirationDate": "2026-01-16",
+    "CustomerRef": {
+      "value": "23",
+      "name": "Kaufman Astoria Studios"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 2600.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Second-unit wrap dinner - 40 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 65.0,
+          "Qty": 40
+        }
+      },
+      {
+        "Id": "2",
+        "LineNum": 2,
+        "Amount": 720.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Cocktail bar",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "24",
+            "name": "The Eleanor"
+          },
+          "UnitPrice": 18.0,
+          "Qty": 40
+        }
+      }
+    ],
+    "TotalAmt": 3320.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2026-05-15T14:30:00Z",
+    "LinkedTxn": [
+      {
+        "TxnId": "4017",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-16T15:00:00-04:00",
+      "LastUpdatedTime": "2026-03-16T15:00:00-04:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4018",
+    "DocNumber": "E-1018",
+    "TxnDate": "2026-03-18",
+    "ExpirationDate": "2026-01-18",
+    "CustomerRef": {
+      "value": "20",
+      "name": "The Ramirez Party"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 2475.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Baptism luncheon - 45 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 55.0,
+          "Qty": 45
+        }
+      }
+    ],
+    "TotalAmt": 2475.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2026-05-15T14:30:00Z",
+    "LinkedTxn": [
+      {
+        "TxnId": "4018",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-18T11:30:00-04:00",
+      "LastUpdatedTime": "2026-03-18T11:30:00-04:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4019",
+    "DocNumber": "E-1019",
+    "TxnDate": "2026-01-10",
+    "ExpirationDate": "2026-02-10",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Gloria Fontaine"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1950.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Retirement party - 30 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 65.0,
+          "Qty": 30
+        }
+      }
+    ],
+    "TotalAmt": 1950.0,
+    "TxnStatus": "Closed",
+    "AcceptedDate": "2026-05-15T14:30:00Z",
+    "LinkedTxn": [
+      {
+        "TxnId": "4019",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-10T10:00:00-04:00",
+      "LastUpdatedTime": "2026-02-11T10:00:00-04:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "4020",
+    "DocNumber": "E-1020",
+    "TxnDate": "2026-02-05",
+    "ExpirationDate": "2026-03-04",
+    "CustomerRef": {
+      "value": "21",
+      "name": "Astoria Chamber of Commerce"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 2100.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Q2 networking breakfast - 60 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 35.0,
+          "Qty": 60
+        }
+      }
+    ],
+    "TotalAmt": 2100.0,
+    "TxnStatus": "Closed",
+    "AcceptedDate": "2026-05-15T14:30:00Z",
+    "LinkedTxn": [
+      {
+        "TxnId": "4020",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-05T09:00:00-04:00",
+      "LastUpdatedTime": "2026-03-05T09:00:00-04:00"
+    },
+    "SyncToken": "1"
+  },
+  {
+    "Id": "4021",
+    "DocNumber": "E-1021",
+    "TxnDate": "2026-03-01",
+    "ExpirationDate": "2026-01-01",
+    "CustomerRef": {
+      "value": "15",
+      "name": "The Bautista Family"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 3000.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Confirmation dinner - 50 guests",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "28",
+            "name": "Private Event Catering (Per Head)"
+          },
+          "UnitPrice": 60.0,
+          "Qty": 50
+        }
+      }
+    ],
+    "TotalAmt": 3000.0,
+    "TxnStatus": "Pending",
+    "AcceptedDate": "2026-05-15T14:30:00Z",
+    "LinkedTxn": [
+      {
+        "TxnId": "4021",
+        "TxnType": "Invoice"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-01T13:00:00-04:00",
+      "LastUpdatedTime": "2026-03-01T13:00:00-04:00"
+    },
+    "SyncToken": "0"
+  }
+]

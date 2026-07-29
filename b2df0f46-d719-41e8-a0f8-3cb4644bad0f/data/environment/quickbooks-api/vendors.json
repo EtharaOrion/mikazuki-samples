@@ -1,0 +1,420 @@
+[
+  {
+    "Id": "2001",
+    "DisplayName": "Westlaw",
+    "CompanyName": "Westlaw",
+    "PrimaryEmailAddr": {
+      "Address": "billing@thomsonreuters.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18003284880"
+    },
+    "BillAddr_Line1": "5889 Salzedo St",
+    "BillAddr_City": "Coconut Grove",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33133",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-7799",
+    "Vendor1099": "true"
+  },
+  {
+    "Id": "2002",
+    "DisplayName": "MyCase Practice Management",
+    "CompanyName": "MyCase Practice Management",
+    "PrimaryEmailAddr": {
+      "Address": "billing@mycase.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18005718062"
+    },
+    "BillAddr_Line1": "2468 Alhambra Cir",
+    "BillAddr_City": "Coconut Grove",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33133",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-4523",
+    "Vendor1099": "true"
+  },
+  {
+    "Id": "2003",
+    "DisplayName": "Florida Bar Dues",
+    "CompanyName": "Florida Bar Dues",
+    "PrimaryEmailAddr": {
+      "Address": "membership@floridabar.org"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18505615600"
+    },
+    "BillAddr_Line1": "2877 Giralda Ave",
+    "BillAddr_City": "Miami",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33145",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-3926",
+    "Vendor1099": "false"
+  },
+  {
+    "Id": "2004",
+    "DisplayName": "Biscayne Bar Dues",
+    "CompanyName": "Biscayne Bar Dues",
+    "PrimaryEmailAddr": {
+      "Address": "membership@biscaynebar.org"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13053870600"
+    },
+    "BillAddr_Line1": "1026 Le Jeune Rd",
+    "BillAddr_City": "South Miami",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33143",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-5194",
+    "Vendor1099": "false"
+  },
+  {
+    "Id": "2005",
+    "DisplayName": "Office Suite Landlord",
+    "CompanyName": "Office Suite Landlord",
+    "PrimaryEmailAddr": {
+      "Address": "billing@ponceofficesuites.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13053870700"
+    },
+    "BillAddr_Line1": "6233 Douglas Rd",
+    "BillAddr_City": "Coral Gables",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33134",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-9375",
+    "Vendor1099": "true"
+  },
+  {
+    "Id": "2006",
+    "DisplayName": "Mendez Bookkeeping",
+    "CompanyName": "Mendez Bookkeeping",
+    "PrimaryEmailAddr": {
+      "Address": "ana@mendezbookkeeping.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+14078390148"
+    },
+    "BillAddr_Line1": "7926 Alhambra Cir",
+    "BillAddr_City": "South Miami",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33143",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-5094",
+    "Vendor1099": "true"
+  },
+  {
+    "Id": "2007",
+    "DisplayName": "FPL Office Electric",
+    "CompanyName": "FPL Office Electric",
+    "PrimaryEmailAddr": {
+      "Address": "billing@fpl.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18002263545"
+    },
+    "BillAddr_Line1": "626 Alhambra Cir",
+    "BillAddr_City": "South Miami",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33143",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-4652",
+    "Vendor1099": "true"
+  },
+  {
+    "Id": "2008",
+    "DisplayName": "Comcast Office Internet",
+    "CompanyName": "Comcast Office Internet",
+    "PrimaryEmailAddr": {
+      "Address": "business.billing@comcast.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18003914109"
+    },
+    "BillAddr_Line1": "1568 Douglas Rd",
+    "BillAddr_City": "Coral Gables",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33134",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-4436",
+    "Vendor1099": "false"
+  },
+  {
+    "Id": "2009",
+    "DisplayName": "AT&T Firm Cell Plan",
+    "CompanyName": "AT&T Firm Cell Plan",
+    "PrimaryEmailAddr": {
+      "Address": "business@att.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18003310500"
+    },
+    "BillAddr_Line1": "3229 Miracle Mile",
+    "BillAddr_City": "South Miami",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33143",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-5945",
+    "Vendor1099": "false"
+  },
+  {
+    "Id": "2010",
+    "DisplayName": "Office Supplies",
+    "CompanyName": "Office Supplies",
+    "PrimaryEmailAddr": {
+      "Address": "business.support@officedepot.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18004637768"
+    },
+    "BillAddr_Line1": "108 Alhambra Cir",
+    "BillAddr_City": "Miami",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33145",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-2622",
+    "Vendor1099": "false"
+  },
+  {
+    "Id": "2011",
+    "DisplayName": "Office Cleaning",
+    "CompanyName": "Office Cleaning",
+    "PrimaryEmailAddr": {
+      "Address": "billing@sunshinejanitorial.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13053870812"
+    },
+    "BillAddr_Line1": "5361 Coral Way",
+    "BillAddr_City": "Coral Gables",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33134",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-9254",
+    "Vendor1099": "false"
+  },
+  {
+    "Id": "2012",
+    "DisplayName": "IT Support",
+    "CompanyName": "IT Support",
+    "PrimaryEmailAddr": {
+      "Address": "support@coastalitpartners.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13053870845"
+    },
+    "BillAddr_Line1": "5477 Coral Way",
+    "BillAddr_City": "Miami",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33133",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-9594",
+    "Vendor1099": "false"
+  },
+  {
+    "Id": "2013",
+    "DisplayName": "Professional Liability Insurance",
+    "CompanyName": "Professional Liability Insurance",
+    "PrimaryEmailAddr": {
+      "Address": "policyholder@hiscox.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18664240088"
+    },
+    "BillAddr_Line1": "6346 Sunset Dr",
+    "BillAddr_City": "Coral Gables",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33134",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-9231",
+    "Vendor1099": "true"
+  },
+  {
+    "Id": "2014",
+    "DisplayName": "Adobe Acrobat Pro",
+    "CompanyName": "Adobe Acrobat Pro",
+    "PrimaryEmailAddr": {
+      "Address": "billing@adobe.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18008336687"
+    },
+    "BillAddr_Line1": "6720 Douglas Rd",
+    "BillAddr_City": "Coral Gables",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33134",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-3145",
+    "Vendor1099": "true"
+  },
+  {
+    "Id": "2015",
+    "DisplayName": "Google Workspace Business",
+    "CompanyName": "Google Workspace Business",
+    "PrimaryEmailAddr": {
+      "Address": "billing-noreply@google.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18664132331"
+    },
+    "BillAddr_Line1": "4244 Sunset Dr",
+    "BillAddr_City": "Coral Gables",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33134",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-7473",
+    "Vendor1099": "true"
+  },
+  {
+    "Id": "2016",
+    "DisplayName": "Process Server",
+    "CompanyName": "Process Server",
+    "PrimaryEmailAddr": {
+      "Address": "ops@sunshineprocess.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13053870867"
+    },
+    "BillAddr_Line1": "4191 Le Jeune Rd",
+    "BillAddr_City": "South Miami",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33143",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-6595",
+    "Vendor1099": "true"
+  },
+  {
+    "Id": "2017",
+    "DisplayName": "E-Filing Portal Fees",
+    "CompanyName": "E-Filing Portal Fees",
+    "PrimaryEmailAddr": {
+      "Address": "support@flcourts.gov"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18504882381"
+    },
+    "BillAddr_Line1": "1715 Bird Rd",
+    "BillAddr_City": "Coconut Grove",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33133",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-7430",
+    "Vendor1099": "true"
+  },
+  {
+    "Id": "2018",
+    "DisplayName": "Document Destruction",
+    "CompanyName": "Document Destruction",
+    "PrimaryEmailAddr": {
+      "Address": "billing@shredit.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18006975677"
+    },
+    "BillAddr_Line1": "5501 Coral Way",
+    "BillAddr_City": "Miami",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33133",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-8733",
+    "Vendor1099": "false"
+  },
+  {
+    "Id": "2019",
+    "DisplayName": "Firm Tax Accountant",
+    "CompanyName": "Firm Tax Accountant",
+    "PrimaryEmailAddr": {
+      "Address": "office@sterlingcpagroup.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+15613680221"
+    },
+    "BillAddr_Line1": "7085 Miracle Mile",
+    "BillAddr_City": "Miami",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33145",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-3717",
+    "Vendor1099": "true"
+  },
+  {
+    "Id": "2020",
+    "DisplayName": "Dade County Bar Dues",
+    "CompanyName": "Dade County Bar Dues",
+    "PrimaryEmailAddr": {
+      "Address": "membership@dadecountybar.org"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13053874311"
+    },
+    "BillAddr_Line1": "3365 Aragon Ave",
+    "BillAddr_City": "Coral Gables",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33134",
+    "Balance": "0.00",
+    "Active": "false",
+    "AcctNum": "BFL-7308",
+    "Vendor1099": "false"
+  },
+  {
+    "Id": "2021",
+    "DisplayName": "Office Coffee & Kitchen",
+    "CompanyName": "Office Coffee & Kitchen",
+    "PrimaryEmailAddr": {
+      "Address": "billing@granitecoffee.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13053870924"
+    },
+    "BillAddr_Line1": "317 Le Jeune Rd",
+    "BillAddr_City": "Miami",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33133",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-2159",
+    "Vendor1099": "true"
+  },
+  {
+    "Id": "2022",
+    "DisplayName": "Spanish-Language Translation",
+    "CompanyName": "Spanish-Language Translation",
+    "PrimaryEmailAddr": {
+      "Address": "ops@atlanticatranslation.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13053870456"
+    },
+    "BillAddr_Line1": "5839 Aragon Ave",
+    "BillAddr_City": "South Miami",
+    "BillAddr_CountrySubDivisionCode": "FL",
+    "BillAddr_PostalCode": "33143",
+    "Balance": "0.00",
+    "Active": "true",
+    "AcctNum": "BFL-4373",
+    "Vendor1099": "true"
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "QueryResponse": {
+    "BillPayment": [
+      {
+        "Id": "5001",
+        "VendorRef": {
+          "value": "1",
+          "name": "Grand Arts Properties LLC"
+        },
+        "TxnDate": "2026-03-03",
+        "TotalAmt": 2800.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3001",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 2800.0
+          }
+        ],
+        "PayType": "Check",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Crossroads Conservatory Business Checking"
+          }
+        },
+        "PrivateNote": "Check #1042 \u2014 March lease"
+      },
+      {
+        "Id": "5002",
+        "VendorRef": {
+          "value": "2",
+          "name": "Sweetwater Sound"
+        },
+        "TxnDate": "2026-03-06",
+        "TotalAmt": 640.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3002",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 640.0
+          }
+        ],
+        "PayType": "BankTransfer",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Crossroads Conservatory Business Checking"
+          }
+        },
+        "PrivateNote": "ACH \u2014 March instrument restock"
+      }
+    ],
+    "startPosition": 1,
+    "maxResults": 100,
+    "totalCount": 2
+  }
+}

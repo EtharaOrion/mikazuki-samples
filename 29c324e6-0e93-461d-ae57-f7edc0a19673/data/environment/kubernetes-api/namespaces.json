@@ -1,0 +1,122 @@
+[
+  {
+    "name": "kube-system",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-system",
+    "created_time": "2025-10-06T09:00:00Z"
+  },
+  {
+    "name": "crossroads-prod",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=crossroads-prod;app=crossroads-booking;env=prod",
+    "created_time": "2025-10-20T10:00:00Z"
+  },
+  {
+    "name": "crossroads-staging",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=crossroads-staging;app=crossroads-booking;env=staging",
+    "created_time": "2025-10-20T10:05:00Z"
+  },
+  {
+    "name": "Theory class discussion",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-system",
+    "created_time": "2025-10-06T09:00:00Z"
+  },
+  {
+    "name": "Instructor coordination meeting",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=crossroads-prod;app=crossroads-booking;env=prod",
+    "created_time": "2025-10-20T10:00:00Z"
+  },
+  {
+    "name": "Winter recital rehearsal",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=crossroads-staging;app=crossroads-booking;env=staging",
+    "created_time": "2025-10-20T10:05:00Z"
+  },
+  {
+    "name": "Student progress review",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-system",
+    "created_time": "2025-10-06T09:00:00Z"
+  },
+  {
+    "name": "Enrollment inquiry follow-up",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=crossroads-prod;app=crossroads-booking;env=prod",
+    "created_time": "2025-10-20T10:00:00Z"
+  },
+  {
+    "name": "Monthly payroll processing",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=crossroads-staging;app=crossroads-booking;env=staging",
+    "created_time": "2025-10-20T10:05:00Z"
+  },
+  {
+    "name": "5th Anniversary Showcase planning",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-system",
+    "created_time": "2025-10-06T09:00:00Z"
+  },
+  {
+    "name": "Summer camp registration",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=crossroads-prod;app=crossroads-booking;env=prod",
+    "created_time": "2025-10-20T10:00:00Z"
+  },
+  {
+    "name": "Substitute coverage",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=crossroads-staging;app=crossroads-booking;env=staging",
+    "created_time": "2025-10-20T10:05:00Z"
+  },
+  {
+    "name": "Sheet music library update",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-system",
+    "created_time": "2025-10-06T09:00:00Z"
+  },
+  {
+    "name": "Parent meeting slot",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=crossroads-prod;app=crossroads-booking;env=prod",
+    "created_time": "2025-10-20T10:00:00Z"
+  },
+  {
+    "name": "Ensemble arrangement rewrite",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=crossroads-staging;app=crossroads-booking;env=staging",
+    "created_time": "2025-10-20T10:05:00Z"
+  },
+  {
+    "name": "Recital program layout",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-system",
+    "created_time": "2025-10-06T09:00:00Z"
+  },
+  {
+    "name": "Quartet setlist review",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=crossroads-prod;app=crossroads-booking;env=prod",
+    "created_time": "2025-10-20T10:00:00Z"
+  },
+  {
+    "name": "Rehearsal recording listen-back",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=crossroads-staging;app=crossroads-booking;env=staging",
+    "created_time": "2025-10-20T10:05:00Z"
+  },
+  {
+    "name": "Second album pre-production notes",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-system",
+    "created_time": "2025-10-06T09:00:00Z"
+  },
+  {
+    "name": "Venue confirmation thread",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=crossroads-prod;app=crossroads-booking;env=prod",
+    "created_time": "2025-10-20T10:00:00Z"
+  }
+]

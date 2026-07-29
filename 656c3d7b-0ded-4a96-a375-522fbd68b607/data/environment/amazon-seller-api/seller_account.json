@@ -1,0 +1,47 @@
+{
+  "accountHealth": {
+    "accountStatus": "NORMAL",
+    "customerServiceDissatisfactionRate": 1.2,
+    "customerServiceDissatisfactionRateTarget": 25.0,
+    "lateShipmentRate": 1.8,
+    "lateShipmentRateTarget": 4.0,
+    "onTimeDeliveryRate": 95.5,
+    "onTimeDeliveryRateTarget": 90.0,
+    "orderDefectRate": 0.6,
+    "orderDefectRateTarget": 1.0,
+    "policyViolations": 0,
+    "preFulfillmentCancelRate": 0.4,
+    "preFulfillmentCancelRateTarget": 2.5,
+    "returnDissatisfactionRate": 2.4,
+    "returnDissatisfactionRateTarget": 10.0,
+    "validTrackingRate": 97.2,
+    "validTrackingRateTarget": 95.0
+  },
+  "businessAddress": {
+    "AddressLine1": "431 Commerce Way",
+    "AddressLine2": "Thornfield Ballet Academy, Thornfield, NJ",
+    "City": "Thornfield",
+    "CountryCode": "US",
+    "Name": "Thornfield Workshop LLC",
+    "PostalCode": "02118",
+    "StateOrRegion": "MA"
+  },
+  "businessName": "Thornfield Workshop LLC",
+  "marketplaceId": "ATVPDKIKX0DER",
+  "performanceNotifications": [
+    {
+      "createdDate": "2026-04-06T17:02:00-04:00",
+      "isRead": false,
+      "message": "Thanks, this looks right.",
+      "notificationId": "notificationId_e05820d41af8c0ba",
+      "severity": "high",
+      "title": "Voss paper revision block",
+      "type": "standard"
+    }
+  ],
+  "primaryContactEmail": "dorothy.langston@finthesiss.ai",
+  "registrationDate": "2024-01-12T00:00:00Z",
+  "sellerId": "A8FD250F462D3",
+  "storeName": "ThornfieldWorkshop",
+  "storeUrl": "https://www.amazon.com/sp?seller=A8FD250F462D3"
+}

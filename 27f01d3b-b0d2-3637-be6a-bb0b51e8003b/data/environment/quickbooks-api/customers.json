@@ -1,0 +1,317 @@
+[
+  {
+    "Id": "1",
+    "DisplayName": "Monica Foster",
+    "GivenName": "Monica",
+    "FamilyName": "Foster",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "monica.foster@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18165551000"
+    },
+    "BillAddr_Line1": "1420 Grand Blvd",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64108",
+    "Balance": "0.00",
+    "Active": "true",
+    "Job": "false",
+    "Notes": "Parent \u2014 son in private saxophone lessons, spring 2026"
+  },
+  {
+    "Id": "2",
+    "DisplayName": "David Brennan",
+    "GivenName": "David",
+    "FamilyName": "Brennan",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "david.brennan@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18165551001"
+    },
+    "BillAddr_Line1": "1815 Westport Rd",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64111",
+    "Balance": "0.00",
+    "Active": "true",
+    "Job": "false",
+    "Notes": "Parent \u2014 daughter in beginner piano lessons, spring 2026"
+  },
+  {
+    "Id": "3",
+    "DisplayName": "Priya Nair",
+    "GivenName": "Priya",
+    "FamilyName": "Nair",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "priya.nair@yahoo.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18165551002"
+    },
+    "BillAddr_Line1": "3400 Broadway Blvd",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64105",
+    "Balance": "0.00",
+    "Active": "true",
+    "Job": "false",
+    "Notes": "Parent \u2014 estimate pending for intermediate lesson package"
+  },
+  {
+    "Id": "4",
+    "DisplayName": "Karen Wallace",
+    "GivenName": "Karen",
+    "FamilyName": "Wallace",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "karen.wallace@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18165551003"
+    },
+    "BillAddr_Line1": "4520 Main St",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64110",
+    "Balance": "0.00",
+    "Active": "true",
+    "Job": "false",
+    "Notes": "Parent \u2014 twins in group theory class, spring 2026"
+  },
+  {
+    "Id": "5",
+    "DisplayName": "Tom Schroeder",
+    "GivenName": "Tom",
+    "FamilyName": "Schroeder",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "tom.schroeder@outlook.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18165551004"
+    },
+    "BillAddr_Line1": "1200 Central St",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64112",
+    "Balance": "360.00",
+    "Active": "true",
+    "Job": "false",
+    "Notes": "Adult student \u2014 advanced lesson package, balance open"
+  },
+  {
+    "Id": "6",
+    "DisplayName": "Angela Reyes",
+    "GivenName": "Angela",
+    "FamilyName": "Reyes",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "angela.reyes.kc@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18165551005"
+    },
+    "BillAddr_Line1": "2800 Southwest Blvd",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64114",
+    "Balance": "150.00",
+    "Active": "true",
+    "Job": "false",
+    "Notes": "Parent \u2014 summer jazz camp deposit pending"
+  },
+  {
+    "Id": "7",
+    "DisplayName": "Heartland Jazz Festival",
+    "GivenName": "Heartland",
+    "FamilyName": "Festival",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "events@heartlandjazzfest.org"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18165551006"
+    },
+    "BillAddr_Line1": "5200 Rockhill Rd",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64106",
+    "Balance": "450.00",
+    "Active": "true",
+    "Job": "false",
+    "Notes": "Workshop/clinic booking \u2014 fee invoiced, balance open"
+  },
+  {
+    "Id": "101",
+    "DisplayName": "Priya Nair",
+    "GivenName": "Priya",
+    "FamilyName": "Nair",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "priya.nair@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18165551007"
+    },
+    "BillAddr_Line1": "4650 J.C. Nichols Pkwy",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64108",
+    "Balance": "0.00",
+    "Active": "true",
+    "Job": "false",
+    "Notes": "Parent \u2014 daughter piano lessons"
+  },
+  {
+    "Id": "102",
+    "DisplayName": "Sandra Powell",
+    "GivenName": "Sandra",
+    "FamilyName": "Powell",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "sandra.powell@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18165551008"
+    },
+    "BillAddr_Line1": "1201 Walnut St",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64111",
+    "Balance": "0.00",
+    "Active": "true",
+    "Job": "false",
+    "Notes": "Parent \u2014 voice + piano bundle"
+  },
+  {
+    "Id": "103",
+    "DisplayName": "Marcus Bell (Parent)",
+    "GivenName": "Marcus",
+    "FamilyName": "(Parent)",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "marcus.bell@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18165551009"
+    },
+    "BillAddr_Line1": "2300 Grand Blvd",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64105",
+    "Balance": "0.00",
+    "Active": "true",
+    "Job": "false",
+    "Notes": "Parent \u2014 winter recital fee"
+  },
+  {
+    "Id": "104",
+    "DisplayName": "Nathaniel Hayes",
+    "GivenName": "Nathaniel",
+    "FamilyName": "Hayes",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "nathaniel.hayes@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18165551010"
+    },
+    "BillAddr_Line1": "1420 Grand Blvd",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64110",
+    "Balance": "0.00",
+    "Active": "true",
+    "Job": "false",
+    "Notes": "Adult student \u2014 jazz theory"
+  },
+  {
+    "Id": "105",
+    "DisplayName": "Alicia Ward",
+    "GivenName": "Alicia",
+    "FamilyName": "Ward",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "alicia.ward@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18165551011"
+    },
+    "BillAddr_Line1": "1815 Westport Rd",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64112",
+    "Balance": "0.00",
+    "Active": "true",
+    "Job": "false",
+    "Notes": "Adult student \u2014 sax package"
+  },
+  {
+    "Id": "106",
+    "DisplayName": "Rebecca Hartley",
+    "GivenName": "Rebecca",
+    "FamilyName": "Hartley",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "rebecca.hartley@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18165551012"
+    },
+    "BillAddr_Line1": "3400 Broadway Blvd",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64114",
+    "Balance": "0.00",
+    "Active": "true",
+    "Job": "false",
+    "Notes": "Parent \u2014 daughter Olivia sax"
+  },
+  {
+    "Id": "107",
+    "DisplayName": "Devon Carter (Parent)",
+    "GivenName": "Devon",
+    "FamilyName": "(Parent)",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "devon.carter@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18165551013"
+    },
+    "BillAddr_Line1": "4520 Main St",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64106",
+    "Balance": "0.00",
+    "Active": "true",
+    "Job": "false",
+    "Notes": "Parent \u2014 camp reg 2027"
+  },
+  {
+    "Id": "108",
+    "DisplayName": "Rachel Harmon (Repeat)",
+    "GivenName": "Rachel",
+    "FamilyName": "(Repeat)",
+    "CompanyName": "",
+    "PrimaryEmailAddr": {
+      "Address": "rachel.harmon2@gmail.com"
+    },
+    "PrimaryPhone": {
+      "FreeFormNumber": "+18165551014"
+    },
+    "BillAddr_Line1": "1200 Central St",
+    "BillAddr_City": "Kansas City",
+    "BillAddr_CountrySubDivisionCode": "MO",
+    "BillAddr_PostalCode": "64108",
+    "Balance": "0.00",
+    "Active": "true",
+    "Job": "false",
+    "Notes": "Parent \u2014 second sibling"
+  }
+]

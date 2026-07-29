@@ -1,0 +1,80 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 12,
+      "passed": 6,
+      "failed": 6,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.4286,
+      "weighted_percentage": 42.86
+    },
+    "tests": [
+      {
+        "name": "test_campaign_sent",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_campaigns_read_before_create",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_duplicate_campaign",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_event_read",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_event_still_live",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_flyer_valid_png",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_lists_read",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_reminder_campaign_date",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_reminder_campaign_from_name",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_reminder_campaign_headline",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_reminder_campaign_list",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_venue_read",
+        "status": "passed",
+        "duration": 0
+      }
+    ]
+  }
+}

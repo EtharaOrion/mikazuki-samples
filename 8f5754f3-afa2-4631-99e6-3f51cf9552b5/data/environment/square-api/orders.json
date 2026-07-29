@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "ORD_AURORA01",
+    "customer_id": "CUST_HENDERSON01",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_FISHCHIPS_R x1; VAR_BRUSSELS_R x1; VAR_CARROTS_R x1; VAR_COD_R x1; VAR_CLAYCHICK_R x1; VAR_WINEGLASS_R x1",
+    "total_amount": "10700",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2024-03-15T19:28:00Z"
+  },
+  {
+    "id": "ORD_BOREAL02",
+    "customer_id": "CUST_RUSSO02",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_SALMON_R x1; VAR_CRAFTBEER_R x1; VAR_NYSTRIP_R x1; VAR_SHEPHERD_R x2; VAR_ELEANOR_R x2; VAR_CHOWDER_BOWL x1; VAR_PECANPIE_R x1; VAR_POTROAST_R x1; VAR_DEVILED_R x1; VAR_MAC_R x1",
+    "total_amount": "22500",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2024-02-04T21:36:00Z"
+  },
+  {
+    "id": "ORD_CITRON03",
+    "customer_id": "CUST_RUSSO03",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_BURGER_R x1; VAR_PECANPIE_R x2; VAR_MEATLOAF_R x1; VAR_FISHCHIPS_R x1; VAR_WINEGLASS_R x1; VAR_MAC_R x1; VAR_POTROAST_R x1; VAR_CRAFTBEER_R x2; VAR_BRUSSELS_R x1; VAR_MASH_R x1; VAR_STEAKSAND_R x1",
+    "total_amount": "19100",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2024-01-20T18:57:00Z"
+  },
+  {
+    "id": "ORD_DELTA04",
+    "customer_id": "CUST_PAPPAS04",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_NYSTRIP_R x1; VAR_DEVILED_R x1; VAR_APPLEPIE_R x1; VAR_STEAKSAND_R x2; VAR_WINEGLASS_R x1; VAR_CARROTS_R x1; VAR_SALMON_R x1; VAR_CRAFTBEER_R x1; VAR_OCTOPUS_R x1; VAR_CHOWDER_CUP x1",
+    "total_amount": "18000",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2024-03-14T19:32:00Z"
+  },
+  {
+    "id": "ORD_ECHO05",
+    "customer_id": "CUST_ANDERSON05",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_CLAYCHICK_R x1; VAR_CARROTS_R x2; VAR_POTROAST_R x1; VAR_STEAKSAND_R x1; VAR_SHEPHERD_R x1; VAR_CHOWDER_CUP x1; VAR_MAC_R x1",
+    "total_amount": "12900",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2024-11-02T19:49:00Z"
+  },
+  {
+    "id": "ORD_FJORD06",
+    "customer_id": "CUST_MCGEE06",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_STEAKSAND_R x1; VAR_ELEANOR_R x1; VAR_NYSTRIP_R x1; VAR_APPLEPIE_R x1",
+    "total_amount": "8200",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2024-12-31T20:56:00Z"
+  },
+  {
+    "id": "ORD_GROVE07",
+    "customer_id": "CUST_ANDREWS07",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_POTROAST_R x2; VAR_CRAFTBEER_R x1; VAR_SALMON_R x1; VAR_BOURBONFLIGHT_R x2; VAR_APPLEPIE_R x1; VAR_BURGER_R x2; VAR_WINEGLASS_R x1; VAR_DEVILED_R x1; VAR_ELEANOR_R x1; VAR_CARROTS_R x1",
+    "total_amount": "23000",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-01-18T18:20:00Z"
+  },
+  {
+    "id": "ORD_HARVEST08",
+    "customer_id": "CUST_FONTAINE08",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_STEAKSAND_R x1; VAR_DEVILED_R x1; VAR_SALMON_R x1; VAR_ELEANOR_R x1; VAR_CHOWDER_CUP x1; VAR_NYSTRIP_R x1; VAR_CRAFTBEER_R x1; VAR_MASH_R x1; VAR_COBBLER_R x1",
+    "total_amount": "14700",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-02-15T19:40:00Z"
+  },
+  {
+    "id": "ORD_INDIGO09",
+    "customer_id": "CUST_KOWALSKI09",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_NYSTRIP_R x1; VAR_STEAKSAND_R x1",
+    "total_amount": "5700",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-02-16T13:58:00Z"
+  },
+  {
+    "id": "ORD_JASPER10",
+    "customer_id": "CUST_TRAN10",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_MEATLOAF_R x1; VAR_MASH_R x1; VAR_PECANPIE_R x1; VAR_SHEPHERD_R x1; VAR_ELEANOR_R x1; VAR_CARROTS_R x1; VAR_STEAKSAND_R x1; VAR_WINEGLASS_R x1; VAR_CHOWDER_BOWL x1",
+    "total_amount": "13300",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-03-08T20:07:00Z"
+  },
+  {
+    "id": "ORD_KESTREL11",
+    "customer_id": "CUST_HASSAN11",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_BURGER_R x1; VAR_WINEGLASS_R x1; VAR_CLAYCHICK_R x1",
+    "total_amount": "5800",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-01-05T19:19:00Z"
+  },
+  {
+    "id": "ORD_LARKSPUR12",
+    "customer_id": "CUST_OCONNOR12",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_CLAYCHICK_R x1; VAR_WINEGLASS_R x1; VAR_STEAKSAND_R x1; VAR_MEATLOAF_R x1; VAR_OCTOPUS_R x1; VAR_NYSTRIP_R x1; VAR_BRUSSELS_R x1",
+    "total_amount": "14700",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-02-10T20:17:00Z"
+  },
+  {
+    "id": "ORD_MARROW13",
+    "customer_id": "CUST_OCONNOR13",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_SALMON_R x2; VAR_BOURBONFLIGHT_R x2; VAR_COBBLER_R x1",
+    "total_amount": "11200",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-03-21T21:47:00Z"
+  },
+  {
+    "id": "ORD_NECTAR14",
+    "customer_id": "CUST_RAMIREZ14",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_NYSTRIP_R x1; VAR_DEVILED_R x1; VAR_FISHCHIPS_R x1; VAR_BOURBONFLIGHT_R x2; VAR_BURGER_R x1",
+    "total_amount": "13100",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-01-12T13:44:00Z"
+  },
+  {
+    "id": "ORD_ONYX15",
+    "customer_id": "CUST_WU15",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_POTROAST_R x1; VAR_OCTOPUS_R x1; VAR_SALMON_R x1; VAR_WINGS_R x1; VAR_CARROTS_R x1; VAR_STEAKSAND_R x1; VAR_ELEANOR_R x1; VAR_PRETZEL_R x1; VAR_APPLEPIE_R x1; VAR_BURGER_R x1; VAR_BOURBONFLIGHT_R x1; VAR_MASH_R x1; VAR_NYSTRIP_R x1",
+    "total_amount": "23300",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-02-23T20:26:00Z"
+  },
+  {
+    "id": "ORD_PIPER16",
+    "customer_id": "CUST_CARUSO16",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_NYSTRIP_R x1; VAR_CARROTS_R x3; VAR_COD_R x1; VAR_WINEGLASS_R x1; VAR_CLAYCHICK_R x1; VAR_POTROAST_R x1; VAR_ELEANOR_R x1; VAR_CHOWDER_CUP x1; VAR_SHEPHERD_R x1; VAR_BOURBONFLIGHT_R x1; VAR_DEVILED_R x1",
+    "total_amount": "23400",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-03-13T21:52:00Z"
+  },
+  {
+    "id": "ORD_QUILL17",
+    "customer_id": "CUST_MURPHY17",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_COD_R x1; VAR_WINEGLASS_R x1; VAR_OCTOPUS_R x1; VAR_BURGER_R x1; VAR_PECANPIE_R x1; VAR_FISHCHIPS_R x1; VAR_CHOWDER_BOWL x1; VAR_MASH_R x1",
+    "total_amount": "12800",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-10-25T21:18:00Z"
+  },
+  {
+    "id": "ORD_ROWAN18",
+    "customer_id": "CUST_BAUTISTA18",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_STEAKSAND_R x1; VAR_BOURBONFLIGHT_R x1; VAR_CHOWDER_CUP x1; VAR_COBBLER_R x1; VAR_FISHCHIPS_R x1; VAR_CARROTS_R x1",
+    "total_amount": "8800",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-11-28T19:42:00Z"
+  },
+  {
+    "id": "ORD_SORREL19",
+    "customer_id": "CUST_LINDQVIST19",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_MEATLOAF_R x1; VAR_ELEANOR_R x1; VAR_OCTOPUS_R x1; VAR_NYSTRIP_R x2; VAR_WINEGLASS_R x2; VAR_CHOWDER_CUP x1; VAR_MASH_R x2; VAR_CRAFTBEER_R x1; VAR_BRUSSELS_R x1; VAR_FISHCHIPS_R x2; VAR_WINGS_R x1; VAR_DEVILED_R x1",
+    "total_amount": "26900",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-12-13T21:38:00Z"
+  },
+  {
+    "id": "ORD_TANSY20",
+    "customer_id": "CUST_NAIR20",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_COD_R x2; VAR_PRETZEL_R x2; VAR_SALMON_R x1; VAR_BOURBONFLIGHT_R x1; VAR_OCTOPUS_R x1; VAR_MASH_R x1",
+    "total_amount": "14700",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-12-24T20:50:00Z"
+  },
+  {
+    "id": "ORD_UMBER21",
+    "customer_id": "CUST_WHITMAN21",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_BURGER_R x1; VAR_ELEANOR_R x1",
+    "total_amount": "3300",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-01-17T12:01:00Z"
+  },
+  {
+    "id": "ORD_VESPER22",
+    "customer_id": "CUST_DIMAGGIO22",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_BURGER_R x3; VAR_BOURBONFLIGHT_R x2; VAR_BRUSSELS_R x1; VAR_OCTOPUS_R x1; VAR_MEATLOAF_R x1; VAR_CRAFTBEER_R x1; VAR_CARROTS_R x1; VAR_APPLEPIE_R x2; VAR_MAC_R x1",
+    "total_amount": "19300",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-02-14T19:13:00Z"
+  },
+  {
+    "id": "ORD_WILLOW23",
+    "customer_id": "CUST_HENDERSON01",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_COD_R x1; VAR_SHEPHERD_R x1; VAR_ELEANOR_R x1; VAR_CHOWDER_BOWL x1; VAR_MAC_R x1",
+    "total_amount": "8800",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-21T19:54:00Z"
+  },
+  {
+    "id": "ORD_XYLEM24",
+    "customer_id": "CUST_RUSSO02",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_POTROAST_R x2; VAR_BOURBONFLIGHT_R x1; VAR_MAC_R x1; VAR_CHOWDER_CUP x1; VAR_MASH_R x1",
+    "total_amount": "10400",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-01-04T18:39:00Z"
+  },
+  {
+    "id": "ORD_YARROW25",
+    "customer_id": "CUST_RUSSO03",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_FISHCHIPS_R x2; VAR_CRAFTBEER_R x1; VAR_PRETZEL_R x1; VAR_COBBLER_R x1; VAR_COD_R x1; VAR_BRUSSELS_R x1; VAR_CARROTS_R x1; VAR_SALMON_R x1; VAR_BOURBONFLIGHT_R x2; VAR_MEATLOAF_R x1",
+    "total_amount": "21100",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-02-02T21:47:00Z"
+  },
+  {
+    "id": "ORD_ZEPHYR26",
+    "customer_id": "CUST_PAPPAS04",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_STEAKSAND_R x1; VAR_CRAFTBEER_R x2; VAR_PECANPIE_R x1; VAR_SALMON_R x1; VAR_ELEANOR_R x1; VAR_CHOWDER_CUP x1; VAR_MEATLOAF_R x1; VAR_CHOWDER_BOWL x1; VAR_COBBLER_R x1",
+    "total_amount": "14600",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-02-16T19:46:00Z"
+  },
+  {
+    "id": "ORD_ALDER27",
+    "customer_id": "CUST_ANDERSON05",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_CLAYCHICK_R x1; VAR_CRAFTBEER_R x1; VAR_WINGS_R x1; VAR_COD_R x1; VAR_WINEGLASS_R x1; VAR_CARROTS_R x1; VAR_SHEPHERD_R x1; VAR_DEVILED_R x1",
+    "total_amount": "13100",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-02-28T20:05:00Z"
+  },
+  {
+    "id": "ORD_BIRCH28",
+    "customer_id": "CUST_MCGEE06",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_COD_R x2; VAR_BOURBONFLIGHT_R x1; VAR_MEATLOAF_R x1; VAR_WINGS_R x1; VAR_STEAKSAND_R x2; VAR_CHOWDER_BOWL x1; VAR_MASH_R x1; VAR_ELEANOR_R x1; VAR_MAC_R x1",
+    "total_amount": "19500",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-06T21:16:00Z"
+  },
+  {
+    "id": "ORD_CEDAR29",
+    "customer_id": "CUST_ANDREWS07",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_SALMON_R x1; VAR_BOURBONFLIGHT_R x3; VAR_MEATLOAF_R x1; VAR_MAC_R x2; VAR_COD_R x2; VAR_COBBLER_R x2; VAR_BRUSSELS_R x1",
+    "total_amount": "22100",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-12T20:04:00Z"
+  },
+  {
+    "id": "ORD_DELLA30",
+    "customer_id": "CUST_FONTAINE08",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_COD_R x1; VAR_PECANPIE_R x2; VAR_SALMON_R x1; VAR_ELEANOR_R x2; VAR_CLAYCHICK_R x1; VAR_BRUSSELS_R x1; VAR_FISHCHIPS_R x1; VAR_BOURBONFLIGHT_R x1; VAR_NYSTRIP_R x1; VAR_CHOWDER_BOWL x1",
+    "total_amount": "24000",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-13T19:30:00Z"
+  },
+  {
+    "id": "ORD_EMBER31",
+    "customer_id": "CUST_KOWALSKI09",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_POTROAST_R x1; VAR_CRAFTBEER_R x2; VAR_BRUSSELS_R x1; VAR_PECANPIE_R x1; VAR_SHEPHERD_R x1; VAR_ELEANOR_R x2; VAR_MAC_R x1; VAR_MEATLOAF_R x1; VAR_COD_R x1",
+    "total_amount": "18100",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-19T20:42:00Z"
+  },
+  {
+    "id": "ORD_FERN32",
+    "customer_id": "CUST_TRAN10",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_STEAKSAND_R x2; VAR_MASH_R x1; VAR_APPLEPIE_R x1; VAR_SALMON_R x1; VAR_CHOWDER_BOWL x1; VAR_SHEPHERD_R x1; VAR_BOURBONFLIGHT_R x1; VAR_PRETZEL_R x1; VAR_CLAYCHICK_R x1; VAR_BRUSSELS_R x1; VAR_COBBLER_R x1",
+    "total_amount": "20100",
+    "currency": "USD",
+    "state": "OPEN",
+    "created_at": "2026-03-20T21:51:00Z"
+  },
+  {
+    "id": "ORD_GINGER33",
+    "customer_id": "CUST_HASSAN11",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_CHOWDER_BOWL x1; VAR_STEAKSAND_R x1; VAR_BRUSSELS_R x1",
+    "total_amount": "4400",
+    "currency": "USD",
+    "state": "OPEN",
+    "created_at": "2026-03-21T12:13:00Z"
+  },
+  {
+    "id": "ORD_F9D16B8B",
+    "customer_id": "CUST_PAPPAS04",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_WINEGLASS_R x2; VAR_CHEESE_R x1",
+    "total_amount": "8411",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-01T18:47:00Z"
+  },
+  {
+    "id": "ORD_BA2E95DD",
+    "customer_id": "CUST_TRAN10",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_BOURBON_R x2; VAR_NUTS_R x1",
+    "total_amount": "12341",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-01T21:32:00Z"
+  },
+  {
+    "id": "ORD_F7EDF334",
+    "customer_id": "CUST_OCONNOR13",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_COD_R x1; VAR_BRUSSELS_R x1; VAR_WINEGLASS_R x1",
+    "total_amount": "6091",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-02T00:57:00Z"
+  },
+  {
+    "id": "ORD_BD35FA82",
+    "customer_id": "CUST_OCONNOR12",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_COD_R x1; VAR_BRUSSELS_R x1; VAR_WINEGLASS_R x1",
+    "total_amount": "11327",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-02T03:36:00Z"
+  },
+  {
+    "id": "ORD_30F72B23",
+    "customer_id": "CUST_NAIR20",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_STEAK_R x1; VAR_MASH_R x1; VAR_WINEGLASS_R x1; VAR_BOURBON_R x1",
+    "total_amount": "5202",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-02T06:32:00Z"
+  },
+  {
+    "id": "ORD_B9E1C26C",
+    "customer_id": "CUST_MCGEE06",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_SALMON_R x1; VAR_CHOWDER_CUP x1; VAR_WINEGLASS_R x1",
+    "total_amount": "14585",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-02T09:56:00Z"
+  },
+  {
+    "id": "ORD_EBF26157",
+    "customer_id": "CUST_MURPHY17",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_CHOWDER_CUP x2; VAR_CLAYCHICK_R x2",
+    "total_amount": "6906",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-02T12:46:00Z"
+  },
+  {
+    "id": "ORD_FA1D3415",
+    "customer_id": "CUST_CARUSO16",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_PORKCHOP_R x1; VAR_MASH_R x1; VAR_WINEGLASS_R x2",
+    "total_amount": "23928",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-02T15:37:00Z"
+  },
+  {
+    "id": "ORD_457F1150",
+    "customer_id": "CUST_BAUTISTA18",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_WINEGLASS_R x2; VAR_CHEESE_R x1",
+    "total_amount": "9228",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-02T18:30:00Z"
+  },
+  {
+    "id": "ORD_95C0FC66",
+    "customer_id": "CUST_FONTAINE08",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_CLAYCHICK_R x1; VAR_BRUSSELS_R x1; VAR_BEER_R x1",
+    "total_amount": "23636",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-02T21:41:00Z"
+  },
+  {
+    "id": "ORD_C5ADBBEA",
+    "customer_id": "CUST_BAUTISTA18",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_FISHCHIPS_R x1; VAR_BRUSSELS_R x1; VAR_WINEGLASS_R x2",
+    "total_amount": "19539",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-03T01:00:00Z"
+  },
+  {
+    "id": "ORD_BDBE8B3E",
+    "customer_id": "CUST_LINDQVIST19",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_CHOWDER_CUP x2; VAR_CLAYCHICK_R x2",
+    "total_amount": "7382",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-03T03:32:00Z"
+  },
+  {
+    "id": "ORD_857AEE8A",
+    "customer_id": "CUST_CARUSO16",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_COD_R x1; VAR_BRUSSELS_R x1; VAR_WINEGLASS_R x1",
+    "total_amount": "21009",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-03T06:49:00Z"
+  },
+  {
+    "id": "ORD_975222D7",
+    "customer_id": "CUST_WHITMAN21",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_FISHCHIPS_R x1; VAR_BRUSSELS_R x1; VAR_WINEGLASS_R x2",
+    "total_amount": "18232",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-03T09:38:00Z"
+  },
+  {
+    "id": "ORD_8B7D6DD6",
+    "customer_id": "CUST_WU15",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_SALMON_R x1; VAR_CHOWDER_CUP x1; VAR_WINEGLASS_R x1",
+    "total_amount": "15026",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-03T12:57:00Z"
+  },
+  {
+    "id": "ORD_B3539666",
+    "customer_id": "CUST_HENDERSON01",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_COD_R x1; VAR_BRUSSELS_R x1; VAR_WINEGLASS_R x1",
+    "total_amount": "16680",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-03T15:35:00Z"
+  },
+  {
+    "id": "ORD_CC300C7A",
+    "customer_id": "CUST_OCONNOR12",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_COD_R x1; VAR_BRUSSELS_R x1; VAR_WINEGLASS_R x1",
+    "total_amount": "8493",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-03T18:51:00Z"
+  },
+  {
+    "id": "ORD_AB7233A8",
+    "customer_id": "CUST_HENDERSON01",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_BOURBON_R x2; VAR_NUTS_R x1",
+    "total_amount": "10970",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-03T21:40:00Z"
+  },
+  {
+    "id": "ORD_FD339C5B",
+    "customer_id": "CUST_KOWALSKI09",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_POTROAST_R x2; VAR_MASH_R x2; VAR_WINEGLASS_R x2",
+    "total_amount": "16366",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-04T00:33:00Z"
+  },
+  {
+    "id": "ORD_16AB042C",
+    "customer_id": "CUST_TRAN10",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_PORKCHOP_R x1; VAR_MASH_R x1; VAR_WINEGLASS_R x2",
+    "total_amount": "12622",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-04T03:43:00Z"
+  },
+  {
+    "id": "ORD_762A79C5",
+    "customer_id": "CUST_HASSAN11",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_CLAYCHICK_R x1; VAR_BRUSSELS_R x1; VAR_BEER_R x1",
+    "total_amount": "17386",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-04T06:56:00Z"
+  },
+  {
+    "id": "ORD_AC5A4223",
+    "customer_id": "CUST_CARUSO16",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_CLAYCHICK_R x1; VAR_BRUSSELS_R x1; VAR_BEER_R x1",
+    "total_amount": "20546",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-04T09:32:00Z"
+  },
+  {
+    "id": "ORD_6D2D0FFC",
+    "customer_id": "CUST_ANDERSON05",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_WINEGLASS_R x2; VAR_CHEESE_R x1",
+    "total_amount": "13606",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-04T12:59:00Z"
+  },
+  {
+    "id": "ORD_6FE0B4C8",
+    "customer_id": "CUST_WU15",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_FISHCHIPS_R x1; VAR_BRUSSELS_R x1; VAR_WINEGLASS_R x2",
+    "total_amount": "22717",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-04T15:44:00Z"
+  },
+  {
+    "id": "ORD_D26D71DB",
+    "customer_id": "CUST_KOWALSKI09",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_CLAYCHICK_R x1; VAR_BRUSSELS_R x1; VAR_BEER_R x1",
+    "total_amount": "16426",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-04T18:55:00Z"
+  },
+  {
+    "id": "ORD_0305460B",
+    "customer_id": "CUST_NAIR20",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_APPLEPIE_R x2; VAR_COFFEE_R x2",
+    "total_amount": "8684",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-04T21:32:00Z"
+  },
+  {
+    "id": "ORD_10057BD1",
+    "customer_id": "CUST_WU15",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_FISHCHIPS_R x1; VAR_BRUSSELS_R x1; VAR_WINEGLASS_R x2",
+    "total_amount": "21625",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-05T00:57:00Z"
+  },
+  {
+    "id": "ORD_71481DBE",
+    "customer_id": "CUST_OCONNOR12",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_CHOWDER_CUP x2; VAR_CLAYCHICK_R x2",
+    "total_amount": "13113",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-05T03:56:00Z"
+  },
+  {
+    "id": "ORD_3E3BFDF6",
+    "customer_id": "CUST_RAMIREZ14",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_SALMON_R x1; VAR_CHOWDER_CUP x1; VAR_WINEGLASS_R x1",
+    "total_amount": "11320",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-05T06:57:00Z"
+  },
+  {
+    "id": "ORD_98792A46",
+    "customer_id": "CUST_RAMIREZ14",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_COD_R x1; VAR_BRUSSELS_R x1; VAR_WINEGLASS_R x1",
+    "total_amount": "23827",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-05T09:46:00Z"
+  },
+  {
+    "id": "ORD_15AA9857",
+    "customer_id": "CUST_FONTAINE08",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_SHEPPIE_R x2; VAR_BEER_R x2",
+    "total_amount": "22912",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-05T12:42:00Z"
+  },
+  {
+    "id": "ORD_82B6FCC6",
+    "customer_id": "CUST_MCGEE06",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_POTROAST_R x2; VAR_MASH_R x2; VAR_WINEGLASS_R x2",
+    "total_amount": "16844",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-05T15:45:00Z"
+  },
+  {
+    "id": "ORD_B54A9C4C",
+    "customer_id": "CUST_CARUSO16",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_CLAYCHICK_R x1; VAR_BRUSSELS_R x1; VAR_BEER_R x1",
+    "total_amount": "3627",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-05T18:50:00Z"
+  },
+  {
+    "id": "ORD_D20A884B",
+    "customer_id": "CUST_BAUTISTA18",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_COD_R x1; VAR_BRUSSELS_R x1; VAR_WINEGLASS_R x1",
+    "total_amount": "4586",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-05T21:47:00Z"
+  },
+  {
+    "id": "ORD_9CA2D49A",
+    "customer_id": "CUST_ANDREWS07",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_SHEPPIE_R x2; VAR_BEER_R x2",
+    "total_amount": "23345",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-06T00:52:00Z"
+  },
+  {
+    "id": "ORD_1BFE3972",
+    "customer_id": "CUST_PAPPAS04",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_POTROAST_R x2; VAR_MASH_R x2; VAR_WINEGLASS_R x2",
+    "total_amount": "10486",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-06T03:35:00Z"
+  },
+  {
+    "id": "ORD_C26A1527",
+    "customer_id": "CUST_HASSAN11",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_MEATLOAF_R x1; VAR_CARROTS_R x1; VAR_BEER_R x1",
+    "total_amount": "18560",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-06T06:33:00Z"
+  },
+  {
+    "id": "ORD_FBACE4C1",
+    "customer_id": "CUST_RUSSO03",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_PORKCHOP_R x1; VAR_MASH_R x1; VAR_WINEGLASS_R x2",
+    "total_amount": "7972",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-06T09:53:00Z"
+  },
+  {
+    "id": "ORD_774CF65D",
+    "customer_id": "CUST_PAPPAS04",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_KIDPASTA_R x1; VAR_KIDCHICK_R x1; VAR_CHOWDER_CUP x2",
+    "total_amount": "8439",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-06T12:55:00Z"
+  },
+  {
+    "id": "ORD_552C9AD2",
+    "customer_id": "CUST_DIMAGGIO22",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_BURGER_R x2; VAR_FRIES_R x2; VAR_BEER_R x2",
+    "total_amount": "3534",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-06T15:46:00Z"
+  },
+  {
+    "id": "ORD_6F51091E",
+    "customer_id": "CUST_PAPPAS04",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_WINEGLASS_R x2; VAR_CHEESE_R x1",
+    "total_amount": "4792",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-06T18:51:00Z"
+  },
+  {
+    "id": "ORD_EFC701BF",
+    "customer_id": "CUST_RAMIREZ14",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_FISHCHIPS_R x1; VAR_BRUSSELS_R x1; VAR_WINEGLASS_R x2",
+    "total_amount": "20964",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-06T21:55:00Z"
+  },
+  {
+    "id": "ORD_111BEEA6",
+    "customer_id": "CUST_WHITMAN21",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_POTROAST_R x2; VAR_MASH_R x2; VAR_WINEGLASS_R x2",
+    "total_amount": "7731",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-07T00:53:00Z"
+  },
+  {
+    "id": "ORD_4B416E95",
+    "customer_id": "CUST_RAMIREZ14",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_CLAYCHICK_R x1; VAR_BRUSSELS_R x1; VAR_BEER_R x1",
+    "total_amount": "6046",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-07T03:56:00Z"
+  },
+  {
+    "id": "ORD_180E2108",
+    "customer_id": "CUST_ANDERSON05",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_SHEPPIE_R x2; VAR_BEER_R x2",
+    "total_amount": "7308",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-07T06:54:00Z"
+  },
+  {
+    "id": "ORD_E8A0E517",
+    "customer_id": "CUST_ANDERSON05",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_PORKCHOP_R x1; VAR_MASH_R x1; VAR_WINEGLASS_R x2",
+    "total_amount": "22014",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-07T09:45:00Z"
+  },
+  {
+    "id": "ORD_EA5629C7",
+    "customer_id": "CUST_ANDREWS07",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_BURGER_R x2; VAR_FRIES_R x2; VAR_BEER_R x2",
+    "total_amount": "19906",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-07T12:46:00Z"
+  },
+  {
+    "id": "ORD_FD543CA2",
+    "customer_id": "CUST_DIMAGGIO22",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_SALMON_R x1; VAR_CHOWDER_CUP x1; VAR_WINEGLASS_R x1",
+    "total_amount": "21491",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-07T15:54:00Z"
+  },
+  {
+    "id": "ORD_8F6AD4A5",
+    "customer_id": "CUST_TRAN10",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_STEAK_R x1; VAR_MASH_R x1; VAR_WINEGLASS_R x1; VAR_BOURBON_R x1",
+    "total_amount": "8352",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-07T18:34:00Z"
+  },
+  {
+    "id": "ORD_C0A09DBE",
+    "customer_id": "CUST_MCGEE06",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_COD_R x1; VAR_BRUSSELS_R x1; VAR_WINEGLASS_R x1",
+    "total_amount": "3880",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-07T21:56:00Z"
+  },
+  {
+    "id": "ORD_7B7DC9B5",
+    "customer_id": "CUST_OCONNOR13",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_CHOWDER_CUP x2; VAR_CLAYCHICK_R x2",
+    "total_amount": "17873",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-08T00:44:00Z"
+  },
+  {
+    "id": "ORD_E8229FA9",
+    "customer_id": "CUST_RUSSO02",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_CLAYCHICK_R x1; VAR_BRUSSELS_R x1; VAR_BEER_R x1",
+    "total_amount": "8331",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-08T03:56:00Z"
+  },
+  {
+    "id": "ORD_CC3F1E24",
+    "customer_id": "CUST_HASSAN11",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_WINEGLASS_R x2; VAR_CHEESE_R x1",
+    "total_amount": "11224",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-08T06:36:00Z"
+  },
+  {
+    "id": "ORD_DA4994AB",
+    "customer_id": "CUST_TRAN10",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_PORKCHOP_R x1; VAR_MASH_R x1; VAR_WINEGLASS_R x2",
+    "total_amount": "23772",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-08T09:53:00Z"
+  },
+  {
+    "id": "ORD_8D91690D",
+    "customer_id": "CUST_HENDERSON01",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_SALMON_R x1; VAR_CHOWDER_CUP x1; VAR_WINEGLASS_R x1",
+    "total_amount": "9659",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-08T12:56:00Z"
+  },
+  {
+    "id": "ORD_F9756062",
+    "customer_id": "CUST_KOWALSKI09",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_MEATLOAF_R x1; VAR_CARROTS_R x1; VAR_BEER_R x1",
+    "total_amount": "14508",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-08T15:52:00Z"
+  },
+  {
+    "id": "ORD_0F95EC34",
+    "customer_id": "CUST_PAPPAS04",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_WINEGLASS_R x2; VAR_CHEESE_R x1",
+    "total_amount": "7678",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-08T18:32:00Z"
+  },
+  {
+    "id": "ORD_82272319",
+    "customer_id": "CUST_CARUSO16",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_BURGER_R x2; VAR_FRIES_R x2; VAR_BEER_R x2",
+    "total_amount": "6060",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-08T21:39:00Z"
+  },
+  {
+    "id": "ORD_C02CA159",
+    "customer_id": "CUST_RUSSO02",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_STEAK_R x1; VAR_MASH_R x1; VAR_WINEGLASS_R x1; VAR_BOURBON_R x1",
+    "total_amount": "7779",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-09T00:30:00Z"
+  },
+  {
+    "id": "ORD_F2115F7D",
+    "customer_id": "CUST_HASSAN11",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_BOURBON_R x2; VAR_NUTS_R x1",
+    "total_amount": "9328",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-09T03:57:00Z"
+  },
+  {
+    "id": "ORD_7E9F5CAF",
+    "customer_id": "CUST_RUSSO02",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_MEATLOAF_R x1; VAR_CARROTS_R x1; VAR_BEER_R x1",
+    "total_amount": "24262",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-09T06:43:00Z"
+  },
+  {
+    "id": "ORD_9D3DDEF3",
+    "customer_id": "CUST_HENDERSON01",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_BOURBON_R x2; VAR_NUTS_R x1",
+    "total_amount": "10613",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-09T09:32:00Z"
+  },
+  {
+    "id": "ORD_E095E847",
+    "customer_id": "CUST_ANDERSON05",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_MEATLOAF_R x1; VAR_CARROTS_R x1; VAR_BEER_R x1",
+    "total_amount": "3868",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-09T12:39:00Z"
+  },
+  {
+    "id": "ORD_B06AE4CD",
+    "customer_id": "CUST_MCGEE06",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_BOURBON_R x2; VAR_NUTS_R x1",
+    "total_amount": "19467",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-09T15:43:00Z"
+  },
+  {
+    "id": "ORD_4EC9F3E3",
+    "customer_id": "CUST_KOWALSKI09",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_APPLEPIE_R x2; VAR_COFFEE_R x2",
+    "total_amount": "5365",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-09T18:47:00Z"
+  },
+  {
+    "id": "ORD_4615ED7B",
+    "customer_id": "CUST_WHITMAN21",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_FISHCHIPS_R x1; VAR_BRUSSELS_R x1; VAR_WINEGLASS_R x2",
+    "total_amount": "3948",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-09T22:00:00Z"
+  },
+  {
+    "id": "ORD_0EE83C59",
+    "customer_id": "CUST_ANDREWS07",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_SALMON_R x1; VAR_CHOWDER_CUP x1; VAR_WINEGLASS_R x1",
+    "total_amount": "7947",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-10T00:38:00Z"
+  },
+  {
+    "id": "ORD_84573AE6",
+    "customer_id": "CUST_NAIR20",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_STEAK_R x1; VAR_MASH_R x1; VAR_WINEGLASS_R x1; VAR_BOURBON_R x1",
+    "total_amount": "21325",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-10T03:40:00Z"
+  },
+  {
+    "id": "ORD_8B28612C",
+    "customer_id": "CUST_WU15",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_SHEPPIE_R x2; VAR_BEER_R x2",
+    "total_amount": "21755",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-10T06:55:00Z"
+  },
+  {
+    "id": "ORD_CC799444",
+    "customer_id": "CUST_RUSSO02",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_BURGER_R x2; VAR_FRIES_R x2; VAR_BEER_R x2",
+    "total_amount": "11277",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-10T09:38:00Z"
+  },
+  {
+    "id": "ORD_ABDE0696",
+    "customer_id": "CUST_OCONNOR13",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_WINEGLASS_R x2; VAR_CHEESE_R x1",
+    "total_amount": "22313",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-10T12:35:00Z"
+  },
+  {
+    "id": "ORD_4207CB83",
+    "customer_id": "CUST_MCGEE06",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_POTROAST_R x2; VAR_MASH_R x2; VAR_WINEGLASS_R x2",
+    "total_amount": "20749",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-10T15:31:00Z"
+  },
+  {
+    "id": "ORD_D2DC6C55",
+    "customer_id": "CUST_DIMAGGIO22",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_WINEGLASS_R x2; VAR_CHEESE_R x1",
+    "total_amount": "14586",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-10T18:49:00Z"
+  },
+  {
+    "id": "ORD_E184D927",
+    "customer_id": "CUST_DIMAGGIO22",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_KIDPASTA_R x1; VAR_KIDCHICK_R x1; VAR_CHOWDER_CUP x2",
+    "total_amount": "14445",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-10T21:36:00Z"
+  },
+  {
+    "id": "ORD_CF691FF2",
+    "customer_id": "CUST_LINDQVIST19",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_KIDPASTA_R x1; VAR_KIDCHICK_R x1; VAR_CHOWDER_CUP x2",
+    "total_amount": "18498",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-11T00:50:00Z"
+  },
+  {
+    "id": "ORD_00A38184",
+    "customer_id": "CUST_HENDERSON01",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_CHOWDER_CUP x2; VAR_CLAYCHICK_R x2",
+    "total_amount": "11086",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-11T03:57:00Z"
+  },
+  {
+    "id": "ORD_96ED7448",
+    "customer_id": "CUST_MCGEE06",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_POTROAST_R x2; VAR_MASH_R x2; VAR_WINEGLASS_R x2",
+    "total_amount": "6400",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-11T06:41:00Z"
+  },
+  {
+    "id": "ORD_90F20BF7",
+    "customer_id": "CUST_FONTAINE08",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_MEATLOAF_R x1; VAR_CARROTS_R x1; VAR_BEER_R x1",
+    "total_amount": "18524",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-11T09:52:00Z"
+  },
+  {
+    "id": "ORD_7B67BE40",
+    "customer_id": "CUST_ANDREWS07",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_WINEGLASS_R x2; VAR_CHEESE_R x1",
+    "total_amount": "9361",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-11T12:38:00Z"
+  },
+  {
+    "id": "ORD_D5F43B64",
+    "customer_id": "CUST_WU15",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_CHOWDER_CUP x2; VAR_CLAYCHICK_R x2",
+    "total_amount": "22636",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-11T15:49:00Z"
+  },
+  {
+    "id": "ORD_AD27ED38",
+    "customer_id": "CUST_NAIR20",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_BOURBON_R x2; VAR_NUTS_R x1",
+    "total_amount": "23601",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-11T18:30:00Z"
+  },
+  {
+    "id": "ORD_E5FF7F4B",
+    "customer_id": "CUST_TRAN10",
+    "location_id": "LOC_MAIN",
+    "line_items": "VAR_PORKCHOP_R x1; VAR_MASH_R x1; VAR_WINEGLASS_R x2",
+    "total_amount": "24288",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-03-11T21:48:00Z"
+  }
+]

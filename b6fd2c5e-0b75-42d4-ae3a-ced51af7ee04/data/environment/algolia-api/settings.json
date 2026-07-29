@@ -1,0 +1,142 @@
+[
+  {
+    "index": "pages",
+    "searchableAttributes": "title,body,section,tags",
+    "attributesForFaceting": "section,tags",
+    "hitsPerPage": 20,
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "sermons",
+    "searchableAttributes": "title,preacher,scripture,tags,transcript",
+    "attributesForFaceting": "preacher,series,year",
+    "hitsPerPage": 20,
+    "ranking": "typo,words,proximity,attribute,exact,desc(date)"
+  },
+  {
+    "index": "blog_posts",
+    "searchableAttributes": "title,body,author,tags",
+    "attributesForFaceting": "author,category,year",
+    "hitsPerPage": 20,
+    "ranking": "typo,words,proximity,attribute,exact,desc(published_at)"
+  },
+  {
+    "index": "events",
+    "searchableAttributes": "name,description,venue,tags",
+    "attributesForFaceting": "category,year,month",
+    "hitsPerPage": 20,
+    "ranking": "typo,words,geo,proximity,attribute,exact,desc(start_date)"
+  },
+  {
+    "index": "album_tracks",
+    "searchableAttributes": "title,composer,lyricist,tags,album",
+    "attributesForFaceting": "album,type,key",
+    "hitsPerPage": 10,
+    "ranking": "typo,words,proximity,attribute,exact,asc(track_num)"
+  },
+  {
+    "index": "choir_members_public",
+    "searchableAttributes": "name,section",
+    "attributesForFaceting": "section,tenure_bucket",
+    "hitsPerPage": 20,
+    "ranking": "typo,words,proximity,attribute,exact"
+  },
+  {
+    "index": "donor_recognition",
+    "searchableAttributes": "name,tier",
+    "attributesForFaceting": "tier,year",
+    "hitsPerPage": 20,
+    "ranking": "typo,words,attribute,exact"
+  },
+  {
+    "index": "youth_program",
+    "searchableAttributes": "student_first_name,instrument,grade_bucket",
+    "attributesForFaceting": "instrument,age_bucket,school",
+    "hitsPerPage": 22,
+    "ranking": "typo,words,attribute,exact"
+  },
+  {
+    "index": "hymnal",
+    "searchableAttributes": "title,first_line,composer,scripture_ref",
+    "attributesForFaceting": "meter,tune,composer",
+    "hitsPerPage": 25,
+    "ranking": "typo,words,proximity,attribute,exact"
+  },
+  {
+    "index": "faq",
+    "searchableAttributes": "question,answer,category",
+    "attributesForFaceting": "category",
+    "hitsPerPage": 10,
+    "ranking": "typo,words,proximity,attribute,exact"
+  },
+  {
+    "index": "prayer_wall_public",
+    "searchableAttributes": "request_text,category",
+    "attributesForFaceting": "category",
+    "hitsPerPage": 15,
+    "ranking": "typo,words,attribute,desc(created_at)"
+  },
+  {
+    "index": "worship_playlists",
+    "searchableAttributes": "name,description,mood",
+    "attributesForFaceting": "mood,service_type",
+    "hitsPerPage": 20,
+    "ranking": "typo,words,attribute,exact"
+  },
+  {
+    "index": "album_press_kit",
+    "searchableAttributes": "title,section,tags",
+    "attributesForFaceting": "section,file_type",
+    "hitsPerPage": 10,
+    "ranking": "typo,words,attribute,exact"
+  },
+  {
+    "index": "convention_updates",
+    "searchableAttributes": "title,body,tags",
+    "attributesForFaceting": "category,week",
+    "hitsPerPage": 12,
+    "ranking": "typo,words,attribute,desc(published_at)"
+  },
+  {
+    "index": "ministries",
+    "searchableAttributes": "name,description,lead",
+    "attributesForFaceting": "category",
+    "hitsPerPage": 10,
+    "ranking": "typo,words,attribute,exact"
+  },
+  {
+    "index": "staff",
+    "searchableAttributes": "name,role,department,bio",
+    "attributesForFaceting": "department,role",
+    "hitsPerPage": 22,
+    "ranking": "typo,words,attribute,exact"
+  },
+  {
+    "index": "service_orders",
+    "searchableAttributes": "date,service_type,songs,scripture",
+    "attributesForFaceting": "service_type,month,year",
+    "hitsPerPage": 20,
+    "ranking": "typo,words,attribute,desc(date)"
+  },
+  {
+    "index": "album_tracks_lyrics",
+    "searchableAttributes": "track_title,lyrics,writer",
+    "attributesForFaceting": "album,writer",
+    "hitsPerPage": 10,
+    "ranking": "typo,words,proximity,attribute,exact"
+  },
+  {
+    "index": "youth_program_lessons",
+    "searchableAttributes": "title,week,topic",
+    "attributesForFaceting": "week,semester",
+    "hitsPerPage": 22,
+    "ranking": "typo,words,attribute,asc(week)"
+  },
+  {
+    "index": "vietnamese_recipes_shared",
+    "searchableAttributes": "name,description,ingredients,contributor",
+    "attributesForFaceting": "category,contributor",
+    "hitsPerPage": 20,
+    "ranking": "typo,words,attribute,exact"
+  }
+]

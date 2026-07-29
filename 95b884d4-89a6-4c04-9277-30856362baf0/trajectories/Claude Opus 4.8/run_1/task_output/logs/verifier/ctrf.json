@@ -1,0 +1,75 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 11,
+      "passed": 8,
+      "failed": 3,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.6923,
+      "weighted_percentage": 69.23
+    },
+    "tests": [
+      {
+        "name": "test_airtable_penne_allergens_core",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_airtable_penne_allergens_lists_stale_soy",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_airtable_penne_allergens_treenut",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_airtable_penne_reviewed_flag",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_airtable_penne_status_needs_fix",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_airtable_veg_allergens_documented",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_airtable_veg_card_marked_done",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_airtable_veg_reviewed_flag",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_airtable_veg_status_needs_fix",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_gmail_card_sent",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_gmail_draft_prepared_for_shanice",
+        "status": "passed",
+        "duration": 0
+      }
+    ]
+  }
+}

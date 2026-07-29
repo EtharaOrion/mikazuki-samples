@@ -1,0 +1,222 @@
+[
+  {
+    "name": "node-control-01",
+    "status": "Ready",
+    "role": "Producer",
+    "cpu_capacity": "4",
+    "memory_capacity": "16Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.10",
+    "created_time": "2025-08-01T08:55:00Z"
+  },
+  {
+    "name": "node-worker-02",
+    "status": "Ready",
+    "role": "Volunteer",
+    "cpu_capacity": "8",
+    "memory_capacity": "32Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.11",
+    "created_time": "2025-08-01T08:56:00Z"
+  },
+  {
+    "name": "node-worker-03",
+    "status": "Ready",
+    "role": "Music Director",
+    "cpu_capacity": "8",
+    "memory_capacity": "32Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.12",
+    "created_time": "2025-08-01T08:57:00Z"
+  },
+  {
+    "name": "node-worker-04",
+    "status": "Ready",
+    "role": "Choir President",
+    "cpu_capacity": "8",
+    "memory_capacity": "32Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.13",
+    "created_time": "2025-08-14T10:20:00Z"
+  },
+  {
+    "name": "node-control-05",
+    "status": "Ready",
+    "role": "Choir President",
+    "cpu_capacity": "4",
+    "memory_capacity": "16Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.10",
+    "created_time": "2025-08-05T08:55:00Z"
+  },
+  {
+    "name": "node-worker-06",
+    "status": "Ready",
+    "role": "Producer",
+    "cpu_capacity": "8",
+    "memory_capacity": "32Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.11",
+    "created_time": "2025-08-06T08:56:00Z"
+  },
+  {
+    "name": "node-worker-07",
+    "status": "Ready",
+    "role": "Section Leader",
+    "cpu_capacity": "8",
+    "memory_capacity": "32Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.12",
+    "created_time": "2025-08-07T08:57:00Z"
+  },
+  {
+    "name": "node-worker-08",
+    "status": "Ready",
+    "role": "Volunteer",
+    "cpu_capacity": "8",
+    "memory_capacity": "32Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.13",
+    "created_time": "2025-08-21T10:20:00Z"
+  },
+  {
+    "name": "node-control-09",
+    "status": "Ready",
+    "role": "Youth Coach",
+    "cpu_capacity": "4",
+    "memory_capacity": "16Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.10",
+    "created_time": "2025-08-09T08:55:00Z"
+  },
+  {
+    "name": "node-worker-10",
+    "status": "Ready",
+    "role": "Music Director",
+    "cpu_capacity": "8",
+    "memory_capacity": "32Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.11",
+    "created_time": "2025-08-10T08:56:00Z"
+  },
+  {
+    "name": "node-worker-11",
+    "status": "Ready",
+    "role": "Organist",
+    "cpu_capacity": "8",
+    "memory_capacity": "32Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.12",
+    "created_time": "2025-08-11T08:57:00Z"
+  },
+  {
+    "name": "node-worker-12",
+    "status": "Ready",
+    "role": "Choir President",
+    "cpu_capacity": "8",
+    "memory_capacity": "32Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.13",
+    "created_time": "2025-08-25T10:20:00Z"
+  },
+  {
+    "name": "node-control-13",
+    "status": "Ready",
+    "role": "Producer",
+    "cpu_capacity": "4",
+    "memory_capacity": "16Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.10",
+    "created_time": "2025-08-13T08:55:00Z"
+  },
+  {
+    "name": "node-worker-14",
+    "status": "Ready",
+    "role": "Section Leader",
+    "cpu_capacity": "8",
+    "memory_capacity": "32Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.11",
+    "created_time": "2025-08-14T08:56:00Z"
+  },
+  {
+    "name": "node-worker-15",
+    "status": "Ready",
+    "role": "Volunteer",
+    "cpu_capacity": "8",
+    "memory_capacity": "32Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.12",
+    "created_time": "2025-08-15T08:57:00Z"
+  },
+  {
+    "name": "node-worker-16",
+    "status": "Ready",
+    "role": "Youth Coach",
+    "cpu_capacity": "8",
+    "memory_capacity": "32Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.13",
+    "created_time": "2025-08-29T10:20:00Z"
+  },
+  {
+    "name": "node-control-17",
+    "status": "Ready",
+    "role": "Music Director",
+    "cpu_capacity": "4",
+    "memory_capacity": "16Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.10",
+    "created_time": "2025-08-17T08:55:00Z"
+  },
+  {
+    "name": "node-worker-18",
+    "status": "Ready",
+    "role": "Organist",
+    "cpu_capacity": "8",
+    "memory_capacity": "32Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.11",
+    "created_time": "2025-08-18T08:56:00Z"
+  },
+  {
+    "name": "node-worker-19",
+    "status": "Ready",
+    "role": "Choir President",
+    "cpu_capacity": "8",
+    "memory_capacity": "32Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.12",
+    "created_time": "2025-08-19T08:57:00Z"
+  },
+  {
+    "name": "node-worker-20",
+    "status": "Ready",
+    "role": "Producer",
+    "cpu_capacity": "8",
+    "memory_capacity": "32Gi",
+    "kubelet_version": "v1.29.4",
+    "os_image": "Ubuntu 22.04.4 LTS",
+    "internal_ip": "10.0.1.13",
+    "created_time": "2025-09-02T10:20:00Z"
+  }
+]

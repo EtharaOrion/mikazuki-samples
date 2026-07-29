@@ -1,0 +1,232 @@
+[
+  {
+    "account_id": "a0000001-0000-0000-0000-000000000001",
+    "code": "200",
+    "name": "Food Sales",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Income from food sold in the dining room and bar",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000002-0000-0000-0000-000000000002",
+    "code": "210",
+    "name": "Beverage Sales",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Income from beer, wine, spirits and non-alcoholic drinks",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000003-0000-0000-0000-000000000003",
+    "code": "220",
+    "name": "Catering & Private Events",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Income from private parties and off-site catering",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000004-0000-0000-0000-000000000004",
+    "code": "260",
+    "name": "Other Revenue",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Any other income that does not relate to normal business",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000005-0000-0000-0000-000000000005",
+    "code": "090",
+    "name": "Business Bank Account",
+    "type": "BANK",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Primary operating bank account for Eleanor's Tavern",
+    "enable_payments_to_account": "true"
+  },
+  {
+    "account_id": "a0000006-0000-0000-0000-000000000006",
+    "code": "091",
+    "name": "Payroll Bank Account",
+    "type": "BANK",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Dedicated account used to fund staff payroll",
+    "enable_payments_to_account": "true"
+  },
+  {
+    "account_id": "a0000007-0000-0000-0000-000000000007",
+    "code": "610",
+    "name": "Accounts Receivable",
+    "type": "CURRENT",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Outstanding invoices owed to the business",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000008-0000-0000-0000-000000000008",
+    "code": "630",
+    "name": "Inventory - Food",
+    "type": "CURRENT",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Value of food stock on hand",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000009-0000-0000-0000-000000000009",
+    "code": "631",
+    "name": "Inventory - Beverage",
+    "type": "CURRENT",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Value of beer, wine and liquor stock on hand",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000010-0000-0000-0000-000000000010",
+    "code": "800",
+    "name": "Accounts Payable",
+    "type": "CURRLIAB",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Outstanding bills owed by the business",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000011-0000-0000-0000-000000000011",
+    "code": "820",
+    "name": "Sales Tax Payable",
+    "type": "CURRLIAB",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "New York State and City sales tax collected and owed",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000012-0000-0000-0000-000000000012",
+    "code": "300",
+    "name": "Cost of Goods Sold - Food",
+    "type": "DIRECTCOSTS",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Cost of food purchased from suppliers",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000013-0000-0000-0000-000000000013",
+    "code": "310",
+    "name": "Cost of Goods Sold - Beverage",
+    "type": "DIRECTCOSTS",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Cost of beer, wine and liquor purchased from suppliers",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000014-0000-0000-0000-000000000014",
+    "code": "400",
+    "name": "Advertising & Marketing",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Expenses incurred for advertising and promotion",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000015-0000-0000-0000-000000000015",
+    "code": "404",
+    "name": "Bank Fees",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Fees charged by your bank and card processors",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000016-0000-0000-0000-000000000016",
+    "code": "469",
+    "name": "Rent",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Monthly rent for the Broadway premises",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000017-0000-0000-0000-000000000017",
+    "code": "477",
+    "name": "Wages & Salaries",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Payment to kitchen, bar and floor staff",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000018-0000-0000-0000-000000000018",
+    "code": "445",
+    "name": "Utilities - Electric & Gas",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Electricity and natural gas for the tavern",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000019-0000-0000-0000-000000000019",
+    "code": "489",
+    "name": "Telephone & Internet",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Phone and internet service for the business",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000020-0000-0000-0000-000000000020",
+    "code": "433",
+    "name": "Insurance",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "General liability and liquor liability insurance",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000021-0000-0000-0000-000000000021",
+    "code": "461",
+    "name": "Linen & Laundry",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Linen rental and laundry service",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000022-0000-0000-0000-000000000022",
+    "code": "473",
+    "name": "Repairs & Maintenance",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Kitchen equipment and building repairs",
+    "enable_payments_to_account": "false"
+  },
+  {
+    "account_id": "a0000023-0000-0000-0000-000000000023",
+    "code": "485",
+    "name": "Licenses & Permits",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Liquor license, health permits and city fees",
+    "enable_payments_to_account": "false"
+  }
+]

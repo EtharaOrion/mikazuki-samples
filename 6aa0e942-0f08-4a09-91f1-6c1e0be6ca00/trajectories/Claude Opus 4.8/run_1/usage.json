@@ -1,0 +1,60 @@
+{
+  "input_tokens": 40817,
+  "output_tokens": 14271,
+  "cache_read_tokens": 929490,
+  "cache_write_tokens": 74848,
+  "total_tokens": 1059426,
+  "request_count": 24,
+  "cost_usd": 0.0,
+  "sources": {
+    "agent": {
+      "input_tokens": 44,
+      "output_tokens": 11256,
+      "cache_read_tokens": 929490,
+      "cache_write_tokens": 74848,
+      "total_tokens": 1015638,
+      "audio_seconds": 0.0,
+      "cost_usd": 0.0,
+      "request_count": 22,
+      "usage_source": "litellm",
+      "elapsed_time": 206.9
+    },
+    "preflight": {
+      "input_tokens": 32,
+      "output_tokens": 1,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "total_tokens": 33,
+      "audio_seconds": 0.0,
+      "cost_usd": 0.0,
+      "request_count": 1,
+      "usage_source": "litellm"
+    },
+    "judge": {
+      "input_tokens": 40741,
+      "output_tokens": 3014,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "total_tokens": 43755,
+      "request_count": 1,
+      "cost_usd": 0.0,
+      "per_member": {
+        "sonnet": {
+          "model": "claude-sonnet-4-5-20250929",
+          "input_tokens": 40741,
+          "output_tokens": 3014,
+          "cache_read_tokens": 0,
+          "cache_write_tokens": 0,
+          "total_tokens": 43755,
+          "request_count": 1,
+          "cost_usd": 0.0,
+          "ok": true,
+          "cost_priced_ok": true
+        }
+      }
+    }
+  },
+  "audio_seconds": 0.0,
+  "usage_source": "litellm",
+  "elapsed_time": 206.9
+}

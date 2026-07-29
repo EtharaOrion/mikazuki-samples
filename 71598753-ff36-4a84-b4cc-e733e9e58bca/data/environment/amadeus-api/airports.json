@@ -1,0 +1,222 @@
+[
+  {
+    "city_code": "BOS",
+    "city_name": "Boston",
+    "country_code": "US",
+    "country_name": "United States",
+    "iata_code": "BOS",
+    "latitude": "42.3656",
+    "longitude": "-71.0096",
+    "name": "Boston Logan International",
+    "timezone": "-300"
+  },
+  {
+    "city_code": "NYC",
+    "city_name": "New York",
+    "country_code": "US",
+    "country_name": "United States",
+    "iata_code": "JFK",
+    "latitude": "40.6413",
+    "longitude": "-73.7781",
+    "name": "John F. Kennedy International",
+    "timezone": "-300"
+  },
+  {
+    "city_code": "LAX",
+    "city_name": "Los Angeles",
+    "country_code": "US",
+    "country_name": "United States",
+    "iata_code": "LAX",
+    "latitude": "33.9416",
+    "longitude": "-118.4085",
+    "name": "Los Angeles International",
+    "timezone": "-480"
+  },
+  {
+    "city_code": "SFO",
+    "city_name": "San Francisco",
+    "country_code": "US",
+    "country_name": "United States",
+    "iata_code": "SFO",
+    "latitude": "37.6213",
+    "longitude": "-122.3790",
+    "name": "San Francisco International",
+    "timezone": "-480"
+  },
+  {
+    "city_code": "CHI",
+    "city_name": "Chicago",
+    "country_code": "US",
+    "country_name": "United States",
+    "iata_code": "ORD",
+    "latitude": "41.9742",
+    "longitude": "-87.9073",
+    "name": "Chicago O'Hare International",
+    "timezone": "-360"
+  },
+  {
+    "city_code": "ATL",
+    "city_name": "Atlanta",
+    "country_code": "US",
+    "country_name": "United States",
+    "iata_code": "ATL",
+    "latitude": "33.6407",
+    "longitude": "-84.4277",
+    "name": "Hartsfield-Jackson Atlanta International",
+    "timezone": "-300"
+  },
+  {
+    "city_code": "DEN",
+    "city_name": "Denver",
+    "country_code": "US",
+    "country_name": "United States",
+    "iata_code": "DEN",
+    "latitude": "39.8561",
+    "longitude": "-104.6737",
+    "name": "Denver International",
+    "timezone": "-420"
+  },
+  {
+    "city_code": "SEA",
+    "city_name": "Seattle",
+    "country_code": "US",
+    "country_name": "United States",
+    "iata_code": "SEA",
+    "latitude": "47.4502",
+    "longitude": "-122.3088",
+    "name": "Seattle-Tacoma International",
+    "timezone": "-480"
+  },
+  {
+    "city_code": "LON",
+    "city_name": "London",
+    "country_code": "GB",
+    "country_name": "United Kingdom",
+    "iata_code": "LHR",
+    "latitude": "51.4700",
+    "longitude": "-0.4543",
+    "name": "London Heathrow",
+    "timezone": "0"
+  },
+  {
+    "city_code": "PAR",
+    "city_name": "Paris",
+    "country_code": "FR",
+    "country_name": "France",
+    "iata_code": "CDG",
+    "latitude": "49.0097",
+    "longitude": "2.5479",
+    "name": "Paris Charles de Gaulle",
+    "timezone": "60"
+  },
+  {
+    "city_code": "TYO",
+    "city_name": "Tokyo",
+    "country_code": "JP",
+    "country_name": "Japan",
+    "iata_code": "HND",
+    "latitude": "35.5494",
+    "longitude": "139.7798",
+    "name": "Tokyo Haneda",
+    "timezone": "540"
+  },
+  {
+    "city_code": "AMS",
+    "city_name": "Amsterdam",
+    "country_code": "NL",
+    "country_name": "Netherlands",
+    "iata_code": "AMS",
+    "latitude": "52.3105",
+    "longitude": "4.7683",
+    "name": "Amsterdam Schiphol",
+    "timezone": "60"
+  },
+  {
+    "city_code": "MIA",
+    "city_name": "Miami",
+    "country_code": "US",
+    "country_name": "United States",
+    "iata_code": "MIA",
+    "latitude": "25.7959",
+    "longitude": "-80.2870",
+    "name": "Miami International",
+    "timezone": "-300"
+  },
+  {
+    "city_code": "FLL",
+    "city_name": "Fort Lauderdale",
+    "country_code": "US",
+    "country_name": "United States",
+    "iata_code": "FLL",
+    "latitude": "26.0720",
+    "longitude": "-80.1510",
+    "name": "Fort Lauderdale-Hollywood International",
+    "timezone": "-300"
+  },
+  {
+    "city_code": "EYW",
+    "city_name": "Key West",
+    "country_code": "US",
+    "country_name": "United States",
+    "iata_code": "EYW",
+    "latitude": "24.5561",
+    "longitude": "-81.7596",
+    "name": "Key West International",
+    "timezone": "-300"
+  },
+  {
+    "city_code": "MCO",
+    "city_name": "Orlando",
+    "country_code": "US",
+    "country_name": "United States",
+    "iata_code": "MCO",
+    "latitude": "28.4312",
+    "longitude": "-81.3081",
+    "name": "Orlando International",
+    "timezone": "-300"
+  },
+  {
+    "city_code": "RSW",
+    "city_name": "Fort Myers",
+    "country_code": "US",
+    "country_name": "United States",
+    "iata_code": "RSW",
+    "latitude": "26.5362",
+    "longitude": "-81.7552",
+    "name": "Southwest Florida International",
+    "timezone": "-300"
+  },
+  {
+    "city_code": "PHL",
+    "city_name": "Philadelphia",
+    "country_code": "US",
+    "country_name": "United States",
+    "iata_code": "PHL",
+    "latitude": "39.8744",
+    "longitude": "-75.2424",
+    "name": "Philadelphia International",
+    "timezone": "-300"
+  },
+  {
+    "city_code": "PBI",
+    "city_name": "West Palm Beach",
+    "country_code": "US",
+    "country_name": "United States",
+    "iata_code": "PBI",
+    "latitude": "26.6832",
+    "longitude": "-80.0956",
+    "name": "Palm Beach International",
+    "timezone": "-300"
+  },
+  {
+    "city_code": "TPA",
+    "city_name": "Tampa",
+    "country_code": "US",
+    "country_name": "United States",
+    "iata_code": "TPA",
+    "latitude": "27.9755",
+    "longitude": "-82.5332",
+    "name": "Tampa International",
+    "timezone": "-300"
+  }
+]

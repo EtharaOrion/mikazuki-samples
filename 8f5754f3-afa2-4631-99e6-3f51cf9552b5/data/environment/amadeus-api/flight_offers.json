@@ -1,0 +1,1197 @@
+[
+  {
+    "id": "1",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "JFK",
+    "destinationLocationCode": "SJU",
+    "departureDate": "2027-02-15",
+    "oneWay": true,
+    "numberOfBookableSeats": 6,
+    "itineraries": [
+      {
+        "duration": "PT4H05M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "JFK",
+              "terminal": "8",
+              "at": "2027-02-15T08:00:00"
+            },
+            "arrival": {
+              "iataCode": "SJU",
+              "terminal": "A",
+              "at": "2027-02-15T12:05:00"
+            },
+            "carrierCode": "B6",
+            "number": "1283",
+            "aircraft": {
+              "code": "32Q"
+            },
+            "duration": "PT4H05M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "312.40",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "B6"
+    ]
+  },
+  {
+    "id": "2",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "JFK",
+    "destinationLocationCode": "SJU",
+    "departureDate": "2027-02-15",
+    "oneWay": true,
+    "numberOfBookableSeats": 4,
+    "itineraries": [
+      {
+        "duration": "PT4H10M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "JFK",
+              "terminal": "4",
+              "at": "2027-02-15T07:30:00"
+            },
+            "arrival": {
+              "iataCode": "SJU",
+              "terminal": "A",
+              "at": "2027-02-15T11:40:00"
+            },
+            "carrierCode": "DL",
+            "number": "1849",
+            "aircraft": {
+              "code": "739"
+            },
+            "duration": "PT4H10M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "344.20",
+      "base": "270.00",
+      "grandTotal": "344.20"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "344.20"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "3",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "EWR",
+    "destinationLocationCode": "SJU",
+    "departureDate": "2027-02-15",
+    "oneWay": true,
+    "numberOfBookableSeats": 9,
+    "itineraries": [
+      {
+        "duration": "PT4H00M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "EWR",
+              "terminal": "C",
+              "at": "2027-02-15T09:15:00"
+            },
+            "arrival": {
+              "iataCode": "SJU",
+              "terminal": "A",
+              "at": "2027-02-15T13:15:00"
+            },
+            "carrierCode": "UA",
+            "number": "1631",
+            "aircraft": {
+              "code": "753"
+            },
+            "duration": "PT4H00M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "358.90",
+      "base": "284.00",
+      "grandTotal": "358.90"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "358.90"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "UA"
+    ]
+  },
+  {
+    "id": "4",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "LGA",
+    "destinationLocationCode": "SJU",
+    "departureDate": "2027-02-15",
+    "oneWay": true,
+    "numberOfBookableSeats": 3,
+    "itineraries": [
+      {
+        "duration": "PT6H35M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "LGA",
+              "terminal": "B",
+              "at": "2027-02-15T06:45:00"
+            },
+            "arrival": {
+              "iataCode": "MIA",
+              "terminal": "D",
+              "at": "2027-02-15T09:50:00"
+            },
+            "carrierCode": "AA",
+            "number": "1102",
+            "aircraft": {
+              "code": "321"
+            },
+            "duration": "PT3H05M",
+            "numberOfStops": 0
+          },
+          {
+            "departure": {
+              "iataCode": "MIA",
+              "terminal": "D",
+              "at": "2027-02-15T11:10:00"
+            },
+            "arrival": {
+              "iataCode": "SJU",
+              "terminal": "A",
+              "at": "2027-02-15T13:20:00"
+            },
+            "carrierCode": "AA",
+            "number": "2455",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H10M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "401.60",
+      "base": "318.00",
+      "grandTotal": "401.60"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "401.60"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "AA"
+    ]
+  },
+  {
+    "id": "5",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "JFK",
+    "destinationLocationCode": "SJU",
+    "departureDate": "2027-02-15",
+    "oneWay": true,
+    "numberOfBookableSeats": 8,
+    "itineraries": [
+      {
+        "duration": "PT4H08M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "JFK",
+              "terminal": "5",
+              "at": "2027-02-15T17:55:00"
+            },
+            "arrival": {
+              "iataCode": "SJU",
+              "terminal": "A",
+              "at": "2027-02-15T22:03:00"
+            },
+            "carrierCode": "NK",
+            "number": "291",
+            "aircraft": {
+              "code": "32A"
+            },
+            "duration": "PT4H08M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "229.80",
+      "base": "178.00",
+      "grandTotal": "229.80"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "229.80"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "NK"
+    ]
+  },
+  {
+    "id": "6",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "SJU",
+    "destinationLocationCode": "JFK",
+    "departureDate": "2027-02-22",
+    "oneWay": true,
+    "numberOfBookableSeats": 5,
+    "itineraries": [
+      {
+        "duration": "PT4H20M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "SJU",
+              "terminal": "A",
+              "at": "2027-02-22T14:30:00"
+            },
+            "arrival": {
+              "iataCode": "JFK",
+              "terminal": "8",
+              "at": "2027-02-22T18:50:00"
+            },
+            "carrierCode": "B6",
+            "number": "1284",
+            "aircraft": {
+              "code": "32Q"
+            },
+            "duration": "PT4H20M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "298.10",
+      "base": "236.00",
+      "grandTotal": "298.10"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "298.10"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "B6"
+    ]
+  },
+  {
+    "id": "7",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "SJU",
+    "destinationLocationCode": "EWR",
+    "departureDate": "2027-02-22",
+    "oneWay": true,
+    "numberOfBookableSeats": 6,
+    "itineraries": [
+      {
+        "duration": "PT4H25M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "SJU",
+              "terminal": "A",
+              "at": "2027-02-22T15:05:00"
+            },
+            "arrival": {
+              "iataCode": "EWR",
+              "terminal": "C",
+              "at": "2027-02-22T19:30:00"
+            },
+            "carrierCode": "UA",
+            "number": "1632",
+            "aircraft": {
+              "code": "753"
+            },
+            "duration": "PT4H25M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "341.50",
+      "base": "268.00",
+      "grandTotal": "341.50"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "341.50"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "UA"
+    ]
+  },
+  {
+    "id": "8",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "SJU",
+    "destinationLocationCode": "JFK",
+    "departureDate": "2027-02-22",
+    "oneWay": true,
+    "numberOfBookableSeats": 4,
+    "itineraries": [
+      {
+        "duration": "PT4H22M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "SJU",
+              "terminal": "A",
+              "at": "2027-02-22T16:40:00"
+            },
+            "arrival": {
+              "iataCode": "JFK",
+              "terminal": "4",
+              "at": "2027-02-22T21:02:00"
+            },
+            "carrierCode": "DL",
+            "number": "1850",
+            "aircraft": {
+              "code": "739"
+            },
+            "duration": "PT4H22M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "362.00",
+      "base": "288.00",
+      "grandTotal": "362.00"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "362.00"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "9",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "LGA",
+    "destinationLocationCode": "BOS",
+    "departureDate": "2026-01-18",
+    "oneWay": true,
+    "numberOfBookableSeats": 7,
+    "itineraries": [
+      {
+        "duration": "PT1H20M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "LGA",
+              "terminal": "C",
+              "at": "2026-01-18T09:00:00"
+            },
+            "arrival": {
+              "iataCode": "BOS",
+              "terminal": "B",
+              "at": "2026-01-18T10:20:00"
+            },
+            "carrierCode": "DL",
+            "number": "6045",
+            "aircraft": {
+              "code": "E75"
+            },
+            "duration": "PT1H20M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "148.30",
+      "base": "112.00",
+      "grandTotal": "148.30"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "148.30"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "10",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "BOS",
+    "destinationLocationCode": "LGA",
+    "departureDate": "2026-01-20",
+    "oneWay": true,
+    "numberOfBookableSeats": 8,
+    "itineraries": [
+      {
+        "duration": "PT1H22M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "BOS",
+              "terminal": "B",
+              "at": "2026-01-20T18:30:00"
+            },
+            "arrival": {
+              "iataCode": "LGA",
+              "terminal": "C",
+              "at": "2026-01-20T19:52:00"
+            },
+            "carrierCode": "DL",
+            "number": "6048",
+            "aircraft": {
+              "code": "E75"
+            },
+            "duration": "PT1H22M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "152.70",
+      "base": "116.00",
+      "grandTotal": "152.70"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "152.70"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "11",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "JFK",
+    "destinationLocationCode": "BOS",
+    "departureDate": "2026-11-26",
+    "oneWay": true,
+    "numberOfBookableSeats": 5,
+    "itineraries": [
+      {
+        "duration": "PT1H18M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "JFK",
+              "terminal": "5",
+              "at": "2026-11-26T07:15:00"
+            },
+            "arrival": {
+              "iataCode": "BOS",
+              "terminal": "C",
+              "at": "2026-11-26T08:33:00"
+            },
+            "carrierCode": "B6",
+            "number": "1004",
+            "aircraft": {
+              "code": "E90"
+            },
+            "duration": "PT1H18M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "139.90",
+      "base": "104.00",
+      "grandTotal": "139.90"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "139.90"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "B6"
+    ]
+  },
+  {
+    "id": "12",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "BOS",
+    "destinationLocationCode": "JFK",
+    "departureDate": "2026-11-27",
+    "oneWay": true,
+    "numberOfBookableSeats": 6,
+    "itineraries": [
+      {
+        "duration": "PT1H21M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "BOS",
+              "terminal": "C",
+              "at": "2026-11-27T20:10:00"
+            },
+            "arrival": {
+              "iataCode": "JFK",
+              "terminal": "5",
+              "at": "2026-11-27T21:31:00"
+            },
+            "carrierCode": "B6",
+            "number": "1009",
+            "aircraft": {
+              "code": "E90"
+            },
+            "duration": "PT1H21M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "144.20",
+      "base": "108.00",
+      "grandTotal": "144.20"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "144.20"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "B6"
+    ]
+  },
+  {
+    "id": "13",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "LGA",
+    "destinationLocationCode": "BOS",
+    "departureDate": "2026-12-24",
+    "oneWay": true,
+    "numberOfBookableSeats": 3,
+    "itineraries": [
+      {
+        "duration": "PT1H19M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "LGA",
+              "terminal": "C",
+              "at": "2026-12-24T11:00:00"
+            },
+            "arrival": {
+              "iataCode": "BOS",
+              "terminal": "B",
+              "at": "2026-12-24T12:19:00"
+            },
+            "carrierCode": "AA",
+            "number": "2110",
+            "aircraft": {
+              "code": "E75"
+            },
+            "duration": "PT1H19M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "198.60",
+      "base": "158.00",
+      "grandTotal": "198.60"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "198.60"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "AA"
+    ]
+  },
+  {
+    "id": "14",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "BOS",
+    "destinationLocationCode": "LGA",
+    "departureDate": "2025-01-19",
+    "oneWay": true,
+    "numberOfBookableSeats": 9,
+    "itineraries": [
+      {
+        "duration": "PT1H23M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "BOS",
+              "terminal": "B",
+              "at": "2025-01-19T16:45:00"
+            },
+            "arrival": {
+              "iataCode": "LGA",
+              "terminal": "C",
+              "at": "2025-01-19T18:08:00"
+            },
+            "carrierCode": "DL",
+            "number": "6051",
+            "aircraft": {
+              "code": "E75"
+            },
+            "duration": "PT1H23M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "131.40",
+      "base": "98.00",
+      "grandTotal": "131.40"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "131.40"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "15",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "JFK",
+    "destinationLocationCode": "SJU",
+    "departureDate": "2026-02-09",
+    "oneWay": true,
+    "numberOfBookableSeats": 6,
+    "itineraries": [
+      {
+        "duration": "PT4H06M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "JFK",
+              "terminal": "8",
+              "at": "2026-02-09T08:20:00"
+            },
+            "arrival": {
+              "iataCode": "SJU",
+              "terminal": "A",
+              "at": "2026-02-09T12:26:00"
+            },
+            "carrierCode": "B6",
+            "number": "1283",
+            "aircraft": {
+              "code": "32Q"
+            },
+            "duration": "PT4H06M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "326.70",
+      "base": "258.00",
+      "grandTotal": "326.70"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "326.70"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "B6"
+    ]
+  },
+  {
+    "id": "16",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "SJU",
+    "destinationLocationCode": "JFK",
+    "departureDate": "2026-02-16",
+    "oneWay": true,
+    "numberOfBookableSeats": 5,
+    "itineraries": [
+      {
+        "duration": "PT4H21M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "SJU",
+              "terminal": "A",
+              "at": "2026-02-16T14:00:00"
+            },
+            "arrival": {
+              "iataCode": "JFK",
+              "terminal": "8",
+              "at": "2026-02-16T18:21:00"
+            },
+            "carrierCode": "B6",
+            "number": "1284",
+            "aircraft": {
+              "code": "32Q"
+            },
+            "duration": "PT4H21M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "309.40",
+      "base": "244.00",
+      "grandTotal": "309.40"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "309.40"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "B6"
+    ]
+  },
+  {
+    "id": "17",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "JFK",
+    "destinationLocationCode": "SJU",
+    "departureDate": "2025-02-10",
+    "oneWay": true,
+    "numberOfBookableSeats": 4,
+    "itineraries": [
+      {
+        "duration": "PT4H09M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "JFK",
+              "terminal": "4",
+              "at": "2025-02-10T07:45:00"
+            },
+            "arrival": {
+              "iataCode": "SJU",
+              "terminal": "A",
+              "at": "2025-02-10T11:54:00"
+            },
+            "carrierCode": "DL",
+            "number": "1849",
+            "aircraft": {
+              "code": "739"
+            },
+            "duration": "PT4H09M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "298.20",
+      "base": "234.00",
+      "grandTotal": "298.20"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "298.20"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "18",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "JFK",
+    "destinationLocationCode": "SRQ",
+    "departureDate": "2027-02-15",
+    "oneWay": true,
+    "numberOfBookableSeats": 7,
+    "itineraries": [
+      {
+        "duration": "PT3H05M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "JFK",
+              "terminal": "5",
+              "at": "2027-02-15T10:30:00"
+            },
+            "arrival": {
+              "iataCode": "SRQ",
+              "terminal": "M",
+              "at": "2027-02-15T13:35:00"
+            },
+            "carrierCode": "B6",
+            "number": "1407",
+            "aircraft": {
+              "code": "32A"
+            },
+            "duration": "PT3H05M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "264.50",
+      "base": "208.00",
+      "grandTotal": "264.50"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "264.50"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "B6"
+    ]
+  },
+  {
+    "id": "19",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "LGA",
+    "destinationLocationCode": "TPA",
+    "departureDate": "2027-02-15",
+    "oneWay": true,
+    "numberOfBookableSeats": 8,
+    "itineraries": [
+      {
+        "duration": "PT3H10M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "LGA",
+              "terminal": "B",
+              "at": "2027-02-15T09:45:00"
+            },
+            "arrival": {
+              "iataCode": "TPA",
+              "terminal": "F",
+              "at": "2027-02-15T12:55:00"
+            },
+            "carrierCode": "DL",
+            "number": "2207",
+            "aircraft": {
+              "code": "32R"
+            },
+            "duration": "PT3H10M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "248.90",
+      "base": "194.00",
+      "grandTotal": "248.90"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "248.90"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "20",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "SRQ",
+    "destinationLocationCode": "JFK",
+    "departureDate": "2027-02-22",
+    "oneWay": true,
+    "numberOfBookableSeats": 6,
+    "itineraries": [
+      {
+        "duration": "PT3H08M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "SRQ",
+              "terminal": "M",
+              "at": "2027-02-22T15:20:00"
+            },
+            "arrival": {
+              "iataCode": "JFK",
+              "terminal": "5",
+              "at": "2027-02-22T18:28:00"
+            },
+            "carrierCode": "B6",
+            "number": "1408",
+            "aircraft": {
+              "code": "32A"
+            },
+            "duration": "PT3H08M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "271.30",
+      "base": "214.00",
+      "grandTotal": "271.30"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "271.30"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "B6"
+    ]
+  },
+  {
+    "id": "21",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "EWR",
+    "destinationLocationCode": "SJU",
+    "departureDate": "2026-02-09",
+    "oneWay": true,
+    "numberOfBookableSeats": 5,
+    "itineraries": [
+      {
+        "duration": "PT4H02M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "EWR",
+              "terminal": "C",
+              "at": "2026-02-09T09:30:00"
+            },
+            "arrival": {
+              "iataCode": "SJU",
+              "terminal": "A",
+              "at": "2026-02-09T13:32:00"
+            },
+            "carrierCode": "UA",
+            "number": "1631",
+            "aircraft": {
+              "code": "753"
+            },
+            "duration": "PT4H02M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "352.10",
+      "base": "278.00",
+      "grandTotal": "352.10"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "352.10"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "UA"
+    ]
+  }
+]

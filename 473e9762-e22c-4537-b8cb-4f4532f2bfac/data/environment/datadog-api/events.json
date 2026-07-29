@@ -1,0 +1,202 @@
+[
+  {
+    "alert_type": "warning",
+    "date_happened": "1781695978",
+    "host": "web-1.osterreichisches-kunstmuseum.internal",
+    "id": "3000001",
+    "priority": "normal",
+    "tags": "service:api;env:prod",
+    "text": "API gateway 5xx spike detected by monitor.",
+    "title": "API gateway 5xx spike"
+  },
+  {
+    "alert_type": "warning",
+    "date_happened": "1781657873",
+    "host": "web-2.osterreichisches-kunstmuseum.internal",
+    "id": "3000002",
+    "priority": "low",
+    "tags": "service:api;env:prod",
+    "text": "Database connection pool exhausted detected by monitor.",
+    "title": "Database connection pool exhausted"
+  },
+  {
+    "alert_type": "error",
+    "date_happened": "1781649766",
+    "host": "web-3.osterreichisches-kunstmuseum.internal",
+    "id": "3000003",
+    "priority": "low",
+    "tags": "service:api;env:prod",
+    "text": "Slow checkout latency detected by monitor.",
+    "title": "Slow checkout latency"
+  },
+  {
+    "alert_type": "error",
+    "date_happened": "1781662869",
+    "host": "web-4.osterreichisches-kunstmuseum.internal",
+    "id": "3000004",
+    "priority": "normal",
+    "tags": "service:api;env:prod",
+    "text": "Auth service 503s for SSO logins detected by monitor.",
+    "title": "Auth service 503s for SSO logins"
+  },
+  {
+    "alert_type": "info",
+    "date_happened": "1781702750",
+    "host": "web-5.osterreichisches-kunstmuseum.internal",
+    "id": "3000005",
+    "priority": "normal",
+    "tags": "service:api;env:prod",
+    "text": "Background worker queue backing up detected by monitor.",
+    "title": "Background worker queue backing up"
+  },
+  {
+    "alert_type": "warning",
+    "date_happened": "1781641285",
+    "host": "web-6.osterreichisches-kunstmuseum.internal",
+    "id": "3000006",
+    "priority": "normal",
+    "tags": "service:api;env:prod",
+    "text": "DNS resolution intermittent detected by monitor.",
+    "title": "DNS resolution intermittent"
+  },
+  {
+    "alert_type": "warning",
+    "date_happened": "1772942400",
+    "host": "web-1.osterreichisches-kunstmuseum.internal",
+    "id": "9844089732",
+    "priority": "normal",
+    "tags": "service:api;env:prod",
+    "text": "API gateway 5xx spike detected by monitor.",
+    "title": "API gateway 5xx spike"
+  },
+  {
+    "alert_type": "warning",
+    "date_happened": "1776571200",
+    "host": "web-2.osterreichisches-kunstmuseum.internal",
+    "id": "9844181552",
+    "priority": "low",
+    "tags": "service:api;env:prod",
+    "text": "Database connection pool exhausted detected by monitor.",
+    "title": "Database connection pool exhausted"
+  },
+  {
+    "alert_type": "error",
+    "date_happened": "1773806400",
+    "host": "web-3.osterreichisches-kunstmuseum.internal",
+    "id": "9844273372",
+    "priority": "low",
+    "tags": "service:api;env:prod",
+    "text": "Slow checkout latency detected by monitor.",
+    "title": "Slow checkout latency"
+  },
+  {
+    "alert_type": "error",
+    "date_happened": "1771473600",
+    "host": "web-4.osterreichisches-kunstmuseum.internal",
+    "id": "9844365192",
+    "priority": "normal",
+    "tags": "service:api;env:prod",
+    "text": "Auth service 503s for SSO logins detected by monitor.",
+    "title": "Auth service 503s for SSO logins"
+  },
+  {
+    "alert_type": "info",
+    "date_happened": "1753502400",
+    "host": "web-5.osterreichisches-kunstmuseum.internal",
+    "id": "9844457012",
+    "priority": "normal",
+    "tags": "service:api;env:prod",
+    "text": "Background worker queue backing up detected by monitor.",
+    "title": "Background worker queue backing up"
+  },
+  {
+    "alert_type": "warning",
+    "date_happened": "1782619200",
+    "host": "web-6.osterreichisches-kunstmuseum.internal",
+    "id": "9844548832",
+    "priority": "normal",
+    "tags": "service:api;env:prod",
+    "text": "DNS resolution intermittent detected by monitor.",
+    "title": "DNS resolution intermittent"
+  },
+  {
+    "alert_type": "warning",
+    "date_happened": "1779854400",
+    "host": "web-1.osterreichisches-kunstmuseum.internal",
+    "id": "9844640646",
+    "priority": "normal",
+    "tags": "service:api;env:prod",
+    "text": "API gateway 5xx spike detected by monitor.",
+    "title": "API gateway 5xx spike"
+  },
+  {
+    "alert_type": "warning",
+    "date_happened": "1755921600",
+    "host": "web-2.osterreichisches-kunstmuseum.internal",
+    "id": "9844732466",
+    "priority": "low",
+    "tags": "service:api;env:prod",
+    "text": "Database connection pool exhausted detected by monitor.",
+    "title": "Database connection pool exhausted"
+  },
+  {
+    "alert_type": "error",
+    "date_happened": "1759550400",
+    "host": "web-3.osterreichisches-kunstmuseum.internal",
+    "id": "9844824286",
+    "priority": "low",
+    "tags": "service:api;env:prod",
+    "text": "Slow checkout latency detected by monitor.",
+    "title": "Slow checkout latency"
+  },
+  {
+    "alert_type": "error",
+    "date_happened": "1757217600",
+    "host": "web-4.osterreichisches-kunstmuseum.internal",
+    "id": "9844916106",
+    "priority": "normal",
+    "tags": "service:api;env:prod",
+    "text": "Auth service 503s for SSO logins detected by monitor.",
+    "title": "Auth service 503s for SSO logins"
+  },
+  {
+    "alert_type": "info",
+    "date_happened": "1754452800",
+    "host": "web-5.osterreichisches-kunstmuseum.internal",
+    "id": "9845007926",
+    "priority": "normal",
+    "tags": "service:api;env:prod",
+    "text": "Background worker queue backing up detected by monitor.",
+    "title": "Background worker queue backing up"
+  },
+  {
+    "alert_type": "warning",
+    "date_happened": "1761969600",
+    "host": "web-6.osterreichisches-kunstmuseum.internal",
+    "id": "9845099746",
+    "priority": "normal",
+    "tags": "service:api;env:prod",
+    "text": "DNS resolution intermittent detected by monitor.",
+    "title": "DNS resolution intermittent"
+  },
+  {
+    "alert_type": "warning",
+    "date_happened": "1765598400",
+    "host": "web-1.osterreichisches-kunstmuseum.internal",
+    "id": "9845191560",
+    "priority": "normal",
+    "tags": "service:api;env:prod",
+    "text": "API gateway 5xx spike detected by monitor.",
+    "title": "API gateway 5xx spike"
+  },
+  {
+    "alert_type": "warning",
+    "date_happened": "1762833600",
+    "host": "web-2.osterreichisches-kunstmuseum.internal",
+    "id": "9845283380",
+    "priority": "low",
+    "tags": "service:api;env:prod",
+    "text": "Database connection pool exhausted detected by monitor.",
+    "title": "Database connection pool exhausted"
+  }
+]

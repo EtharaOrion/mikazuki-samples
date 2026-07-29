@@ -1,0 +1,222 @@
+[
+  {
+    "id": "70001",
+    "issue_id": "40002",
+    "event_id": "00000000000000000000000041c67ea6",
+    "message": "Stale cache served for menu page",
+    "platform": "php",
+    "environment": "production",
+    "release": "eleanorstavern-web@1.6.2",
+    "user_email": "carlton.mcgee.nyc@gmail.com",
+    "date_created": "2026-02-02T01:00:00.000Z"
+  },
+  {
+    "id": "70002",
+    "issue_id": "40002",
+    "event_id": "000000000000000000000000838ccd13",
+    "message": "Stale cache served for menu page",
+    "platform": "php",
+    "environment": "production",
+    "release": "eleanorstavern-web@1.6.2",
+    "user_email": "carlton.mcgee.nyc@gmail.com",
+    "date_created": "2026-02-03T02:00:00.000Z"
+  },
+  {
+    "id": "70003",
+    "issue_id": "40015",
+    "event_id": "000000000000000000000000c5531b80",
+    "message": "Unhandled rejection on submit",
+    "platform": "javascript",
+    "environment": "production",
+    "release": "eleanorstavern-reservations@0.9.1",
+    "user_email": "guest-3471@gmail.com",
+    "date_created": "2026-02-04T03:00:00.000Z"
+  },
+  {
+    "id": "70004",
+    "issue_id": "40004",
+    "event_id": "000000000000000000000001071969ed",
+    "message": "Mailchimp embed timeout",
+    "platform": "php",
+    "environment": "production",
+    "release": "eleanorstavern-web@1.6.0",
+    "user_email": "carlton.mcgee.nyc@gmail.com",
+    "date_created": "2026-02-05T04:00:00.000Z"
+  },
+  {
+    "id": "70005",
+    "issue_id": "40013",
+    "event_id": "00000000000000000000000148dfb85a",
+    "message": "TypeError: deposit amount is null",
+    "platform": "javascript",
+    "environment": "production",
+    "release": "eleanorstavern-reservations@0.9.0",
+    "user_email": "guest-2210@outlook.com",
+    "date_created": "2026-02-06T05:00:00.000Z"
+  },
+  {
+    "id": "70006",
+    "issue_id": "40007",
+    "event_id": "0000000000000000000000018aa606c7",
+    "message": "Deprecation: jQuery slider plugin",
+    "platform": "php",
+    "environment": "production",
+    "release": "eleanorstavern-web@1.6.2",
+    "user_email": "carlton.mcgee.nyc@gmail.com",
+    "date_created": "2026-02-07T06:00:00.000Z"
+  },
+  {
+    "id": "70007",
+    "issue_id": "40007",
+    "event_id": "000000000000000000000001cc6c5534",
+    "message": "Deprecation: jQuery slider plugin",
+    "platform": "php",
+    "environment": "production",
+    "release": "eleanorstavern-web@1.6.1",
+    "user_email": "carlton.mcgee.nyc@gmail.com",
+    "date_created": "2026-02-08T07:00:00.000Z"
+  },
+  {
+    "id": "70008",
+    "issue_id": "40006",
+    "event_id": "0000000000000000000000020e32a3a1",
+    "message": "Slow query on menu items",
+    "platform": "php",
+    "environment": "production",
+    "release": "eleanorstavern-web@1.6.0",
+    "user_email": "carlton.mcgee.nyc@gmail.com",
+    "date_created": "2026-02-09T08:00:00.000Z"
+  },
+  {
+    "id": "70009",
+    "issue_id": "40016",
+    "event_id": "0000000000000000000000024ff8f20e",
+    "message": "Date picker breaks on Safari",
+    "platform": "javascript",
+    "environment": "production",
+    "release": "eleanorstavern-reservations@0.9.0",
+    "user_email": "guest-1180@gmail.com",
+    "date_created": "2026-02-10T09:00:00.000Z"
+  },
+  {
+    "id": "70010",
+    "issue_id": "40001",
+    "event_id": "00000000000000000000000291bf407b",
+    "message": "Undefined index in menu template",
+    "platform": "php",
+    "environment": "production",
+    "release": "eleanorstavern-web@1.5.0",
+    "user_email": "carlton.mcgee.nyc@gmail.com",
+    "date_created": "2026-02-11T10:00:00.000Z"
+  },
+  {
+    "id": "70011",
+    "issue_id": "40010",
+    "event_id": "000000000000000000000002d3858ee8",
+    "message": "Algolia search returned no results",
+    "platform": "php",
+    "environment": "production",
+    "release": "eleanorstavern-web@1.6.0",
+    "user_email": "guest-1450@yahoo.com",
+    "date_created": "2026-02-12T11:00:00.000Z"
+  },
+  {
+    "id": "70012",
+    "issue_id": "40014",
+    "event_id": "000000000000000000000003154bdd55",
+    "message": "Stripe webhook signature mismatch",
+    "platform": "javascript",
+    "environment": "production",
+    "release": "eleanorstavern-reservations@0.9.0",
+    "user_email": "carlton.mcgee.nyc@gmail.com",
+    "date_created": "2026-02-13T12:00:00.000Z"
+  },
+  {
+    "id": "70013",
+    "issue_id": "40019",
+    "event_id": "00000000000000000000000357122bc2",
+    "message": "Confirmation email not sent",
+    "platform": "javascript",
+    "environment": "production",
+    "release": "eleanorstavern-reservations@0.9.0",
+    "user_email": "guest-2980@outlook.com",
+    "date_created": "2026-02-14T13:00:00.000Z"
+  },
+  {
+    "id": "70014",
+    "issue_id": "40002",
+    "event_id": "00000000000000000000000398d87a2f",
+    "message": "Stale cache served for menu page",
+    "platform": "php",
+    "environment": "production",
+    "release": "eleanorstavern-web@1.6.2",
+    "user_email": "carlton.mcgee.nyc@gmail.com",
+    "date_created": "2026-02-15T14:00:00.000Z"
+  },
+  {
+    "id": "70015",
+    "issue_id": "40003",
+    "event_id": "000000000000000000000003da9ec89c",
+    "message": "404 on old DoorDash link",
+    "platform": "php",
+    "environment": "production",
+    "release": "eleanorstavern-web@1.5.0",
+    "user_email": "guest-770@gmail.com",
+    "date_created": "2026-02-16T15:00:00.000Z"
+  },
+  {
+    "id": "70016",
+    "issue_id": "40020",
+    "event_id": "0000000000000000000000041c651709",
+    "message": "Timezone off by one hour",
+    "platform": "javascript",
+    "environment": "production",
+    "release": "eleanorstavern-reservations@0.9.0",
+    "user_email": "guest-3310@gmail.com",
+    "date_created": "2026-02-17T16:00:00.000Z"
+  },
+  {
+    "id": "70017",
+    "issue_id": "40012",
+    "event_id": "0000000000000000000000045e2b6576",
+    "message": "Patio banner missing on mobile",
+    "platform": "php",
+    "environment": "production",
+    "release": "eleanorstavern-web@1.5.0",
+    "user_email": "carlton.mcgee.nyc@gmail.com",
+    "date_created": "2026-02-18T17:00:00.000Z"
+  },
+  {
+    "id": "70018",
+    "issue_id": "40008",
+    "event_id": "0000000000000000000000049ff1b3e3",
+    "message": "Contact form validation error",
+    "platform": "php",
+    "environment": "production",
+    "release": "eleanorstavern-web@1.6.0",
+    "user_email": "guest-2100@gmail.com",
+    "date_created": "2026-02-19T18:00:00.000Z"
+  },
+  {
+    "id": "70019",
+    "issue_id": "40007",
+    "event_id": "000000000000000000000004e1b80250",
+    "message": "Deprecation: jQuery slider plugin",
+    "platform": "php",
+    "environment": "production",
+    "release": "eleanorstavern-web@1.6.2",
+    "user_email": "carlton.mcgee.nyc@gmail.com",
+    "date_created": "2026-02-20T19:00:00.000Z"
+  },
+  {
+    "id": "70020",
+    "issue_id": "40017",
+    "event_id": "000000000000000000000005237e50bd",
+    "message": "Monday booking allowed (should block)",
+    "platform": "javascript",
+    "environment": "production",
+    "release": "eleanorstavern-reservations@0.9.0",
+    "user_email": "carlton.mcgee.nyc@gmail.com",
+    "date_created": "2026-02-21T20:00:00.000Z"
+  }
+]

@@ -1,0 +1,206 @@
+{
+  "FK001abcdefg": {
+    "children": [
+      {
+        "backgroundColor": {
+          "a": 1,
+          "b": 0.98,
+          "g": 0.98,
+          "r": 0.98
+        },
+        "children": [
+          {
+            "absoluteBoundingBox": {
+              "height": 2384,
+              "width": 1684,
+              "x": 0,
+              "y": 0
+            },
+            "children": [
+              {
+                "characters": "Langston Lab Seminar Series - Fall 2026",
+                "id": "id_8e3c79e8b764cad6",
+                "name": "Title",
+                "type": "TEXT"
+              },
+              {
+                "characters": "Every Wednesday 2:00 PM ET, Room BSc-214, Haverstone University",
+                "id": "id_8e3c79e8b764cad7",
+                "name": "Subtitle",
+                "type": "TEXT"
+              },
+              {
+                "characters": "Hosted by Dr. Dorothy Langston, Associate Professor of Computational Biology",
+                "id": "id_8e3c79e8b764cad8",
+                "name": "Host",
+                "type": "TEXT"
+              }
+            ],
+            "id": "id_2b269965807da051",
+            "name": "Poster A2 - Seminar Series",
+            "type": "FRAME"
+          }
+        ],
+        "id": "id_5a29f25971f09ea2",
+        "name": "Page 1 - Fall 2026 Seminar Poster",
+        "type": "CANVAS"
+      }
+    ],
+    "id": "id_8c90ad2a17f96472",
+    "name": "Langston Lab Seminar Series - Fall 2026 Poster",
+    "type": "DOCUMENT"
+  },
+  "FK002hijklmn": {
+    "children": [
+      {
+        "backgroundColor": {
+          "a": 1,
+          "b": 1,
+          "g": 1,
+          "r": 1
+        },
+        "children": [
+          {
+            "absoluteBoundingBox": {
+              "height": 1080,
+              "width": 1920,
+              "x": 0,
+              "y": 0
+            },
+            "children": [
+              {
+                "characters": "Allosteric Coupling in Protein Interaction Networks",
+                "id": "id_8a727db061d5edbb",
+                "name": "Figure 4 Title",
+                "type": "TEXT"
+              },
+              {
+                "characters": "Dorothy Langston, Elena Voss - The Ashford Journal of Molecular Biology",
+                "id": "id_8a727db061d5edbc",
+                "name": "Figure 4 Attribution",
+                "type": "TEXT"
+              },
+              {
+                "characters": "Coupling coefficient (kappa) shown explicit in legend per R3 revision.",
+                "id": "id_8a727db061d5edbd",
+                "name": "Figure 4 Legend",
+                "type": "TEXT"
+              }
+            ],
+            "id": "id_5e3b41993e52f982",
+            "name": "Figure 4 Layout",
+            "type": "FRAME"
+          }
+        ],
+        "id": "id_475fb53687364f29",
+        "name": "Page 1 - Voss Paper Figure 4",
+        "type": "CANVAS"
+      }
+    ],
+    "id": "id_c6274d51638ab476",
+    "name": "Voss Ashford R3 - Figure 4 Layout",
+    "type": "DOCUMENT"
+  },
+  "FK003opqrstu": {
+    "children": [
+      {
+        "backgroundColor": {
+          "a": 1,
+          "b": 0.96,
+          "g": 0.96,
+          "r": 0.99
+        },
+        "children": [
+          {
+            "absoluteBoundingBox": {
+              "height": 1080,
+              "width": 1920,
+              "x": 0,
+              "y": 0
+            },
+            "children": [
+              {
+                "characters": "Winter Symposium 2027 - Session Panel",
+                "id": "id_bedca4235996c265",
+                "name": "Session Title",
+                "type": "TEXT"
+              },
+              {
+                "characters": "Saturday 16 January, 2:00 PM, MIT Compton Laboratories",
+                "id": "id_bedca4235996c266",
+                "name": "Session Time",
+                "type": "TEXT"
+              },
+              {
+                "characters": "Panelists: Dr. Dorothy Langston, Prof. Elena Voss, Prof. Marcus Aldridge",
+                "id": "id_bedca4235996c267",
+                "name": "Panelists",
+                "type": "TEXT"
+              }
+            ],
+            "id": "id_1897a341dda5d15a",
+            "name": "Panel Slide",
+            "type": "FRAME"
+          }
+        ],
+        "id": "id_5df5cd9063082349",
+        "name": "Page 1 - Winter Symposium Panel Slides",
+        "type": "CANVAS"
+      }
+    ],
+    "id": "id_89a06b1d6b3f16f7",
+    "name": "Winter Symposium 2027 - Talk Slides",
+    "type": "DOCUMENT"
+  },
+  "FK004vwxyz12": {
+    "children": [
+      {
+        "backgroundColor": {
+          "a": 1,
+          "b": 0.95,
+          "g": 0.95,
+          "r": 0.95
+        },
+        "children": [
+          {
+            "absoluteBoundingBox": {
+              "height": 2384,
+              "width": 1684,
+              "x": 0,
+              "y": 0
+            },
+            "children": [
+              {
+                "id": "id_ec7cea08fa84e77e",
+                "name": "Advanced Class March Showcase Logo",
+                "type": "INSTANCE",
+                "componentId": "componentId_706f80964934c626"
+              },
+              {
+                "id": "id_ec7cea08fa84e77f",
+                "name": "Program Title Header Component",
+                "type": "INSTANCE",
+                "componentId": "componentId_806f80964934c627"
+              },
+              {
+                "id": "id_ec7cea08fa84e780",
+                "name": "Program Details Text Component",
+                "type": "INSTANCE",
+                "componentId": "componentId_906f80964934c628"
+              }
+            ],
+            "id": "id_be6f778b30a26f4e",
+            "name": "Program Cover",
+            "type": "FRAME"
+          }
+        ],
+        "id": "id_6cb24e717ab7de1d",
+        "name": "Page 1 - Spring Showcase Program",
+        "type": "CANVAS"
+      }
+    ],
+    "id": "id_45ca6f06ccfa346c",
+    "name": "Thornfield Ballet - Spring Showcase 2027 Program",
+    "type": "DOCUMENT"
+  }
+}

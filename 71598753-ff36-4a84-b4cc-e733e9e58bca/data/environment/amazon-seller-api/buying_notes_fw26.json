@@ -1,0 +1,50 @@
+{
+  "title": "Legal Templates Store - FW 2026 Procurement Notes",
+  "submitted_by": "Michelle Grace Brooks (reviewer)",
+  "updated": "2025-06-02",
+  "category_restrictions": {
+    "blazers_max_skus": 0,
+    "knitwear_max_skus": 0,
+    "no_leather_outerwear": false,
+    "outerwear_max_skus": 0
+  },
+  "color_exclusions": {
+    "max_black_percent_of_assortment": 0,
+    "no_neon_or_fluorescent": false,
+    "preferred_tones": [
+      "navy",
+      "charcoal",
+      "cream",
+      "forest green"
+    ]
+  },
+  "delivery_and_timeline": {
+    "final_submission_date": "2025-07-16",
+    "max_lead_time_months_without_vp_approval": 3,
+    "priority_reorder_brands": [
+      "FL Divorce Packet v3",
+      "Prenuptial Agreement FL v2",
+      "Child Support Worksheet"
+    ],
+    "vendor_delivery_deadline": "2025-08-02"
+  },
+  "fabrication_exclusions": {
+    "max_acrylic_percent": 0,
+    "max_mohair_percent": 0,
+    "no_faux_fur": false,
+    "no_fur": false
+  },
+  "notes": {
+    "korean_designers_premium_positioning": [
+      "Complex Asset Division Kit (premium tier)",
+      "High-Net-Worth Prenuptial Suite"
+    ],
+    "mijeong_park_max_skus_without_sizing_confirmation": 0,
+    "total_sku_budget": 38
+  },
+  "pricing_limits": {
+    "max_category_budget_percent": 25,
+    "max_retail_cap_per_unit": 29.99,
+    "opening_price_point_min": 4.99
+  }
+}

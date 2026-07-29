@@ -1,0 +1,102 @@
+[
+  {
+    "alias": "restaurants",
+    "parent": "food",
+    "title": "Restaurants"
+  },
+  {
+    "alias": "coffee",
+    "parent": "food",
+    "title": "Coffee & Tea"
+  },
+  {
+    "alias": "bakeries",
+    "parent": "food",
+    "title": "Bakeries"
+  },
+  {
+    "alias": "grocery",
+    "parent": "food",
+    "title": "Grocery"
+  },
+  {
+    "alias": "bookstores",
+    "parent": "shopping",
+    "title": "Bookstores"
+  },
+  {
+    "alias": "yoga",
+    "parent": "active",
+    "title": "Yoga"
+  },
+  {
+    "alias": "museums",
+    "parent": "arts",
+    "title": "Museums"
+  },
+  {
+    "alias": "parks",
+    "parent": "active",
+    "title": "Parks"
+  },
+  {
+    "alias": "hardware",
+    "parent": "homeservices",
+    "title": "Hardware Stores"
+  },
+  {
+    "alias": "pharmacy",
+    "parent": "health",
+    "title": "Drugstores"
+  },
+  {
+    "alias": "restaurants-2",
+    "parent": "food",
+    "title": "Restaurants"
+  },
+  {
+    "alias": "coffee-2",
+    "parent": "food",
+    "title": "Coffee & Tea"
+  },
+  {
+    "alias": "bakeries-2",
+    "parent": "food",
+    "title": "Bakeries"
+  },
+  {
+    "alias": "grocery-2",
+    "parent": "food",
+    "title": "Grocery"
+  },
+  {
+    "alias": "bookstores-2",
+    "parent": "shopping",
+    "title": "Bookstores"
+  },
+  {
+    "alias": "yoga-2",
+    "parent": "active",
+    "title": "Yoga"
+  },
+  {
+    "alias": "museums-2",
+    "parent": "arts",
+    "title": "Museums"
+  },
+  {
+    "alias": "parks-2",
+    "parent": "active",
+    "title": "Parks"
+  },
+  {
+    "alias": "hardware-2",
+    "parent": "homeservices",
+    "title": "Hardware Stores"
+  },
+  {
+    "alias": "pharmacy-2",
+    "parent": "health",
+    "title": "Drugstores"
+  }
+]

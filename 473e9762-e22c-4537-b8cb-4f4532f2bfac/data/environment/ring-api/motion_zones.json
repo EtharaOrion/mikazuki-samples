@@ -1,0 +1,162 @@
+[
+  {
+    "coordinates": "0,0;100,0;100,25;0,25",
+    "device_id": "50000000",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z1",
+    "zone_name": "Walkway"
+  },
+  {
+    "coordinates": "0,25;100,25;100,50;0,50",
+    "device_id": "50000000",
+    "enabled": "true",
+    "sensitivity": "6",
+    "zone_id": "z2",
+    "zone_name": "Driveway approach"
+  },
+  {
+    "coordinates": "0,50;100,50;100,75;0,75",
+    "device_id": "50000000",
+    "enabled": "true",
+    "sensitivity": "7",
+    "zone_id": "z3",
+    "zone_name": "Yard"
+  },
+  {
+    "coordinates": "0,75;100,75;100,100;0,100",
+    "device_id": "50000000",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z4",
+    "zone_name": "Street"
+  },
+  {
+    "coordinates": "0,0;100,0;100,25;0,25",
+    "device_id": "50000001",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z1",
+    "zone_name": "Walkway"
+  },
+  {
+    "coordinates": "0,25;100,25;100,50;0,50",
+    "device_id": "50000001",
+    "enabled": "true",
+    "sensitivity": "6",
+    "zone_id": "z2",
+    "zone_name": "Driveway approach"
+  },
+  {
+    "coordinates": "0,50;100,50;100,75;0,75",
+    "device_id": "50000001",
+    "enabled": "true",
+    "sensitivity": "7",
+    "zone_id": "z3",
+    "zone_name": "Yard"
+  },
+  {
+    "coordinates": "0,75;100,75;100,100;0,100",
+    "device_id": "50000001",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z4",
+    "zone_name": "Street"
+  },
+  {
+    "coordinates": "0,0;100,0;100,25;0,25",
+    "device_id": "50000002",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z1",
+    "zone_name": "Walkway"
+  },
+  {
+    "coordinates": "0,25;100,25;100,50;0,50",
+    "device_id": "50000002",
+    "enabled": "true",
+    "sensitivity": "6",
+    "zone_id": "z2",
+    "zone_name": "Driveway approach"
+  },
+  {
+    "coordinates": "0,50;100,50;100,75;0,75",
+    "device_id": "50000002",
+    "enabled": "true",
+    "sensitivity": "7",
+    "zone_id": "z3",
+    "zone_name": "Yard"
+  },
+  {
+    "coordinates": "0,75;100,75;100,100;0,100",
+    "device_id": "50000002",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z4",
+    "zone_name": "Street"
+  },
+  {
+    "coordinates": "0,0;100,0;100,25;0,25",
+    "device_id": "50000003",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z1",
+    "zone_name": "Walkway"
+  },
+  {
+    "coordinates": "0,25;100,25;100,50;0,50",
+    "device_id": "50000003",
+    "enabled": "true",
+    "sensitivity": "6",
+    "zone_id": "z2",
+    "zone_name": "Driveway approach"
+  },
+  {
+    "coordinates": "0,50;100,50;100,75;0,75",
+    "device_id": "50000003",
+    "enabled": "true",
+    "sensitivity": "7",
+    "zone_id": "z3",
+    "zone_name": "Yard"
+  },
+  {
+    "coordinates": "0,75;100,75;100,100;0,100",
+    "device_id": "50000003",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z4",
+    "zone_name": "Street"
+  },
+  {
+    "coordinates": "0,0;100,0;100,25;0,25",
+    "device_id": "50000004",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z1",
+    "zone_name": "Walkway"
+  },
+  {
+    "coordinates": "0,25;100,25;100,50;0,50",
+    "device_id": "50000004",
+    "enabled": "true",
+    "sensitivity": "6",
+    "zone_id": "z2",
+    "zone_name": "Driveway approach"
+  },
+  {
+    "coordinates": "0,50;100,50;100,75;0,75",
+    "device_id": "50000004",
+    "enabled": "true",
+    "sensitivity": "7",
+    "zone_id": "z3",
+    "zone_name": "Yard"
+  },
+  {
+    "coordinates": "0,75;100,75;100,100;0,100",
+    "device_id": "50000004",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z4",
+    "zone_name": "Street"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "device_access": "all",
+    "email": "steve.langston@gmail.com",
+    "first_name": "Steve",
+    "last_name": "Langston",
+    "role": "shared_user",
+    "shared_at": "2025-05-26T00:00:00Z",
+    "user_id": 70001
+  },
+  {
+    "device_access": "doorbots_only",
+    "email": "avery.linwood@gmail.com",
+    "first_name": "Avery",
+    "last_name": "Linwood",
+    "role": "shared_user",
+    "shared_at": "2026-01-01T00:00:00Z",
+    "user_id": 70002
+  },
+  {
+    "device_access": "doorbots_only",
+    "email": "quincy.mercer@gmail.com",
+    "first_name": "Quincy",
+    "last_name": "Mercer",
+    "role": "shared_user",
+    "shared_at": "2026-03-02T00:00:00Z",
+    "user_id": 70003
+  }
+]

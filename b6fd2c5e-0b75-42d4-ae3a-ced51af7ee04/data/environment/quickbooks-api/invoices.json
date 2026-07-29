@@ -1,0 +1,2642 @@
+[
+  {
+    "Id": "10000",
+    "DocNumber": "INV-2026-0001",
+    "TxnDate": "2026-03-13",
+    "DueDate": "2026-04-12",
+    "CustomerRef": {
+      "value": "200",
+      "name": "The Wilson Family"
+    },
+    "Line": [
+      {
+        "Amount": 5000.0,
+        "Description": "Donation - Convention Fund",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 5000.0,
+    "Balance": 0,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10001",
+    "DocNumber": "INV-2026-0002",
+    "TxnDate": "2026-03-17",
+    "DueDate": "2026-04-16",
+    "CustomerRef": {
+      "value": "201",
+      "name": "Charles & Bernadine Ashford"
+    },
+    "Line": [
+      {
+        "Amount": 2500.0,
+        "Description": "Donation - Album Project",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Project"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2500.0,
+    "Balance": 0,
+    "Status": "Sent"
+  },
+  {
+    "Id": "10002",
+    "DocNumber": "INV-2026-0003",
+    "TxnDate": "2026-03-21",
+    "DueDate": "2026-04-20",
+    "CustomerRef": {
+      "value": "202",
+      "name": "First Trust Community Bank"
+    },
+    "Line": [
+      {
+        "Amount": 3000.0,
+        "Description": "Donation - Youth Music Program",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Youth Music Program"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3000.0,
+    "Balance": 0,
+    "Status": "Done"
+  },
+  {
+    "Id": "10003",
+    "DocNumber": "INV-2026-0004",
+    "TxnDate": "2026-03-25",
+    "DueDate": "2026-04-24",
+    "CustomerRef": {
+      "value": "203",
+      "name": "Loretta Vanderpool"
+    },
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Donation - Convention Fund",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "Balance": 0,
+    "Status": "Sent"
+  },
+  {
+    "Id": "10004",
+    "DocNumber": "INV-2026-0005",
+    "TxnDate": "2026-03-29",
+    "DueDate": "2026-04-28",
+    "CustomerRef": {
+      "value": "204",
+      "name": "Dr. Chester & Miriam Okonkwo"
+    },
+    "Line": [
+      {
+        "Amount": 2000.0,
+        "Description": "Donation - Album Project",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Project"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2000.0,
+    "Balance": 0,
+    "Status": "Active"
+  },
+  {
+    "Id": "10005",
+    "DocNumber": "INV-2026-0006",
+    "TxnDate": "2026-04-02",
+    "DueDate": "2026-05-02",
+    "CustomerRef": {
+      "value": "205",
+      "name": "Sister Patrice Guillory"
+    },
+    "Line": [
+      {
+        "Amount": 1000.0,
+        "Description": "Donation - Convention Fund",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1000.0,
+    "Balance": 0,
+    "Status": "Completed"
+  },
+  {
+    "Id": "10006",
+    "DocNumber": "INV-2026-0007",
+    "TxnDate": "2026-04-06",
+    "DueDate": "2026-05-06",
+    "CustomerRef": {
+      "value": "206",
+      "name": "Bishop Andre & Sylvia Delaney"
+    },
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Donation - Youth Music Program",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Youth Music Program"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "Balance": 0,
+    "Status": "Done"
+  },
+  {
+    "Id": "10007",
+    "DocNumber": "INV-2026-0008",
+    "TxnDate": "2026-04-10",
+    "DueDate": "2026-05-10",
+    "CustomerRef": {
+      "value": "207",
+      "name": "Elder Franklin & Odessa Meade"
+    },
+    "Line": [
+      {
+        "Amount": 750.0,
+        "Description": "Donation - Convention Fund",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 750.0,
+    "Balance": 0,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10008",
+    "DocNumber": "INV-2026-0009",
+    "TxnDate": "2026-04-14",
+    "DueDate": "2026-05-14",
+    "CustomerRef": {
+      "value": "208",
+      "name": "The Preston Family Foundation"
+    },
+    "Line": [
+      {
+        "Amount": 7500.0,
+        "Description": "Donation - Album Project",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Project"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 7500.0,
+    "Balance": 0,
+    "Status": "Sent"
+  },
+  {
+    "Id": "10009",
+    "DocNumber": "INV-2026-0010",
+    "TxnDate": "2026-04-18",
+    "DueDate": "2026-05-18",
+    "CustomerRef": {
+      "value": "209",
+      "name": "Curtis & Yvonne Ellison"
+    },
+    "Line": [
+      {
+        "Amount": 500.0,
+        "Description": "Donation - Convention Fund",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "Balance": 0,
+    "Status": "Active"
+  },
+  {
+    "Id": "10010",
+    "DocNumber": "INV-2026-0011",
+    "TxnDate": "2026-04-22",
+    "DueDate": "2026-05-22",
+    "CustomerRef": {
+      "value": "210",
+      "name": "Rev. Barbara Whitfield"
+    },
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Donation - Convention Fund",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 0,
+    "Status": "Active"
+  },
+  {
+    "Id": "10011",
+    "DocNumber": "INV-2026-0012",
+    "TxnDate": "2026-04-26",
+    "DueDate": "2026-05-26",
+    "CustomerRef": {
+      "value": "211",
+      "name": "Kendrick & Deshawn Battle"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Donation - Convention Fund",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Active"
+  },
+  {
+    "Id": "10012",
+    "DocNumber": "INV-2026-0013",
+    "TxnDate": "2026-04-30",
+    "DueDate": "2026-05-30",
+    "CustomerRef": {
+      "value": "212",
+      "name": "Sister Vanessa Okwuosa"
+    },
+    "Line": [
+      {
+        "Amount": 500.0,
+        "Description": "Donation - Album Project",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Project"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "Balance": 0,
+    "Status": "Active"
+  },
+  {
+    "Id": "10013",
+    "DocNumber": "INV-2026-0014",
+    "TxnDate": "2026-05-04",
+    "DueDate": "2026-01-03",
+    "CustomerRef": {
+      "value": "213",
+      "name": "Marlene Simpson"
+    },
+    "Line": [
+      {
+        "Amount": 250.0,
+        "Description": "Donation - Convention Fund",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 250.0,
+    "Balance": 0,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10014",
+    "DocNumber": "INV-2026-0015",
+    "TxnDate": "2026-05-08",
+    "DueDate": "2026-01-07",
+    "CustomerRef": {
+      "value": "214",
+      "name": "The Boateng Family"
+    },
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "Donation - Convention Fund",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 800.0,
+    "Balance": 0,
+    "Status": "Done"
+  },
+  {
+    "Id": "10015",
+    "DocNumber": "INV-2026-0016",
+    "TxnDate": "2026-05-12",
+    "DueDate": "2026-01-11",
+    "CustomerRef": {
+      "value": "215",
+      "name": "Nathan & Adaeze Adjei"
+    },
+    "Line": [
+      {
+        "Amount": 400.0,
+        "Description": "Donation - Convention Fund",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 400.0,
+    "Balance": 0,
+    "Status": "Completed"
+  },
+  {
+    "Id": "10016",
+    "DocNumber": "INV-2026-0017",
+    "TxnDate": "2026-05-16",
+    "DueDate": "2026-01-15",
+    "CustomerRef": {
+      "value": "216",
+      "name": "Bishop Andre Delaney"
+    },
+    "Line": [
+      {
+        "Amount": 350.0,
+        "Description": "Donation - Album Project",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Project"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 350.0,
+    "Balance": 0,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10017",
+    "DocNumber": "INV-2026-0018",
+    "TxnDate": "2026-05-20",
+    "DueDate": "2026-01-19",
+    "CustomerRef": {
+      "value": "217",
+      "name": "Deborah Wilson"
+    },
+    "Line": [
+      {
+        "Amount": 200.0,
+        "Description": "Donation - Convention Fund",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 200.0,
+    "Balance": 0,
+    "Status": "Active"
+  },
+  {
+    "Id": "10018",
+    "DocNumber": "INV-2026-0019",
+    "TxnDate": "2026-05-24",
+    "DueDate": "2026-01-23",
+    "CustomerRef": {
+      "value": "218",
+      "name": "Sister Loretta Banks"
+    },
+    "Line": [
+      {
+        "Amount": 300.0,
+        "Description": "Donation - Convention Fund",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 300.0,
+    "Balance": 0,
+    "Status": "Done"
+  },
+  {
+    "Id": "10019",
+    "DocNumber": "INV-2026-0020",
+    "TxnDate": "2026-05-28",
+    "DueDate": "2026-01-27",
+    "CustomerRef": {
+      "value": "219",
+      "name": "Cedric & Simone Pinkston"
+    },
+    "Line": [
+      {
+        "Amount": 500.0,
+        "Description": "Donation - Album Project",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Project"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "Balance": 0,
+    "Status": "InProgress"
+  },
+  {
+    "Id": "10020",
+    "DocNumber": "INV-2026-0021",
+    "TxnDate": "2026-01-01",
+    "DueDate": "2026-02-01",
+    "CustomerRef": {
+      "value": "200",
+      "name": "Piedmont Piano Service (in-kind)"
+    },
+    "Line": [
+      {
+        "Amount": 1000.0,
+        "Description": "Donation - Album Project",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Project"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1000.0,
+    "Balance": 0,
+    "Status": "Completed"
+  },
+  {
+    "Id": "10021",
+    "DocNumber": "INV-2026-0022",
+    "TxnDate": "2026-01-05",
+    "DueDate": "2026-02-05",
+    "CustomerRef": {
+      "value": "201",
+      "name": "Anonymous"
+    },
+    "Line": [
+      {
+        "Amount": 2500.0,
+        "Description": "Donation - Convention Fund",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2500.0,
+    "Balance": 0,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10022",
+    "DocNumber": "INV-2026-3000",
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-31",
+    "CustomerRef": {
+      "value": "2001",
+      "name": "The Wilson Family"
+    },
+    "Line": [
+      {
+        "Amount": 17500.0,
+        "Description": "Convention Fund - The Wilson Family",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 17500.0,
+    "Balance": 17500,
+    "Status": "InProgress"
+  },
+  {
+    "Id": "10023",
+    "DocNumber": "INV-2026-3001",
+    "TxnDate": "2026-03-02",
+    "DueDate": "2026-04-01",
+    "CustomerRef": {
+      "value": "2002",
+      "name": "Ebenezer Ministries Alliance"
+    },
+    "Line": [
+      {
+        "Amount": 60.0,
+        "Description": "Album Pre-Order CD - Ebenezer Ministries Alliance",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order CD"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 60.0,
+    "Balance": 60,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10024",
+    "DocNumber": "INV-2026-3002",
+    "TxnDate": "2026-03-03",
+    "DueDate": "2026-04-02",
+    "CustomerRef": {
+      "value": "2003",
+      "name": "Dr. Adrienne Coleman"
+    },
+    "Line": [
+      {
+        "Amount": 89.91,
+        "Description": "Album Pre-Order Digital - Dr. Adrienne Coleman",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order Digital"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 89.91,
+    "Balance": 89,
+    "Status": "InProgress"
+  },
+  {
+    "Id": "10025",
+    "DocNumber": "INV-2026-3003",
+    "TxnDate": "2026-03-04",
+    "DueDate": "2026-04-03",
+    "CustomerRef": {
+      "value": "2004",
+      "name": "Bethel Missionary Baptist Fellowship"
+    },
+    "Line": [
+      {
+        "Amount": 80.0,
+        "Description": "Concert Ticket GA - Bethel Missionary Baptist Fellowship",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Concert Ticket GA"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 80.0,
+    "Balance": 80,
+    "Status": "Sent"
+  },
+  {
+    "Id": "10026",
+    "DocNumber": "INV-2026-3004",
+    "TxnDate": "2026-03-05",
+    "DueDate": "2026-04-04",
+    "CustomerRef": {
+      "value": "2005",
+      "name": "Ridgeway Community Church"
+    },
+    "Line": [
+      {
+        "Amount": 54.0,
+        "Description": "Choir T-Shirt (M) - Ridgeway Community Church",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Choir T-Shirt (M)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 54.0,
+    "Balance": 54,
+    "Status": "Sent"
+  },
+  {
+    "Id": "10027",
+    "DocNumber": "INV-2026-3005",
+    "TxnDate": "2026-03-06",
+    "DueDate": "2026-04-05",
+    "CustomerRef": {
+      "value": "2006",
+      "name": "Vietnamese American Ministries Network"
+    },
+    "Line": [
+      {
+        "Amount": 76.5,
+        "Description": "Sheet Music - Cascade Grace - Vietnamese American Ministries Network",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Sheet Music - Cascade Grace"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 76.5,
+    "Balance": 76,
+    "Status": "Done"
+  },
+  {
+    "Id": "10028",
+    "DocNumber": "INV-2026-3006",
+    "TxnDate": "2026-03-07",
+    "DueDate": "2026-04-06",
+    "CustomerRef": {
+      "value": "2007",
+      "name": "Cascade Heights Rotary Club"
+    },
+    "Line": [
+      {
+        "Amount": 2250.0,
+        "Description": "Steinway Tuning Service - Cascade Heights Rotary Club",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Steinway Tuning Service"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2250.0,
+    "Balance": 2250,
+    "Status": "InProgress"
+  },
+  {
+    "Id": "10029",
+    "DocNumber": "INV-2026-3007",
+    "TxnDate": "2026-03-08",
+    "DueDate": "2026-04-07",
+    "CustomerRef": {
+      "value": "2008",
+      "name": "Ellington Family Trust"
+    },
+    "Line": [
+      {
+        "Amount": 1200.0,
+        "Description": "Guest Musician Fee - Ellington Family Trust",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Guest Musician Fee"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1200.0,
+    "Balance": 1200,
+    "Status": "Active"
+  },
+  {
+    "Id": "10030",
+    "DocNumber": "INV-2026-3008",
+    "TxnDate": "2026-03-09",
+    "DueDate": "2026-04-08",
+    "CustomerRef": {
+      "value": "2009",
+      "name": "Adaeze Njoku Music Foundation"
+    },
+    "Line": [
+      {
+        "Amount": 360.0,
+        "Description": "Youth Program Tuition Monthly - Adaeze Njoku Music Foundation",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Youth Program Tuition Monthly"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 360.0,
+    "Balance": 360,
+    "Status": "Completed"
+  },
+  {
+    "Id": "10031",
+    "DocNumber": "INV-2026-3009",
+    "TxnDate": "2026-03-10",
+    "DueDate": "2026-04-09",
+    "CustomerRef": {
+      "value": "20010",
+      "name": "Grace & Heritage Alumnae Council"
+    },
+    "Line": [
+      {
+        "Amount": 22500.0,
+        "Description": "Convention Fund - Grace & Heritage Alumnae Council",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 22500.0,
+    "Balance": 22500,
+    "Status": "Active"
+  },
+  {
+    "Id": "10032",
+    "DocNumber": "INV-2026-3010",
+    "TxnDate": "2026-03-11",
+    "DueDate": "2026-04-10",
+    "CustomerRef": {
+      "value": "20011",
+      "name": "Golden Lotus Cafe (Linh Nguyen)"
+    },
+    "Line": [
+      {
+        "Amount": 75.0,
+        "Description": "Album Pre-Order CD - Golden Lotus Cafe (Linh Nguyen)",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order CD"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 75.0,
+    "Balance": 75,
+    "Status": "Sent"
+  },
+  {
+    "Id": "10033",
+    "DocNumber": "INV-2026-3011",
+    "TxnDate": "2026-03-08",
+    "DueDate": "2026-04-07",
+    "CustomerRef": {
+      "value": "2001",
+      "name": "The Wilson Family"
+    },
+    "Line": [
+      {
+        "Amount": 17500.0,
+        "Description": "Convention Fund - The Wilson Family",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 17500.0,
+    "Balance": 17500,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10034",
+    "DocNumber": "INV-2026-3012",
+    "TxnDate": "2026-03-09",
+    "DueDate": "2026-04-08",
+    "CustomerRef": {
+      "value": "2002",
+      "name": "Ebenezer Ministries Alliance"
+    },
+    "Line": [
+      {
+        "Amount": 90.0,
+        "Description": "Album Pre-Order CD - Ebenezer Ministries Alliance",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order CD"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 90.0,
+    "Balance": 90,
+    "Status": "Active"
+  },
+  {
+    "Id": "10035",
+    "DocNumber": "INV-2026-3013",
+    "TxnDate": "2026-03-10",
+    "DueDate": "2026-04-09",
+    "CustomerRef": {
+      "value": "2003",
+      "name": "Dr. Adrienne Coleman"
+    },
+    "Line": [
+      {
+        "Amount": 59.94,
+        "Description": "Album Pre-Order Digital - Dr. Adrienne Coleman",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order Digital"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 59.94,
+    "Balance": 59,
+    "Status": "Done"
+  },
+  {
+    "Id": "10036",
+    "DocNumber": "INV-2026-3014",
+    "TxnDate": "2026-03-11",
+    "DueDate": "2026-04-10",
+    "CustomerRef": {
+      "value": "2004",
+      "name": "Bethel Missionary Baptist Fellowship"
+    },
+    "Line": [
+      {
+        "Amount": 180.0,
+        "Description": "Concert Ticket GA - Bethel Missionary Baptist Fellowship",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Concert Ticket GA"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 180.0,
+    "Balance": 180,
+    "Status": "InProgress"
+  },
+  {
+    "Id": "10037",
+    "DocNumber": "INV-2026-3015",
+    "TxnDate": "2026-03-12",
+    "DueDate": "2026-04-11",
+    "CustomerRef": {
+      "value": "2005",
+      "name": "Ridgeway Community Church"
+    },
+    "Line": [
+      {
+        "Amount": 90.0,
+        "Description": "Choir T-Shirt (M) - Ridgeway Community Church",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Choir T-Shirt (M)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 90.0,
+    "Balance": 90,
+    "Status": "Completed"
+  },
+  {
+    "Id": "10038",
+    "DocNumber": "INV-2026-3016",
+    "TxnDate": "2026-03-13",
+    "DueDate": "2026-04-12",
+    "CustomerRef": {
+      "value": "2006",
+      "name": "Vietnamese American Ministries Network"
+    },
+    "Line": [
+      {
+        "Amount": 25.5,
+        "Description": "Sheet Music - Cascade Grace - Vietnamese American Ministries Network",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Sheet Music - Cascade Grace"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 25.5,
+    "Balance": 25,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10039",
+    "DocNumber": "INV-2026-3017",
+    "TxnDate": "2026-03-14",
+    "DueDate": "2026-04-13",
+    "CustomerRef": {
+      "value": "2007",
+      "name": "Cascade Heights Rotary Club"
+    },
+    "Line": [
+      {
+        "Amount": 2000.0,
+        "Description": "Steinway Tuning Service - Cascade Heights Rotary Club",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Steinway Tuning Service"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2000.0,
+    "Balance": 2000,
+    "Status": "Done"
+  },
+  {
+    "Id": "10040",
+    "DocNumber": "INV-2026-3018",
+    "TxnDate": "2026-03-15",
+    "DueDate": "2026-04-14",
+    "CustomerRef": {
+      "value": "2008",
+      "name": "Ellington Family Trust"
+    },
+    "Line": [
+      {
+        "Amount": 1000.0,
+        "Description": "Guest Musician Fee - Ellington Family Trust",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Guest Musician Fee"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1000.0,
+    "Balance": 1000,
+    "Status": "Active"
+  },
+  {
+    "Id": "10041",
+    "DocNumber": "INV-2026-3019",
+    "TxnDate": "2026-03-16",
+    "DueDate": "2026-04-15",
+    "CustomerRef": {
+      "value": "2009",
+      "name": "Adaeze Njoku Music Foundation"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Youth Program Tuition Monthly - Adaeze Njoku Music Foundation",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Youth Program Tuition Monthly"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 450,
+    "Status": "Active"
+  },
+  {
+    "Id": "10042",
+    "DocNumber": "INV-2026-3020",
+    "TxnDate": "2026-03-17",
+    "DueDate": "2026-04-16",
+    "CustomerRef": {
+      "value": "20010",
+      "name": "Grace & Heritage Alumnae Council"
+    },
+    "Line": [
+      {
+        "Amount": 12500.0,
+        "Description": "Convention Fund - Grace & Heritage Alumnae Council",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12500.0,
+    "Balance": 12500,
+    "Status": "Completed"
+  },
+  {
+    "Id": "10043",
+    "DocNumber": "INV-2026-3021",
+    "TxnDate": "2026-03-18",
+    "DueDate": "2026-04-17",
+    "CustomerRef": {
+      "value": "20011",
+      "name": "Golden Lotus Cafe (Linh Nguyen)"
+    },
+    "Line": [
+      {
+        "Amount": 45.0,
+        "Description": "Album Pre-Order CD - Golden Lotus Cafe (Linh Nguyen)",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order CD"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 45.0,
+    "Balance": 45,
+    "Status": "Completed"
+  },
+  {
+    "Id": "10044",
+    "DocNumber": "INV-2026-3022",
+    "TxnDate": "2026-03-15",
+    "DueDate": "2026-04-14",
+    "CustomerRef": {
+      "value": "2001",
+      "name": "The Wilson Family"
+    },
+    "Line": [
+      {
+        "Amount": 12500.0,
+        "Description": "Convention Fund - The Wilson Family",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12500.0,
+    "Balance": 12500,
+    "Status": "Completed"
+  },
+  {
+    "Id": "10045",
+    "DocNumber": "INV-2026-3023",
+    "TxnDate": "2026-03-16",
+    "DueDate": "2026-04-15",
+    "CustomerRef": {
+      "value": "2002",
+      "name": "Ebenezer Ministries Alliance"
+    },
+    "Line": [
+      {
+        "Amount": 135.0,
+        "Description": "Album Pre-Order CD - Ebenezer Ministries Alliance",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order CD"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 135.0,
+    "Balance": 135,
+    "Status": "InProgress"
+  },
+  {
+    "Id": "10046",
+    "DocNumber": "INV-2026-3024",
+    "TxnDate": "2026-03-17",
+    "DueDate": "2026-04-16",
+    "CustomerRef": {
+      "value": "2003",
+      "name": "Dr. Adrienne Coleman"
+    },
+    "Line": [
+      {
+        "Amount": 89.91,
+        "Description": "Album Pre-Order Digital - Dr. Adrienne Coleman",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order Digital"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 89.91,
+    "Balance": 89,
+    "Status": "Active"
+  },
+  {
+    "Id": "10047",
+    "DocNumber": "INV-2026-3025",
+    "TxnDate": "2026-03-18",
+    "DueDate": "2026-04-17",
+    "CustomerRef": {
+      "value": "2004",
+      "name": "Bethel Missionary Baptist Fellowship"
+    },
+    "Line": [
+      {
+        "Amount": 40.0,
+        "Description": "Concert Ticket GA - Bethel Missionary Baptist Fellowship",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Concert Ticket GA"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 40.0,
+    "Balance": 40,
+    "Status": "Done"
+  },
+  {
+    "Id": "10048",
+    "DocNumber": "INV-2026-3026",
+    "TxnDate": "2026-03-19",
+    "DueDate": "2026-04-18",
+    "CustomerRef": {
+      "value": "2005",
+      "name": "Ridgeway Community Church"
+    },
+    "Line": [
+      {
+        "Amount": 18.0,
+        "Description": "Choir T-Shirt (M) - Ridgeway Community Church",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Choir T-Shirt (M)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 18.0,
+    "Balance": 18,
+    "Status": "Active"
+  },
+  {
+    "Id": "10049",
+    "DocNumber": "INV-2026-3027",
+    "TxnDate": "2026-03-20",
+    "DueDate": "2026-04-19",
+    "CustomerRef": {
+      "value": "2006",
+      "name": "Vietnamese American Ministries Network"
+    },
+    "Line": [
+      {
+        "Amount": 17.0,
+        "Description": "Sheet Music - Cascade Grace - Vietnamese American Ministries Network",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Sheet Music - Cascade Grace"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 17.0,
+    "Balance": 17,
+    "Status": "Done"
+  },
+  {
+    "Id": "10050",
+    "DocNumber": "INV-2026-3028",
+    "TxnDate": "2026-03-21",
+    "DueDate": "2026-04-20",
+    "CustomerRef": {
+      "value": "2007",
+      "name": "Cascade Heights Rotary Club"
+    },
+    "Line": [
+      {
+        "Amount": 750.0,
+        "Description": "Steinway Tuning Service - Cascade Heights Rotary Club",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Steinway Tuning Service"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 750.0,
+    "Balance": 750,
+    "Status": "Active"
+  },
+  {
+    "Id": "10051",
+    "DocNumber": "INV-2026-3029",
+    "TxnDate": "2026-03-22",
+    "DueDate": "2026-04-21",
+    "CustomerRef": {
+      "value": "2008",
+      "name": "Ellington Family Trust"
+    },
+    "Line": [
+      {
+        "Amount": 200.0,
+        "Description": "Guest Musician Fee - Ellington Family Trust",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Guest Musician Fee"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 200.0,
+    "Balance": 200,
+    "Status": "Completed"
+  },
+  {
+    "Id": "10052",
+    "DocNumber": "INV-2026-3030",
+    "TxnDate": "2026-03-23",
+    "DueDate": "2026-04-22",
+    "CustomerRef": {
+      "value": "2009",
+      "name": "Adaeze Njoku Music Foundation"
+    },
+    "Line": [
+      {
+        "Amount": 270.0,
+        "Description": "Youth Program Tuition Monthly - Adaeze Njoku Music Foundation",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Youth Program Tuition Monthly"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 270.0,
+    "Balance": 270,
+    "Status": "Done"
+  },
+  {
+    "Id": "10053",
+    "DocNumber": "INV-2026-3031",
+    "TxnDate": "2026-03-24",
+    "DueDate": "2026-04-23",
+    "CustomerRef": {
+      "value": "20010",
+      "name": "Grace & Heritage Alumnae Council"
+    },
+    "Line": [
+      {
+        "Amount": 2500.0,
+        "Description": "Convention Fund - Grace & Heritage Alumnae Council",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2500.0,
+    "Balance": 2500,
+    "Status": "Sent"
+  },
+  {
+    "Id": "10054",
+    "DocNumber": "INV-2026-3032",
+    "TxnDate": "2026-03-25",
+    "DueDate": "2026-04-24",
+    "CustomerRef": {
+      "value": "20011",
+      "name": "Golden Lotus Cafe (Linh Nguyen)"
+    },
+    "Line": [
+      {
+        "Amount": 90.0,
+        "Description": "Album Pre-Order CD - Golden Lotus Cafe (Linh Nguyen)",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order CD"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 90.0,
+    "Balance": 90,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10055",
+    "DocNumber": "INV-2026-3033",
+    "TxnDate": "2026-03-22",
+    "DueDate": "2026-04-21",
+    "CustomerRef": {
+      "value": "2001",
+      "name": "The Wilson Family"
+    },
+    "Line": [
+      {
+        "Amount": 12500.0,
+        "Description": "Convention Fund - The Wilson Family",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12500.0,
+    "Balance": 12500,
+    "Status": "Completed"
+  },
+  {
+    "Id": "10056",
+    "DocNumber": "INV-2026-3034",
+    "TxnDate": "2026-03-23",
+    "DueDate": "2026-04-22",
+    "CustomerRef": {
+      "value": "2002",
+      "name": "Ebenezer Ministries Alliance"
+    },
+    "Line": [
+      {
+        "Amount": 90.0,
+        "Description": "Album Pre-Order CD - Ebenezer Ministries Alliance",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order CD"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 90.0,
+    "Balance": 90,
+    "Status": "Active"
+  },
+  {
+    "Id": "10057",
+    "DocNumber": "INV-2026-3035",
+    "TxnDate": "2026-03-24",
+    "DueDate": "2026-04-23",
+    "CustomerRef": {
+      "value": "2003",
+      "name": "Dr. Adrienne Coleman"
+    },
+    "Line": [
+      {
+        "Amount": 79.92,
+        "Description": "Album Pre-Order Digital - Dr. Adrienne Coleman",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order Digital"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 79.92,
+    "Balance": 79,
+    "Status": "Completed"
+  },
+  {
+    "Id": "10058",
+    "DocNumber": "INV-2026-3036",
+    "TxnDate": "2026-03-25",
+    "DueDate": "2026-04-24",
+    "CustomerRef": {
+      "value": "2004",
+      "name": "Bethel Missionary Baptist Fellowship"
+    },
+    "Line": [
+      {
+        "Amount": 180.0,
+        "Description": "Concert Ticket GA - Bethel Missionary Baptist Fellowship",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Concert Ticket GA"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 180.0,
+    "Balance": 180,
+    "Status": "Active"
+  },
+  {
+    "Id": "10059",
+    "DocNumber": "INV-2026-3037",
+    "TxnDate": "2026-03-26",
+    "DueDate": "2026-04-25",
+    "CustomerRef": {
+      "value": "2005",
+      "name": "Ridgeway Community Church"
+    },
+    "Line": [
+      {
+        "Amount": 108.0,
+        "Description": "Choir T-Shirt (M) - Ridgeway Community Church",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Choir T-Shirt (M)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 108.0,
+    "Balance": 108,
+    "Status": "Active"
+  },
+  {
+    "Id": "10060",
+    "DocNumber": "INV-2026-3038",
+    "TxnDate": "2026-03-27",
+    "DueDate": "2026-04-26",
+    "CustomerRef": {
+      "value": "2006",
+      "name": "Vietnamese American Ministries Network"
+    },
+    "Line": [
+      {
+        "Amount": 85.0,
+        "Description": "Sheet Music - Cascade Grace - Vietnamese American Ministries Network",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Sheet Music - Cascade Grace"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 85.0,
+    "Balance": 85,
+    "Status": "Active"
+  },
+  {
+    "Id": "10061",
+    "DocNumber": "INV-2026-3039",
+    "TxnDate": "2026-03-28",
+    "DueDate": "2026-04-27",
+    "CustomerRef": {
+      "value": "2007",
+      "name": "Cascade Heights Rotary Club"
+    },
+    "Line": [
+      {
+        "Amount": 1000.0,
+        "Description": "Steinway Tuning Service - Cascade Heights Rotary Club",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Steinway Tuning Service"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1000.0,
+    "Balance": 1000,
+    "Status": "InProgress"
+  },
+  {
+    "Id": "10062",
+    "DocNumber": "INV-2026-3040",
+    "TxnDate": "2026-03-29",
+    "DueDate": "2026-04-28",
+    "CustomerRef": {
+      "value": "2008",
+      "name": "Ellington Family Trust"
+    },
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "Guest Musician Fee - Ellington Family Trust",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Guest Musician Fee"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 800.0,
+    "Balance": 800,
+    "Status": "Sent"
+  },
+  {
+    "Id": "10063",
+    "DocNumber": "INV-2026-3041",
+    "TxnDate": "2026-03-30",
+    "DueDate": "2026-04-29",
+    "CustomerRef": {
+      "value": "2009",
+      "name": "Adaeze Njoku Music Foundation"
+    },
+    "Line": [
+      {
+        "Amount": 45.0,
+        "Description": "Youth Program Tuition Monthly - Adaeze Njoku Music Foundation",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Youth Program Tuition Monthly"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 45.0,
+    "Balance": 45,
+    "Status": "Sent"
+  },
+  {
+    "Id": "10064",
+    "DocNumber": "INV-2026-3042",
+    "TxnDate": "2026-03-31",
+    "DueDate": "2026-04-30",
+    "CustomerRef": {
+      "value": "20010",
+      "name": "Grace & Heritage Alumnae Council"
+    },
+    "Line": [
+      {
+        "Amount": 5000.0,
+        "Description": "Convention Fund - Grace & Heritage Alumnae Council",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 5000.0,
+    "Balance": 5000,
+    "Status": "Done"
+  },
+  {
+    "Id": "10065",
+    "DocNumber": "INV-2026-3043",
+    "TxnDate": "2026-04-01",
+    "DueDate": "2026-05-01",
+    "CustomerRef": {
+      "value": "20011",
+      "name": "Golden Lotus Cafe (Linh Nguyen)"
+    },
+    "Line": [
+      {
+        "Amount": 45.0,
+        "Description": "Album Pre-Order CD - Golden Lotus Cafe (Linh Nguyen)",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order CD"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 45.0,
+    "Balance": 45,
+    "Status": "Active"
+  },
+  {
+    "Id": "10066",
+    "DocNumber": "INV-2026-3044",
+    "TxnDate": "2026-03-29",
+    "DueDate": "2026-04-28",
+    "CustomerRef": {
+      "value": "2001",
+      "name": "The Wilson Family"
+    },
+    "Line": [
+      {
+        "Amount": 15000.0,
+        "Description": "Convention Fund - The Wilson Family",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 15000.0,
+    "Balance": 15000,
+    "Status": "Completed"
+  },
+  {
+    "Id": "10067",
+    "DocNumber": "INV-2026-3045",
+    "TxnDate": "2026-03-30",
+    "DueDate": "2026-04-29",
+    "CustomerRef": {
+      "value": "2002",
+      "name": "Ebenezer Ministries Alliance"
+    },
+    "Line": [
+      {
+        "Amount": 150.0,
+        "Description": "Album Pre-Order CD - Ebenezer Ministries Alliance",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order CD"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 150.0,
+    "Balance": 150,
+    "Status": "Sent"
+  },
+  {
+    "Id": "10068",
+    "DocNumber": "INV-2026-3046",
+    "TxnDate": "2026-03-31",
+    "DueDate": "2026-04-30",
+    "CustomerRef": {
+      "value": "2003",
+      "name": "Dr. Adrienne Coleman"
+    },
+    "Line": [
+      {
+        "Amount": 69.93,
+        "Description": "Album Pre-Order Digital - Dr. Adrienne Coleman",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order Digital"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 69.93,
+    "Balance": 69,
+    "Status": "Sent"
+  },
+  {
+    "Id": "10069",
+    "DocNumber": "INV-2026-3047",
+    "TxnDate": "2026-04-01",
+    "DueDate": "2026-05-01",
+    "CustomerRef": {
+      "value": "2004",
+      "name": "Bethel Missionary Baptist Fellowship"
+    },
+    "Line": [
+      {
+        "Amount": 20.0,
+        "Description": "Concert Ticket GA - Bethel Missionary Baptist Fellowship",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Concert Ticket GA"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 20.0,
+    "Balance": 20,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10070",
+    "DocNumber": "INV-2026-3048",
+    "TxnDate": "2026-04-02",
+    "DueDate": "2026-05-02",
+    "CustomerRef": {
+      "value": "2005",
+      "name": "Ridgeway Community Church"
+    },
+    "Line": [
+      {
+        "Amount": 90.0,
+        "Description": "Choir T-Shirt (M) - Ridgeway Community Church",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Choir T-Shirt (M)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 90.0,
+    "Balance": 90,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10071",
+    "DocNumber": "INV-2026-3049",
+    "TxnDate": "2026-04-03",
+    "DueDate": "2026-05-03",
+    "CustomerRef": {
+      "value": "2006",
+      "name": "Vietnamese American Ministries Network"
+    },
+    "Line": [
+      {
+        "Amount": 17.0,
+        "Description": "Sheet Music - Cascade Grace - Vietnamese American Ministries Network",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Sheet Music - Cascade Grace"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 17.0,
+    "Balance": 17,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10072",
+    "DocNumber": "INV-2026-3050",
+    "TxnDate": "2026-04-04",
+    "DueDate": "2026-05-04",
+    "CustomerRef": {
+      "value": "2007",
+      "name": "Cascade Heights Rotary Club"
+    },
+    "Line": [
+      {
+        "Amount": 1250.0,
+        "Description": "Steinway Tuning Service - Cascade Heights Rotary Club",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Steinway Tuning Service"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1250.0,
+    "Balance": 1250,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10073",
+    "DocNumber": "INV-2026-3051",
+    "TxnDate": "2026-04-05",
+    "DueDate": "2026-05-05",
+    "CustomerRef": {
+      "value": "2008",
+      "name": "Ellington Family Trust"
+    },
+    "Line": [
+      {
+        "Amount": 600.0,
+        "Description": "Guest Musician Fee - Ellington Family Trust",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Guest Musician Fee"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 600.0,
+    "Balance": 600,
+    "Status": "Active"
+  },
+  {
+    "Id": "10074",
+    "DocNumber": "INV-2026-3052",
+    "TxnDate": "2026-04-06",
+    "DueDate": "2026-05-06",
+    "CustomerRef": {
+      "value": "2009",
+      "name": "Adaeze Njoku Music Foundation"
+    },
+    "Line": [
+      {
+        "Amount": 315.0,
+        "Description": "Youth Program Tuition Monthly - Adaeze Njoku Music Foundation",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Youth Program Tuition Monthly"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 315.0,
+    "Balance": 315,
+    "Status": "Done"
+  },
+  {
+    "Id": "10075",
+    "DocNumber": "INV-2026-3053",
+    "TxnDate": "2026-04-07",
+    "DueDate": "2026-05-07",
+    "CustomerRef": {
+      "value": "20010",
+      "name": "Grace & Heritage Alumnae Council"
+    },
+    "Line": [
+      {
+        "Amount": 17500.0,
+        "Description": "Convention Fund - Grace & Heritage Alumnae Council",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 17500.0,
+    "Balance": 17500,
+    "Status": "Active"
+  },
+  {
+    "Id": "10076",
+    "DocNumber": "INV-2026-3054",
+    "TxnDate": "2026-04-08",
+    "DueDate": "2026-05-08",
+    "CustomerRef": {
+      "value": "20011",
+      "name": "Golden Lotus Cafe (Linh Nguyen)"
+    },
+    "Line": [
+      {
+        "Amount": 105.0,
+        "Description": "Album Pre-Order CD - Golden Lotus Cafe (Linh Nguyen)",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order CD"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 105.0,
+    "Balance": 105,
+    "Status": "InProgress"
+  },
+  {
+    "Id": "10077",
+    "DocNumber": "INV-2026-3055",
+    "TxnDate": "2026-04-05",
+    "DueDate": "2026-05-05",
+    "CustomerRef": {
+      "value": "2001",
+      "name": "The Wilson Family"
+    },
+    "Line": [
+      {
+        "Amount": 12500.0,
+        "Description": "Convention Fund - The Wilson Family",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12500.0,
+    "Balance": 12500,
+    "Status": "InProgress"
+  },
+  {
+    "Id": "10078",
+    "DocNumber": "INV-2026-3056",
+    "TxnDate": "2026-04-06",
+    "DueDate": "2026-05-06",
+    "CustomerRef": {
+      "value": "2002",
+      "name": "Ebenezer Ministries Alliance"
+    },
+    "Line": [
+      {
+        "Amount": 90.0,
+        "Description": "Album Pre-Order CD - Ebenezer Ministries Alliance",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order CD"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 90.0,
+    "Balance": 90,
+    "Status": "Active"
+  },
+  {
+    "Id": "10079",
+    "DocNumber": "INV-2026-3057",
+    "TxnDate": "2026-04-07",
+    "DueDate": "2026-05-07",
+    "CustomerRef": {
+      "value": "2003",
+      "name": "Dr. Adrienne Coleman"
+    },
+    "Line": [
+      {
+        "Amount": 19.98,
+        "Description": "Album Pre-Order Digital - Dr. Adrienne Coleman",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order Digital"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 19.98,
+    "Balance": 19,
+    "Status": "InProgress"
+  },
+  {
+    "Id": "10080",
+    "DocNumber": "INV-2026-3058",
+    "TxnDate": "2026-04-08",
+    "DueDate": "2026-05-08",
+    "CustomerRef": {
+      "value": "2004",
+      "name": "Bethel Missionary Baptist Fellowship"
+    },
+    "Line": [
+      {
+        "Amount": 200.0,
+        "Description": "Concert Ticket GA - Bethel Missionary Baptist Fellowship",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Concert Ticket GA"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 200.0,
+    "Balance": 200,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10081",
+    "DocNumber": "INV-2026-3059",
+    "TxnDate": "2026-04-09",
+    "DueDate": "2026-05-09",
+    "CustomerRef": {
+      "value": "2005",
+      "name": "Ridgeway Community Church"
+    },
+    "Line": [
+      {
+        "Amount": 108.0,
+        "Description": "Choir T-Shirt (M) - Ridgeway Community Church",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Choir T-Shirt (M)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 108.0,
+    "Balance": 108,
+    "Status": "Completed"
+  },
+  {
+    "Id": "10082",
+    "DocNumber": "INV-2026-3060",
+    "TxnDate": "2026-04-10",
+    "DueDate": "2026-05-10",
+    "CustomerRef": {
+      "value": "2006",
+      "name": "Vietnamese American Ministries Network"
+    },
+    "Line": [
+      {
+        "Amount": 34.0,
+        "Description": "Sheet Music - Cascade Grace - Vietnamese American Ministries Network",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Sheet Music - Cascade Grace"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 34.0,
+    "Balance": 34,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10083",
+    "DocNumber": "INV-2026-3061",
+    "TxnDate": "2026-04-11",
+    "DueDate": "2026-05-11",
+    "CustomerRef": {
+      "value": "2007",
+      "name": "Cascade Heights Rotary Club"
+    },
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Steinway Tuning Service - Cascade Heights Rotary Club",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Steinway Tuning Service"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "Balance": 1500,
+    "Status": "Active"
+  },
+  {
+    "Id": "10084",
+    "DocNumber": "INV-2026-3062",
+    "TxnDate": "2026-04-12",
+    "DueDate": "2026-05-12",
+    "CustomerRef": {
+      "value": "2008",
+      "name": "Ellington Family Trust"
+    },
+    "Line": [
+      {
+        "Amount": 1400.0,
+        "Description": "Guest Musician Fee - Ellington Family Trust",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Guest Musician Fee"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1400.0,
+    "Balance": 1400,
+    "Status": "Done"
+  },
+  {
+    "Id": "10085",
+    "DocNumber": "INV-2026-3063",
+    "TxnDate": "2026-04-13",
+    "DueDate": "2026-05-13",
+    "CustomerRef": {
+      "value": "2009",
+      "name": "Adaeze Njoku Music Foundation"
+    },
+    "Line": [
+      {
+        "Amount": 135.0,
+        "Description": "Youth Program Tuition Monthly - Adaeze Njoku Music Foundation",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Youth Program Tuition Monthly"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 135.0,
+    "Balance": 135,
+    "Status": "Active"
+  },
+  {
+    "Id": "10086",
+    "DocNumber": "INV-2026-3064",
+    "TxnDate": "2026-04-14",
+    "DueDate": "2026-05-14",
+    "CustomerRef": {
+      "value": "20010",
+      "name": "Grace & Heritage Alumnae Council"
+    },
+    "Line": [
+      {
+        "Amount": 15000.0,
+        "Description": "Convention Fund - Grace & Heritage Alumnae Council",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 15000.0,
+    "Balance": 15000,
+    "Status": "Sent"
+  },
+  {
+    "Id": "10087",
+    "DocNumber": "INV-2026-3065",
+    "TxnDate": "2026-04-15",
+    "DueDate": "2026-05-15",
+    "CustomerRef": {
+      "value": "20011",
+      "name": "Golden Lotus Cafe (Linh Nguyen)"
+    },
+    "Line": [
+      {
+        "Amount": 60.0,
+        "Description": "Album Pre-Order CD - Golden Lotus Cafe (Linh Nguyen)",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order CD"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 60.0,
+    "Balance": 60,
+    "Status": "InProgress"
+  },
+  {
+    "Id": "10088",
+    "DocNumber": "INV-2026-3066",
+    "TxnDate": "2026-04-12",
+    "DueDate": "2026-05-12",
+    "CustomerRef": {
+      "value": "2001",
+      "name": "The Wilson Family"
+    },
+    "Line": [
+      {
+        "Amount": 10000.0,
+        "Description": "Convention Fund - The Wilson Family",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 10000.0,
+    "Balance": 0,
+    "Status": "Sent"
+  },
+  {
+    "Id": "10089",
+    "DocNumber": "INV-2026-3067",
+    "TxnDate": "2026-04-13",
+    "DueDate": "2026-05-13",
+    "CustomerRef": {
+      "value": "2002",
+      "name": "Ebenezer Ministries Alliance"
+    },
+    "Line": [
+      {
+        "Amount": 60.0,
+        "Description": "Album Pre-Order CD - Ebenezer Ministries Alliance",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order CD"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 60.0,
+    "Balance": 0,
+    "Status": "Active"
+  },
+  {
+    "Id": "10090",
+    "DocNumber": "INV-2026-3068",
+    "TxnDate": "2026-04-14",
+    "DueDate": "2026-05-14",
+    "CustomerRef": {
+      "value": "2003",
+      "name": "Dr. Adrienne Coleman"
+    },
+    "Line": [
+      {
+        "Amount": 89.91,
+        "Description": "Album Pre-Order Digital - Dr. Adrienne Coleman",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order Digital"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 89.91,
+    "Balance": 0,
+    "Status": "Done"
+  },
+  {
+    "Id": "10091",
+    "DocNumber": "INV-2026-3069",
+    "TxnDate": "2026-04-15",
+    "DueDate": "2026-05-15",
+    "CustomerRef": {
+      "value": "2004",
+      "name": "Bethel Missionary Baptist Fellowship"
+    },
+    "Line": [
+      {
+        "Amount": 100.0,
+        "Description": "Concert Ticket GA - Bethel Missionary Baptist Fellowship",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Concert Ticket GA"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 100.0,
+    "Balance": 0,
+    "Status": "Done"
+  },
+  {
+    "Id": "10092",
+    "DocNumber": "INV-2026-3070",
+    "TxnDate": "2026-04-16",
+    "DueDate": "2026-05-16",
+    "CustomerRef": {
+      "value": "2005",
+      "name": "Ridgeway Community Church"
+    },
+    "Line": [
+      {
+        "Amount": 36.0,
+        "Description": "Choir T-Shirt (M) - Ridgeway Community Church",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Choir T-Shirt (M)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 36.0,
+    "Balance": 0,
+    "Status": "Completed"
+  },
+  {
+    "Id": "10093",
+    "DocNumber": "INV-2026-3071",
+    "TxnDate": "2026-04-17",
+    "DueDate": "2026-05-17",
+    "CustomerRef": {
+      "value": "2006",
+      "name": "Vietnamese American Ministries Network"
+    },
+    "Line": [
+      {
+        "Amount": 17.0,
+        "Description": "Sheet Music - Cascade Grace - Vietnamese American Ministries Network",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Sheet Music - Cascade Grace"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 17.0,
+    "Balance": 0,
+    "Status": "Active"
+  },
+  {
+    "Id": "10094",
+    "DocNumber": "INV-2026-3072",
+    "TxnDate": "2026-04-18",
+    "DueDate": "2026-05-18",
+    "CustomerRef": {
+      "value": "2007",
+      "name": "Cascade Heights Rotary Club"
+    },
+    "Line": [
+      {
+        "Amount": 750.0,
+        "Description": "Steinway Tuning Service - Cascade Heights Rotary Club",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Steinway Tuning Service"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 750.0,
+    "Balance": 0,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10095",
+    "DocNumber": "INV-2026-3073",
+    "TxnDate": "2026-04-19",
+    "DueDate": "2026-05-19",
+    "CustomerRef": {
+      "value": "2008",
+      "name": "Ellington Family Trust"
+    },
+    "Line": [
+      {
+        "Amount": 1800.0,
+        "Description": "Guest Musician Fee - Ellington Family Trust",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Guest Musician Fee"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1800.0,
+    "Balance": 0,
+    "Status": "Sent"
+  },
+  {
+    "Id": "10096",
+    "DocNumber": "INV-2026-3074",
+    "TxnDate": "2026-04-20",
+    "DueDate": "2026-05-20",
+    "CustomerRef": {
+      "value": "2009",
+      "name": "Adaeze Njoku Music Foundation"
+    },
+    "Line": [
+      {
+        "Amount": 450.0,
+        "Description": "Youth Program Tuition Monthly - Adaeze Njoku Music Foundation",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Youth Program Tuition Monthly"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "Balance": 0,
+    "Status": "InProgress"
+  },
+  {
+    "Id": "10097",
+    "DocNumber": "INV-2026-3075",
+    "TxnDate": "2026-04-21",
+    "DueDate": "2026-05-21",
+    "CustomerRef": {
+      "value": "20010",
+      "name": "Grace & Heritage Alumnae Council"
+    },
+    "Line": [
+      {
+        "Amount": 17500.0,
+        "Description": "Convention Fund - Grace & Heritage Alumnae Council",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 17500.0,
+    "Balance": 0,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10098",
+    "DocNumber": "INV-2026-3076",
+    "TxnDate": "2026-04-22",
+    "DueDate": "2026-05-22",
+    "CustomerRef": {
+      "value": "20011",
+      "name": "Golden Lotus Cafe (Linh Nguyen)"
+    },
+    "Line": [
+      {
+        "Amount": 120.0,
+        "Description": "Album Pre-Order CD - Golden Lotus Cafe (Linh Nguyen)",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order CD"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 120.0,
+    "Balance": 0,
+    "Status": "Done"
+  },
+  {
+    "Id": "10099",
+    "DocNumber": "INV-2026-3077",
+    "TxnDate": "2026-04-19",
+    "DueDate": "2026-05-19",
+    "CustomerRef": {
+      "value": "2001",
+      "name": "The Wilson Family"
+    },
+    "Line": [
+      {
+        "Amount": 12500.0,
+        "Description": "Convention Fund - The Wilson Family",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12500.0,
+    "Balance": 0,
+    "Status": "Sent"
+  },
+  {
+    "Id": "10100",
+    "DocNumber": "INV-2026-3078",
+    "TxnDate": "2026-04-20",
+    "DueDate": "2026-05-20",
+    "CustomerRef": {
+      "value": "2002",
+      "name": "Ebenezer Ministries Alliance"
+    },
+    "Line": [
+      {
+        "Amount": 45.0,
+        "Description": "Album Pre-Order CD - Ebenezer Ministries Alliance",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order CD"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 45.0,
+    "Balance": 0,
+    "Status": "Completed"
+  },
+  {
+    "Id": "10101",
+    "DocNumber": "INV-2026-3079",
+    "TxnDate": "2026-04-21",
+    "DueDate": "2026-05-21",
+    "CustomerRef": {
+      "value": "2003",
+      "name": "Dr. Adrienne Coleman"
+    },
+    "Line": [
+      {
+        "Amount": 29.97,
+        "Description": "Album Pre-Order Digital - Dr. Adrienne Coleman",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order Digital"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 29.97,
+    "Balance": 0,
+    "Status": "Delivered"
+  },
+  {
+    "Id": "10102",
+    "DocNumber": "INV-2026-3080",
+    "TxnDate": "2026-04-22",
+    "DueDate": "2026-05-22",
+    "CustomerRef": {
+      "value": "2004",
+      "name": "Bethel Missionary Baptist Fellowship"
+    },
+    "Line": [
+      {
+        "Amount": 180.0,
+        "Description": "Concert Ticket GA - Bethel Missionary Baptist Fellowship",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Concert Ticket GA"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 180.0,
+    "Balance": 0,
+    "Status": "Done"
+  },
+  {
+    "Id": "10103",
+    "DocNumber": "INV-2026-3081",
+    "TxnDate": "2026-04-23",
+    "DueDate": "2026-05-23",
+    "CustomerRef": {
+      "value": "2005",
+      "name": "Ridgeway Community Church"
+    },
+    "Line": [
+      {
+        "Amount": 90.0,
+        "Description": "Choir T-Shirt (M) - Ridgeway Community Church",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Choir T-Shirt (M)"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 90.0,
+    "Balance": 0,
+    "Status": "Done"
+  },
+  {
+    "Id": "10104",
+    "DocNumber": "INV-2026-3082",
+    "TxnDate": "2026-04-24",
+    "DueDate": "2026-05-24",
+    "CustomerRef": {
+      "value": "2006",
+      "name": "Vietnamese American Ministries Network"
+    },
+    "Line": [
+      {
+        "Amount": 85.0,
+        "Description": "Sheet Music - Cascade Grace - Vietnamese American Ministries Network",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Sheet Music - Cascade Grace"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 85.0,
+    "Balance": 0,
+    "Status": "Done"
+  },
+  {
+    "Id": "10105",
+    "DocNumber": "INV-2026-3083",
+    "TxnDate": "2026-04-25",
+    "DueDate": "2026-05-25",
+    "CustomerRef": {
+      "value": "2007",
+      "name": "Cascade Heights Rotary Club"
+    },
+    "Line": [
+      {
+        "Amount": 2250.0,
+        "Description": "Steinway Tuning Service - Cascade Heights Rotary Club",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Steinway Tuning Service"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2250.0,
+    "Balance": 0,
+    "Status": "Completed"
+  },
+  {
+    "Id": "10106",
+    "DocNumber": "INV-2026-3084",
+    "TxnDate": "2026-04-26",
+    "DueDate": "2026-05-26",
+    "CustomerRef": {
+      "value": "2008",
+      "name": "Ellington Family Trust"
+    },
+    "Line": [
+      {
+        "Amount": 1400.0,
+        "Description": "Guest Musician Fee - Ellington Family Trust",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Guest Musician Fee"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1400.0,
+    "Balance": 0,
+    "Status": "InProgress"
+  },
+  {
+    "Id": "10107",
+    "DocNumber": "INV-2026-2000",
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-31",
+    "CustomerRef": {
+      "value": "200",
+      "name": "Bethel Fellowship"
+    },
+    "Line": [
+      {
+        "Amount": 5000.0,
+        "Description": "Concert Ticket Sales - Weekend Batch",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Convention Fund"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 5000.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "10108",
+    "DocNumber": "INV-2026-2001",
+    "TxnDate": "2026-10-03",
+    "DueDate": "2026-11-02",
+    "CustomerRef": {
+      "value": "201",
+      "name": "Bethel Fellowship"
+    },
+    "Line": [
+      {
+        "Amount": 500.0,
+        "Description": "Album Pre-Order Payment",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Concert Ticket - GA"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 500.0,
+    "Balance": 0,
+    "Status": "Paid"
+  },
+  {
+    "Id": "10109",
+    "DocNumber": "INV-2026-2002",
+    "TxnDate": "2026-10-05",
+    "DueDate": "2026-11-04",
+    "CustomerRef": {
+      "value": "202",
+      "name": "Ebenezer Alliance"
+    },
+    "Line": [
+      {
+        "Amount": 2500.0,
+        "Description": "Youth Program Tuition - Monthly",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Album Pre-Order"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2500.0,
+    "Balance": 0,
+    "Status": "Paid"
+  }
+]

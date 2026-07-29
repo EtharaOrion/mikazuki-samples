@@ -1,0 +1,142 @@
+[
+  {
+    "component_key": "comp-menu-header",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:21",
+    "name": "Menu / Section Header",
+    "description": "Section header style for menu categories"
+  },
+  {
+    "component_key": "comp-menu-item",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:22",
+    "name": "Menu / Item Row",
+    "description": "Dish name, description, and price row"
+  },
+  {
+    "component_key": "comp-price-tag",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:30",
+    "name": "Menu / Price",
+    "description": "Right-aligned price label"
+  },
+  {
+    "component_key": "comp-logo-mark",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:41",
+    "name": "Brand / Logo Mark",
+    "description": "Eleanor's Tavern logo mark"
+  },
+  {
+    "component_key": "comp-flyer-cta",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:52",
+    "name": "Flyer / CTA Button",
+    "description": "Reserve-now button for event flyers"
+  },
+  {
+    "component_key": "comp-divider",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:60",
+    "name": "Menu / Divider",
+    "description": "Decorative rule between menu sections"
+  },
+  {
+    "component_key": "comp-hours-card",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:71",
+    "name": "Site / Hours Card",
+    "description": "Card showing lunch and dinner hours, closed Monday"
+  },
+  {
+    "component_key": "comp-reserve-form",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:80",
+    "name": "Site / Reservation Form",
+    "description": "Date, party-size, and deposit fields for the reservation widget"
+  },
+  {
+    "component_key": "comp-event-card",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:92",
+    "name": "Flyer / Event Card",
+    "description": "Wine series and jazz Sunday event card layout"
+  },
+  {
+    "component_key": "comp-social-icons",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:101",
+    "name": "Brand / Social Icons",
+    "description": "Instagram and Facebook icon set for footer"
+  },
+  {
+    "component_key": "comp-nav-bar",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:110",
+    "name": "Site / Nav Bar",
+    "description": "Top navigation with menu, hours, and reserve links"
+  },
+  {
+    "component_key": "comp-footer",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:120",
+    "name": "Site / Footer",
+    "description": "Address, phone, and hours footer block"
+  },
+  {
+    "component_key": "comp-hero-banner",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:131",
+    "name": "Site / Hero Banner",
+    "description": "Patio-season hero banner with reserve CTA"
+  },
+  {
+    "component_key": "comp-gallery-tile",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:140",
+    "name": "Site / Gallery Tile",
+    "description": "Menu-shoot photo tile for the gallery grid"
+  },
+  {
+    "component_key": "comp-testimonial",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:150",
+    "name": "Site / Testimonial",
+    "description": "Guest review quote card with attribution"
+  },
+  {
+    "component_key": "comp-giftcard-cta",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:161",
+    "name": "Flyer / Gift Card CTA",
+    "description": "Buy-a-gift-card button linking to Square"
+  },
+  {
+    "component_key": "comp-map-embed",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:170",
+    "name": "Site / Map Embed",
+    "description": "Astoria location map frame for the hours page"
+  },
+  {
+    "component_key": "comp-newsletter-signup",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:181",
+    "name": "Site / Newsletter Signup",
+    "description": "Email capture field for the Mailchimp regulars list"
+  },
+  {
+    "component_key": "comp-menu-badge",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:190",
+    "name": "Menu / Item Badge",
+    "description": "Seasonal or chef's-pick badge for menu items"
+  },
+  {
+    "component_key": "comp-wine-list-row",
+    "file_key": "FK004vwxyz12",
+    "node_id": "10:201",
+    "name": "Menu / Wine List Row",
+    "description": "Wine name, region, and by-the-glass price row"
+  }
+]

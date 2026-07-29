@@ -1,0 +1,15 @@
+{
+  "sid": "AC717c3c8bc24b3d452d1913ff959af737",
+  "friendly_name": "Bridgeport Avenue Elementary (Hartford Public Schools) Notifications",
+  "status": "active",
+  "type": "Full",
+  "date_created": "2025-06-10T00:00:00Z",
+  "date_updated": "2026-07-13T00:00:00Z",
+  "auth_token": "ad0823b391ef754042ec4c0c20ca2f76",
+  "owner_account_sid": "AC717c3c8bc24b3d452d1913ff959af737",
+  "subresource_uris": {
+    "messages": "/2010-04-01/Accounts/AC717c3c8bc24b3d452d1913ff959af737/Messages.json",
+    "calls": "/2010-04-01/Accounts/AC717c3c8bc24b3d452d1913ff959af737/Calls.json",
+    "incoming_phone_numbers": "/2010-04-01/Accounts/AC717c3c8bc24b3d452d1913ff959af737/IncomingPhoneNumbers.json"
+  }
+}

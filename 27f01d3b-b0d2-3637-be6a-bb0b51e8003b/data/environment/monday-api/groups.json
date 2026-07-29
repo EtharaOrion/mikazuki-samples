@@ -1,0 +1,79 @@
+[
+  {
+    "group_id": "grp-queue",
+    "board_id": "board-101",
+    "title": "To Do",
+    "color": "#fdab3d",
+    "position": 1
+  },
+  {
+    "group_id": "grp-doing",
+    "board_id": "board-101",
+    "title": "In Progress",
+    "color": "#0086c0",
+    "position": 2
+  },
+  {
+    "group_id": "grp-done",
+    "board_id": "board-101",
+    "title": "Done",
+    "color": "#00c875",
+    "position": 3
+  },
+  {
+    "group_id": "grp-planned",
+    "board_id": "board-102",
+    "title": "Planned",
+    "color": "#fdab3d",
+    "position": 1
+  },
+  {
+    "group_id": "grp-sent",
+    "board_id": "board-102",
+    "title": "Sent",
+    "color": "#00c875",
+    "position": 2
+  },
+  {
+    "group_id": "grp-fest-queue",
+    "board_id": "board-201",
+    "title": "Open",
+    "color": "#fdab3d",
+    "position": 1
+  },
+  {
+    "group_id": "grp-fest-done",
+    "board_id": "board-201",
+    "title": "Confirmed",
+    "color": "#00c875",
+    "position": 2
+  },
+  {
+    "group_id": "grp-alb-queue",
+    "board_id": "board-301",
+    "title": "Open",
+    "color": "#fdab3d",
+    "position": 1
+  },
+  {
+    "group_id": "grp-alb-done",
+    "board_id": "board-301",
+    "title": "Done",
+    "color": "#00c875",
+    "position": 2
+  },
+  {
+    "group_id": "grp-camp-queue",
+    "board_id": "board-401",
+    "title": "Open",
+    "color": "#fdab3d",
+    "position": 1
+  },
+  {
+    "group_id": "grp-camp-done",
+    "board_id": "board-401",
+    "title": "Done",
+    "color": "#00c875",
+    "position": 2
+  }
+]

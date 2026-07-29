@@ -1,0 +1,242 @@
+[
+  {
+    "object_id": "rate-usps-prio-1001",
+    "shipment": "ship-1001",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "24.60",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-usps-gnd-1001",
+    "shipment": "ship-1001",
+    "provider": "USPS",
+    "servicelevel_token": "usps_ground_advantage",
+    "servicelevel_name": "USPS Ground Advantage",
+    "amount": "22.10",
+    "currency": "USD",
+    "estimated_days": "4"
+  },
+  {
+    "object_id": "rate-ups-ground-1001",
+    "shipment": "ship-1001",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "27.70",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-fedex-gnd-1001",
+    "shipment": "ship-1001",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_ground",
+    "servicelevel_name": "FedEx Ground",
+    "amount": "29.00",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-usps-prio-1002",
+    "shipment": "ship-1002",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "16.40",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-usps-gnd-1002",
+    "shipment": "ship-1002",
+    "provider": "USPS",
+    "servicelevel_token": "usps_ground_advantage",
+    "servicelevel_name": "USPS Ground Advantage",
+    "amount": "13.90",
+    "currency": "USD",
+    "estimated_days": "4"
+  },
+  {
+    "object_id": "rate-ups-ground-1002",
+    "shipment": "ship-1002",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "19.50",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-fedex-gnd-1002",
+    "shipment": "ship-1002",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_ground",
+    "servicelevel_name": "FedEx Ground",
+    "amount": "20.80",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-usps-prio-1003",
+    "shipment": "ship-1003",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "11.20",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-usps-gnd-1003",
+    "shipment": "ship-1003",
+    "provider": "USPS",
+    "servicelevel_token": "usps_ground_advantage",
+    "servicelevel_name": "USPS Ground Advantage",
+    "amount": "8.70",
+    "currency": "USD",
+    "estimated_days": "4"
+  },
+  {
+    "object_id": "rate-ups-ground-1003",
+    "shipment": "ship-1003",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "14.30",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-fedex-gnd-1003",
+    "shipment": "ship-1003",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_ground",
+    "servicelevel_name": "FedEx Ground",
+    "amount": "15.60",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-usps-prio-1007",
+    "shipment": "ship-1007",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "6.85",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-usps-gnd-1007",
+    "shipment": "ship-1007",
+    "provider": "USPS",
+    "servicelevel_token": "usps_ground_advantage",
+    "servicelevel_name": "USPS Ground Advantage",
+    "amount": "4.35",
+    "currency": "USD",
+    "estimated_days": "4"
+  },
+  {
+    "object_id": "rate-ups-ground-1007",
+    "shipment": "ship-1007",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "9.95",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-fedex-gnd-1007",
+    "shipment": "ship-1007",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_ground",
+    "servicelevel_name": "FedEx Ground",
+    "amount": "11.25",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-usps-prio-1008",
+    "shipment": "ship-1008",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "5.20",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-usps-gnd-1008",
+    "shipment": "ship-1008",
+    "provider": "USPS",
+    "servicelevel_token": "usps_ground_advantage",
+    "servicelevel_name": "USPS Ground Advantage",
+    "amount": "2.70",
+    "currency": "USD",
+    "estimated_days": "4"
+  },
+  {
+    "object_id": "rate-ups-ground-1008",
+    "shipment": "ship-1008",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "8.30",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-fedex-gnd-1008",
+    "shipment": "ship-1008",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_ground",
+    "servicelevel_name": "FedEx Ground",
+    "amount": "9.60",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-usps-prio-1020",
+    "shipment": "ship-1020",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": "6.30",
+    "currency": "USD",
+    "estimated_days": "2"
+  },
+  {
+    "object_id": "rate-usps-gnd-1020",
+    "shipment": "ship-1020",
+    "provider": "USPS",
+    "servicelevel_token": "usps_ground_advantage",
+    "servicelevel_name": "USPS Ground Advantage",
+    "amount": "3.80",
+    "currency": "USD",
+    "estimated_days": "4"
+  },
+  {
+    "object_id": "rate-ups-ground-1020",
+    "shipment": "ship-1020",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": "9.40",
+    "currency": "USD",
+    "estimated_days": "3"
+  },
+  {
+    "object_id": "rate-fedex-gnd-1020",
+    "shipment": "ship-1020",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_ground",
+    "servicelevel_name": "FedEx Ground",
+    "amount": "10.70",
+    "currency": "USD",
+    "estimated_days": "3"
+  }
+]

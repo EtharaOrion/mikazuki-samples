@@ -1,0 +1,1518 @@
+{
+  "QueryResponse": {
+    "BillPayment": [
+      {
+        "Id": "6000",
+        "VendorRef": {
+          "value": "211",
+          "name": "Notion Labs Inc."
+        },
+        "TxnDate": "2026-02-01",
+        "TotalAmt": 12.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3001",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 12.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6001",
+        "VendorRef": {
+          "value": "212",
+          "name": "Dropbox Inc."
+        },
+        "TxnDate": "2026-02-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3002",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6002",
+        "VendorRef": {
+          "value": "213",
+          "name": "Adobe Inc."
+        },
+        "TxnDate": "2026-02-01",
+        "TotalAmt": 19.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3003",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 19.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6003",
+        "VendorRef": {
+          "value": "215",
+          "name": "Spotify Premium"
+        },
+        "TxnDate": "2026-02-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3004",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6004",
+        "VendorRef": {
+          "value": "211",
+          "name": "Notion Labs Inc."
+        },
+        "TxnDate": "2026-03-01",
+        "TotalAmt": 12.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3005",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 12.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6005",
+        "VendorRef": {
+          "value": "212",
+          "name": "Dropbox Inc."
+        },
+        "TxnDate": "2026-03-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3006",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6006",
+        "VendorRef": {
+          "value": "213",
+          "name": "Adobe Inc."
+        },
+        "TxnDate": "2026-03-01",
+        "TotalAmt": 19.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3007",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 19.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6007",
+        "VendorRef": {
+          "value": "215",
+          "name": "Spotify Premium"
+        },
+        "TxnDate": "2026-03-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3008",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6008",
+        "VendorRef": {
+          "value": "211",
+          "name": "Notion Labs Inc."
+        },
+        "TxnDate": "2026-10-01",
+        "TotalAmt": 12.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3009",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 12.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6009",
+        "VendorRef": {
+          "value": "212",
+          "name": "Dropbox Inc."
+        },
+        "TxnDate": "2026-10-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3010",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6010",
+        "VendorRef": {
+          "value": "213",
+          "name": "Adobe Inc."
+        },
+        "TxnDate": "2026-10-01",
+        "TotalAmt": 19.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3011",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 19.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6011",
+        "VendorRef": {
+          "value": "215",
+          "name": "Spotify Premium"
+        },
+        "TxnDate": "2026-10-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3012",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6012",
+        "VendorRef": {
+          "value": "211",
+          "name": "Notion Labs Inc."
+        },
+        "TxnDate": "2026-11-01",
+        "TotalAmt": 12.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3013",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 12.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6013",
+        "VendorRef": {
+          "value": "212",
+          "name": "Dropbox Inc."
+        },
+        "TxnDate": "2026-11-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3014",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6014",
+        "VendorRef": {
+          "value": "213",
+          "name": "Adobe Inc."
+        },
+        "TxnDate": "2026-11-01",
+        "TotalAmt": 19.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3015",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 19.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6015",
+        "VendorRef": {
+          "value": "215",
+          "name": "Spotify Premium"
+        },
+        "TxnDate": "2026-11-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3016",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6016",
+        "VendorRef": {
+          "value": "211",
+          "name": "Notion Labs Inc."
+        },
+        "TxnDate": "2026-12-01",
+        "TotalAmt": 12.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3017",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 12.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6017",
+        "VendorRef": {
+          "value": "212",
+          "name": "Dropbox Inc."
+        },
+        "TxnDate": "2026-12-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3018",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6018",
+        "VendorRef": {
+          "value": "213",
+          "name": "Adobe Inc."
+        },
+        "TxnDate": "2026-12-01",
+        "TotalAmt": 19.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3019",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 19.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6019",
+        "VendorRef": {
+          "value": "215",
+          "name": "Spotify Premium"
+        },
+        "TxnDate": "2026-12-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3020",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6020",
+        "VendorRef": {
+          "value": "211",
+          "name": "Notion Labs Inc."
+        },
+        "TxnDate": "2027-01-01",
+        "TotalAmt": 12.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3021",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 12.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6021",
+        "VendorRef": {
+          "value": "212",
+          "name": "Dropbox Inc."
+        },
+        "TxnDate": "2027-01-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3022",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6022",
+        "VendorRef": {
+          "value": "213",
+          "name": "Adobe Inc."
+        },
+        "TxnDate": "2027-01-01",
+        "TotalAmt": 19.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3023",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 19.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6023",
+        "VendorRef": {
+          "value": "215",
+          "name": "Spotify Premium"
+        },
+        "TxnDate": "2027-01-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3024",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6024",
+        "VendorRef": {
+          "value": "211",
+          "name": "Notion Labs Inc."
+        },
+        "TxnDate": "2027-02-01",
+        "TotalAmt": 12.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3025",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 12.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6025",
+        "VendorRef": {
+          "value": "212",
+          "name": "Dropbox Inc."
+        },
+        "TxnDate": "2027-02-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3026",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6026",
+        "VendorRef": {
+          "value": "213",
+          "name": "Adobe Inc."
+        },
+        "TxnDate": "2027-02-01",
+        "TotalAmt": 19.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3027",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 19.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6027",
+        "VendorRef": {
+          "value": "215",
+          "name": "Spotify Premium"
+        },
+        "TxnDate": "2027-02-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3028",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6028",
+        "VendorRef": {
+          "value": "211",
+          "name": "Notion Labs Inc."
+        },
+        "TxnDate": "2027-03-01",
+        "TotalAmt": 12.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3029",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 12.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6029",
+        "VendorRef": {
+          "value": "212",
+          "name": "Dropbox Inc."
+        },
+        "TxnDate": "2027-03-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3030",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6030",
+        "VendorRef": {
+          "value": "213",
+          "name": "Adobe Inc."
+        },
+        "TxnDate": "2027-03-01",
+        "TotalAmt": 19.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3031",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 19.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6031",
+        "VendorRef": {
+          "value": "215",
+          "name": "Spotify Premium"
+        },
+        "TxnDate": "2027-03-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3032",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6032",
+        "VendorRef": {
+          "value": "211",
+          "name": "Notion Labs Inc."
+        },
+        "TxnDate": "2027-04-01",
+        "TotalAmt": 12.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3033",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 12.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6033",
+        "VendorRef": {
+          "value": "212",
+          "name": "Dropbox Inc."
+        },
+        "TxnDate": "2027-04-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3034",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6034",
+        "VendorRef": {
+          "value": "213",
+          "name": "Adobe Inc."
+        },
+        "TxnDate": "2027-04-01",
+        "TotalAmt": 19.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3035",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 19.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6035",
+        "VendorRef": {
+          "value": "215",
+          "name": "Spotify Premium"
+        },
+        "TxnDate": "2027-04-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3036",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6036",
+        "VendorRef": {
+          "value": "211",
+          "name": "Notion Labs Inc."
+        },
+        "TxnDate": "2027-05-01",
+        "TotalAmt": 12.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3037",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 12.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6037",
+        "VendorRef": {
+          "value": "212",
+          "name": "Dropbox Inc."
+        },
+        "TxnDate": "2027-05-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3038",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6038",
+        "VendorRef": {
+          "value": "213",
+          "name": "Adobe Inc."
+        },
+        "TxnDate": "2027-05-01",
+        "TotalAmt": 19.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3039",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 19.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6039",
+        "VendorRef": {
+          "value": "215",
+          "name": "Spotify Premium"
+        },
+        "TxnDate": "2027-05-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3040",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6040",
+        "VendorRef": {
+          "value": "211",
+          "name": "Notion Labs Inc."
+        },
+        "TxnDate": "2027-06-01",
+        "TotalAmt": 12.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3041",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 12.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6041",
+        "VendorRef": {
+          "value": "212",
+          "name": "Dropbox Inc."
+        },
+        "TxnDate": "2027-06-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3042",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6042",
+        "VendorRef": {
+          "value": "213",
+          "name": "Adobe Inc."
+        },
+        "TxnDate": "2027-06-01",
+        "TotalAmt": 19.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3043",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 19.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6043",
+        "VendorRef": {
+          "value": "215",
+          "name": "Spotify Premium"
+        },
+        "TxnDate": "2027-06-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3044",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6044",
+        "VendorRef": {
+          "value": "211",
+          "name": "Notion Labs Inc."
+        },
+        "TxnDate": "2027-07-01",
+        "TotalAmt": 12.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3045",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 12.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6045",
+        "VendorRef": {
+          "value": "212",
+          "name": "Dropbox Inc."
+        },
+        "TxnDate": "2027-07-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3046",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6046",
+        "VendorRef": {
+          "value": "213",
+          "name": "Adobe Inc."
+        },
+        "TxnDate": "2027-07-01",
+        "TotalAmt": 19.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3047",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 19.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6047",
+        "VendorRef": {
+          "value": "215",
+          "name": "Spotify Premium"
+        },
+        "TxnDate": "2027-07-01",
+        "TotalAmt": 11.99,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3048",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 11.99
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6048",
+        "VendorRef": {
+          "value": "200",
+          "name": "Internal Revenue Service"
+        },
+        "TxnDate": "2026-03-15",
+        "TotalAmt": 1800.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3049",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 1800.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6049",
+        "VendorRef": {
+          "value": "200",
+          "name": "Internal Revenue Service"
+        },
+        "TxnDate": "2027-01-15",
+        "TotalAmt": 1800.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3050",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 1800.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6050",
+        "VendorRef": {
+          "value": "200",
+          "name": "Internal Revenue Service"
+        },
+        "TxnDate": "2027-04-15",
+        "TotalAmt": 1800.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3051",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 1800.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6051",
+        "VendorRef": {
+          "value": "201",
+          "name": "New Jersey Division of Taxation"
+        },
+        "TxnDate": "2026-03-15",
+        "TotalAmt": 380.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3052",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 380.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6052",
+        "VendorRef": {
+          "value": "201",
+          "name": "New Jersey Division of Taxation"
+        },
+        "TxnDate": "2027-01-15",
+        "TotalAmt": 380.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3053",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 380.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6053",
+        "VendorRef": {
+          "value": "201",
+          "name": "New Jersey Division of Taxation"
+        },
+        "TxnDate": "2027-04-15",
+        "TotalAmt": 380.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3054",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 380.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6054",
+        "VendorRef": {
+          "value": "209",
+          "name": "International Society for Computational Biology (ISCB)"
+        },
+        "TxnDate": "2026-03-01",
+        "TotalAmt": 195.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3055",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 195.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      },
+      {
+        "Id": "6055",
+        "VendorRef": {
+          "value": "210",
+          "name": "American Society for Cell Biology (ASCB)"
+        },
+        "TxnDate": "2026-10-01",
+        "TotalAmt": 240.0,
+        "Line": [
+          {
+            "LinkedTxn": [
+              {
+                "TxnId": "3056",
+                "TxnType": "Bill"
+              }
+            ],
+            "Amount": 240.0
+          }
+        ],
+        "PayType": "CreditCard",
+        "CheckPayment": {
+          "BankAccountRef": {
+            "name": "Ridgecrest Community Bank - Checking"
+          }
+        },
+        "PrivateNote": "Paid via credit card auto-charge, cleared to Ridgecrest."
+      }
+    ]
+  }
+}

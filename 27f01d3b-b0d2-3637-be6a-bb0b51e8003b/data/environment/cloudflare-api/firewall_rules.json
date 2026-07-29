@@ -1,0 +1,202 @@
+[
+  {
+    "id": "fw0001aaaa",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Block known bad bots",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": false,
+    "priority": 1,
+    "created_on": "2024-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "fw0002bbbb",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Challenge high threat score",
+    "action": "challenge",
+    "expression": "(cf.threat_score gt 25)",
+    "paused": false,
+    "priority": 2,
+    "created_on": "2024-10-10T10:05:00.000Z"
+  },
+  {
+    "id": "fw0003cccc",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Allow trusted search engine crawlers",
+    "action": "allow",
+    "expression": "(cf.verified_bot_category eq \"Search Engine\")",
+    "paused": false,
+    "priority": 3,
+    "created_on": "2024-10-15T10:00:00.000Z"
+  },
+  {
+    "id": "fw0001aaaa_p001",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Sofia asked about the winter choir concert \u2014 logistics locked in.",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": false,
+    "priority": 1,
+    "created_on": "2024-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "fw0002bbbb_p002",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Frank sent notes on the Coltrane transcription \u2014 apply on Sunday.",
+    "action": "challenge",
+    "expression": "(cf.threat_score gt 25)",
+    "paused": false,
+    "priority": 2,
+    "created_on": "2024-10-10T10:05:00.000Z"
+  },
+  {
+    "id": "fw0003cccc_p003",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Tomoko rescheduled the Tuesday rehearsal to 7:15.",
+    "action": "allow",
+    "expression": "(cf.verified_bot_category eq \"Search Engine\")",
+    "paused": false,
+    "priority": 3,
+    "created_on": "2024-10-15T10:00:00.000Z"
+  },
+  {
+    "id": "fw0001aaaa_p004",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Payroll ran clean this month \u2014 expenses within budget.",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": false,
+    "priority": 1,
+    "created_on": "2024-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "fw0002bbbb_p005",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "The Phoenix booking pushed to the following Saturday; confirmed with the band.",
+    "action": "challenge",
+    "expression": "(cf.threat_score gt 25)",
+    "paused": false,
+    "priority": 2,
+    "created_on": "2024-10-10T10:05:00.000Z"
+  },
+  {
+    "id": "fw0003cccc_p006",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Enrollment inquiry from a parent for beginner alto \u2014 offer trial slot.",
+    "action": "allow",
+    "expression": "(cf.verified_bot_category eq \"Search Engine\")",
+    "paused": false,
+    "priority": 3,
+    "created_on": "2024-10-15T10:00:00.000Z"
+  },
+  {
+    "id": "fw0001aaaa_p007",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Dante's drum kit needs new heads before the recital.",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": false,
+    "priority": 1,
+    "created_on": "2024-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "fw0002bbbb_p008",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Recorded a rough take of the ballad \u2014 needs another pass on the head-out.",
+    "action": "challenge",
+    "expression": "(cf.threat_score gt 25)",
+    "paused": false,
+    "priority": 2,
+    "created_on": "2024-10-10T10:05:00.000Z"
+  },
+  {
+    "id": "fw0003cccc_p009",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Reviewed the summer camp roster \u2014 18 confirmed, 2 waitlist.",
+    "action": "allow",
+    "expression": "(cf.verified_bot_category eq \"Search Engine\")",
+    "paused": false,
+    "priority": 3,
+    "created_on": "2024-10-15T10:00:00.000Z"
+  },
+  {
+    "id": "fw0001aaaa_p010",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Second album pre-production: 6 tunes committed, 4 still under discussion.",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": false,
+    "priority": 1,
+    "created_on": "2024-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "fw0002bbbb_p011",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "5th Anniversary Showcase run-of-show draft complete.",
+    "action": "challenge",
+    "expression": "(cf.threat_score gt 25)",
+    "paused": false,
+    "priority": 2,
+    "created_on": "2024-10-10T10:05:00.000Z"
+  },
+  {
+    "id": "fw0003cccc_p012",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Confirmed the lesson slot with the parent \u2014 Tuesday 4pm.",
+    "action": "allow",
+    "expression": "(cf.verified_bot_category eq \"Search Engine\")",
+    "paused": false,
+    "priority": 3,
+    "created_on": "2024-10-15T10:00:00.000Z"
+  },
+  {
+    "id": "fw0001aaaa_p013",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Ray suggested tightening the bridge on the fifth chart before the Spotlight Room date.",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": false,
+    "priority": 1,
+    "created_on": "2024-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "fw0002bbbb_p014",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Claire flagged that we need a substitute for Thursday's ensemble.",
+    "action": "challenge",
+    "expression": "(cf.threat_score gt 25)",
+    "paused": false,
+    "priority": 2,
+    "created_on": "2024-10-10T10:05:00.000Z"
+  },
+  {
+    "id": "fw0003cccc_p015",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Sofia asked about the winter choir concert \u2014 logistics locked in.",
+    "action": "allow",
+    "expression": "(cf.verified_bot_category eq \"Search Engine\")",
+    "paused": false,
+    "priority": 3,
+    "created_on": "2024-10-15T10:00:00.000Z"
+  },
+  {
+    "id": "fw0001aaaa_p016",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Frank sent notes on the Coltrane transcription \u2014 apply on Sunday.",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": false,
+    "priority": 1,
+    "created_on": "2024-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "fw0002bbbb_p017",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "description": "Tomoko rescheduled the Tuesday rehearsal to 7:15.",
+    "action": "challenge",
+    "expression": "(cf.threat_score gt 25)",
+    "paused": false,
+    "priority": 2,
+    "created_on": "2024-10-10T10:05:00.000Z"
+  }
+]

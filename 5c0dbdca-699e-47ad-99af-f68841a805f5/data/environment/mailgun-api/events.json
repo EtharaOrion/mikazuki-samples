@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ev_0001",
+    "domain": "mg.crossroadsconservatory.com",
+    "message_id": "20260218160012.1.A1B2C3D4E5F6@mg.crossroadsconservatory.com",
+    "event": "accepted",
+    "recipient": "teresa.nolan@gmail.com",
+    "timestamp": "2026-02-18T16:00:12Z",
+    "reason": "Jessica Webb"
+  },
+  {
+    "id": "ev_0002",
+    "domain": "mg.crossroadsconservatory.com",
+    "message_id": "20260218160012.1.A1B2C3D4E5F6@mg.crossroadsconservatory.com",
+    "event": "delivered",
+    "recipient": "teresa.nolan@gmail.com",
+    "timestamp": "2026-02-18T16:00:18Z",
+    "reason": "Jessica Webb"
+  },
+  {
+    "id": "ev_0003",
+    "domain": "mg.crossroadsconservatory.com",
+    "message_id": "20260218160012.1.A1B2C3D4E5F6@mg.crossroadsconservatory.com",
+    "event": "opened",
+    "recipient": "teresa.nolan@gmail.com",
+    "timestamp": "2026-02-18T16:42:10Z",
+    "reason": "Jessica Webb"
+  },
+  {
+    "id": "ev_0004",
+    "domain": "mg.crossroadsconservatory.com",
+    "message_id": "20260105140012.5.E5F6A7B8C9D0@mg.crossroadsconservatory.com",
+    "event": "accepted",
+    "recipient": "patty.walsh@yahoo.com",
+    "timestamp": "2026-01-05T14:00:12Z",
+    "reason": "Jessica Webb"
+  },
+  {
+    "id": "ev_0005",
+    "domain": "mg.crossroadsconservatory.com",
+    "message_id": "20260105140012.5.E5F6A7B8C9D0@mg.crossroadsconservatory.com",
+    "event": "delivered",
+    "recipient": "patty.walsh@yahoo.com",
+    "timestamp": "2026-01-05T14:00:20Z",
+    "reason": "Jessica Webb"
+  },
+  {
+    "id": "ev_0006",
+    "domain": "mg.crossroadsconservatory.com",
+    "message_id": "20260105140015.6.F6A7B8C9D0E1@mg.crossroadsconservatory.com",
+    "event": "accepted",
+    "recipient": "monica.reyes@gmail.com",
+    "timestamp": "2026-01-05T14:00:15Z",
+    "reason": "Jessica Webb"
+  },
+  {
+    "id": "ev_0007",
+    "domain": "mg.crossroadsconservatory.com",
+    "message_id": "20260105140015.6.F6A7B8C9D0E1@mg.crossroadsconservatory.com",
+    "event": "failed",
+    "recipient": "monica.reyes@gmail.com",
+    "timestamp": "2026-01-05T14:00:22Z",
+    "reason": "550 5.1.1 Recipient address rejected: mailbox unavailable"
+  },
+  {
+    "id": "ev_0008",
+    "domain": "mg.crossroadsconservatory.com",
+    "message_id": "20260120121500.3.C3D4E5F6A7B8@mg.crossroadsconservatory.com",
+    "event": "accepted",
+    "recipient": "carmen.diaz@outlook.com",
+    "timestamp": "2026-01-20T12:15:00Z",
+    "reason": "Jessica Webb"
+  },
+  {
+    "id": "ev_0009",
+    "domain": "mg.crossroadsconservatory.com",
+    "message_id": "20260120121500.3.C3D4E5F6A7B8@mg.crossroadsconservatory.com",
+    "event": "delivered",
+    "recipient": "carmen.diaz@outlook.com",
+    "timestamp": "2026-01-20T12:15:10Z",
+    "reason": "Jessica Webb"
+  },
+  {
+    "id": "ev_0010",
+    "domain": "mg.crossroadsconservatory.com",
+    "message_id": "20260114142200.4.D4E5F6A7B8C9@mg.crossroadsconservatory.com",
+    "event": "accepted",
+    "recipient": "greg.naylor@gmail.com",
+    "timestamp": "2026-01-14T14:22:00Z",
+    "reason": "Jessica Webb"
+  },
+  {
+    "id": "ev_0011",
+    "domain": "mg.crossroadsconservatory.com",
+    "message_id": "20260114142200.4.D4E5F6A7B8C9@mg.crossroadsconservatory.com",
+    "event": "delivered",
+    "recipient": "greg.naylor@gmail.com",
+    "timestamp": "2026-01-14T14:22:08Z",
+    "reason": "Jessica Webb"
+  },
+  {
+    "id": "ev_0012",
+    "domain": "mg.crossroadsconservatory.com",
+    "message_id": "20260310091020.7.A7B8C9D0E1F2@mg.crossroadsconservatory.com",
+    "event": "accepted",
+    "recipient": "angela.brooks@gmail.com",
+    "timestamp": "2026-03-10T09:10:20Z",
+    "reason": "Jessica Webb"
+  },
+  {
+    "id": "ev_0014",
+    "domain": "mg.crossroadsconservatory.com",
+    "message_id": "Frank sent notes on the Coltrane transcription \u2014 apply on Sunday.",
+    "event": "failed",
+    "recipient": "monica.reyes@gmail.com",
+    "timestamp": "2026-01-05T14:00:22Z",
+    "reason": "550 5.1.1 Recipient address rejected: mailbox unavailable"
+  },
+  {
+    "id": "ev_0016",
+    "domain": "mg.crossroadsconservatory.com",
+    "message_id": "Tomoko rescheduled the Tuesday rehearsal to 7:15.",
+    "event": "accepted",
+    "recipient": "carmen.diaz@outlook.com",
+    "timestamp": "2026-01-20T12:15:00Z",
+    "reason": "Jessica Webb"
+  }
+]

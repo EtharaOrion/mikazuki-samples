@@ -1,0 +1,722 @@
+[
+  {
+    "author_id": "contact-001",
+    "author_type": "user",
+    "body": "Westbrook just called - Anna left her history project on the kitchen counter. Can you run it over before 10? I'm stuck in a client meeting til noon.",
+    "conversation_id": "conv-001",
+    "created_at": "2026-06-28T06:57:57+00:00",
+    "id": "part-001-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "I'm 40 minutes into my focus block but yes, I'll go. Tell them 9:45. This is the second time this month.",
+    "conversation_id": "conv-001",
+    "created_at": "2026-06-22T10:00:14+00:00",
+    "id": "part-001-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-001",
+    "author_type": "user",
+    "body": "I know, I know. Also Karen texted, wants to do lunch Thursday in Thornfield. You free?",
+    "conversation_id": "conv-001",
+    "created_at": "2026-06-24T19:13:29+00:00",
+    "id": "part-001-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Thursday works after 1. Tell her the new place on Marlowe St, not the faculty club. I'm done running into colleagues on my off hours.",
+    "conversation_id": "conv-001",
+    "created_at": "2026-06-27T18:51:19+00:00",
+    "id": "part-001-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-002",
+    "author_type": "user",
+    "body": "Just dropped you and realized I forgot to mention - Dad's doing pickup today. I have a 4pm lab meeting and I can't leave the sequence analysis mid-run. Text him directly if anything comes up.",
+    "conversation_id": "conv-002",
+    "created_at": "2026-06-25T08:07:01+00:00",
+    "id": "part-002-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "ok but can u PLEASE tell him not to be late again 😭 also can i go to Maya's after school?",
+    "conversation_id": "conv-002",
+    "created_at": "2026-06-25T01:03:30+00:00",
+    "id": "part-002-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-002",
+    "author_type": "user",
+    "body": "I'll remind him. Maya's is fine but be home by 7, Karen's coming over and I'll need an extra set of hands setting up.",
+    "conversation_id": "conv-002",
+    "created_at": "2026-06-26T02:54:55+00:00",
+    "id": "part-002-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "omg Karen?? yes I'll definitely be home, she always brings those cookies 😭 ok see you at 7",
+    "conversation_id": "conv-002",
+    "created_at": "2026-06-28T02:46:06+00:00",
+    "id": "part-002-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-003",
+    "author_type": "user",
+    "body": "Anna's science fair is next Thursday at Westbrook Academy. She built an age-appropriate CRISPR model for it. Thought you'd want to know, given it's technically your granddaughter doing your daughter's job.",
+    "conversation_id": "conv-003",
+    "created_at": "2026-06-21T19:11:32+00:00",
+    "id": "part-003-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Ha! I'll be there. Should I drive up to Thornfield Wednesday night or Thursday morning? Is Steve around?",
+    "conversation_id": "conv-003",
+    "created_at": "2026-06-28T01:24:09+00:00",
+    "id": "part-003-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-003",
+    "author_type": "user",
+    "body": "Thursday morning is fine, presentation's at 10. Steve's making dinner after so plan to stay - Anna's been asking when you're visiting anyway.",
+    "conversation_id": "conv-003",
+    "created_at": "2026-06-27T23:32:44+00:00",
+    "id": "part-003-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Perfect. Tell her grandfather expects a full debrief on the methodology. Proud of her 🧬",
+    "conversation_id": "conv-003",
+    "created_at": "2026-06-29T00:36:27+00:00",
+    "id": "part-003-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-004",
+    "author_type": "user",
+    "body": "Did Anna's last day at Westbrook go alright? She texted me three crying emojis and I couldn't tell if that was good crying or bad crying 😅",
+    "conversation_id": "conv-004",
+    "created_at": "2026-06-27T03:19:49+00:00",
+    "id": "part-004-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Situational crying, said goodbye to her teacher, recovered in under five minutes, then immediately lobbied for a hamster. Steve is already wavering, which I am monitoring closely.",
+    "conversation_id": "conv-004",
+    "created_at": "2026-06-22T18:25:17+00:00",
+    "id": "part-004-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-004",
+    "author_type": "user",
+    "body": "Oh he'll cave, you know he will lol. Are you done with that grant yet or are you still barricading yourself in your office every morning before Anna's even awake?",
+    "conversation_id": "conv-004",
+    "created_at": "2026-06-29T10:30:19+00:00",
+    "id": "part-004-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Draft due Friday. The morning blocks are holding but barely. Should be an actual human being again by the weekend.",
+    "conversation_id": "conv-004",
+    "created_at": "2026-06-27T09:53:46+00:00",
+    "id": "part-004-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-005",
+    "author_type": "user",
+    "body": "Did Anna's Westbrook end-of-year thing happen yet? Was hoping to catch it if there's still something coming up 😬",
+    "conversation_id": "conv-005",
+    "created_at": "2026-06-21T03:08:44+00:00",
+    "id": "part-005-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "It was Thursday. She played two pieces in the string ensemble. Held her own against the 8th graders. Steve cried, obviously.",
+    "conversation_id": "conv-005",
+    "created_at": "2026-06-29T08:47:39+00:00",
+    "id": "part-005-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-005",
+    "author_type": "user",
+    "body": "OF COURSE he did 😂 wish I'd been there. Is she home all summer or does she have camp?",
+    "conversation_id": "conv-005",
+    "created_at": "2026-06-25T20:03:06+00:00",
+    "id": "part-005-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Two weeks of her underfoot, then three weeks at science camp in Vermont. My deep focus blocks are already under negotiation.",
+    "conversation_id": "conv-005",
+    "created_at": "2026-06-26T11:18:00+00:00",
+    "id": "part-005-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-006",
+    "author_type": "user",
+    "body": "Anna got 2nd place at the Westbrook science fair today. She's devastated. Steve bought a cake that says 'You Tried' on it and I have told him that is not helping.",
+    "conversation_id": "conv-006",
+    "created_at": "2026-06-28T05:14:37+00:00",
+    "id": "part-006-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "LMAO Steve 😭 is she actually upset or is this a 20-minute thing",
+    "conversation_id": "conv-006",
+    "created_at": "2026-06-25T18:31:53+00:00",
+    "id": "part-006-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-006",
+    "author_type": "user",
+    "body": "She cried through dinner and then asked me to teach her proteomics so she can 'destroy everyone next year.' I suggested she start with the cell cycle.",
+    "conversation_id": "conv-006",
+    "created_at": "2026-06-25T20:32:50+00:00",
+    "id": "part-006-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "honestly that's the most you response possible. she is going to be you in 20 years, Thornfield's scariest computational biologist 😂",
+    "conversation_id": "conv-006",
+    "created_at": "2026-06-26T10:33:41+00:00",
+    "id": "part-006-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-007",
+    "author_type": "user",
+    "body": "Pipeline finished overnight - alignment rates on the new HeLa batch are worse than March, ~62% vs 78%. Before we flag it with the consortium, did you adjust the trimming params last week?",
+    "conversation_id": "conv-007",
+    "created_at": "2026-06-23T15:56:44+00:00",
+    "id": "part-007-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Oh, yes, I bumped quality cutoff to Q30 for the resubmission. Almost certainly explains it. Want me to rerun with Q20 and diff the outputs?",
+    "conversation_id": "conv-007",
+    "created_at": "2026-06-26T08:57:54+00:00",
+    "id": "part-007-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-007",
+    "author_type": "user",
+    "body": "Yes, pull the flagged reads too. I've got Anna's pickup at 3 so I'm out of my focus block after that. I can review whatever you push tonight.",
+    "conversation_id": "conv-007",
+    "created_at": "2026-06-29T00:15:11+00:00",
+    "id": "part-007-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Done by 2 easily. I'll commit to the shared repo and drop you the run log. 🧬",
+    "conversation_id": "conv-007",
+    "created_at": "2026-06-24T10:53:56+00:00",
+    "id": "part-007-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-008",
+    "author_type": "user",
+    "body": "The DESeq2 run finished overnight - cluster 4 is showing strong upregulation in all three replicates but only in the Thornfield cohort samples. Might be a batch effect or something real. Worth a look before I push to the manuscript?",
+    "conversation_id": "conv-008",
+    "created_at": "2026-06-25T14:32:02+00:00",
+    "id": "part-008-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Don't push anything yet. Check the PCA first, if the Thornfield samples are separating on PC2 we have a confound, not a finding. Send me the variance-stabilized counts when you have them.",
+    "conversation_id": "conv-008",
+    "created_at": "2026-06-27T23:05:17+00:00",
+    "id": "part-008-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-008",
+    "author_type": "user",
+    "body": "PCA incoming. Also the Haverstone core is asking about sequencing order metadata, apparently it wasn't in the submission? I can chase that down if you're in your morning block.",
+    "conversation_id": "conv-008",
+    "created_at": "2026-06-28T03:06:52+00:00",
+    "id": "part-008-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Yes, handle it. Metadata should be in the shared drive under /raw/batch_info. If it's not there email Priya at the core directly. Don't let it stall the resubmission.",
+    "conversation_id": "conv-008",
+    "created_at": "2026-06-25T05:40:33+00:00",
+    "id": "part-008-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-009",
+    "author_type": "user",
+    "body": "Hey Dorothy - DE pipeline for the Thornfield cohort just finished. FDR cutoffs are behaving strangely in the 14q22 window specifically. Worth a look before the 2pm slot?",
+    "conversation_id": "conv-009",
+    "created_at": "2026-06-21T14:34:34+00:00",
+    "id": "part-009-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "In my focus block until noon, nothing scheduled before then. Flag the 14q22 loci and I'll pull the QC plots myself. Did you check whether batch correction ran cleanly?",
+    "conversation_id": "conv-009",
+    "created_at": "2026-06-27T18:34:03+00:00",
+    "id": "part-009-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-009",
+    "author_type": "user",
+    "body": "Batch looks fine. Think it's the housekeeping gene normalization. Three references overlap that window and they're pulling the thresholds. Might need GENCODE v45.",
+    "conversation_id": "conv-009",
+    "created_at": "2026-06-24T15:17:15+00:00",
+    "id": "part-009-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Swap the annotation and rerun that region only. We'll go through it at 2. Archive the original run - don't overwrite it.",
+    "conversation_id": "conv-009",
+    "created_at": "2026-06-27T17:49:15+00:00",
+    "id": "part-009-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-010",
+    "author_type": "user",
+    "body": "Wei, your batch correction script is collapsing the Thornfield cohort samples with the controls again. Third time this month. Fix the sample ID filter before I look at the updated PCA tomorrow morning.",
+    "conversation_id": "conv-010",
+    "created_at": "2026-06-22T09:40:16+00:00",
+    "id": "part-010-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Oh no, I thought I caught that. Is it the metadata CSV or the script itself?",
+    "conversation_id": "conv-010",
+    "created_at": "2026-06-23T04:39:52+00:00",
+    "id": "part-010-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-010",
+    "author_type": "user",
+    "body": "Script. The regex isn't anchoring on cohort prefix. Check lines 47-52. I need the corrected output before 8am; Anna's school run isn't movable and I want to review before I leave.",
+    "conversation_id": "conv-010",
+    "created_at": "2026-06-25T07:18:43+00:00",
+    "id": "part-010-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "On it right now, really sorry. I'll push the fix to the repo by 7:30 so you have time to check it.",
+    "conversation_id": "conv-010",
+    "created_at": "2026-06-23T09:19:59+00:00",
+    "id": "part-010-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-011",
+    "author_type": "user",
+    "body": "Dorothy - Anna absolutely nailed the fouetté sequence in Thursday's class. She's been so consistent lately. Whatever you two are doing at home, keep it up 🩰",
+    "conversation_id": "conv-011",
+    "created_at": "2026-06-22T19:16:20+00:00",
+    "id": "part-011-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "That's good to hear. She's been drilling it in the kitchen every morning before we leave for Westbrook, Steve nearly lost a coffee mug on Tuesday.",
+    "conversation_id": "conv-011",
+    "created_at": "2026-06-28T22:34:29+00:00",
+    "id": "part-011-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-011",
+    "author_type": "user",
+    "body": "Ha! Worth the sacrifice. I'd like to move her to the intermediate group in September if she keeps this up. Wanted to flag it before summer break starts.",
+    "conversation_id": "conv-011",
+    "created_at": "2026-06-26T16:35:12+00:00",
+    "id": "part-011-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Noted, she'll be pleased. Send the fall schedule when you have it and I'll work it around my research blocks. Thursdays are usually manageable.",
+    "conversation_id": "conv-011",
+    "created_at": "2026-06-29T19:25:01+00:00",
+    "id": "part-011-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-012",
+    "author_type": "user",
+    "body": "Dorothy - following up on Anna's throat culture from yesterday. Results just came back negative for strep, so likely viral. Keep her home from Westbrook one more day and push fluids.",
+    "conversation_id": "conv-012",
+    "created_at": "2026-06-22T15:23:50+00:00",
+    "id": "part-012-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Good to know, I assumed viral given the absence of exudate, but wanted confirmation before sending her back. She's been afebrile since this morning, so I'll reassess tomorrow.",
+    "conversation_id": "conv-012",
+    "created_at": "2026-06-29T19:19:12+00:00",
+    "id": "part-012-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-012",
+    "author_type": "user",
+    "body": "Exactly right. If fever returns or she's not eating by Thursday, bring her in. Otherwise you're fine. Hope your research block isn't too disrupted!",
+    "conversation_id": "conv-012",
+    "created_at": "2026-06-22T23:58:09+00:00",
+    "id": "part-012-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "It's survivable. Computational biology waits, Anna doesn't. Thanks, Anita.",
+    "conversation_id": "conv-012",
+    "created_at": "2026-06-28T08:56:02+00:00",
+    "id": "part-012-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-013",
+    "author_type": "user",
+    "body": "Lisa. Any chance you have a slot Thursday after 3? Anna has her spring recital at Westbrook Friday morning and I'd rather not stack appointments that week.",
+    "conversation_id": "conv-013",
+    "created_at": "2026-06-22T23:24:42+00:00",
+    "id": "part-013-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Thursday at 3:30 is open! I can move you from your usual Tuesday. Full hour?",
+    "conversation_id": "conv-013",
+    "created_at": "2026-06-26T11:39:09+00:00",
+    "id": "part-013-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-013",
+    "author_type": "user",
+    "body": "3:30 works. Full hour, yes - I've been back at the standing desk configuration Steve keeps insisting I have no problem with.",
+    "conversation_id": "conv-013",
+    "created_at": "2026-06-24T23:31:08+00:00",
+    "id": "part-013-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Ha. Noted. See you Thursday 👍",
+    "conversation_id": "conv-013",
+    "created_at": "2026-06-26T19:42:42+00:00",
+    "id": "part-013-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-014",
+    "author_type": "user",
+    "body": "RNA-seq results just dropped into the shared drive, prelim QC looks clean, >90% mapping across all 12 samples. Want me to flag anything before your focus block kicks in?",
+    "conversation_id": "conv-014",
+    "created_at": "2026-06-25T13:12:31+00:00",
+    "id": "part-014-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Don't flag, just run FastQC on the batch 2 outlier and leave the summary in the usual folder. I'll pull it up after I drop Anna at Westbrook.",
+    "conversation_id": "conv-014",
+    "created_at": "2026-06-25T14:27:14+00:00",
+    "id": "part-014-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-014",
+    "author_type": "user",
+    "body": "On it. Also the Illumina rep wants to reschedule the NovaSeq demo. Proposing Thursday 10am. Doesn't that conflict with your Haverstone seminar slot?",
+    "conversation_id": "conv-014",
+    "created_at": "2026-06-27T21:06:43+00:00",
+    "id": "part-014-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "It does. Tuesday afternoon works if they can accommodate it. If not, they're welcome to demo to someone with a more flexible calendar.",
+    "conversation_id": "conv-014",
+    "created_at": "2026-06-28T21:17:45+00:00",
+    "id": "part-014-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-015",
+    "author_type": "user",
+    "body": "Priya - the STAR alignment output from last night's run, did you check the mapping rates for samples 7 and 12? They looked low when I skimmed the log this morning before dropping Anna off.",
+    "conversation_id": "conv-015",
+    "created_at": "2026-06-29T08:41:43+00:00",
+    "id": "part-015-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Yes! Both under 65%, I think it's the rRNA contamination we flagged last month. Rerunning with the updated blacklist now, should have cleaner output by noon.",
+    "conversation_id": "conv-015",
+    "created_at": "2026-06-22T06:40:12+00:00",
+    "id": "part-015-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-015",
+    "author_type": "user",
+    "body": "Good. Document it in the methods log either way. Karen Sutherland's lab is using the same library prep kit and if it's a batch issue they'll need to know.",
+    "conversation_id": "conv-015",
+    "created_at": "2026-06-23T22:17:32+00:00",
+    "id": "part-015-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Will do. Should I email Dr. Sutherland directly or route it through you first?",
+    "conversation_id": "conv-015",
+    "created_at": "2026-06-23T08:32:13+00:00",
+    "id": "part-015-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-016",
+    "author_type": "user",
+    "body": "Daniel - the RNA-seq alignment output from Friday's run has ~22% unmapped reads in the cortex samples. That's well above threshold. Check the trimming parameters before I get to it this afternoon.",
+    "conversation_id": "conv-016",
+    "created_at": "2026-06-28T04:50:45+00:00",
+    "id": "part-016-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Oh no. I'll pull it up now, are you thinking adapter contamination, or could it be a mismatch with the reference index we updated last week?",
+    "conversation_id": "conv-016",
+    "created_at": "2026-06-23T01:47:17+00:00",
+    "id": "part-016-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-016",
+    "author_type": "user",
+    "body": "Adapter contamination is the more likely culprit given the library prep kit. Run FastQC on the raw files first and send me the per-base quality plots. I'm in my focus block until noon so don't wait. Just ping me if it's alarming.",
+    "conversation_id": "conv-016",
+    "created_at": "2026-06-22T01:07:49+00:00",
+    "id": "part-016-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Running FastQC now, will have the plots to you before noon. Sorry for missing this Friday - I should have flagged the QC report before the weekend.",
+    "conversation_id": "conv-016",
+    "created_at": "2026-06-23T21:47:04+00:00",
+    "id": "part-016-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-017",
+    "author_type": "user",
+    "body": "Hey Mark, Anna thinks she left her graphing calculator at your place Sunday. Karen's not answering, probably on a run. Can you check the kitchen counter? She needs it for Westbrook tomorrow.",
+    "conversation_id": "conv-017",
+    "created_at": "2026-06-26T07:11:00+00:00",
+    "id": "part-017-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Ha, found it under the couch cushion actually. Classic. Karen's at Pilates til noon. I can drop it at Westbrook on my way into the office if that helps?",
+    "conversation_id": "conv-017",
+    "created_at": "2026-06-28T14:49:09+00:00",
+    "id": "part-017-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-017",
+    "author_type": "user",
+    "body": "That works perfectly, thank you. Drop-off closes at 8:15 so before then. I owe you both.",
+    "conversation_id": "conv-017",
+    "created_at": "2026-06-26T22:30:26+00:00",
+    "id": "part-017-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Done ✓ - and tell Steve he still owes me a chess rematch 😄",
+    "conversation_id": "conv-017",
+    "created_at": "2026-06-26T20:09:28+00:00",
+    "id": "part-017-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-018",
+    "author_type": "user",
+    "body": "Raymond, Tuesday's faculty seminar at 8:30 cuts directly into Anna's drop-off at Westbrook Academy. Her spring showcase is that morning and I can't make both. Any chance we push to 10?",
+    "conversation_id": "conv-018",
+    "created_at": "2026-06-29T03:53:44+00:00",
+    "id": "part-018-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Completely forgot about the showcase. My apologies. 10am works fine, I'll update the invite. It's just the Genomics Initiative budget rundown anyway, shouldn't run long.",
+    "conversation_id": "conv-018",
+    "created_at": "2026-06-27T00:53:01+00:00",
+    "id": "part-018-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-018",
+    "author_type": "user",
+    "body": "Thank you. For the record, 8:30 meetings are a productivity crime against anyone with a school-age child. Consider this filed as ongoing departmental feedback.",
+    "conversation_id": "conv-018",
+    "created_at": "2026-06-26T22:37:19+00:00",
+    "id": "part-018-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Noted and formally recorded. See you at 10.",
+    "conversation_id": "conv-018",
+    "created_at": "2026-06-23T13:41:28+00:00",
+    "id": "part-018-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-019",
+    "author_type": "user",
+    "body": "Hey - doing pickup at Westbrook around 3:15, want me to grab Anna too? Would save you cutting your research block short.",
+    "conversation_id": "conv-019",
+    "created_at": "2026-06-25T16:43:47+00:00",
+    "id": "part-019-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Yes please. Steve's in Boston until Thursday so logistics have been tighter than usual this week. She knows to look for you.",
+    "conversation_id": "conv-019",
+    "created_at": "2026-06-29T21:10:54+00:00",
+    "id": "part-019-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-019",
+    "author_type": "user",
+    "body": "Perfect 👍 Any chance she has her soccer kit? Ellie's got practice and figured they could hang after if Anna's up for it.",
+    "conversation_id": "conv-019",
+    "created_at": "2026-06-28T19:37:37+00:00",
+    "id": "part-019-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "She does, I packed it this morning. Text me when you're back in Thornfield and I'll come collect her by 6.",
+    "conversation_id": "conv-019",
+    "created_at": "2026-06-27T15:45:29+00:00",
+    "id": "part-019-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-020",
+    "author_type": "user",
+    "body": "Dorothy. RNA-seq pipeline finished overnight. Cluster 7 expression pattern is all wrong, nothing like the TCGA controls. Worth delaying the Thornfield seminar slides to dig into this first?",
+    "conversation_id": "conv-020",
+    "created_at": "2026-06-29T00:38:37+00:00",
+    "id": "part-020-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Yes. Send me the DESeq2 output and QC report before I'm back from Westbrook drop-off - I want the volcano plots open by 8:45.",
+    "conversation_id": "conv-020",
+    "created_at": "2026-06-25T04:47:59+00:00",
+    "id": "part-020-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-020",
+    "author_type": "user",
+    "body": "Sent. Quick flag: is fig 3B in the current draft still provisional? Might need a full redraw if cluster 7 holds up under reanalysis.",
+    "conversation_id": "conv-020",
+    "created_at": "2026-06-24T00:34:42+00:00",
+    "id": "part-020-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-1",
+    "author_type": "admin",
+    "body": "Mark it provisional, don't touch the caption. I'm not rewriting figure legends twice in one week.",
+    "conversation_id": "conv-020",
+    "created_at": "2026-06-23T13:29:06+00:00",
+    "id": "part-020-4",
+    "part_type": "comment"
+  }
+]

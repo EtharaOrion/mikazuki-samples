@@ -1,0 +1,202 @@
+[
+  {
+    "Id": "1",
+    "Name": "Business Checking",
+    "AccountType": "Bank",
+    "AccountSubType": "Checking",
+    "CurrentBalance": "47250.00",
+    "Active": "true",
+    "Classification": "Asset",
+    "Description": "Operating bank account"
+  },
+  {
+    "Id": "2",
+    "Name": "Business Savings",
+    "AccountType": "Bank",
+    "AccountSubType": "Savings",
+    "CurrentBalance": "15000.00",
+    "Active": "true",
+    "Classification": "Asset",
+    "Description": "Reserve savings"
+  },
+  {
+    "Id": "3",
+    "Name": "Accounts Receivable",
+    "AccountType": "Accounts Receivable",
+    "AccountSubType": "AccountsReceivable",
+    "CurrentBalance": "8240.00",
+    "Active": "true",
+    "Classification": "Asset",
+    "Description": "Trade receivables"
+  },
+  {
+    "Id": "4",
+    "Name": "Sales Revenue",
+    "AccountType": "Income",
+    "AccountSubType": "SalesOfProductIncome",
+    "CurrentBalance": "0.00",
+    "Active": "true",
+    "Classification": "Revenue",
+    "Description": "Standard sales"
+  },
+  {
+    "Id": "5",
+    "Name": "Cost of Goods Sold",
+    "AccountType": "Cost of Goods Sold",
+    "AccountSubType": "SuppliesMaterialsCogs",
+    "CurrentBalance": "0.00",
+    "Active": "true",
+    "Classification": "Expense",
+    "Description": "COGS"
+  },
+  {
+    "Id": "6",
+    "Name": "Office Supplies",
+    "AccountType": "Expense",
+    "AccountSubType": "OfficeGeneralAdminExpenses",
+    "CurrentBalance": "0.00",
+    "Active": "true",
+    "Classification": "Expense",
+    "Description": "Office supplies"
+  },
+  {
+    "Id": "7",
+    "Name": "Software Subscriptions",
+    "AccountType": "Expense",
+    "AccountSubType": "SuppliesMaterials",
+    "CurrentBalance": "0.00",
+    "Active": "true",
+    "Classification": "Expense",
+    "Description": "SaaS spend"
+  },
+  {
+    "Id": "8",
+    "Name": "Accounts Payable",
+    "AccountType": "Accounts Payable",
+    "AccountSubType": "AccountsPayable",
+    "CurrentBalance": "2480.00",
+    "Active": "true",
+    "Classification": "Liability",
+    "Description": "Trade payables"
+  },
+  {
+    "Id": "1-p8",
+    "Name": "Business Checking",
+    "AccountType": "Bank",
+    "AccountSubType": "Checking",
+    "CurrentBalance": "47250.00",
+    "Active": "true",
+    "Classification": "Asset",
+    "Description": "Operating bank account"
+  },
+  {
+    "Id": "2-p9",
+    "Name": "Business Savings",
+    "AccountType": "Bank",
+    "AccountSubType": "Savings",
+    "CurrentBalance": "15000.00",
+    "Active": "true",
+    "Classification": "Asset",
+    "Description": "Reserve savings"
+  },
+  {
+    "Id": "3-p10",
+    "Name": "Accounts Receivable",
+    "AccountType": "Accounts Receivable",
+    "AccountSubType": "AccountsReceivable",
+    "CurrentBalance": "8240.00",
+    "Active": "true",
+    "Classification": "Asset",
+    "Description": "Trade receivables"
+  },
+  {
+    "Id": "4-p11",
+    "Name": "Sales Revenue",
+    "AccountType": "Income",
+    "AccountSubType": "SalesOfProductIncome",
+    "CurrentBalance": "0.00",
+    "Active": "true",
+    "Classification": "Revenue",
+    "Description": "Standard sales"
+  },
+  {
+    "Id": "5-p12",
+    "Name": "Cost of Goods Sold",
+    "AccountType": "Cost of Goods Sold",
+    "AccountSubType": "SuppliesMaterialsCogs",
+    "CurrentBalance": "0.00",
+    "Active": "true",
+    "Classification": "Expense",
+    "Description": "COGS"
+  },
+  {
+    "Id": "6-p13",
+    "Name": "Office Supplies",
+    "AccountType": "Expense",
+    "AccountSubType": "OfficeGeneralAdminExpenses",
+    "CurrentBalance": "0.00",
+    "Active": "true",
+    "Classification": "Expense",
+    "Description": "Office supplies"
+  },
+  {
+    "Id": "7-p14",
+    "Name": "Software Subscriptions",
+    "AccountType": "Expense",
+    "AccountSubType": "SuppliesMaterials",
+    "CurrentBalance": "0.00",
+    "Active": "true",
+    "Classification": "Expense",
+    "Description": "SaaS spend"
+  },
+  {
+    "Id": "8-p15",
+    "Name": "Accounts Payable",
+    "AccountType": "Accounts Payable",
+    "AccountSubType": "AccountsPayable",
+    "CurrentBalance": "2480.00",
+    "Active": "true",
+    "Classification": "Liability",
+    "Description": "Trade payables"
+  },
+  {
+    "Id": "1-p16",
+    "Name": "Business Checking",
+    "AccountType": "Bank",
+    "AccountSubType": "Checking",
+    "CurrentBalance": "47250.00",
+    "Active": "true",
+    "Classification": "Asset",
+    "Description": "Operating bank account"
+  },
+  {
+    "Id": "2-p17",
+    "Name": "Business Savings",
+    "AccountType": "Bank",
+    "AccountSubType": "Savings",
+    "CurrentBalance": "15000.00",
+    "Active": "true",
+    "Classification": "Asset",
+    "Description": "Reserve savings"
+  },
+  {
+    "Id": "3-p18",
+    "Name": "Accounts Receivable",
+    "AccountType": "Accounts Receivable",
+    "AccountSubType": "AccountsReceivable",
+    "CurrentBalance": "8240.00",
+    "Active": "true",
+    "Classification": "Asset",
+    "Description": "Trade receivables"
+  },
+  {
+    "Id": "4-p19",
+    "Name": "Sales Revenue",
+    "AccountType": "Income",
+    "AccountSubType": "SalesOfProductIncome",
+    "CurrentBalance": "0.00",
+    "Active": "true",
+    "Classification": "Revenue",
+    "Description": "Standard sales"
+  }
+]

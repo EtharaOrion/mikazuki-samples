@@ -1,0 +1,156 @@
+[
+  {
+    "board_id": "board-1",
+    "column_id": "status",
+    "title": "Status",
+    "type": "status",
+    "position": "0"
+  },
+  {
+    "board_id": "board-1",
+    "column_id": "owner",
+    "title": "Owner",
+    "type": "person",
+    "position": "1"
+  },
+  {
+    "board_id": "board-1",
+    "column_id": "date",
+    "title": "Date",
+    "type": "date",
+    "position": "2"
+  },
+  {
+    "board_id": "board-1",
+    "column_id": "notes",
+    "title": "Notes",
+    "type": "long-text",
+    "position": "3"
+  },
+  {
+    "board_id": "board-2",
+    "column_id": "status",
+    "title": "Status",
+    "type": "status",
+    "position": "0"
+  },
+  {
+    "board_id": "board-2",
+    "column_id": "owner",
+    "title": "Owner",
+    "type": "person",
+    "position": "1"
+  },
+  {
+    "board_id": "board-2",
+    "column_id": "date",
+    "title": "Date",
+    "type": "date",
+    "position": "2"
+  },
+  {
+    "board_id": "board-2",
+    "column_id": "notes",
+    "title": "Notes",
+    "type": "long-text",
+    "position": "3"
+  },
+  {
+    "board_id": "board-3",
+    "column_id": "status",
+    "title": "Status",
+    "type": "status",
+    "position": "0"
+  },
+  {
+    "board_id": "board-3",
+    "column_id": "owner",
+    "title": "Owner",
+    "type": "person",
+    "position": "1"
+  },
+  {
+    "board_id": "board-3",
+    "column_id": "date",
+    "title": "Date",
+    "type": "date",
+    "position": "2"
+  },
+  {
+    "board_id": "board-3",
+    "column_id": "notes",
+    "title": "Notes",
+    "type": "long-text",
+    "position": "3"
+  },
+  {
+    "board_id": "board-4",
+    "column_id": "status",
+    "title": "Condition verified",
+    "type": "status",
+    "position": "0"
+  },
+  {
+    "board_id": "board-4",
+    "column_id": "wall",
+    "title": "Wall color",
+    "type": "text",
+    "position": "1"
+  },
+  {
+    "board_id": "board-4",
+    "column_id": "floor",
+    "title": "Flooring",
+    "type": "text",
+    "position": "2"
+  },
+  {
+    "board_id": "board-4",
+    "column_id": "seating",
+    "title": "Seating",
+    "type": "text",
+    "position": "3"
+  },
+  {
+    "board_id": "board-4",
+    "column_id": "windows",
+    "title": "Daylight",
+    "type": "text",
+    "position": "4"
+  },
+  {
+    "board_id": "board-4",
+    "column_id": "cooling",
+    "title": "Cooling",
+    "type": "text",
+    "position": "5"
+  },
+  {
+    "board_id": "board-4",
+    "column_id": "door",
+    "title": "Door",
+    "type": "text",
+    "position": "6"
+  },
+  {
+    "board_id": "board-4",
+    "column_id": "owner",
+    "title": "Verified by",
+    "type": "person",
+    "position": "7"
+  },
+  {
+    "board_id": "board-4",
+    "column_id": "notes",
+    "title": "Notes",
+    "type": "long-text",
+    "position": "8"
+  },
+  {
+    "board_id": "board-4",
+    "column_id": "updated",
+    "title": "Last updated",
+    "type": "date",
+    "position": "9"
+  }
+]

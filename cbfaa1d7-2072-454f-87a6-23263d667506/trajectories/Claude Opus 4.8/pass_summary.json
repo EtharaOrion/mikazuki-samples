@@ -1,0 +1,27 @@
+{
+  "model": "claude",
+  "runs": 1,
+  "average_reward": 0.6375,
+  "average_combined_reward": 0.6375,
+  "average_rubric_reward": 0.9,
+  "average_test_reward": 0.375,
+  "average_rubric_weights_percentage": 90.0,
+  "per_run": [
+    {
+      "run_index": 1,
+      "criteria_total": 15,
+      "criteria_passed": 14,
+      "criteria_failed": 1,
+      "rubric_reward": 0.9,
+      "rubric_weights_percentage": 90.0,
+      "tests_total": 7,
+      "tests_passed": 2,
+      "tests_failed": 5,
+      "tests_errored": 0,
+      "tests_skipped": 0,
+      "test_reward": 0.375,
+      "combined_reward": 0.6375,
+      "reward": 0.6375
+    }
+  ]
+}

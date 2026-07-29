@@ -1,0 +1,46 @@
+{
+  "title": "FW2026 Buying Notes - Eleanor's Tavern Merch Concept (Draft, not active)",
+  "updated": "2026-02-05",
+  "submitted_by": "Carlton McGee, Owner",
+  "pricing_limits": {
+    "max_retail_cap_per_unit": 40,
+    "max_category_budget_percent": 15,
+    "opening_price_point_min": 8
+  },
+  "category_restrictions": {
+    "knitwear_max_skus": 2,
+    "outerwear_max_skus": 0,
+    "blazers_max_skus": 0,
+    "no_leather_outerwear": true
+  },
+  "fabrication_exclusions": {
+    "max_acrylic_percent": 0,
+    "no_fur": true,
+    "no_faux_fur": true,
+    "max_mohair_percent": 0
+  },
+  "color_exclusions": {
+    "no_neon_or_fluorescent": true,
+    "max_black_percent_of_assortment": 50,
+    "preferred_tones": [
+      "tavern green",
+      "warm cream"
+    ]
+  },
+  "delivery_and_timeline": {
+    "final_submission_date": "2026-02-28",
+    "vendor_delivery_deadline": "2026-10-01",
+    "max_lead_time_months_without_vp_approval": 3,
+    "priority_reorder_brands": [
+      "Eleanor's Tavern House Logo"
+    ]
+  },
+  "notes": {
+    "korean_designers_premium_positioning": [
+      "Ader Error",
+      "Low Classic"
+    ],
+    "mijeong_park_max_skus_without_sizing_confirmation": 0,
+    "total_sku_budget": 6
+  }
+}

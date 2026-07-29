@@ -1,0 +1,149 @@
+[
+  {
+    "id": "00g1everyone",
+    "name": "Everyone",
+    "description": "All users in the org",
+    "type": "BUILT_IN",
+    "created": "2024-02-18T10:00:00.000Z"
+  },
+  {
+    "id": "00g2management",
+    "name": "Management",
+    "description": "Owner + manager",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:00:00.000Z"
+  },
+  {
+    "id": "00g3foh",
+    "name": "Front of House",
+    "description": "Servers, hosts, bartender, bussers",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:05:00.000Z"
+  },
+  {
+    "id": "00g4boh",
+    "name": "Back of House",
+    "description": "Kitchen staff",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:06:00.000Z"
+  },
+  {
+    "id": "00g5vendors",
+    "name": "Vendors & Contractors",
+    "description": "External vendors and the web developer",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:07:00.000Z"
+  },
+  {
+    "id": "00g6kitchen",
+    "name": "Kitchen Leads",
+    "description": "Head chef and senior line cooks",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:08:00.000Z"
+  },
+  {
+    "id": "00g7servers",
+    "name": "Servers",
+    "description": "Wait staff with POS access",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:09:00.000Z"
+  },
+  {
+    "id": "00g8hosts",
+    "name": "Hosts",
+    "description": "Hosts managing reservations",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:10:00.000Z"
+  },
+  {
+    "id": "00g9bar",
+    "name": "Bar Staff",
+    "description": "Bartender and barbacks",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:11:00.000Z"
+  },
+  {
+    "id": "00g10finance",
+    "name": "Finance & Books",
+    "description": "Bookkeeper and owner financial access",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:12:00.000Z"
+  },
+  {
+    "id": "00g11pos",
+    "name": "POS Admins",
+    "description": "Square POS configuration access",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:13:00.000Z"
+  },
+  {
+    "id": "00g12scheduling",
+    "name": "Scheduling",
+    "description": "Staff who manage shift schedules",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:14:00.000Z"
+  },
+  {
+    "id": "00g13marketing",
+    "name": "Marketing",
+    "description": "Email and social media managers",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:15:00.000Z"
+  },
+  {
+    "id": "00g14web",
+    "name": "Web Developers",
+    "description": "Tavern website maintainers",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:16:00.000Z"
+  },
+  {
+    "id": "00g15events",
+    "name": "Private Events",
+    "description": "Staff coordinating private dining bookings",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:17:00.000Z"
+  },
+  {
+    "id": "00g16inventory",
+    "name": "Inventory Managers",
+    "description": "Staff who manage food and beverage stock",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:18:00.000Z"
+  },
+  {
+    "id": "00g17security",
+    "name": "Security & Cameras",
+    "description": "Access to Ring cameras and door system",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:19:00.000Z"
+  },
+  {
+    "id": "00g18payroll",
+    "name": "Payroll",
+    "description": "Gusto payroll administrators",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:20:00.000Z"
+  },
+  {
+    "id": "00g19admins",
+    "name": "IT Admins",
+    "description": "Full administrative access",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:21:00.000Z"
+  },
+  {
+    "id": "00g20parttime",
+    "name": "Part-Time Staff",
+    "description": "Part-time hosts and seasonal patio staff",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:22:00.000Z"
+  },
+  {
+    "id": "00g21family",
+    "name": "Family Owners",
+    "description": "McGee family members with ownership roles",
+    "type": "OKTA_GROUP",
+    "created": "2024-02-18T10:23:00.000Z"
+  }
+]

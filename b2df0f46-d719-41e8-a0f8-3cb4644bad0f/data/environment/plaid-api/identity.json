@@ -1,0 +1,70 @@
+{
+  "owners": {
+    "acc_chk_001": [
+      {
+        "addresses": [
+          {
+            "primary": true,
+            "data": {
+              "country": "US",
+              "street": "1428 Palermo Avenue",
+              "region": "FL",
+              "postal_code": "33134",
+              "city": "Coral Gables"
+            }
+          }
+        ],
+        "phone_numbers": [
+          {
+            "primary": true,
+            "data": "+13053871209",
+            "type": "mobile"
+          }
+        ],
+        "names": [
+          "Michelle Grace Brooks"
+        ],
+        "emails": [
+          {
+            "primary": true,
+            "data": "michelle.brooks@Finthesiss.ai",
+            "type": "primary"
+          }
+        ]
+      }
+    ],
+    "acc_sav_002": [
+      {
+        "addresses": [
+          {
+            "primary": true,
+            "data": {
+              "country": "US",
+              "street": "1428 Palermo Avenue",
+              "region": "FL",
+              "postal_code": "33134",
+              "city": "Coral Gables"
+            }
+          }
+        ],
+        "phone_numbers": [
+          {
+            "primary": true,
+            "data": "+13053871209",
+            "type": "mobile"
+          }
+        ],
+        "names": [
+          "Michelle Grace Brooks"
+        ],
+        "emails": [
+          {
+            "primary": true,
+            "data": "michelle.brooks@Finthesiss.ai",
+            "type": "primary"
+          }
+        ]
+      }
+    ]
+  }
+}

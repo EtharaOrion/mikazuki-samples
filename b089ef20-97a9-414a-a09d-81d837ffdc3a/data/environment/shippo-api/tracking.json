@@ -1,0 +1,209 @@
+[
+  {
+    "carrier": "USPS",
+    "tracking_number": "9400111899223100456005",
+    "status": "DELIVERED",
+    "status_detail": "Delivered, In/At Mailbox",
+    "location_city": "Astoria",
+    "location_state": "NY",
+    "status_time": "2025-12-11T13:40:00Z"
+  },
+  {
+    "carrier": "USPS",
+    "tracking_number": "9400111899223100456005",
+    "status": "TRANSIT",
+    "status_detail": "Out for delivery",
+    "location_city": "Astoria",
+    "location_state": "NY",
+    "status_time": "2025-12-11T08:05:00Z"
+  },
+  {
+    "carrier": "USPS",
+    "tracking_number": "9400111899223100456005",
+    "status": "TRANSIT",
+    "status_detail": "Arrived at Post Office",
+    "location_city": "Long Island City",
+    "location_state": "NY",
+    "status_time": "2025-12-10T21:30:00Z"
+  },
+  {
+    "carrier": "USPS",
+    "tracking_number": "9400111899223100456005",
+    "status": "TRANSIT",
+    "status_detail": "Accepted at USPS Origin Facility",
+    "location_city": "Flushing",
+    "location_state": "NY",
+    "status_time": "2025-12-09T18:15:00Z"
+  },
+  {
+    "carrier": "USPS",
+    "tracking_number": "9400111899223100456005",
+    "status": "PRE_TRANSIT",
+    "status_detail": "Shipping Label Created, USPS Awaiting Item",
+    "location_city": "Astoria",
+    "location_state": "NY",
+    "status_time": "2025-12-09T11:35:00Z"
+  },
+  {
+    "carrier": "UPS",
+    "tracking_number": "1Z9X8W70000100000",
+    "status": "DELIVERED",
+    "status_detail": "Delivered",
+    "location_city": "Kingston",
+    "location_state": "NY",
+    "status_time": "2025-03-18T11:22:00Z"
+  },
+  {
+    "carrier": "UPS",
+    "tracking_number": "1Z9X8W70000100000",
+    "status": "TRANSIT",
+    "status_detail": "Out For Delivery",
+    "location_city": "Kingston",
+    "location_state": "NY",
+    "status_time": "2025-03-18T07:10:00Z"
+  },
+  {
+    "carrier": "UPS",
+    "tracking_number": "1Z9X8W70000100000",
+    "status": "TRANSIT",
+    "status_detail": "Arrived at Facility",
+    "location_city": "Newburgh",
+    "location_state": "NY",
+    "status_time": "2025-03-17T22:40:00Z"
+  },
+  {
+    "carrier": "UPS",
+    "tracking_number": "1Z9X8W70000100000",
+    "status": "TRANSIT",
+    "status_detail": "Departed from Facility",
+    "location_city": "Maspeth",
+    "location_state": "NY",
+    "status_time": "2025-03-16T20:05:00Z"
+  },
+  {
+    "carrier": "UPS",
+    "tracking_number": "1Z9X8W70000100000",
+    "status": "PRE_TRANSIT",
+    "status_detail": "Label Created",
+    "location_city": "Astoria",
+    "location_state": "NY",
+    "status_time": "2025-03-16T15:15:00Z"
+  },
+  {
+    "carrier": "UPS",
+    "tracking_number": "1Z9X8W70000100005",
+    "status": "TRANSIT",
+    "status_detail": "Departed from Facility-2",
+    "location_city": "Salt Lake City",
+    "location_state": "UT",
+    "status_time": "2026-03-11T03:25:00Z"
+  },
+  {
+    "carrier": "UPS",
+    "tracking_number": "1Z9X8W70000100005",
+    "status": "TRANSIT",
+    "status_detail": "Arrived at Facility-2",
+    "location_city": "Secaucus",
+    "location_state": "NJ",
+    "status_time": "2026-03-10T05:50:00Z"
+  },
+  {
+    "carrier": "UPS",
+    "tracking_number": "1Z9X8W70000100005",
+    "status": "PRE_TRANSIT",
+    "status_detail": "Label Created-2",
+    "location_city": "Astoria",
+    "location_state": "NY",
+    "status_time": "2026-03-09T15:30:00Z"
+  },
+  {
+    "carrier": "USPS",
+    "tracking_number": "9400111899223100456019",
+    "status": "PRE_TRANSIT",
+    "status_detail": "Shipping Label Created, USPS Awaiting Item-2",
+    "location_city": "Astoria",
+    "location_state": "NY",
+    "status_time": "2025-12-03T13:20:00Z"
+  },
+  {
+    "carrier": "USPS",
+    "tracking_number": "9400111899223100456006",
+    "status": "DELIVERED",
+    "status_detail": "Delivered, In/At Mailbox-2",
+    "location_city": "Astoria",
+    "location_state": "NY",
+    "status_time": "2025-12-12T14:05:00Z"
+  },
+  {
+    "carrier": "USPS",
+    "tracking_number": "9400111899223100456006",
+    "status": "TRANSIT",
+    "status_detail": "Out for delivery-2",
+    "location_city": "Astoria",
+    "location_state": "NY",
+    "status_time": "2025-12-12T08:20:00Z"
+  },
+  {
+    "carrier": "USPS",
+    "tracking_number": "9400111899223100456006",
+    "status": "TRANSIT",
+    "status_detail": "Accepted at USPS Origin Facility-2",
+    "location_city": "Flushing",
+    "location_state": "NY",
+    "status_time": "2025-12-10T17:40:00Z"
+  },
+  {
+    "carrier": "FedEx",
+    "tracking_number": "770012345678",
+    "status": "DELIVERED",
+    "status_detail": "Delivered, Left at front door",
+    "location_city": "Astoria",
+    "location_state": "NY",
+    "status_time": "2026-02-14T15:10:00Z"
+  },
+  {
+    "carrier": "FedEx",
+    "tracking_number": "770012345678",
+    "status": "TRANSIT",
+    "status_detail": "On FedEx vehicle for delivery",
+    "location_city": "Maspeth",
+    "location_state": "NY",
+    "status_time": "2026-02-14T08:30:00Z"
+  },
+  {
+    "carrier": "FedEx",
+    "tracking_number": "770012345678",
+    "status": "TRANSIT",
+    "status_detail": "At local FedEx facility",
+    "location_city": "Newark",
+    "location_state": "NJ",
+    "status_time": "2026-02-13T21:15:00Z"
+  },
+  {
+    "carrier": "FedEx",
+    "tracking_number": "770012345678",
+    "status": "PRE_TRANSIT",
+    "status_detail": "Shipment information sent to FedEx",
+    "location_city": "Napa",
+    "location_state": "CA",
+    "status_time": "2026-02-11T19:00:00Z"
+  },
+  {
+    "carrier": "USPS",
+    "tracking_number": "9400111899223100456027",
+    "status": "DELIVERED",
+    "status_detail": "Delivered, In/At Mailbox-3",
+    "location_city": "Astoria",
+    "location_state": "NY",
+    "status_time": "2026-02-22T13:25:00Z"
+  },
+  {
+    "carrier": "USPS",
+    "tracking_number": "9400111899223100456027",
+    "status": "TRANSIT",
+    "status_detail": "Out for delivery-3",
+    "location_city": "Astoria",
+    "location_state": "NY",
+    "status_time": "2026-02-22T07:50:00Z"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "policy_name": "Crossroads Conservatory Expense Policy",
+  "version": "2026.Q1",
+  "validation_rules": [
+    {
+      "rule": "Receipts Required",
+      "requirement": "All expenses over $25",
+      "action": "Require Receipt",
+      "notes": "Email or paper receipt acceptable"
+    },
+    {
+      "rule": "Contractor Payments",
+      "requirement": "1099 contractors",
+      "action": "Require W-9 on file",
+      "notes": "Gloria Martin CPA and part-time instructors"
+    },
+    {
+      "rule": "Personal vs Business",
+      "requirement": "Personal expenses",
+      "action": "Reject",
+      "notes": "Meals and personal items not reimbursable unless directly teaching- or performance-related"
+    },
+    {
+      "rule": "Equipment",
+      "requirement": "Instruments, reeds, sheet music, teaching materials",
+      "action": "Approve",
+      "notes": "Deductible as business equipment for instruction and performance"
+    }
+  ],
+  "context": "Rules used during Crossroads Conservatory business-expense reimbursement validation: contractor payments, equipment, and personal-vs-business separation."
+}

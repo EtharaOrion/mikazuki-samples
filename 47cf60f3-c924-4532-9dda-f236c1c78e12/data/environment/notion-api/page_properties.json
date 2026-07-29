@@ -1,0 +1,278 @@
+[
+  {
+    "page_id": "page-task-001",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-task-001",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "High"
+  },
+  {
+    "page_id": "page-task-001",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-amelia"
+  },
+  {
+    "page_id": "page-task-001",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2026-06-10"
+  },
+  {
+    "page_id": "page-task-002",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-task-002",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "High"
+  },
+  {
+    "page_id": "page-task-002",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-jonas"
+  },
+  {
+    "page_id": "page-task-002",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2026-06-30"
+  },
+  {
+    "page_id": "page-task-003",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "Todo"
+  },
+  {
+    "page_id": "page-task-003",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "Medium"
+  },
+  {
+    "page_id": "page-task-003",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-helena"
+  },
+  {
+    "page_id": "page-task-003",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2026-07-05"
+  },
+  {
+    "page_id": "page-task-004",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "Done"
+  },
+  {
+    "page_id": "page-task-004",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "Low"
+  },
+  {
+    "page_id": "page-task-004",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-amelia"
+  },
+  {
+    "page_id": "page-task-004",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2026-05-12"
+  },
+  {
+    "page_id": "page-okr-q2-1",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "On track"
+  },
+  {
+    "page_id": "page-okr-q2-1",
+    "property_name": "Owner",
+    "property_type": "people",
+    "value": "user-jonas"
+  },
+  {
+    "page_id": "page-okr-q2-1",
+    "property_name": "Progress",
+    "property_type": "number",
+    "value": "0.62"
+  },
+  {
+    "page_id": "page-okr-q2-2",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "At risk"
+  },
+  {
+    "page_id": "page-okr-q2-2",
+    "property_name": "Owner",
+    "property_type": "people",
+    "value": "user-jonas"
+  },
+  {
+    "page_id": "page-okr-q2-2",
+    "property_name": "Progress",
+    "property_type": "number",
+    "value": "0.35"
+  },
+  {
+    "page_id": "page-station-dairy",
+    "property_name": "Order",
+    "property_type": "number",
+    "value": "1"
+  },
+  {
+    "page_id": "page-station-dairy",
+    "property_name": "Key Message",
+    "property_type": "rich_text",
+    "value": "Gives you energy to run and play"
+  },
+  {
+    "page_id": "page-station-dairy",
+    "property_name": "Status",
+    "property_type": "select",
+    "value": "Draft"
+  },
+  {
+    "page_id": "page-station-fruits",
+    "property_name": "Order",
+    "property_type": "number",
+    "value": "2"
+  },
+  {
+    "page_id": "page-station-fruits",
+    "property_name": "Key Message",
+    "property_type": "rich_text",
+    "value": "Full of fiber to keep your tummy happy"
+  },
+  {
+    "page_id": "page-station-fruits",
+    "property_name": "Status",
+    "property_type": "select",
+    "value": "Draft"
+  },
+  {
+    "page_id": "page-station-grains",
+    "property_name": "Order",
+    "property_type": "number",
+    "value": "3"
+  },
+  {
+    "page_id": "page-station-grains",
+    "property_name": "Key Message",
+    "property_type": "rich_text",
+    "value": "Builds strong bones and teeth"
+  },
+  {
+    "page_id": "page-station-grains",
+    "property_name": "Status",
+    "property_type": "select",
+    "value": "Draft"
+  },
+  {
+    "page_id": "page-station-oils",
+    "property_name": "Order",
+    "property_type": "number",
+    "value": "4"
+  },
+  {
+    "page_id": "page-station-oils",
+    "property_name": "Key Message",
+    "property_type": "rich_text",
+    "value": "A little bit helps your body"
+  },
+  {
+    "page_id": "page-station-oils",
+    "property_name": "Status",
+    "property_type": "select",
+    "value": "Draft"
+  },
+  {
+    "page_id": "page-station-proteins",
+    "property_name": "Order",
+    "property_type": "number",
+    "value": "5"
+  },
+  {
+    "page_id": "page-station-proteins",
+    "property_name": "Key Message",
+    "property_type": "rich_text",
+    "value": "Helps your body fix itself when you get hurt"
+  },
+  {
+    "page_id": "page-station-proteins",
+    "property_name": "Status",
+    "property_type": "select",
+    "value": "Draft"
+  },
+  {
+    "page_id": "page-station-vegetable",
+    "property_name": "Order",
+    "property_type": "number",
+    "value": "6"
+  },
+  {
+    "page_id": "page-station-vegetable",
+    "property_name": "Key Message",
+    "property_type": "rich_text",
+    "value": "Helps your skin and helps you grow"
+  },
+  {
+    "page_id": "page-station-vegetable",
+    "property_name": "Status",
+    "property_type": "select",
+    "value": "Draft"
+  },
+  {
+    "page_id": "page-station-fruits-2025",
+    "property_name": "Order",
+    "property_type": "number",
+    "value": "2"
+  },
+  {
+    "page_id": "page-station-fruits-2025",
+    "property_name": "Status",
+    "property_type": "select",
+    "value": "Archived"
+  },
+  {
+    "page_id": "page-station-vbs-snack",
+    "property_name": "Order",
+    "property_type": "number",
+    "value": "1"
+  },
+  {
+    "page_id": "page-station-vbs-snack",
+    "property_name": "Status",
+    "property_type": "select",
+    "value": "Done"
+  },
+  {
+    "page_id": "page-station-wholegrain-old",
+    "property_name": "Order",
+    "property_type": "number",
+    "value": "3"
+  },
+  {
+    "page_id": "page-station-wholegrain-old",
+    "property_name": "Status",
+    "property_type": "select",
+    "value": "Draft"
+  }
+]

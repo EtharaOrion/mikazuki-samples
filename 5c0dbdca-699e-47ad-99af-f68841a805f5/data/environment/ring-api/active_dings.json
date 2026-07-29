@@ -1,0 +1,582 @@
+[
+  {
+    "id": 456789012345681,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Front Door",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345682,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Ray suggested tightening the bridge on the fifth chart before the Spotlight Room date.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345683,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Claire flagged that we need a substitute for Thursday's ensemble.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345684,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Sofia asked about the winter choir concert \u2014 logistics locked in.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345685,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Frank sent notes on the Coltrane transcription \u2014 apply on Sunday.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345686,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Tomoko rescheduled the Tuesday rehearsal to 7:15.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345687,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Payroll ran clean this month \u2014 expenses within budget.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345688,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "The Phoenix booking pushed to the following Saturday; confirmed with the band.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345689,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Enrollment inquiry from a parent for beginner alto \u2014 offer trial slot.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345690,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Dante's drum kit needs new heads before the recital.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345691,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Recorded a rough take of the ballad \u2014 needs another pass on the head-out.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345692,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Reviewed the summer camp roster \u2014 18 confirmed, 2 waitlist.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345693,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Second album pre-production: 6 tunes committed, 4 still under discussion.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345694,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "5th Anniversary Showcase run-of-show draft complete.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345695,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Confirmed the lesson slot with the parent \u2014 Tuesday 4pm.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345696,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Ray suggested tightening the bridge on the fifth chart before the Spotlight Room date.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345697,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Claire flagged that we need a substitute for Thursday's ensemble.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345698,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Sofia asked about the winter choir concert \u2014 logistics locked in.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345699,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Frank sent notes on the Coltrane transcription \u2014 apply on Sunday.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  },
+  {
+    "id": 456789012345700,
+    "id_str": "020413050715089",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 987001,
+    "doorbot_description": "Tomoko rescheduled the Tuesday rehearsal to 7:15.",
+    "device_kind": "lpd_v2",
+    "motion": true,
+    "snapshot_url": "https://api.ring.com/snapshots/020413050715089.jpg",
+    "kind": "ding",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.crx789xyz123",
+    "sip_from": "sip:ring001@gmail.com",
+    "sip_to": "sip:jessica001@gmail.com",
+    "sip_endpoints": [
+      {
+        "protocol": "sip",
+        "endpoint": "sip:jessica@ring.com"
+      }
+    ],
+    "expires_in": 130,
+    "now": 1771113600.0,
+    "optimization_level": 3,
+    "sip_ding_id": "020413050715089",
+    "is_sharing": false
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "policy_name": "GAW Center Music Ministry Reimbursement Policy",
+  "version": "2026.Q3_Updated",
+  "validation_rules": [
+    {
+      "rule": "Meals with vendors",
+      "requirement": "Under $50 per person, receipt required",
+      "action": "Auto-approve",
+      "notes": "DJ Johnson session meals, Piedmont Piano visits"
+    },
+    {
+      "rule": "Sheet music purchases",
+      "requirement": "Receipt + program title",
+      "action": "Auto-approve",
+      "notes": "Any anthem for choir library"
+    },
+    {
+      "rule": "Vietnamese groceries for church potluck",
+      "requirement": "Under $200",
+      "action": "Auto-approve",
+      "notes": "Sunday dinner ingredients per rotation"
+    },
+    {
+      "rule": "Choir robe alterations",
+      "requirement": "Under $50 per garment",
+      "action": "Auto-approve",
+      "notes": "Cleaning + minor tailoring"
+    },
+    {
+      "rule": "Convention travel meals",
+      "requirement": "Per diem $60/day",
+      "action": "Auto-approve",
+      "notes": "Dallas Aug 4-9 window"
+    },
+    {
+      "rule": "Duplicate submissions",
+      "requirement": "Duplicate receipts",
+      "action": "Reject",
+      "notes": "One receipt per expense"
+    },
+    {
+      "rule": "Any single line > $400",
+      "requirement": "Amanda approval before purchase",
+      "action": "Manual review",
+      "notes": "Persona confirmation gate"
+    }
+  ],
+  "context": "Rules used during reimbursement validation for conference meal receipts."
+}

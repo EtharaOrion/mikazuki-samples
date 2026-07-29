@@ -1,0 +1,422 @@
+[
+  {
+    "CustomerRef": {
+      "name": "Matthias Vogl",
+      "value": "1001"
+    },
+    "Id": "6001",
+    "Line": [
+      {
+        "Amount": 744.58,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 744.58,
+    "TxnDate": "2025-02-16"
+  },
+  {
+    "CustomerRef": {
+      "name": "Lena Vogl",
+      "value": "1002"
+    },
+    "Id": "6002",
+    "Line": [
+      {
+        "Amount": 1905.52,
+        "LinkedTxn": [
+          {
+            "TxnId": "4002",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 1905.52,
+    "TxnDate": "2025-02-27"
+  },
+  {
+    "CustomerRef": {
+      "name": "Felix Vogl",
+      "value": "1003"
+    },
+    "Id": "6003",
+    "Line": [
+      {
+        "Amount": 1449.73,
+        "LinkedTxn": [
+          {
+            "TxnId": "4003",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 1449.73,
+    "TxnDate": "2025-03-10"
+  },
+  {
+    "CustomerRef": {
+      "name": "Gloria Padilla",
+      "value": "1004"
+    },
+    "Id": "6004",
+    "Line": [
+      {
+        "Amount": 742.39,
+        "LinkedTxn": [
+          {
+            "TxnId": "4004",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 742.39,
+    "TxnDate": "2025-03-21"
+  },
+  {
+    "CustomerRef": {
+      "name": "Matthias Vogl",
+      "value": "1001"
+    },
+    "Id": "6001-2",
+    "Line": [
+      {
+        "Amount": 744.58,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 744.58,
+    "TxnDate": "2026-12-13"
+  },
+  {
+    "CustomerRef": {
+      "name": "Lena Vogl",
+      "value": "1002"
+    },
+    "Id": "6001-3",
+    "Line": [
+      {
+        "Amount": 1905.52,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 1905.52,
+    "TxnDate": "2024-05-15"
+  },
+  {
+    "CustomerRef": {
+      "name": "Felix Vogl",
+      "value": "1003"
+    },
+    "Id": "6001-4",
+    "Line": [
+      {
+        "Amount": 1449.73,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 1449.73,
+    "TxnDate": "2025-04-17"
+  },
+  {
+    "CustomerRef": {
+      "name": "Gloria Padilla",
+      "value": "1004"
+    },
+    "Id": "6001-5",
+    "Line": [
+      {
+        "Amount": 742.39,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 742.39,
+    "TxnDate": "2026-03-20"
+  },
+  {
+    "CustomerRef": {
+      "name": "Ernesto Padilla",
+      "value": "1005"
+    },
+    "Id": "6001-6",
+    "Line": [
+      {
+        "Amount": 744.58,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 744.58,
+    "TxnDate": "2026-02-22"
+  },
+  {
+    "CustomerRef": {
+      "name": "Catalina Padilla-Hofer",
+      "value": "1006"
+    },
+    "Id": "6001-7",
+    "Line": [
+      {
+        "Amount": 1905.52,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 1905.52,
+    "TxnDate": "2024-07-24"
+  },
+  {
+    "CustomerRef": {
+      "name": "Josef Hofer",
+      "value": "1007"
+    },
+    "Id": "6001-8",
+    "Line": [
+      {
+        "Amount": 1449.73,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 1449.73,
+    "TxnDate": "2025-06-26"
+  },
+  {
+    "CustomerRef": {
+      "name": "Mia Hofer",
+      "value": "1008"
+    },
+    "Id": "6001-9",
+    "Line": [
+      {
+        "Amount": 742.39,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 742.39,
+    "TxnDate": "2026-11-28"
+  },
+  {
+    "CustomerRef": {
+      "name": "Dr. Stefan Koenig",
+      "value": "1009"
+    },
+    "Id": "6001-10",
+    "Line": [
+      {
+        "Amount": 744.58,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 744.58,
+    "TxnDate": "2026-10-31"
+  },
+  {
+    "CustomerRef": {
+      "name": "Dr. Margarethe Huber",
+      "value": "1010"
+    },
+    "Id": "6001-11",
+    "Line": [
+      {
+        "Amount": 1905.52,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 1905.52,
+    "TxnDate": "2024-10-02"
+  },
+  {
+    "CustomerRef": {
+      "name": "Heinrich Sommer",
+      "value": "1011"
+    },
+    "Id": "6001-12",
+    "Line": [
+      {
+        "Amount": 1449.73,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 1449.73,
+    "TxnDate": "2025-09-04"
+  },
+  {
+    "CustomerRef": {
+      "name": "Bundesministerin Clara Winkler",
+      "value": "1012"
+    },
+    "Id": "6001-13",
+    "Line": [
+      {
+        "Amount": 742.39,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 742.39,
+    "TxnDate": "2026-02-06"
+  },
+  {
+    "CustomerRef": {
+      "name": "Dr. Anna Pichler",
+      "value": "1013"
+    },
+    "Id": "6001-14",
+    "Line": [
+      {
+        "Amount": 744.58,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 744.58,
+    "TxnDate": "2024-01-09"
+  },
+  {
+    "CustomerRef": {
+      "name": "Dr. Lukas Mayer",
+      "value": "1014"
+    },
+    "Id": "6001-15",
+    "Line": [
+      {
+        "Amount": 1905.52,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 1905.52,
+    "TxnDate": "2024-12-11"
+  },
+  {
+    "CustomerRef": {
+      "name": "Dr. Thomas Gruber",
+      "value": "1015"
+    },
+    "Id": "6001-16",
+    "Line": [
+      {
+        "Amount": 1449.73,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 1449.73,
+    "TxnDate": "2025-11-13"
+  },
+  {
+    "CustomerRef": {
+      "name": "Dr. Petra Fuchs",
+      "value": "1016"
+    },
+    "Id": "6001-17",
+    "Line": [
+      {
+        "Amount": 742.39,
+        "LinkedTxn": [
+          {
+            "TxnId": "4001",
+            "TxnType": "Invoice"
+          }
+        ]
+      }
+    ],
+    "PrivateNote": "Patron membership renewal payment — recorded against invoice",
+    "TotalAmt": 742.39,
+    "TxnDate": "2026-10-17"
+  }
+]

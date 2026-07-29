@@ -1,0 +1,60 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 8,
+      "passed": 3,
+      "failed": 5,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.7,
+      "weighted_percentage": 70.0
+    },
+    "tests": [
+      {
+        "name": "test_airtable_room_status_confirmed",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_airtable_room_update_endpoint_called",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_airtable_roster_read_endpoint_called",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_asana_camp_board_penalty",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_drive_placard_filed_endpoint_called",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_drive_placard_height",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_drive_placard_width",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_twilio_setup_text_penalty",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

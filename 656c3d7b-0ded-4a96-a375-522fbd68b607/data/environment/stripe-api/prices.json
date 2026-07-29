@@ -1,0 +1,47 @@
+[
+  {
+    "id": "price_7be978b4fd163a34",
+    "product": "prod_ede563c858c32c98",
+    "unit_amount": 1900,
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": true,
+    "nickname": "Monthly compute"
+  },
+  {
+    "id": "price_5e761e68ab6e8e67",
+    "product": "prod_6d7d57e99198f824",
+    "unit_amount": 4900,
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": true,
+    "nickname": "Annual compute"
+  },
+  {
+    "id": "price_7522b109cfc09192",
+    "product": "prod_d7d3fdef2ef7e587",
+    "unit_amount": 49000,
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": true,
+    "nickname": "Session pack"
+  },
+  {
+    "id": "price_82a093ff57f44bba",
+    "product": "prod_305eeba76ae904a7",
+    "unit_amount": 29900,
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": true,
+    "nickname": "Tuition installment"
+  },
+  {
+    "id": "price_0b8b9d1f353f8d9f",
+    "product": "prod_ede563c858c32c98",
+    "unit_amount": 9900,
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": true,
+    "nickname": "Studio dues"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "dst_100",
+    "name": "Google Analytics",
+    "slug": "google-analytics",
+    "enabled": "false",
+    "created_at": "2026-01-08T08:00:00Z",
+    "source_id": "src_100"
+  },
+  {
+    "id": "dst_101",
+    "name": "Mixpanel",
+    "slug": "mixpanel",
+    "enabled": "false",
+    "created_at": "2026-01-15T08:00:00Z",
+    "source_id": "src_101"
+  },
+  {
+    "id": "dst_102",
+    "name": "Mailchimp",
+    "slug": "mailchimp",
+    "enabled": "false",
+    "created_at": "2026-01-22T08:00:00Z",
+    "source_id": "src_102"
+  },
+  {
+    "id": "dst_103",
+    "name": "Salesforce",
+    "slug": "salesforce",
+    "enabled": "false",
+    "created_at": "2026-01-29T08:00:00Z",
+    "source_id": "src_103"
+  },
+  {
+    "id": "dst_104",
+    "name": "HubSpot",
+    "slug": "hubspot",
+    "enabled": "false",
+    "created_at": "2026-02-05T08:00:00Z",
+    "source_id": "src_104"
+  },
+  {
+    "id": "dst_105",
+    "name": "Klaviyo",
+    "slug": "klaviyo",
+    "enabled": "false",
+    "created_at": "2026-02-12T08:00:00Z",
+    "source_id": "src_100"
+  },
+  {
+    "id": "dst_106",
+    "name": "Webhook - Internal Logging",
+    "slug": "webhook--internal-logging",
+    "enabled": "false",
+    "created_at": "2026-02-19T08:00:00Z",
+    "source_id": "src_101"
+  },
+  {
+    "id": "dst_107",
+    "name": "PostHog",
+    "slug": "posthog",
+    "enabled": "false",
+    "created_at": "2026-02-26T08:00:00Z",
+    "source_id": "src_102"
+  },
+  {
+    "id": "dst_108",
+    "name": "Amplitude",
+    "slug": "amplitude",
+    "enabled": "false",
+    "created_at": "2026-10-02T08:00:00Z",
+    "source_id": "src_103"
+  },
+  {
+    "id": "dst_109",
+    "name": "Intercom",
+    "slug": "intercom",
+    "enabled": "false",
+    "created_at": "2026-10-09T08:00:00Z",
+    "source_id": "src_104"
+  },
+  {
+    "id": "dst_110",
+    "name": "Slack Notifications",
+    "slug": "slack-notifications",
+    "enabled": "false",
+    "created_at": "2026-10-16T08:00:00Z",
+    "source_id": "src_100"
+  },
+  {
+    "id": "dst_111",
+    "name": "BigQuery Warehouse",
+    "slug": "bigquery-warehouse",
+    "enabled": "false",
+    "created_at": "2026-10-23T08:00:00Z",
+    "source_id": "src_101"
+  },
+  {
+    "id": "dst_112",
+    "name": "Stripe Webhook",
+    "slug": "stripe-webhook",
+    "enabled": "false",
+    "created_at": "2026-10-30T08:00:00Z",
+    "source_id": "src_102"
+  },
+  {
+    "id": "dst_113",
+    "name": "Sentry Errors",
+    "slug": "sentry-errors",
+    "enabled": "false",
+    "created_at": "2026-11-06T08:00:00Z",
+    "source_id": "src_103"
+  },
+  {
+    "id": "dst_114",
+    "name": "Customer.io Email",
+    "slug": "customer.io-email",
+    "enabled": "false",
+    "created_at": "2026-11-13T08:00:00Z",
+    "source_id": "src_104"
+  },
+  {
+    "id": "dst_115",
+    "name": "Iterable",
+    "slug": "iterable",
+    "enabled": "false",
+    "created_at": "2026-11-20T08:00:00Z",
+    "source_id": "src_100"
+  },
+  {
+    "id": "dst_116",
+    "name": "Segment Personas",
+    "slug": "segment-personas",
+    "enabled": "false",
+    "created_at": "2026-11-27T08:00:00Z",
+    "source_id": "src_101"
+  },
+  {
+    "id": "dst_117",
+    "name": "Datadog APM",
+    "slug": "datadog-apm",
+    "enabled": "false",
+    "created_at": "2026-12-04T08:00:00Z",
+    "source_id": "src_102"
+  },
+  {
+    "id": "dst_118",
+    "name": "Webhook - Stripe Dispute Notifier",
+    "slug": "webhook--stripe-dispute-notifier",
+    "enabled": "false",
+    "created_at": "2026-12-11T08:00:00Z",
+    "source_id": "src_103"
+  },
+  {
+    "id": "dst_119",
+    "name": "Webhook - Cancellation Survey",
+    "slug": "webhook--cancellation-survey",
+    "enabled": "false",
+    "created_at": "2026-12-18T08:00:00Z",
+    "source_id": "src_104"
+  }
+]

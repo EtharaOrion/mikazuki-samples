@@ -1,0 +1,182 @@
+[
+  {
+    "id": "700100200300400001",
+    "guild_id": "900100200300400001",
+    "name": "Admin",
+    "color": 15158332,
+    "position": 5,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "8"
+  },
+  {
+    "id": "700100200300400002",
+    "guild_id": "900100200300400001",
+    "name": "Instructor",
+    "color": 3447003,
+    "position": 4,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "268435456"
+  },
+  {
+    "id": "700100200300400003",
+    "guild_id": "900100200300400001",
+    "name": "Student",
+    "color": 5763719,
+    "position": 2,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400004",
+    "guild_id": "900100200300400001",
+    "name": "Parent",
+    "color": 9936031,
+    "position": 1,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400005",
+    "guild_id": "900100200300400001",
+    "name": "Bots",
+    "color": 9807270,
+    "position": 3,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400006",
+    "guild_id": "900100200300400001",
+    "name": "Enrollment inquiry follow-up",
+    "color": 5763719,
+    "position": 2,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400008",
+    "guild_id": "900100200300400001",
+    "name": "Monthly payroll processing",
+    "color": 9936031,
+    "position": 1,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400010",
+    "guild_id": "900100200300400001",
+    "name": "5th Anniversary Showcase planning",
+    "color": 9807270,
+    "position": 3,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400007",
+    "guild_id": "900100200300400001",
+    "name": "Summer camp registration",
+    "color": 15158332,
+    "position": 5,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "8"
+  },
+  {
+    "id": "700100200300400009",
+    "guild_id": "900100200300400001",
+    "name": "Substitute coverage",
+    "color": 3447003,
+    "position": 4,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "268435456"
+  },
+  {
+    "id": "700100200300400011",
+    "guild_id": "900100200300400001",
+    "name": "Sheet music library update",
+    "color": 5763719,
+    "position": 2,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400013",
+    "guild_id": "900100200300400001",
+    "name": "Parent meeting slot",
+    "color": 9936031,
+    "position": 1,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400015",
+    "guild_id": "900100200300400001",
+    "name": "Ensemble arrangement rewrite",
+    "color": 9807270,
+    "position": 3,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400012",
+    "guild_id": "900100200300400001",
+    "name": "Recital program layout",
+    "color": 15158332,
+    "position": 5,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "8"
+  },
+  {
+    "id": "700100200300400014",
+    "guild_id": "900100200300400001",
+    "name": "Quartet setlist review",
+    "color": 3447003,
+    "position": 4,
+    "hoist": true,
+    "mentionable": true,
+    "permissions": "268435456"
+  },
+  {
+    "id": "700100200300400016",
+    "guild_id": "900100200300400001",
+    "name": "Rehearsal recording listen-back",
+    "color": 5763719,
+    "position": 2,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400018",
+    "guild_id": "900100200300400001",
+    "name": "Second album pre-production notes",
+    "color": 9936031,
+    "position": 1,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "104324673"
+  },
+  {
+    "id": "700100200300400020",
+    "guild_id": "900100200300400001",
+    "name": "Venue confirmation thread",
+    "color": 9807270,
+    "position": 3,
+    "hoist": false,
+    "mentionable": false,
+    "permissions": "104324673"
+  }
+]

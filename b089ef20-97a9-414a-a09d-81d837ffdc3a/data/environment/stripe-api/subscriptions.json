@@ -1,0 +1,222 @@
+[
+  {
+    "id": "sub_Wu",
+    "customer": "cus_Wu",
+    "price": "price_CateringRet_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1772303400",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "false",
+    "created": "1739613600"
+  },
+  {
+    "id": "sub_AstoriaArts",
+    "customer": "cus_AstoriaArts",
+    "price": "price_CateringRet_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1772303400",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "false",
+    "created": "1737367200"
+  },
+  {
+    "id": "sub_KaufmanFilm",
+    "customer": "cus_KaufmanFilm",
+    "price": "price_CateringRet_Q",
+    "status": "active",
+    "quantity": "2",
+    "current_period_start": "1767205800",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "false",
+    "created": "1740733200"
+  },
+  {
+    "id": "sub_DiMaggio",
+    "customer": "cus_DiMaggio",
+    "price": "price_CateringRet_M",
+    "status": "past_due",
+    "quantity": "1",
+    "current_period_start": "1772303400",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "false",
+    "created": "1738391400"
+  },
+  {
+    "id": "sub_Ramirez",
+    "customer": "cus_Ramirez",
+    "price": "price_CateringRet_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1772303400",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "true",
+    "created": "1761998400"
+  },
+  {
+    "id": "sub_Bautista",
+    "customer": "cus_Bautista",
+    "price": "price_CateringRet_M",
+    "status": "canceled",
+    "quantity": "1",
+    "current_period_start": "1767225600",
+    "current_period_end": "1769904000",
+    "cancel_at_period_end": "false",
+    "created": "1735713000"
+  },
+  {
+    "id": "sub_BroadwayDental",
+    "customer": "cus_BroadwayDental",
+    "price": "price_CateringRet_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1772303400",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "false",
+    "created": "1742032800"
+  },
+  {
+    "id": "sub_DitmarsRealty",
+    "customer": "cus_DitmarsRealty",
+    "price": "price_CateringRet_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1772303400",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "false",
+    "created": "1735792200"
+  },
+  {
+    "id": "sub_HellgateLaw",
+    "customer": "cus_HellgateLaw",
+    "price": "price_CateringRet_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1772303400",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "false",
+    "created": "1737347400"
+  },
+  {
+    "id": "sub_TritonGym",
+    "customer": "cus_TritonGym",
+    "price": "price_CateringRet_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1772303400",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "false",
+    "created": "1738729800"
+  },
+  {
+    "id": "sub_QueensboroPTA",
+    "customer": "cus_QueensboroPTA",
+    "price": "price_CateringRet_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1772303400",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "true",
+    "created": "1740198600"
+  },
+  {
+    "id": "sub_NorthernArch",
+    "customer": "cus_NorthernArch",
+    "price": "price_CateringRet_Q",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1767205800",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "false",
+    "created": "1741581000"
+  },
+  {
+    "id": "sub_SteinwayMed",
+    "customer": "cus_SteinwayMed",
+    "price": "price_CateringRet_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1772303400",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "false",
+    "created": "1735705800"
+  },
+  {
+    "id": "sub_GrandCentral",
+    "customer": "cus_GrandCentral",
+    "price": "price_CateringRet_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1772303400",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "false",
+    "created": "1739334600"
+  },
+  {
+    "id": "sub_AthensImports",
+    "customer": "cus_AthensImports",
+    "price": "price_CateringRet_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1772303400",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "false",
+    "created": "1740976200"
+  },
+  {
+    "id": "sub_RiverviewSchool",
+    "customer": "cus_RiverviewSchool",
+    "price": "price_CateringRet_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1772303400",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "false",
+    "created": "1760004000"
+  },
+  {
+    "id": "sub_HalseyAccounting",
+    "customer": "cus_HalseyAccounting",
+    "price": "price_CateringRet_M",
+    "status": "past_due",
+    "quantity": "1",
+    "current_period_start": "1772303400",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "false",
+    "created": "1763114400"
+  },
+  {
+    "id": "sub_BroadwayTheater",
+    "customer": "cus_BroadwayTheater",
+    "price": "price_CateringRet_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1772303400",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "false",
+    "created": "1764583200"
+  },
+  {
+    "id": "sub_Fontaine",
+    "customer": "cus_Fontaine",
+    "price": "price_CateringRet_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1772303400",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "false",
+    "created": "1742013000"
+  },
+  {
+    "id": "sub_SocratesPark",
+    "customer": "cus_SocratesPark",
+    "price": "price_CateringRet_M",
+    "status": "active",
+    "quantity": "1",
+    "current_period_start": "1772303400",
+    "current_period_end": "1767205800",
+    "cancel_at_period_end": "false",
+    "created": "1767866400"
+  }
+]

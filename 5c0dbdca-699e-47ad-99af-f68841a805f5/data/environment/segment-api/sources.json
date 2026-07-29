@@ -1,0 +1,162 @@
+[
+  {
+    "id": "src_web01",
+    "name": "Crossroads Conservatory Website",
+    "slug": "crossroads-conservatory-website",
+    "enabled": true,
+    "type": "javascript",
+    "created_at": "2025-10-01T09:00:00Z"
+  },
+  {
+    "id": "src_srv01",
+    "name": "Crossroads Conservatory Backend",
+    "slug": "crossroads-conservatory-backend",
+    "enabled": true,
+    "type": "server",
+    "created_at": "2025-10-01T09:30:00Z"
+  },
+  {
+    "id": "src_old01",
+    "name": "Legacy Student Portal",
+    "slug": "legacy-student-portal",
+    "enabled": false,
+    "type": "javascript",
+    "created_at": "2024-01-10T09:00:00Z"
+  },
+  {
+    "id": "src_web02",
+    "name": "Theory class discussion",
+    "slug": "crossroads-conservatory-website",
+    "enabled": true,
+    "type": "javascript",
+    "created_at": "2025-10-01T09:00:00Z"
+  },
+  {
+    "id": "src_srv03",
+    "name": "Instructor coordination meeting",
+    "slug": "crossroads-conservatory-backend",
+    "enabled": true,
+    "type": "server",
+    "created_at": "2025-10-01T09:30:00Z"
+  },
+  {
+    "id": "src_old04",
+    "name": "Winter recital rehearsal",
+    "slug": "legacy-student-portal",
+    "enabled": false,
+    "type": "javascript",
+    "created_at": "2024-01-10T09:00:00Z"
+  },
+  {
+    "id": "src_web05",
+    "name": "Student progress review",
+    "slug": "crossroads-conservatory-website",
+    "enabled": true,
+    "type": "javascript",
+    "created_at": "2025-10-01T09:00:00Z"
+  },
+  {
+    "id": "src_srv06",
+    "name": "Enrollment inquiry follow-up",
+    "slug": "crossroads-conservatory-backend",
+    "enabled": true,
+    "type": "server",
+    "created_at": "2025-10-01T09:30:00Z"
+  },
+  {
+    "id": "src_old07",
+    "name": "Monthly payroll processing",
+    "slug": "legacy-student-portal",
+    "enabled": false,
+    "type": "javascript",
+    "created_at": "2024-01-10T09:00:00Z"
+  },
+  {
+    "id": "src_web08",
+    "name": "5th Anniversary Showcase planning",
+    "slug": "crossroads-conservatory-website",
+    "enabled": true,
+    "type": "javascript",
+    "created_at": "2025-10-01T09:00:00Z"
+  },
+  {
+    "id": "src_srv09",
+    "name": "Summer camp registration",
+    "slug": "crossroads-conservatory-backend",
+    "enabled": true,
+    "type": "server",
+    "created_at": "2025-10-01T09:30:00Z"
+  },
+  {
+    "id": "src_old10",
+    "name": "Substitute coverage",
+    "slug": "legacy-student-portal",
+    "enabled": false,
+    "type": "javascript",
+    "created_at": "2024-01-10T09:00:00Z"
+  },
+  {
+    "id": "src_web11",
+    "name": "Sheet music library update",
+    "slug": "crossroads-conservatory-website",
+    "enabled": true,
+    "type": "javascript",
+    "created_at": "2025-10-01T09:00:00Z"
+  },
+  {
+    "id": "src_srv12",
+    "name": "Parent meeting slot",
+    "slug": "crossroads-conservatory-backend",
+    "enabled": true,
+    "type": "server",
+    "created_at": "2025-10-01T09:30:00Z"
+  },
+  {
+    "id": "src_old13",
+    "name": "Ensemble arrangement rewrite",
+    "slug": "legacy-student-portal",
+    "enabled": false,
+    "type": "javascript",
+    "created_at": "2024-01-10T09:00:00Z"
+  },
+  {
+    "id": "src_web14",
+    "name": "Recital program layout",
+    "slug": "crossroads-conservatory-website",
+    "enabled": true,
+    "type": "javascript",
+    "created_at": "2025-10-01T09:00:00Z"
+  },
+  {
+    "id": "src_srv15",
+    "name": "Quartet setlist review",
+    "slug": "crossroads-conservatory-backend",
+    "enabled": true,
+    "type": "server",
+    "created_at": "2025-10-01T09:30:00Z"
+  },
+  {
+    "id": "src_old16",
+    "name": "Rehearsal recording listen-back",
+    "slug": "legacy-student-portal",
+    "enabled": false,
+    "type": "javascript",
+    "created_at": "2024-01-10T09:00:00Z"
+  },
+  {
+    "id": "src_web17",
+    "name": "Second album pre-production notes",
+    "slug": "crossroads-conservatory-website",
+    "enabled": true,
+    "type": "javascript",
+    "created_at": "2025-10-01T09:00:00Z"
+  },
+  {
+    "id": "src_srv18",
+    "name": "Venue confirmation thread",
+    "slug": "crossroads-conservatory-backend",
+    "enabled": true,
+    "type": "server",
+    "created_at": "2025-10-01T09:30:00Z"
+  }
+]

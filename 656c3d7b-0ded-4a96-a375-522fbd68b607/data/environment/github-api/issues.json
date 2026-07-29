@@ -1,0 +1,1273 @@
+[
+  {
+    "assignee": "Wei Chen",
+    "body": "Tracking work for: Reduce p99 latency on /search endpoint.",
+    "closed_at": null,
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100001,
+    "is_pull_request": false,
+    "labels": [
+      "needs-design",
+      "p2"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 100,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "open",
+    "title": "Reduce p99 latency on /search endpoint",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Tracking work for: Onboarding flow stalls on email step.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100002,
+    "is_pull_request": false,
+    "labels": [
+      "bug",
+      "documentation"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 101,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Onboarding flow stalls on email step",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Ryan Kirkland",
+    "body": "Tracking work for: Add dark mode tokens to design system.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100003,
+    "is_pull_request": false,
+    "labels": [
+      "p1",
+      "blocked"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 102,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Add dark mode tokens to design system",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Tracking work for: Reduce p99 latency on /search endpoint.",
+    "closed_at": null,
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100004,
+    "is_pull_request": false,
+    "labels": [
+      "p2",
+      "needs-review"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 110,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "open",
+    "title": "Reduce p99 latency on /search endpoint",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Sarah Okonkwo",
+    "body": "Tracking work for: Onboarding flow stalls on email step.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100005,
+    "is_pull_request": false,
+    "labels": [
+      "p2"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 111,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Onboarding flow stalls on email step",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Sarah Okonkwo",
+    "body": "Tracking work for: Add dark mode tokens to design system.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100006,
+    "is_pull_request": false,
+    "labels": [
+      "p2",
+      "needs-design"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 112,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Add dark mode tokens to design system",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Ryan Kirkland",
+    "body": "Tracking work for: Reduce p99 latency on /search endpoint.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100007,
+    "is_pull_request": false,
+    "labels": [
+      "good-first-issue"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 120,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Reduce p99 latency on /search endpoint",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Ryan Kirkland",
+    "body": "Tracking work for: Onboarding flow stalls on email step.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100008,
+    "is_pull_request": false,
+    "labels": [
+      "feature",
+      "good-first-issue"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 121,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Onboarding flow stalls on email step",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Ryan Kirkland",
+    "body": "Tracking work for: Add dark mode tokens to design system.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100009,
+    "is_pull_request": false,
+    "labels": [
+      "wontfix",
+      "needs-review"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 122,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Add dark mode tokens to design system",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Tracking work for: Reduce p99 latency on /search endpoint.",
+    "closed_at": null,
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100010,
+    "is_pull_request": false,
+    "labels": [
+      "p1",
+      "needs-review"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 130,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "open",
+    "title": "Reduce p99 latency on /search endpoint",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Sarah Okonkwo",
+    "body": "Tracking work for: Onboarding flow stalls on email step.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100011,
+    "is_pull_request": false,
+    "labels": [
+      "good-first-issue"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 131,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Onboarding flow stalls on email step",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Sarah Okonkwo",
+    "body": "Tracking work for: Add dark mode tokens to design system.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100012,
+    "is_pull_request": false,
+    "labels": [
+      "p2",
+      "wontfix"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 132,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Add dark mode tokens to design system",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Tracking work for: Reduce p99 latency on /search endpoint.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100013,
+    "is_pull_request": false,
+    "labels": [
+      "bug",
+      "p2"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 140,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Reduce p99 latency on /search endpoint",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Ryan Kirkland",
+    "body": "Tracking work for: Onboarding flow stalls on email step.",
+    "closed_at": null,
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100014,
+    "is_pull_request": false,
+    "labels": [
+      "feature"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 141,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "open",
+    "title": "Onboarding flow stalls on email step",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Sarah Okonkwo",
+    "body": "Tracking work for: Add dark mode tokens to design system.",
+    "closed_at": null,
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100015,
+    "is_pull_request": false,
+    "labels": [
+      "needs-review",
+      "documentation"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 142,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "open",
+    "title": "Add dark mode tokens to design system",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Tracking work for: Reduce p99 latency on /search endpoint.",
+    "closed_at": null,
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100016,
+    "is_pull_request": false,
+    "labels": [
+      "blocked",
+      "good-first-issue"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 150,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "open",
+    "title": "Reduce p99 latency on /search endpoint",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Tracking work for: Onboarding flow stalls on email step.",
+    "closed_at": null,
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100017,
+    "is_pull_request": false,
+    "labels": [
+      "feature",
+      "blocked"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 151,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "open",
+    "title": "Onboarding flow stalls on email step",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Tracking work for: Add dark mode tokens to design system.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100018,
+    "is_pull_request": false,
+    "labels": [
+      "good-first-issue",
+      "wontfix"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 152,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Add dark mode tokens to design system",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Tracking work for: Migrate legacy logs to structured format.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100019,
+    "is_pull_request": true,
+    "labels": [
+      "p1",
+      "needs-review"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 153,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Migrate legacy logs to structured format",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Tracking work for: Reduce p99 latency on /search endpoint.",
+    "closed_at": null,
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100020,
+    "is_pull_request": false,
+    "labels": [
+      "wontfix",
+      "needs-review"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 160,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "open",
+    "title": "Reduce p99 latency on /search endpoint",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Ryan Kirkland",
+    "body": "Tracking work for: Onboarding flow stalls on email step.",
+    "closed_at": null,
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100021,
+    "is_pull_request": false,
+    "labels": [
+      "p1",
+      "needs-design"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 161,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "open",
+    "title": "Onboarding flow stalls on email step",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Sarah Okonkwo",
+    "body": "Tracking work for: Add dark mode tokens to design system.",
+    "closed_at": null,
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100022,
+    "is_pull_request": false,
+    "labels": [
+      "good-first-issue",
+      "p2"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 162,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "open",
+    "title": "Add dark mode tokens to design system",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Sarah Okonkwo",
+    "body": "Tracking work for: Reduce p99 latency on /search endpoint.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100023,
+    "is_pull_request": false,
+    "labels": [
+      "needs-review",
+      "good-first-issue"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 170,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Reduce p99 latency on /search endpoint",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Sarah Okonkwo",
+    "body": "Tracking work for: Onboarding flow stalls on email step.",
+    "closed_at": null,
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100024,
+    "is_pull_request": false,
+    "labels": [
+      "needs-design",
+      "good-first-issue"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 171,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "open",
+    "title": "Onboarding flow stalls on email step",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Tracking work for: Add dark mode tokens to design system.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100025,
+    "is_pull_request": false,
+    "labels": [
+      "good-first-issue",
+      "needs-design"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 172,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Add dark mode tokens to design system",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Tracking work for: Migrate legacy logs to structured format.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100026,
+    "is_pull_request": true,
+    "labels": [
+      "blocked",
+      "needs-review"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 173,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Migrate legacy logs to structured format",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Ryan Kirkland",
+    "body": "Tracking work for: Investigate flaky CI runs on the web suite.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100027,
+    "is_pull_request": false,
+    "labels": [
+      "documentation",
+      "feature"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 174,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Investigate flaky CI runs on the web suite",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Sarah Okonkwo",
+    "body": "Tracking work for: Document new deployment runbook.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100028,
+    "is_pull_request": false,
+    "labels": [
+      "wontfix",
+      "good-first-issue"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 175,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Document new deployment runbook",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Tracking work for: Reduce p99 latency on /search endpoint.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100029,
+    "is_pull_request": false,
+    "labels": [
+      "needs-review",
+      "p1"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 180,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Reduce p99 latency on /search endpoint",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Tracking work for: Onboarding flow stalls on email step.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100030,
+    "is_pull_request": false,
+    "labels": [
+      "feature",
+      "p1"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 181,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Onboarding flow stalls on email step",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Sarah Okonkwo",
+    "body": "Tracking work for: Add dark mode tokens to design system.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100031,
+    "is_pull_request": false,
+    "labels": [
+      "p1",
+      "bug"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 182,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Add dark mode tokens to design system",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Tracking work for: Migrate legacy logs to structured format.",
+    "closed_at": null,
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100032,
+    "is_pull_request": true,
+    "labels": [
+      "good-first-issue",
+      "needs-review"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 183,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "open",
+    "title": "Migrate legacy logs to structured format",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Tracking work for: Investigate flaky CI runs on the web suite.",
+    "closed_at": null,
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100033,
+    "is_pull_request": false,
+    "labels": [
+      "p1",
+      "blocked"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 184,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "open",
+    "title": "Investigate flaky CI runs on the web suite",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Sarah Okonkwo",
+    "body": "Tracking work for: Document new deployment runbook.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100034,
+    "is_pull_request": false,
+    "labels": [
+      "needs-design",
+      "blocked"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 185,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Document new deployment runbook",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Ryan Kirkland",
+    "body": "Tracking work for: Reduce p99 latency on /search endpoint.",
+    "closed_at": null,
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100035,
+    "is_pull_request": false,
+    "labels": [
+      "needs-review",
+      "good-first-issue"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 190,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "open",
+    "title": "Reduce p99 latency on /search endpoint",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Sarah Okonkwo",
+    "body": "Tracking work for: Onboarding flow stalls on email step.",
+    "closed_at": null,
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100036,
+    "is_pull_request": false,
+    "labels": [
+      "feature",
+      "needs-review"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 191,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "open",
+    "title": "Onboarding flow stalls on email step",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Ryan Kirkland",
+    "body": "Tracking work for: Add dark mode tokens to design system.",
+    "closed_at": null,
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100037,
+    "is_pull_request": false,
+    "labels": [
+      "needs-design",
+      "bug"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 192,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "open",
+    "title": "Add dark mode tokens to design system",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Tracking work for: Migrate legacy logs to structured format.",
+    "closed_at": "2025-09-12T15:00:00Z",
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100038,
+    "is_pull_request": true,
+    "labels": [
+      "wontfix",
+      "feature"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 193,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "closed",
+    "title": "Migrate legacy logs to structured format",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Dr. Ryan Kirkland",
+    "body": "Tracking work for: Investigate flaky CI runs on the web suite.",
+    "closed_at": null,
+    "created_at": "2025-01-15T10:00:00Z",
+    "id": 9100039,
+    "is_pull_request": false,
+    "labels": [
+      "needs-review",
+      "p1"
+    ],
+    "milestone": "milestone_2af7aeb86a55bd0f",
+    "number": 194,
+    "repo": "repo_9c5ca73e1473bc28",
+    "state": "open",
+    "title": "Investigate flaky CI runs on the web suite",
+    "updated_at": "2026-06-30T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Ryan Kirkland",
+    "body": "Investigating the elevated chr17 duplication rate after trimming param change.",
+    "closed_at": "2026-08-20T00:00:00Z",
+    "created_at": "2026-08-05T00:00:00Z",
+    "id": 910000,
+    "is_pull_request": false,
+    "labels": [
+      "needs-design",
+      "p2"
+    ],
+    "milestone": "milestone_88a6adf0143c0993",
+    "number": 100,
+    "repo": "langstonlab/alignment-pipeline",
+    "state": "closed",
+    "title": "Duplication rate on chr17 - investigation",
+    "updated_at": "2026-08-10T00:00:00Z",
+    "user": "ryan_kirkland"
+  },
+  {
+    "assignee": "Sarah Okonkwo",
+    "body": "Validate input file integrity via MD5.",
+    "closed_at": "",
+    "created_at": "2026-08-06T00:00:00Z",
+    "id": 910001,
+    "is_pull_request": false,
+    "labels": [
+      "needs-review",
+      "p1"
+    ],
+    "milestone": "milestone_a879916fe1fbca32",
+    "number": 102,
+    "repo": "langstonlab/alignment-pipeline",
+    "state": "open",
+    "title": "Add MD5 checksum validation to input step",
+    "updated_at": "2026-08-11T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Profile identifies sorting as bottleneck.",
+    "closed_at": "",
+    "created_at": "2026-08-07T00:00:00Z",
+    "id": 910002,
+    "is_pull_request": false,
+    "labels": [
+      "bug"
+    ],
+    "milestone": "milestone_47884493c38ab9a9",
+    "number": 104,
+    "repo": "langstonlab/alignment-pipeline",
+    "state": "open",
+    "title": "Speed up sorting step by 30 percent",
+    "updated_at": "2026-08-12T00:00:00Z",
+    "user": "wei_chen"
+  },
+  {
+    "assignee": "Priya Mehta",
+    "body": "Reported by Wei during weekly check-in.",
+    "closed_at": "2026-08-23T00:00:00Z",
+    "created_at": "2026-08-08T00:00:00Z",
+    "id": 910003,
+    "is_pull_request": false,
+    "labels": [
+      "enhancement"
+    ],
+    "milestone": "milestone_2158a787a7b79336",
+    "number": 106,
+    "repo": "langstonlab/alignment-pipeline",
+    "state": "closed",
+    "title": "Fix off-by-one in coordinate translation",
+    "updated_at": "2026-08-13T00:00:00Z",
+    "user": "priya_mehta"
+  },
+  {
+    "assignee": "Owen Bryant",
+    "body": "Upgrade dependency and re-run benchmarks.",
+    "closed_at": "",
+    "created_at": "2026-08-09T00:00:00Z",
+    "id": 910004,
+    "is_pull_request": false,
+    "labels": [
+      "docs"
+    ],
+    "milestone": "milestone_9fefdab4bb942252",
+    "number": 108,
+    "repo": "langstonlab/alignment-pipeline",
+    "state": "open",
+    "title": "Migrate to samtools 1.20",
+    "updated_at": "2026-08-14T00:00:00Z",
+    "user": "ryan_kirkland"
+  },
+  {
+    "assignee": "Ryan Kirkland",
+    "body": "Introduce basic integration tests.",
+    "closed_at": "",
+    "created_at": "2026-08-10T00:00:00Z",
+    "id": 910005,
+    "is_pull_request": false,
+    "labels": [
+      "needs-design",
+      "p2"
+    ],
+    "milestone": "milestone_b191758b616ac8ea",
+    "number": 110,
+    "repo": "langstonlab/alignment-pipeline",
+    "state": "open",
+    "title": "Add nf-core test suite",
+    "updated_at": "2026-08-15T00:00:00Z",
+    "user": "ryan_kirkland"
+  },
+  {
+    "assignee": "Sarah Okonkwo",
+    "body": "Missing doc for new users.",
+    "closed_at": "2026-08-26T00:00:00Z",
+    "created_at": "2026-08-11T00:00:00Z",
+    "id": 910006,
+    "is_pull_request": false,
+    "labels": [
+      "needs-review",
+      "p1"
+    ],
+    "milestone": "milestone_d5c42ef678543b99",
+    "number": 112,
+    "repo": "langstonlab/alignment-pipeline",
+    "state": "closed",
+    "title": "Document HPC job submission",
+    "updated_at": "2026-08-16T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Move away from bespoke config format.",
+    "closed_at": "",
+    "created_at": "2026-08-12T00:00:00Z",
+    "id": 910007,
+    "is_pull_request": false,
+    "labels": [
+      "bug"
+    ],
+    "milestone": "milestone_0af94100c2c55cc9",
+    "number": 114,
+    "repo": "langstonlab/alignment-pipeline",
+    "state": "open",
+    "title": "Refactor config to YAML",
+    "updated_at": "2026-08-17T00:00:00Z",
+    "user": "wei_chen"
+  },
+  {
+    "assignee": "Priya Mehta",
+    "body": "Currently only supports plain FASTQ.",
+    "closed_at": "",
+    "created_at": "2026-08-13T00:00:00Z",
+    "id": 910008,
+    "is_pull_request": false,
+    "labels": [
+      "enhancement"
+    ],
+    "milestone": "milestone_2de6e5d4abb0ac8b",
+    "number": 116,
+    "repo": "langstonlab/alignment-pipeline",
+    "state": "open",
+    "title": "Support gzipped input FASTQ",
+    "updated_at": "2026-08-18T00:00:00Z",
+    "user": "priya_mehta"
+  },
+  {
+    "assignee": "Owen Bryant",
+    "body": "User feedback from Ryan.",
+    "closed_at": "2026-08-29T00:00:00Z",
+    "created_at": "2026-08-14T00:00:00Z",
+    "id": 910009,
+    "is_pull_request": false,
+    "labels": [
+      "docs"
+    ],
+    "milestone": "milestone_5e15e1cad1c80850",
+    "number": 118,
+    "repo": "langstonlab/alignment-pipeline",
+    "state": "closed",
+    "title": "Add progress bar to trimming step",
+    "updated_at": "2026-08-19T00:00:00Z",
+    "user": "ryan_kirkland"
+  },
+  {
+    "assignee": "Ryan Kirkland",
+    "body": "Reviewer 3 asked for coefficient in Figure 4 legend.",
+    "closed_at": "",
+    "created_at": "2026-08-15T00:00:00Z",
+    "id": 910010,
+    "is_pull_request": false,
+    "labels": [
+      "needs-design",
+      "p2"
+    ],
+    "milestone": "milestone_ca1e5442ac180ba9",
+    "number": 120,
+    "repo": "langstonlab/coupling-analysis",
+    "state": "open",
+    "title": "Response to Reviewer 3 - coupling coefficient explicit",
+    "updated_at": "2026-08-20T00:00:00Z",
+    "user": "ryan_kirkland"
+  },
+  {
+    "assignee": "Sarah Okonkwo",
+    "body": "Cover the new mutant benchmark.",
+    "closed_at": "",
+    "created_at": "2026-08-16T00:00:00Z",
+    "id": 910011,
+    "is_pull_request": false,
+    "labels": [
+      "needs-review",
+      "p1"
+    ],
+    "milestone": "milestone_341677898f30ac08",
+    "number": 122,
+    "repo": "langstonlab/coupling-analysis",
+    "state": "open",
+    "title": "Add unit test for E62K mutant series",
+    "updated_at": "2026-08-21T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Profile shows O(n^2) blowup on large matrices.",
+    "closed_at": "2026-09-01T00:00:00Z",
+    "created_at": "2026-08-17T00:00:00Z",
+    "id": 910012,
+    "is_pull_request": false,
+    "labels": [
+      "bug"
+    ],
+    "milestone": "milestone_18fe256011e0774a",
+    "number": 124,
+    "repo": "langstonlab/coupling-analysis",
+    "state": "closed",
+    "title": "Optimize matrix multiplication step",
+    "updated_at": "2026-08-22T00:00:00Z",
+    "user": "wei_chen"
+  },
+  {
+    "assignee": "Priya Mehta",
+    "body": "Wanted by Sarah for the Bioinformatics submission.",
+    "closed_at": "",
+    "created_at": "2026-08-18T00:00:00Z",
+    "id": 910013,
+    "is_pull_request": false,
+    "labels": [
+      "enhancement"
+    ],
+    "milestone": "milestone_1175ec7ce6b7c8d2",
+    "number": 126,
+    "repo": "langstonlab/coupling-analysis",
+    "state": "open",
+    "title": "Add plotting helper for coupling map",
+    "updated_at": "2026-08-23T00:00:00Z",
+    "user": "priya_mehta"
+  },
+  {
+    "assignee": "Owen Bryant",
+    "body": "Upgrade compatibility.",
+    "closed_at": "",
+    "created_at": "2026-08-19T00:00:00Z",
+    "id": 910014,
+    "is_pull_request": false,
+    "labels": [
+      "docs"
+    ],
+    "milestone": "milestone_8934ae8bddb1aeae",
+    "number": 128,
+    "repo": "langstonlab/coupling-analysis",
+    "state": "open",
+    "title": "Migrate to numpy 2.0",
+    "updated_at": "2026-08-24T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Ryan Kirkland",
+    "body": "Wei found this while writing his quals proposal.",
+    "closed_at": "2026-09-04T00:00:00Z",
+    "created_at": "2026-08-20T00:00:00Z",
+    "id": 910015,
+    "is_pull_request": false,
+    "labels": [
+      "needs-design",
+      "p2"
+    ],
+    "milestone": "milestone_9f0bb31f90052f9a",
+    "number": 130,
+    "repo": "langstonlab/coupling-analysis",
+    "state": "closed",
+    "title": "Fix off-by-one in symmetry check",
+    "updated_at": "2026-08-25T00:00:00Z",
+    "user": "ryan_kirkland"
+  },
+  {
+    "assignee": "Sarah Okonkwo",
+    "body": "Notebook for the Voss dataset walkthrough.",
+    "closed_at": "",
+    "created_at": "2026-08-21T00:00:00Z",
+    "id": 910016,
+    "is_pull_request": false,
+    "labels": [
+      "needs-review",
+      "p1"
+    ],
+    "milestone": "milestone_596ea8d1075783e6",
+    "number": 132,
+    "repo": "langstonlab/coupling-analysis",
+    "state": "open",
+    "title": "Add notebook example - Voss dataset",
+    "updated_at": "2026-08-26T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Consolidate lot metadata into a single sub-object.",
+    "closed_at": "",
+    "created_at": "2026-08-22T00:00:00Z",
+    "id": 910017,
+    "is_pull_request": false,
+    "labels": [
+      "bug"
+    ],
+    "milestone": "milestone_371a5da583824a30",
+    "number": 134,
+    "repo": "langstonlab/sample-inventory",
+    "state": "open",
+    "title": "Refactor sample-inventory schema",
+    "updated_at": "2026-08-27T00:00:00Z",
+    "user": "wei_chen"
+  },
+  {
+    "assignee": "Priya Mehta",
+    "body": "Support USB barcode readers.",
+    "closed_at": "2026-09-07T00:00:00Z",
+    "created_at": "2026-08-23T00:00:00Z",
+    "id": 910018,
+    "is_pull_request": false,
+    "labels": [
+      "enhancement"
+    ],
+    "milestone": "milestone_19e2d2847e101efb",
+    "number": 136,
+    "repo": "langstonlab/sample-inventory",
+    "state": "closed",
+    "title": "Add barcode scanning support",
+    "updated_at": "2026-08-28T00:00:00Z",
+    "user": "priya_mehta"
+  },
+  {
+    "assignee": "Owen Bryant",
+    "body": "UI regression.",
+    "closed_at": "",
+    "created_at": "2026-08-24T00:00:00Z",
+    "id": 910019,
+    "is_pull_request": false,
+    "labels": [
+      "docs"
+    ],
+    "milestone": "milestone_57da95c7e883c144",
+    "number": 138,
+    "repo": "langstonlab/sample-inventory",
+    "state": "open",
+    "title": "Fix stale filter state on reload",
+    "updated_at": "2026-08-29T00:00:00Z",
+    "user": "wei_chen"
+  },
+  {
+    "assignee": "Ryan Kirkland",
+    "body": "Reported by Sentry - malformed request body.",
+    "closed_at": "",
+    "created_at": "2026-08-25T00:00:00Z",
+    "id": 910020,
+    "is_pull_request": false,
+    "labels": [
+      "needs-design",
+      "p2"
+    ],
+    "milestone": "milestone_41204487cf2bd2c1",
+    "number": 140,
+    "repo": "langstonlab/analysis-web-app",
+    "state": "open",
+    "title": "JSON parse error at /upload endpoint",
+    "updated_at": "2026-08-30T00:00:00Z",
+    "user": "ryan_kirkland"
+  },
+  {
+    "assignee": "Sarah Okonkwo",
+    "body": "Move off shared credentials.",
+    "closed_at": "2026-09-10T00:00:00Z",
+    "created_at": "2026-08-26T00:00:00Z",
+    "id": 910021,
+    "is_pull_request": false,
+    "labels": [
+      "needs-review",
+      "p1"
+    ],
+    "milestone": "milestone_2715a59b1cf62365",
+    "number": 142,
+    "repo": "langstonlab/analysis-web-app",
+    "state": "closed",
+    "title": "Add authentication via Okta SSO",
+    "updated_at": "2026-08-31T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "Correlate with Mixpanel.",
+    "closed_at": "",
+    "created_at": "2026-08-27T00:00:00Z",
+    "id": 910022,
+    "is_pull_request": false,
+    "labels": [
+      "bug"
+    ],
+    "milestone": "milestone_b49c6d9cd6d77aa4",
+    "number": 144,
+    "repo": "langstonlab/analysis-web-app",
+    "state": "open",
+    "title": "Add usage analytics via PostHog",
+    "updated_at": "2026-09-01T00:00:00Z",
+    "user": "wei_chen"
+  },
+  {
+    "assignee": "Priya Mehta",
+    "body": "Route to Intercom.",
+    "closed_at": "",
+    "created_at": "2026-08-28T00:00:00Z",
+    "id": 910023,
+    "is_pull_request": false,
+    "labels": [
+      "enhancement"
+    ],
+    "milestone": "milestone_192f580950e92f0a",
+    "number": 146,
+    "repo": "langstonlab/analysis-web-app",
+    "state": "open",
+    "title": "Add support ticket link",
+    "updated_at": "2026-09-02T00:00:00Z",
+    "user": "priya_mehta"
+  },
+  {
+    "assignee": "Owen Bryant",
+    "body": "Reported by Sarah.",
+    "closed_at": "2026-09-13T00:00:00Z",
+    "created_at": "2026-08-29T00:00:00Z",
+    "id": 910024,
+    "is_pull_request": false,
+    "labels": [
+      "docs"
+    ],
+    "milestone": "milestone_b213826f83c13a60",
+    "number": 148,
+    "repo": "langstonlab/analysis-web-app",
+    "state": "closed",
+    "title": "Fix mobile layout on results view",
+    "updated_at": "2026-09-03T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Ryan Kirkland",
+    "body": "R3 response.",
+    "closed_at": "",
+    "created_at": "2026-08-30T00:00:00Z",
+    "id": 910025,
+    "is_pull_request": false,
+    "labels": [
+      "needs-design",
+      "p2"
+    ],
+    "milestone": "milestone_439dee7b86357c3c",
+    "number": 150,
+    "repo": "langstonlab/voss-figures",
+    "state": "open",
+    "title": "Regenerate Figure 4 with coupling coefficient legend",
+    "updated_at": "2026-09-04T00:00:00Z",
+    "user": "ryan_kirkland"
+  },
+  {
+    "assignee": "Sarah Okonkwo",
+    "body": "R3 response.",
+    "closed_at": "",
+    "created_at": "2026-08-31T00:00:00Z",
+    "id": 910026,
+    "is_pull_request": false,
+    "labels": [
+      "needs-review",
+      "p1"
+    ],
+    "milestone": "milestone_1790e908b74b6705",
+    "number": 152,
+    "repo": "langstonlab/voss-figures",
+    "state": "open",
+    "title": "Regenerate Supplementary Figure S3 with error bars",
+    "updated_at": "2026-09-05T00:00:00Z",
+    "user": "sarah_okonkwo"
+  },
+  {
+    "assignee": "Wei Chen",
+    "body": "For Reviewer 1's request.",
+    "closed_at": "2026-09-16T00:00:00Z",
+    "created_at": "2026-09-01T00:00:00Z",
+    "id": 910027,
+    "is_pull_request": false,
+    "labels": [
+      "bug"
+    ],
+    "milestone": "milestone_51a7a483523b804e",
+    "number": 154,
+    "repo": "langstonlab/voss-figures",
+    "state": "closed",
+    "title": "Add color-blind safe palette",
+    "updated_at": "2026-09-06T00:00:00Z",
+    "user": "wei_chen"
+  },
+  {
+    "assignee": "Priya Mehta",
+    "body": "Upgrade compatibility.",
+    "closed_at": "",
+    "created_at": "2026-09-02T00:00:00Z",
+    "id": 910028,
+    "is_pull_request": false,
+    "labels": [
+      "enhancement"
+    ],
+    "milestone": "milestone_d871a9c06ddf39cb",
+    "number": 156,
+    "repo": "langstonlab/voss-figures",
+    "state": "open",
+    "title": "Migrate ggplot to latest tidyverse",
+    "updated_at": "2026-09-07T00:00:00Z",
+    "user": "priya_mehta"
+  }
+]

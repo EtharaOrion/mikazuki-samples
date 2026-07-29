@@ -1,0 +1,142 @@
+[
+  {
+    "id": "blogPost",
+    "name": "Blog Post",
+    "displayField": "title",
+    "description": "Banh mi sale - church parking lot",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"Text\",\"required\":false},{\"id\":\"author\",\"name\":\"Author\",\"type\":\"Link\",\"linkType\":\"Entry\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"published\",\"name\":\"Published\",\"type\":\"Boolean\",\"required\":false}]"
+  },
+  {
+    "id": "author",
+    "name": "Author",
+    "displayField": "name",
+    "description": "Amanda + Samuel Friday date night",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"name\":\"Bio\",\"type\":\"Text\",\"required\":false},{\"id\":\"twitter\",\"name\":\"Twitter\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "category",
+    "name": "Category",
+    "displayField": "title",
+    "description": "Choir rehearsal - Track 4 & 'How Great Thou Art'",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true}]"
+  },
+  {
+    "id": "blogPost-0003",
+    "name": "Blog Post",
+    "displayField": "title",
+    "description": "Choir rehearsal - Track 4 & 'How Great Thou Art'",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"Text\",\"required\":false},{\"id\":\"author\",\"name\":\"Author\",\"type\":\"Link\",\"linkType\":\"Entry\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"published\",\"name\":\"Published\",\"type\":\"Boolean\",\"required\":false}]"
+  },
+  {
+    "id": "author-0004",
+    "name": "Author",
+    "displayField": "name",
+    "description": "Christmas pageant rehearsal",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"name\":\"Bio\",\"type\":\"Text\",\"required\":false},{\"id\":\"twitter\",\"name\":\"Twitter\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "category-0005",
+    "name": "Category",
+    "displayField": "title",
+    "description": "Album Track 4 recording session at Soundcraft",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true}]"
+  },
+  {
+    "id": "blogPost-0006",
+    "name": "Blog Post",
+    "displayField": "title",
+    "description": "Youth choir Saturday rehearsal - 1-3 PM",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"Text\",\"required\":false},{\"id\":\"author\",\"name\":\"Author\",\"type\":\"Link\",\"linkType\":\"Entry\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"published\",\"name\":\"Published\",\"type\":\"Boolean\",\"required\":false}]"
+  },
+  {
+    "id": "author-0007",
+    "name": "Author",
+    "displayField": "name",
+    "description": "Amanda + Samuel Friday date night",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"name\":\"Bio\",\"type\":\"Text\",\"required\":false},{\"id\":\"twitter\",\"name\":\"Twitter\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "category-0008",
+    "name": "Category",
+    "displayField": "title",
+    "description": "Steinway tuning by Piedmont Piano Service",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true}]"
+  },
+  {
+    "id": "blogPost-0009",
+    "name": "Blog Post",
+    "displayField": "title",
+    "description": "Wednesday Emmanuel drum lesson with Terrence Walker",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"Text\",\"required\":false},{\"id\":\"author\",\"name\":\"Author\",\"type\":\"Link\",\"linkType\":\"Entry\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"published\",\"name\":\"Published\",\"type\":\"Boolean\",\"required\":false}]"
+  },
+  {
+    "id": "author-0010",
+    "name": "Author",
+    "displayField": "name",
+    "description": "Sunday 11 AM contemporary service (choir + band)",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"name\":\"Bio\",\"type\":\"Text\",\"required\":false},{\"id\":\"twitter\",\"name\":\"Twitter\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "category-0011",
+    "name": "Category",
+    "displayField": "title",
+    "description": "Banh mi sale - church parking lot",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true}]"
+  },
+  {
+    "id": "blogPost-0012",
+    "name": "Blog Post",
+    "displayField": "title",
+    "description": "Convention prep session with Deacon Harris",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"Text\",\"required\":false},{\"id\":\"author\",\"name\":\"Author\",\"type\":\"Link\",\"linkType\":\"Entry\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"published\",\"name\":\"Published\",\"type\":\"Boolean\",\"required\":false}]"
+  },
+  {
+    "id": "author-0013",
+    "name": "Author",
+    "displayField": "name",
+    "description": "Wednesday Ruth visit - Decatur",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"name\":\"Bio\",\"type\":\"Text\",\"required\":false},{\"id\":\"twitter\",\"name\":\"Twitter\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "category-0014",
+    "name": "Category",
+    "displayField": "title",
+    "description": "Sunday 8 AM traditional service (choir + Dr. Wells organ)",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true}]"
+  },
+  {
+    "id": "blogPost-0015",
+    "name": "Blog Post",
+    "displayField": "title",
+    "description": "Concert fundraiser evening - GAW Center sanctuary",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"Text\",\"required\":false},{\"id\":\"author\",\"name\":\"Author\",\"type\":\"Link\",\"linkType\":\"Entry\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"published\",\"name\":\"Published\",\"type\":\"Boolean\",\"required\":false}]"
+  },
+  {
+    "id": "author-0016",
+    "name": "Author",
+    "displayField": "name",
+    "description": "Q4 church budget committee meeting",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"name\":\"Bio\",\"type\":\"Text\",\"required\":false},{\"id\":\"twitter\",\"name\":\"Twitter\",\"type\":\"Symbol\",\"required\":false}]"
+  },
+  {
+    "id": "category-0017",
+    "name": "Category",
+    "displayField": "title",
+    "description": "Youth band Saturday rehearsal - 3-5 PM (Emmanuel on drums)",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true}]"
+  },
+  {
+    "id": "blogPost-0018",
+    "name": "Blog Post",
+    "displayField": "title",
+    "description": "Choir rehearsal - Track 4 & 'How Great Thou Art'",
+    "fields_json": "[{\"id\":\"title\",\"name\":\"Title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"name\":\"Slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"name\":\"Body\",\"type\":\"Text\",\"required\":false},{\"id\":\"author\",\"name\":\"Author\",\"type\":\"Link\",\"linkType\":\"Entry\",\"required\":false},{\"id\":\"heroImage\",\"name\":\"Hero Image\",\"type\":\"Link\",\"linkType\":\"Asset\",\"required\":false},{\"id\":\"published\",\"name\":\"Published\",\"type\":\"Boolean\",\"required\":false}]"
+  },
+  {
+    "id": "author-0019",
+    "name": "Author",
+    "displayField": "name",
+    "description": "Christmas pageant rehearsal",
+    "fields_json": "[{\"id\":\"name\",\"name\":\"Name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"name\":\"Bio\",\"type\":\"Text\",\"required\":false},{\"id\":\"twitter\",\"name\":\"Twitter\",\"type\":\"Symbol\",\"required\":false}]"
+  }
+]

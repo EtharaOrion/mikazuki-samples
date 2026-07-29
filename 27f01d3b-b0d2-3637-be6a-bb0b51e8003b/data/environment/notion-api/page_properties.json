@@ -1,0 +1,242 @@
+[
+  {
+    "page_id": "page-task-001",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-task-001",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "Urgent"
+  },
+  {
+    "page_id": "page-task-001",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-claire"
+  },
+  {
+    "page_id": "page-task-001",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2026-01-15"
+  },
+  {
+    "page_id": "page-task-002",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "Not started"
+  },
+  {
+    "page_id": "page-task-002",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "Medium"
+  },
+  {
+    "page_id": "page-task-002",
+    "property_name": "Assignee",
+    "property_type": "people",
+    "value": "user-jessica"
+  },
+  {
+    "page_id": "page-task-002",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2026-01-20"
+  },
+  {
+    "page_id": "page-task-003",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "Done"
+  },
+  {
+    "page_id": "page-task-003",
+    "property_name": "5th Anniversary Showcase planning",
+    "property_type": "select",
+    "value": "Medium"
+  },
+  {
+    "page_id": "page-task-003",
+    "property_name": "Summer camp registration",
+    "property_type": "people",
+    "value": "user-claire"
+  },
+  {
+    "page_id": "page-task-003",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2026-03-10"
+  },
+  {
+    "page_id": "page-task-004",
+    "property_name": "Sheet music library update",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-task-004",
+    "property_name": "Priority",
+    "property_type": "select",
+    "value": "Low"
+  },
+  {
+    "page_id": "page-task-004",
+    "property_name": "Ensemble arrangement rewrite",
+    "property_type": "people",
+    "value": "user-claire"
+  },
+  {
+    "page_id": "page-task-004",
+    "property_name": "Due",
+    "property_type": "date",
+    "value": "2026-01-10"
+  },
+  {
+    "page_id": "page-student-001",
+    "property_name": "Level",
+    "property_type": "select",
+    "value": "Intermediate"
+  },
+  {
+    "page_id": "page-student-001",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "Active"
+  },
+  {
+    "page_id": "page-student-001",
+    "property_name": "Enrolled Since",
+    "property_type": "date",
+    "value": "2025-11-15"
+  },
+  {
+    "page_id": "page-student-002",
+    "property_name": "Level",
+    "property_type": "select",
+    "value": "Beginner"
+  },
+  {
+    "page_id": "page-student-002",
+    "property_name": "Gig payout tracking",
+    "property_type": "status",
+    "value": "Active"
+  },
+  {
+    "page_id": "page-student-002",
+    "property_name": "Enrolled Since",
+    "property_type": "date",
+    "value": "2026-01-10"
+  },
+  {
+    "page_id": "page-festival-001",
+    "property_name": "The Spotlight Room stage plot",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-festival-001",
+    "property_name": "Owner",
+    "property_type": "people",
+    "value": "user-jessica"
+  },
+  {
+    "page_id": "page-festival-001",
+    "property_name": "Progress",
+    "property_type": "number",
+    "value": "0.75"
+  },
+  {
+    "page_id": "page-festival-002",
+    "property_name": "Luke Vance bass line adjustment",
+    "property_type": "status",
+    "value": "Done"
+  },
+  {
+    "page_id": "page-festival-002",
+    "property_name": "Wednesday dinner with Sofia and Dante",
+    "property_type": "people",
+    "value": "user-jessica"
+  },
+  {
+    "page_id": "page-festival-002",
+    "property_name": "Progress",
+    "property_type": "number",
+    "value": "1.0"
+  },
+  {
+    "page_id": "page-task-jw-010",
+    "property_name": "Sunday call with Mom",
+    "property_type": "status",
+    "value": "Not started"
+  },
+  {
+    "page_id": "page-task-jw-011",
+    "property_name": "Sister Gianna family thread",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-task-jw-012",
+    "property_name": "Status",
+    "property_type": "status",
+    "value": "Blocked"
+  },
+  {
+    "page_id": "page-task-jw-013",
+    "property_name": "Dante drum lesson pickup",
+    "property_type": "status",
+    "value": "Done"
+  },
+  {
+    "page_id": "page-task-jw-014",
+    "property_name": "Private saxophone lesson",
+    "property_type": "status",
+    "value": "Not started"
+  },
+  {
+    "page_id": "page-task-jw-015",
+    "property_name": "Group jazz ensemble rehearsal",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-task-jw-016",
+    "property_name": "Trial lesson consultation",
+    "property_type": "status",
+    "value": "Blocked"
+  },
+  {
+    "page_id": "page-task-jw-017",
+    "property_name": "Theory class discussion",
+    "property_type": "status",
+    "value": "Done"
+  },
+  {
+    "page_id": "page-task-jw-018",
+    "property_name": "Instructor coordination meeting",
+    "property_type": "status",
+    "value": "Not started"
+  },
+  {
+    "page_id": "page-task-jw-019",
+    "property_name": "Winter recital rehearsal",
+    "property_type": "status",
+    "value": "In progress"
+  },
+  {
+    "page_id": "page-task-jw-020",
+    "property_name": "Student progress review",
+    "property_type": "status",
+    "value": "Blocked"
+  },
+  {
+    "page_id": "page-task-jw-021",
+    "property_name": "Enrollment inquiry follow-up",
+    "property_type": "status",
+    "value": "Done"
+  }
+]

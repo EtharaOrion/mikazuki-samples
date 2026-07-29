@@ -1,0 +1,233 @@
+[
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "97392",
+    "dest_zip": "11106",
+    "weight_lb": "38.0",
+    "currency": "USD",
+    "net_charge": "52.40",
+    "transit_days": "5",
+    "delivery_day": "2026-02-28"
+  },
+  {
+    "service_type": "FEDEX_2_DAY",
+    "service_name": "FedEx 2Day",
+    "origin_zip": "97392",
+    "dest_zip": "11106",
+    "weight_lb": "38.0",
+    "currency": "USD",
+    "net_charge": "118.75",
+    "transit_days": "2",
+    "delivery_day": "2026-02-27"
+  },
+  {
+    "service_type": "PRIORITY_OVERNIGHT",
+    "service_name": "FedEx Priority Overnight",
+    "origin_zip": "97392",
+    "dest_zip": "11106",
+    "weight_lb": "38.0",
+    "currency": "USD",
+    "net_charge": "214.30",
+    "transit_days": "1",
+    "delivery_day": "2026-02-26"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "94558",
+    "dest_zip": "11106",
+    "weight_lb": "38.0",
+    "currency": "USD",
+    "net_charge": "48.90",
+    "transit_days": "5",
+    "delivery_day": "2026-02-28"
+  },
+  {
+    "service_type": "FEDEX_2_DAY",
+    "service_name": "FedEx 2Day",
+    "origin_zip": "94558",
+    "dest_zip": "11106",
+    "weight_lb": "19.0",
+    "currency": "USD",
+    "net_charge": "79.20",
+    "transit_days": "2",
+    "delivery_day": "2026-02-27"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "95476",
+    "dest_zip": "11106",
+    "weight_lb": "38.0",
+    "currency": "USD",
+    "net_charge": "49.55",
+    "transit_days": "5",
+    "delivery_day": "2026-02-28"
+  },
+  {
+    "service_type": "FEDEX_EXPRESS_SAVER",
+    "service_name": "FedEx Express Saver",
+    "origin_zip": "95476",
+    "dest_zip": "11106",
+    "weight_lb": "19.0",
+    "currency": "USD",
+    "net_charge": "61.40",
+    "transit_days": "3",
+    "delivery_day": "2026-02-28"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "99362",
+    "dest_zip": "11106",
+    "weight_lb": "38.0",
+    "currency": "USD",
+    "net_charge": "44.10",
+    "transit_days": "4",
+    "delivery_day": "2026-02-28"
+  },
+  {
+    "service_type": "FEDEX_2_DAY",
+    "service_name": "FedEx 2Day",
+    "origin_zip": "99362",
+    "dest_zip": "11106",
+    "weight_lb": "19.0",
+    "currency": "USD",
+    "net_charge": "72.85",
+    "transit_days": "2",
+    "delivery_day": "2026-02-27"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "14456",
+    "dest_zip": "11106",
+    "weight_lb": "38.0",
+    "currency": "USD",
+    "net_charge": "22.65",
+    "transit_days": "2",
+    "delivery_day": "2026-02-27"
+  },
+  {
+    "service_type": "FEDEX_EXPRESS_SAVER",
+    "service_name": "FedEx Express Saver",
+    "origin_zip": "14456",
+    "dest_zip": "11106",
+    "weight_lb": "26.0",
+    "currency": "USD",
+    "net_charge": "38.90",
+    "transit_days": "3",
+    "delivery_day": "2026-02-28"
+  },
+  {
+    "service_type": "PRIORITY_OVERNIGHT",
+    "service_name": "FedEx Priority Overnight",
+    "origin_zip": "94558",
+    "dest_zip": "11106",
+    "weight_lb": "12.0",
+    "currency": "USD",
+    "net_charge": "165.20",
+    "transit_days": "1",
+    "delivery_day": "2026-02-26"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "10474",
+    "dest_zip": "11106",
+    "weight_lb": "45.0",
+    "currency": "USD",
+    "net_charge": "16.80",
+    "transit_days": "1",
+    "delivery_day": "2026-02-26"
+  },
+  {
+    "service_type": "FEDEX_2_DAY",
+    "service_name": "FedEx 2Day",
+    "origin_zip": "10474",
+    "dest_zip": "11106",
+    "weight_lb": "45.0",
+    "currency": "USD",
+    "net_charge": "58.40",
+    "transit_days": "2",
+    "delivery_day": "2026-02-27"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "53201",
+    "dest_zip": "11106",
+    "weight_lb": "33.0",
+    "currency": "USD",
+    "net_charge": "34.75",
+    "transit_days": "3",
+    "delivery_day": "2026-02-28"
+  },
+  {
+    "service_type": "FEDEX_EXPRESS_SAVER",
+    "service_name": "FedEx Express Saver",
+    "origin_zip": "53201",
+    "dest_zip": "11106",
+    "weight_lb": "20.0",
+    "currency": "USD",
+    "net_charge": "55.10",
+    "transit_days": "3",
+    "delivery_day": "2026-02-28"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "60607",
+    "dest_zip": "11106",
+    "weight_lb": "40.0",
+    "currency": "USD",
+    "net_charge": "41.20",
+    "transit_days": "4",
+    "delivery_day": "2026-02-28"
+  },
+  {
+    "service_type": "FEDEX_2_DAY",
+    "service_name": "FedEx 2Day",
+    "origin_zip": "60607",
+    "dest_zip": "11106",
+    "weight_lb": "22.0",
+    "currency": "USD",
+    "net_charge": "84.60",
+    "transit_days": "2",
+    "delivery_day": "2026-02-27"
+  },
+  {
+    "service_type": "PRIORITY_OVERNIGHT",
+    "service_name": "FedEx Priority Overnight",
+    "origin_zip": "02118",
+    "dest_zip": "11106",
+    "weight_lb": "15.0",
+    "currency": "USD",
+    "net_charge": "142.55",
+    "transit_days": "1",
+    "delivery_day": "2026-02-26"
+  },
+  {
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "origin_zip": "02118",
+    "dest_zip": "11106",
+    "weight_lb": "30.0",
+    "currency": "USD",
+    "net_charge": "19.95",
+    "transit_days": "2",
+    "delivery_day": "2026-02-27"
+  },
+  {
+    "service_type": "FEDEX_EXPRESS_SAVER",
+    "service_name": "FedEx Express Saver",
+    "origin_zip": "97392",
+    "dest_zip": "11106",
+    "weight_lb": "24.0",
+    "currency": "USD",
+    "net_charge": "67.30",
+    "transit_days": "3",
+    "delivery_day": "2026-02-28"
+  }
+]

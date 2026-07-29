@@ -1,0 +1,11 @@
+[
+  {
+    "schedule_id": "SCH001",
+    "name": "Site On-Call (informal)",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU002",
+    "oncall_start": "2026-03-01T00:00:00Z",
+    "oncall_end": "2026-03-01T01:00:00+00:00"
+  }
+]

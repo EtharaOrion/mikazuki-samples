@@ -1,0 +1,68 @@
+[
+  {
+    "id": "sub_dbee8e4b0ccbf70f",
+    "customer": "cus_8dc78aa1406eee1d",
+    "price": "price_7be978b4fd163a34",
+    "status": "active",
+    "quantity": 1,
+    "current_period_start": 1719792000,
+    "current_period_end": 1722384000,
+    "cancel_at_period_end": false,
+    "created": 1717200000
+  },
+  {
+    "id": "sub_9acbe21a81ecfba4",
+    "customer": "cus_8dc78aa1406eee1d",
+    "price": "price_5e761e68ab6e8e67",
+    "status": "active",
+    "quantity": 1,
+    "current_period_start": 1722384000,
+    "current_period_end": 1724976000,
+    "cancel_at_period_end": false,
+    "created": 1719792000
+  },
+  {
+    "id": "sub_9578856559fda991",
+    "customer": "cus_8dc78aa1406eee1d",
+    "price": "price_7522b109cfc09192",
+    "status": "active",
+    "quantity": 1,
+    "current_period_start": 1724976000,
+    "current_period_end": 1727568000,
+    "cancel_at_period_end": false,
+    "created": 1722384000
+  },
+  {
+    "id": "sub_073c6cd93f4bea66",
+    "customer": "cus_8dc78aa1406eee1d",
+    "price": "price_82a093ff57f44bba",
+    "status": "active",
+    "quantity": 1,
+    "current_period_start": 1727568000,
+    "current_period_end": 1730160000,
+    "cancel_at_period_end": false,
+    "created": 1724976000
+  },
+  {
+    "id": "sub_9107eeaad5667d36",
+    "customer": "cus_8dc78aa1406eee1d",
+    "price": "price_0b8b9d1f353f8d9f",
+    "status": "past_due",
+    "quantity": 1,
+    "current_period_start": 1730160000,
+    "current_period_end": 1732752000,
+    "cancel_at_period_end": false,
+    "created": 1727568000
+  },
+  {
+    "id": "sub_5970318770985c31",
+    "customer": "cus_8dc78aa1406eee1d",
+    "price": "price_7be978b4fd163a34",
+    "status": "canceled",
+    "quantity": 1,
+    "current_period_start": 1732752000,
+    "current_period_end": 1735344000,
+    "cancel_at_period_end": false,
+    "created": 1730160000
+  }
+]

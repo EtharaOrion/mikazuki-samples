@@ -1,0 +1,9 @@
+[
+  {
+    "escalation_policy_id": "EP001",
+    "name": "Site Issues",
+    "num_loops": "1",
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  }
+]

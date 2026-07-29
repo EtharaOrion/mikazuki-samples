@@ -1,0 +1,222 @@
+[
+  {
+    "pair": "XBTUSD",
+    "altname": "SOL",
+    "wsname": "Choir Roster",
+    "base": "XBT",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.013960",
+    "status": "online"
+  },
+  {
+    "pair": "ETHUSD",
+    "altname": "USDC",
+    "wsname": "Convention Budget",
+    "base": "ETH",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.020812",
+    "status": "online"
+  },
+  {
+    "pair": "USDCUSD",
+    "altname": "BTC",
+    "wsname": "Choir Roster",
+    "base": "USDC",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.040539",
+    "status": "online"
+  },
+  {
+    "pair": "USDTUSD",
+    "altname": "ETH",
+    "wsname": "Album Ledger",
+    "base": "USDT",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.032238",
+    "status": "online"
+  },
+  {
+    "pair": "SOLUSD",
+    "altname": "DOT",
+    "wsname": "Sheet1",
+    "base": "SOL",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.020295",
+    "status": "online"
+  },
+  {
+    "pair": "DOTUSD",
+    "altname": "SOL",
+    "wsname": "Sheet1",
+    "base": "DOT",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.028725",
+    "status": "online"
+  },
+  {
+    "pair": "ADAUSD",
+    "altname": "USDC",
+    "wsname": "Sheet1",
+    "base": "ADA",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.009907",
+    "status": "online"
+  },
+  {
+    "pair": "UNUSED7USD",
+    "altname": "BTC",
+    "wsname": "Album Ledger",
+    "base": "UNUSED7",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.024000",
+    "status": "online"
+  },
+  {
+    "pair": "UNUSED8USD",
+    "altname": "ETH",
+    "wsname": "Convention Budget",
+    "base": "UNUSED8",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.022011",
+    "status": "online"
+  },
+  {
+    "pair": "UNUSED9USD",
+    "altname": "ETH",
+    "wsname": "Sheet1",
+    "base": "UNUSED9",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.037562",
+    "status": "online"
+  },
+  {
+    "pair": "UNUSED10USD",
+    "altname": "USDC",
+    "wsname": "Choir Roster",
+    "base": "UNUSED10",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.026908",
+    "status": "online"
+  },
+  {
+    "pair": "UNUSED11USD",
+    "altname": "USDC",
+    "wsname": "Convention Budget",
+    "base": "UNUSED11",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.045243",
+    "status": "online"
+  },
+  {
+    "pair": "UNUSED12USD",
+    "altname": "SOL",
+    "wsname": "Album Ledger",
+    "base": "UNUSED12",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.049789",
+    "status": "online"
+  },
+  {
+    "pair": "UNUSED13USD",
+    "altname": "BTC",
+    "wsname": "Choir Roster",
+    "base": "UNUSED13",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.009312",
+    "status": "online"
+  },
+  {
+    "pair": "UNUSED14USD",
+    "altname": "DOT",
+    "wsname": "Convention Budget",
+    "base": "UNUSED14",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.039990",
+    "status": "online"
+  },
+  {
+    "pair": "UNUSED15USD",
+    "altname": "SOL",
+    "wsname": "Choir Roster",
+    "base": "UNUSED15",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.011461",
+    "status": "online"
+  },
+  {
+    "pair": "UNUSED16USD",
+    "altname": "SOL",
+    "wsname": "Convention Budget",
+    "base": "UNUSED16",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.023799",
+    "status": "online"
+  },
+  {
+    "pair": "UNUSED17USD",
+    "altname": "BTC",
+    "wsname": "Sheet1",
+    "base": "UNUSED17",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.030361",
+    "status": "online"
+  },
+  {
+    "pair": "UNUSED18USD",
+    "altname": "BTC",
+    "wsname": "Sheet1",
+    "base": "UNUSED18",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.033727",
+    "status": "online"
+  },
+  {
+    "pair": "UNUSED19USD",
+    "altname": "SOL",
+    "wsname": "Convention Budget",
+    "base": "UNUSED19",
+    "quote": "USD",
+    "pair_decimals": 2,
+    "lot_decimals": 8,
+    "ordermin": "0.035902",
+    "status": "online"
+  }
+]

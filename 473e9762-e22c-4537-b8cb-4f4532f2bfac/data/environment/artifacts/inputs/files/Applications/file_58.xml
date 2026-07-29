@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<loanRegister exhibition="Vienna Modern, Art and Society 1890 to 1930" openingDate="2026-10-01" custodian="Joyce Padilla" curator="Margarethe Huber">
+  <summary>
+    <totalLoans>15</totalLoans>
+    <signed>13</signed>
+    <inNegotiation>2</inNegotiation>
+    <combinedInsuredValueEUR>48700000</combinedInsuredValueEUR>
+    <currency>EUR</currency>
+  </summary>
+  <agreements>
+    <agreement ref="VM-LN-001" status="signed" signedDate="2026-01-20">
+      <lender country="Czech Republic">Prague National Gallery</lender>
+      <work medium="oil on canvas">Klimt landscape study</work>
+      <insuredValueEUR>4800000</insuredValueEUR>
+      <counterpart>Eva Novakova</counterpart>
+      <crates>1</crates>
+      <courierRequired>true</courierRequired>
+      <returnBy>2027-02-14</returnBy>
+    </agreement>
+    <agreement ref="VM-LN-002" status="negotiation" signedDate="">
+      <lender country="France">Paris Modern Collection</lender>
+      <work medium="drawing">Schiele portrait drawing</work>
+      <insuredValueEUR>5200000</insuredValueEUR>
+      <counterpart>Camille Laurent</counterpart>
+      <crates>1</crates>
+      <courierRequired>true</courierRequired>
+      <returnBy>2027-02-28</returnBy>
+      <note>Final negotiation call scheduled 14 January 2027</note>
+    </agreement>
+    <agreement ref="VM-LN-003" status="signed" signedDate="2026-02-05">
+      <lender country="United States">New York Ringstrasse Gallery</lender>
+      <work medium="decorative panel">Moser decorative panel</work>
+      <insuredValueEUR>3600000</insuredValueEUR>
+      <counterpart>Daniel Brooks</counterpart>
+      <crates>2</crates>
+      <courierRequired>true</courierRequired>
+      <returnBy>2027-02-20</returnBy>
+    </agreement>
+    <agreement ref="VM-LN-004" status="signed" signedDate="2025-11-18">
+      <lender country="Austria">Vienna Print Collection</lender>
+      <work medium="lithograph set">Secession poster set</work>
+      <insuredValueEUR>900000</insuredValueEUR>
+      <counterpart>Markus Steiner</counterpart>
+      <crates>1</crates>
+      <courierRequired>false</courierRequired>
+      <returnBy>2027-03-10</returnBy>
+    </agreement>
+    <agreement ref="VM-LN-005" status="signed" signedDate="2025-12-02">
+      <lender country="Austria">Vienna Palace Gallery</lender>
+      <work medium="drawing">Klimt drawing</work>
+      <insuredValueEUR>4200000</insuredValueEUR>
+      <counterpart>Sophie Berger</counterpart>
+      <crates>1</crates>
+      <courierRequired>true</courierRequired>
+      <returnBy>2027-03-10</returnBy>
+    </agreement>
+    <agreement ref="VM-LN-006" status="signed" signedDate="2025-12-09">
+      <lender country="Austria">Vienna Modernism Museum</lender>
+      <work medium="watercolour">Schiele watercolour</work>
+      <insuredValueEUR>3100000</insuredValueEUR>
+      <counterpart>Thomas Url</counterpart>
+      <crates>1</crates>
+      <courierRequired>false</courierRequired>
+      <returnBy>2027-03-10</returnBy>
+    </agreement>
+    <agreement ref="VM-LN-007" status="signed" signedDate="2026-01-14">
+      <lender country="Switzerland">Zurich Art House</lender>
+      <work medium="oil on board">Hodler study</work>
+      <insuredValueEUR>2700000</insuredValueEUR>
+      <counterpart>Andrea Meier</counterpart>
+      <crates>1</crates>
+      <courierRequired>true</courierRequired>
+      <returnBy>2027-02-22</returnBy>
+    </agreement>
+    <agreement ref="VM-LN-008" status="signed" signedDate="2026-02-11">
+      <lender country="Germany">Munich State Collection</lender>
+      <work medium="oil on canvas">Stuck allegory</work>
+      <insuredValueEUR>2300000</insuredValueEUR>
+      <counterpart>Klaus Wagner</counterpart>
+      <crates>2</crates>
+      <courierRequired>true</courierRequired>
+      <returnBy>2027-02-25</returnBy>
+    </agreement>
+    <agreement ref="VM-LN-009" status="signed" signedDate="2025-11-26">
+      <lender country="United Kingdom">London Modern Gallery</lender>
+      <work medium="oil on canvas">Schiele cityscape</work>
+      <insuredValueEUR>3900000</insuredValueEUR>
+      <counterpart>Helen Carter</counterpart>
+      <crates>1</crates>
+      <courierRequired>true</courierRequired>
+      <returnBy>2027-02-12</returnBy>
+    </agreement>
+    <agreement ref="VM-LN-010" status="signed" signedDate="2026-01-28">
+      <lender country="France">Paris Centre for Modern Art</lender>
+      <work medium="oil on canvas">Kupka abstraction</work>
+      <insuredValueEUR>3400000</insuredValueEUR>
+      <counterpart>Julien Robert</counterpart>
+      <crates>1</crates>
+      <courierRequired>true</courierRequired>
+      <returnBy>2027-02-28</returnBy>
+    </agreement>
+    <agreement ref="VM-LN-011" status="signed" signedDate="2025-12-15">
+      <lender country="Netherlands">Amsterdam City Museum</lender>
+      <work medium="drawing">Toorop drawing</work>
+      <insuredValueEUR>1800000</insuredValueEUR>
+      <counterpart>Bram de Vries</counterpart>
+      <crates>1</crates>
+      <courierRequired>false</courierRequired>
+      <returnBy>2027-02-22</returnBy>
+    </agreement>
+    <agreement ref="VM-LN-012" status="signed" signedDate="2026-02-16">
+      <lender country="Sweden">Stockholm Modern Museum</lender>
+      <work medium="print">Munch print</work>
+      <insuredValueEUR>2600000</insuredValueEUR>
+      <counterpart>Karin Lind</counterpart>
+      <crates>1</crates>
+      <courierRequired>true</courierRequired>
+      <returnBy>2027-03-02</returnBy>
+    </agreement>
+    <agreement ref="VM-LN-013" status="negotiation" signedDate="">
+      <lender country="United States">New York Modern Collection</lender>
+      <work medium="drawing">Klimt drawing study</work>
+      <insuredValueEUR>4500000</insuredValueEUR>
+      <counterpart>Rachel Stern</counterpart>
+      <crates>1</crates>
+      <courierRequired>true</courierRequired>
+      <returnBy>2027-02-25</returnBy>
+    </agreement>
+    <agreement ref="VM-LN-014" status="signed" signedDate="2026-01-22">
+      <lender country="Italy">Milan Modern Art Gallery</lender>
+      <work medium="drawing">Boccioni sketch</work>
+      <insuredValueEUR>2100000</insuredValueEUR>
+      <counterpart>Marco Conti</counterpart>
+      <crates>1</crates>
+      <courierRequired>false</courierRequired>
+      <returnBy>2027-02-20</returnBy>
+    </agreement>
+    <agreement ref="VM-LN-015" status="signed" signedDate="2026-02-09">
+      <lender country="Germany">Cologne Art Museum</lender>
+      <work medium="watercolour">Macke watercolour</work>
+      <insuredValueEUR>3600000</insuredValueEUR>
+      <counterpart>Stefanie Bauer</counterpart>
+      <crates>1</crates>
+      <courierRequired>true</courierRequired>
+      <returnBy>2027-03-02</returnBy>
+    </agreement>
+  </agreements>
+</loanRegister>

@@ -1,0 +1,78 @@
+{
+  "BreakEvenAnalysis": {
+    "PreparedBy": "Ellen McGee",
+    "PreparedDate": "2026-01-15",
+    "Context": "Year-end review with Harold Kim. Landlord Broadway Astoria Realty hinted at a possible lease bump at renewal, so stress-testing the monthly nut.",
+    "CurrentState": {
+      "MonthlyRevenue": {
+        "MembershipDues": {
+          "Members": 1450,
+          "Rate": 42,
+          "Total": 60900
+        },
+        "DropIns": {
+          "AvgMonthly": 34000
+        },
+        "EquipmentSales": {
+          "AvgMonthly": 17600
+        },
+        "TotalMonthlyRevenue": 112500
+      },
+      "MonthlyExpenses": {
+        "Rent": 12000,
+        "Utilities": {
+          "Electric": 2800,
+          "Water": 700,
+          "Total": 3500
+        },
+        "Insurance": {
+          "Quarterly": 6000,
+          "Monthly": 2000
+        },
+        "InstructorPay_Raj": 40000,
+        "Cleaning": {
+          "BiWeekly": 1750,
+          "Monthly": 3500
+        },
+        "Supplies": {
+          "AvgMonthly": 33750
+        },
+        "Marketing": {
+          "AvgMonthly": 750
+        },
+        "TotalMonthlyExpenses": 95500
+      },
+      "MonthlyNetIncome": 17000,
+      "AaronDrawFromNet": 12000,
+      "RetainedForReserves": 5000,
+      "Note": "MembershipDues line is food sales (covers x avg check); DropIns is bar revenue; EquipmentSales is private events and catering. Labor line covers kitchen and FOH wages; supplies line is food and beverage cost. Reserves feed the $30K emergency operating account."
+    },
+    "Scenarios": {
+      "Scenario_A_RentTo750": {
+        "Label": "Rent increases to $13,000/mo at lease renewal",
+        "NewRent": 13000,
+        "RentIncrease": 1000,
+        "NewTotalExpenses": 96500,
+        "NewNetIncome": 16000,
+        "BreakEvenMembers": 2298,
+        "BreakEvenCalculation": "Monthly nut $96,500 / avg blended check $42 = ~2,298 covers/mo (~85/day, open 27 days; closed Mondays).",
+        "Impact": "Manageable. Roughly one extra moderately busy night per week covers it."
+      },
+      "Scenario_B_RentTo850": {
+        "Label": "Worst case - rent to $14,000/mo",
+        "NewRent": 14000,
+        "RentIncrease": 2000,
+        "NewTotalExpenses": 97500,
+        "NewNetIncome": 15000,
+        "BreakEvenMembers": 2322,
+        "Impact": "Still profitable but tightens Carlton's draw. Push catering bookings to offset."
+      }
+    },
+    "KeyInsight": "Break-even is roughly 2,300 covers/month (~85/day). We run ~1,450 dine-in covers plus bar and events, so the cushion comes mostly from bar margin and private events. Slow Mondays (closed) already baked in.",
+    "ActionItems": [
+      "Confirm renewal terms with Broadway Astoria Realty before September",
+      "Review blended check average with Harold Kim at Q2 close",
+      "Keep emergency operating account at $30,000 floor"
+    ]
+  }
+}

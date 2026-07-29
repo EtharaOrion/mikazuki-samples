@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ev_0001",
+    "domain": "gawcenter.org",
+    "message_id": "amanda.tran@Finthesiss.ai",
+    "event": "accepted",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-01T09:30:12Z",
+    "reason": "Section rehearsal conflict"
+  },
+  {
+    "id": "ev_0002",
+    "domain": "gawcenter.org",
+    "message_id": "samuel.tran.pastor@gmail.com",
+    "event": "delivered",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-01T09:30:18Z",
+    "reason": "Personal reason"
+  },
+  {
+    "id": "ev_0003",
+    "domain": "gawcenter.org",
+    "message_id": "samuel.tran@gawcenter.org",
+    "event": "opened",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-01T10:02:41Z",
+    "reason": "Family emergency"
+  },
+  {
+    "id": "ev_0004",
+    "domain": "gawcenter.org",
+    "message_id": "grace.tran@heritagewomenscollege.edu",
+    "event": "accepted",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-03T14:15:22Z",
+    "reason": "Illness"
+  },
+  {
+    "id": "ev_0005",
+    "domain": "gawcenter.org",
+    "message_id": "grace.tran@gmail.com",
+    "event": "delivered",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-03T14:15:30Z",
+    "reason": "Scheduling change"
+  },
+  {
+    "id": "ev_0006",
+    "domain": "gawcenter.org",
+    "message_id": "emmanuel.tran@gmail.com",
+    "event": "accepted",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-07T08:10:05Z",
+    "reason": "Section rehearsal conflict"
+  },
+  {
+    "id": "ev_0007",
+    "domain": "gawcenter.org",
+    "message_id": "ruth.nguyen1951@gmail.com",
+    "event": "failed",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-07T08:10:09Z",
+    "reason": "mailbox full"
+  },
+  {
+    "id": "ev_0008",
+    "domain": "gawcenter.org",
+    "message_id": "jharris@gawcenter.org",
+    "event": "delivered",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-12T16:28:50Z",
+    "reason": "Personal reason"
+  },
+  {
+    "id": "ev_0009",
+    "domain": "gawcenter.org",
+    "message_id": "abrooks@gawcenter.org",
+    "event": "delivered",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-15T10:47:39Z",
+    "reason": "Family emergency"
+  },
+  {
+    "id": "ev_0010",
+    "domain": "gawcenter.org",
+    "message_id": "mwells@gawcenter.org",
+    "event": "clicked",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-15T11:20:14Z",
+    "reason": "Illness"
+  },
+  {
+    "id": "ev_0011",
+    "domain": "gawcenter.org",
+    "message_id": "mhayes@gawcenter.org",
+    "event": "delivered",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-20T11:39:06Z",
+    "reason": "Scheduling change"
+  },
+  {
+    "id": "ev_0012",
+    "domain": "gawcenter.org",
+    "message_id": "jwilliams@gawcenter.org",
+    "event": "accepted",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-24T17:56:11Z",
+    "reason": "Section rehearsal conflict"
+  },
+  {
+    "id": "ev_0001-0012",
+    "domain": "gawcenter.org",
+    "message_id": "amanda.tran@Finthesiss.ai-0012",
+    "event": "accepted",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-13T09:30:12Z",
+    "reason": "Personal reason"
+  },
+  {
+    "id": "ev_0002-0013",
+    "domain": "gawcenter.org",
+    "message_id": "samuel.tran.pastor@gmail.com-0013",
+    "event": "delivered",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-14T09:30:18Z",
+    "reason": "Family emergency"
+  },
+  {
+    "id": "ev_0003-0014",
+    "domain": "gawcenter.org",
+    "message_id": "samuel.tran@gawcenter.org-0014",
+    "event": "opened",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-15T10:02:41Z",
+    "reason": "Illness"
+  },
+  {
+    "id": "ev_0004-0015",
+    "domain": "gawcenter.org",
+    "message_id": "grace.tran@heritagewomenscollege.edu-0015",
+    "event": "accepted",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-18T14:15:22Z",
+    "reason": "Scheduling change"
+  },
+  {
+    "id": "ev_0005-0016",
+    "domain": "gawcenter.org",
+    "message_id": "grace.tran@gmail.com-0016",
+    "event": "delivered",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-19T14:15:30Z",
+    "reason": "Section rehearsal conflict"
+  },
+  {
+    "id": "ev_0006-0017",
+    "domain": "gawcenter.org",
+    "message_id": "emmanuel.tran@gmail.com-0017",
+    "event": "accepted",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-24T08:10:05Z",
+    "reason": "Personal reason"
+  },
+  {
+    "id": "ev_0007-0018",
+    "domain": "gawcenter.org",
+    "message_id": "ruth.nguyen1951@gmail.com-0018",
+    "event": "failed",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-25T08:10:09Z",
+    "reason": "mailbox full"
+  },
+  {
+    "id": "ev_0008-0019",
+    "domain": "gawcenter.org",
+    "message_id": "jharris@gawcenter.org-0019",
+    "event": "delivered",
+    "recipient": "amanda.tran@Finthesiss.ai",
+    "timestamp": "2026-05-31T16:28:50Z",
+    "reason": "Family emergency"
+  }
+]

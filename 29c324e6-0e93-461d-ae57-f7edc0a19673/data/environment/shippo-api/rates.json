@@ -1,0 +1,202 @@
+[
+  {
+    "object_id": "rate-usps-prio-01",
+    "shipment": "ship-1001",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": 14.8,
+    "currency": "USD",
+    "estimated_days": 3
+  },
+  {
+    "object_id": "rate-ups-ground-01",
+    "shipment": "ship-1001",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "UPS Ground",
+    "amount": 18.4,
+    "currency": "USD",
+    "estimated_days": 5
+  },
+  {
+    "object_id": "rate-fedex-2day-01",
+    "shipment": "ship-1001",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_2day",
+    "servicelevel_name": "FedEx 2Day",
+    "amount": 28.6,
+    "currency": "USD",
+    "estimated_days": 2
+  },
+  {
+    "object_id": "rate-usps-prio-02",
+    "shipment": "ship-1002",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Priority Mail",
+    "amount": 7.45,
+    "currency": "USD",
+    "estimated_days": 2
+  },
+  {
+    "object_id": "rate-usps-first-02",
+    "shipment": "ship-1002",
+    "provider": "USPS",
+    "servicelevel_token": "usps_first",
+    "servicelevel_name": "First Class Package",
+    "amount": 4.2,
+    "currency": "USD",
+    "estimated_days": 3
+  },
+  {
+    "object_id": "rate-usps-prio-1001",
+    "shipment": "ship-1001",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Winter recital rehearsal",
+    "amount": 17.3,
+    "currency": "USD",
+    "estimated_days": 3
+  },
+  {
+    "object_id": "rate-ups-ground-1001",
+    "shipment": "ship-1001",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "Student progress review",
+    "amount": 21.4,
+    "currency": "USD",
+    "estimated_days": 5
+  },
+  {
+    "object_id": "rate-fedex-2day-1001",
+    "shipment": "ship-1001",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_2day",
+    "servicelevel_name": "Enrollment inquiry follow-up",
+    "amount": 32.1,
+    "currency": "USD",
+    "estimated_days": 2
+  },
+  {
+    "object_id": "rate-usps-prio-1002",
+    "shipment": "ship-1002",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Monthly payroll processing",
+    "amount": 11.45,
+    "currency": "USD",
+    "estimated_days": 2
+  },
+  {
+    "object_id": "rate-usps-first-1002",
+    "shipment": "ship-1002",
+    "provider": "USPS",
+    "servicelevel_token": "usps_first",
+    "servicelevel_name": "5th Anniversary Showcase planning",
+    "amount": 8.7,
+    "currency": "USD",
+    "estimated_days": 3
+  },
+  {
+    "object_id": "rate-usps-prio-2001",
+    "shipment": "ship-1001",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Summer camp registration",
+    "amount": 19.8,
+    "currency": "USD",
+    "estimated_days": 3
+  },
+  {
+    "object_id": "rate-ups-ground-2001",
+    "shipment": "ship-1001",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "Substitute coverage",
+    "amount": 23.9,
+    "currency": "USD",
+    "estimated_days": 5
+  },
+  {
+    "object_id": "rate-fedex-2day-2001",
+    "shipment": "ship-1001",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_2day",
+    "servicelevel_name": "Sheet music library update",
+    "amount": 34.6,
+    "currency": "USD",
+    "estimated_days": 2
+  },
+  {
+    "object_id": "rate-usps-prio-2002",
+    "shipment": "ship-1002",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Parent meeting slot",
+    "amount": 13.95,
+    "currency": "USD",
+    "estimated_days": 2
+  },
+  {
+    "object_id": "rate-usps-first-2002",
+    "shipment": "ship-1002",
+    "provider": "USPS",
+    "servicelevel_token": "usps_first",
+    "servicelevel_name": "Ensemble arrangement rewrite",
+    "amount": 11.2,
+    "currency": "USD",
+    "estimated_days": 3
+  },
+  {
+    "object_id": "rate-usps-prio-3001",
+    "shipment": "ship-1001",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Recital program layout",
+    "amount": 22.3,
+    "currency": "USD",
+    "estimated_days": 3
+  },
+  {
+    "object_id": "rate-ups-ground-3001",
+    "shipment": "ship-1001",
+    "provider": "UPS",
+    "servicelevel_token": "ups_ground",
+    "servicelevel_name": "Quartet setlist review",
+    "amount": 26.4,
+    "currency": "USD",
+    "estimated_days": 5
+  },
+  {
+    "object_id": "rate-fedex-2day-3001",
+    "shipment": "ship-1001",
+    "provider": "FedEx",
+    "servicelevel_token": "fedex_2day",
+    "servicelevel_name": "Rehearsal recording listen-back",
+    "amount": 37.1,
+    "currency": "USD",
+    "estimated_days": 2
+  },
+  {
+    "object_id": "rate-usps-prio-3002",
+    "shipment": "ship-1002",
+    "provider": "USPS",
+    "servicelevel_token": "usps_priority",
+    "servicelevel_name": "Second album pre-production notes",
+    "amount": 16.45,
+    "currency": "USD",
+    "estimated_days": 2
+  },
+  {
+    "object_id": "rate-usps-first-3002",
+    "shipment": "ship-1002",
+    "provider": "USPS",
+    "servicelevel_token": "usps_first",
+    "servicelevel_name": "Venue confirmation thread",
+    "amount": 13.7,
+    "currency": "USD",
+    "estimated_days": 3
+  }
+]

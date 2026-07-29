@@ -1,0 +1,76 @@
+{
+  "BreakEvenAnalysis": {
+    "ActionItems": [
+      "Confirm Founders Circle renewal letter copy with Joyce by Dec 5"
+    ],
+    "Context": "Museum shop and cafe concession break-even analysis for FY2027, factoring Vienna Modern exhibition visitor uplift and patron membership renewal cycles.",
+    "CurrentState": {
+      "MonthlyExpenses": {
+        "Cleaning": {
+          "BiWeekly": 220,
+          "Monthly": 440
+        },
+        "Insurance": {
+          "Monthly": 180,
+          "Quarterly": 540
+        },
+        "Marketing": {
+          "AvgMonthly": 650
+        },
+        "Rent": 2400,
+        "Supplies": {
+          "AvgMonthly": 1450
+        },
+        "TotalMonthlyExpenses": 9550,
+        "Utilities": {
+          "Electric": 320,
+          "Water": 90,
+          "Total": 410
+        },
+        "InstructorPay_Raj": 3800
+      },
+      "MonthlyNetIncome": 6290,
+      "MonthlyRevenue": {
+        "DropIns": {
+          "AvgMonthly": 2100
+        },
+        "EquipmentSales": {
+          "AvgMonthly": 3800
+        },
+        "MembershipDues": {
+          "Members": 140,
+          "Rate": 71,
+          "Total": 9940
+        },
+        "TotalMonthlyRevenue": 15840
+      },
+      "Note": "Current monthly fixed costs covered by patron contributions and shop margin; variance within EUR 4,000 of plan.",
+      "RetainedForReserves": 6290,
+      "AaronDrawFromNet": 0
+    },
+    "KeyInsight": "Patron membership renewals at the EUR 850 Founders Circle tier carry the operating margin through the Q1 visitor lull.",
+    "PreparedBy": "Mag. Christina Wallner, Head of Development, on behalf of the executive team",
+    "PreparedDate": "2026-11-30",
+    "Scenarios": {
+      "Scenario_A_RentTo750": {
+        "BreakEvenCalculation": "Fixed costs / (price per unit - variable cost per unit) - see attached worksheet.",
+        "BreakEvenMembers": 128,
+        "Impact": "Net positive impact on operating margin within the season; risk concentrated in Q1.",
+        "Label": "Scenario A - patron membership renewal target EUR 750/year",
+        "NewNetIncome": 6640,
+        "NewRent": 2400,
+        "NewTotalExpenses": 9550,
+        "RentIncrease": 0
+      },
+      "Scenario_B_RentTo850": {
+        "BreakEvenMembers": 113,
+        "Impact": "Net positive impact on operating margin within the season; risk concentrated in Q1.",
+        "Label": "Scenario B - patron membership renewal target EUR 850/year (Founders Circle)",
+        "NewNetIncome": 7040,
+        "NewRent": 2400,
+        "NewTotalExpenses": 9550,
+        "RentIncrease": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "schedule_id": "SCH001",
+    "name": "Platform Primary",
+    "time_zone": "America/Los_Angeles",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU004",
+    "oncall_start": "2026-05-26T17:00:00Z",
+    "oncall_end": "2026-01-02T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH002",
+    "name": "Platform Secondary",
+    "time_zone": "Europe/Berlin",
+    "escalation_policy_id": "EP001",
+    "current_oncall_user_id": "PU003",
+    "oncall_start": "2026-05-26T17:00:00Z",
+    "oncall_end": "2026-01-02T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH003",
+    "name": "Billing Primary",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP002",
+    "current_oncall_user_id": "PU002",
+    "oncall_start": "2026-05-25T17:00:00Z",
+    "oncall_end": "2026-01-01T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH001-0003",
+    "name": "Platform Primary",
+    "time_zone": "America/Los_Angeles",
+    "escalation_policy_id": "EP001-0003",
+    "current_oncall_user_id": "PU004-0003",
+    "oncall_start": "2026-05-29T17:00:00Z",
+    "oncall_end": "2026-01-05T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH002-0004",
+    "name": "Platform Secondary",
+    "time_zone": "Europe/Berlin",
+    "escalation_policy_id": "EP001-0004",
+    "current_oncall_user_id": "PU003-0004",
+    "oncall_start": "2026-05-30T17:00:00Z",
+    "oncall_end": "2026-01-06T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH003-0005",
+    "name": "Billing Primary",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP002-0005",
+    "current_oncall_user_id": "PU002-0005",
+    "oncall_start": "2026-05-30T17:00:00Z",
+    "oncall_end": "2026-01-06T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH001-0006",
+    "name": "Platform Primary",
+    "time_zone": "America/Los_Angeles",
+    "escalation_policy_id": "EP001-0006",
+    "current_oncall_user_id": "PU004-0006",
+    "oncall_start": "2026-01-01T17:00:00Z",
+    "oncall_end": "2026-01-08T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH002-0007",
+    "name": "Platform Secondary",
+    "time_zone": "Europe/Berlin",
+    "escalation_policy_id": "EP001-0007",
+    "current_oncall_user_id": "PU003-0007",
+    "oncall_start": "2026-01-02T17:00:00Z",
+    "oncall_end": "2026-01-09T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH003-0008",
+    "name": "Billing Primary",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP002-0008",
+    "current_oncall_user_id": "PU002-0008",
+    "oncall_start": "2026-01-02T17:00:00Z",
+    "oncall_end": "2026-01-09T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH001-0009",
+    "name": "Platform Primary",
+    "time_zone": "America/Los_Angeles",
+    "escalation_policy_id": "EP001-0009",
+    "current_oncall_user_id": "PU004-0009",
+    "oncall_start": "2026-01-04T17:00:00Z",
+    "oncall_end": "2026-01-11T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH002-0010",
+    "name": "Platform Secondary",
+    "time_zone": "Europe/Berlin",
+    "escalation_policy_id": "EP001-0010",
+    "current_oncall_user_id": "PU003-0010",
+    "oncall_start": "2026-01-05T17:00:00Z",
+    "oncall_end": "2026-01-12T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH003-0011",
+    "name": "Billing Primary",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP002-0011",
+    "current_oncall_user_id": "PU002-0011",
+    "oncall_start": "2026-01-05T17:00:00Z",
+    "oncall_end": "2026-01-12T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH001-0012",
+    "name": "Platform Primary",
+    "time_zone": "America/Los_Angeles",
+    "escalation_policy_id": "EP001-0012",
+    "current_oncall_user_id": "PU004-0012",
+    "oncall_start": "2026-01-07T17:00:00Z",
+    "oncall_end": "2026-01-14T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH002-0013",
+    "name": "Platform Secondary",
+    "time_zone": "Europe/Berlin",
+    "escalation_policy_id": "EP001-0013",
+    "current_oncall_user_id": "PU003-0013",
+    "oncall_start": "2026-01-08T17:00:00Z",
+    "oncall_end": "2026-01-15T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH003-0014",
+    "name": "Billing Primary",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP002-0014",
+    "current_oncall_user_id": "PU002-0014",
+    "oncall_start": "2026-01-08T17:00:00Z",
+    "oncall_end": "2026-01-15T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH001-0015",
+    "name": "Platform Primary",
+    "time_zone": "America/Los_Angeles",
+    "escalation_policy_id": "EP001-0015",
+    "current_oncall_user_id": "PU004-0015",
+    "oncall_start": "2026-01-10T17:00:00Z",
+    "oncall_end": "2026-01-17T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH002-0016",
+    "name": "Platform Secondary",
+    "time_zone": "Europe/Berlin",
+    "escalation_policy_id": "EP001-0016",
+    "current_oncall_user_id": "PU003-0016",
+    "oncall_start": "2026-01-11T17:00:00Z",
+    "oncall_end": "2026-01-18T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH003-0017",
+    "name": "Billing Primary",
+    "time_zone": "America/New_York",
+    "escalation_policy_id": "EP002-0017",
+    "current_oncall_user_id": "PU002-0017",
+    "oncall_start": "2026-01-11T17:00:00Z",
+    "oncall_end": "2026-01-18T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH001-0018",
+    "name": "Platform Primary",
+    "time_zone": "America/Los_Angeles",
+    "escalation_policy_id": "EP001-0018",
+    "current_oncall_user_id": "PU004-0018",
+    "oncall_start": "2026-01-13T17:00:00Z",
+    "oncall_end": "2026-01-20T17:00:00Z"
+  },
+  {
+    "schedule_id": "SCH002-0019",
+    "name": "Platform Secondary",
+    "time_zone": "Europe/Berlin",
+    "escalation_policy_id": "EP001-0019",
+    "current_oncall_user_id": "PU003-0019",
+    "oncall_start": "2026-01-14T17:00:00Z",
+    "oncall_end": "2026-01-21T17:00:00Z"
+  }
+]

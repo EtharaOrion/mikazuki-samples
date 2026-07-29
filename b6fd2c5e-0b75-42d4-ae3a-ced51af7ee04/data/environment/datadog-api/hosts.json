@@ -1,0 +1,182 @@
+[
+  {
+    "name": "web-01",
+    "up": true,
+    "apps": "nginx;auth-service",
+    "sources": "agent",
+    "cpu_pct": 72.4,
+    "mem_pct": 61.0,
+    "last_reported": 1748250600
+  },
+  {
+    "name": "db-02",
+    "up": true,
+    "apps": "nginx;web-frontend",
+    "sources": "agent",
+    "cpu_pct": 48.1,
+    "mem_pct": 55.3,
+    "last_reported": 1748250600
+  },
+  {
+    "name": "worker-03",
+    "up": true,
+    "apps": "postgres",
+    "sources": "agent",
+    "cpu_pct": 33.7,
+    "mem_pct": 82.5,
+    "last_reported": 1748250600
+  },
+  {
+    "name": "cache-04",
+    "up": false,
+    "apps": "billing-service",
+    "sources": "agent",
+    "cpu_pct": 0.0,
+    "mem_pct": 0.0,
+    "last_reported": 1748160000
+  },
+  {
+    "name": "queue-05",
+    "up": true,
+    "apps": "nginx;auth-service",
+    "sources": "agent",
+    "cpu_pct": 72.4,
+    "mem_pct": 61.0,
+    "last_reported": 1748250600
+  },
+  {
+    "name": "api-06",
+    "up": true,
+    "apps": "nginx;web-frontend",
+    "sources": "agent",
+    "cpu_pct": 48.1,
+    "mem_pct": 55.3,
+    "last_reported": 1748250600
+  },
+  {
+    "name": "auth-07",
+    "up": true,
+    "apps": "postgres",
+    "sources": "agent",
+    "cpu_pct": 33.7,
+    "mem_pct": 82.5,
+    "last_reported": 1748250600
+  },
+  {
+    "name": "stream-08",
+    "up": false,
+    "apps": "billing-service",
+    "sources": "agent",
+    "cpu_pct": 0.0,
+    "mem_pct": 0.0,
+    "last_reported": 1748160000
+  },
+  {
+    "name": "stripe-09",
+    "up": true,
+    "apps": "nginx;auth-service",
+    "sources": "agent",
+    "cpu_pct": 72.4,
+    "mem_pct": 61.0,
+    "last_reported": 1748250600
+  },
+  {
+    "name": "admin-10",
+    "up": true,
+    "apps": "nginx;web-frontend",
+    "sources": "agent",
+    "cpu_pct": 48.1,
+    "mem_pct": 55.3,
+    "last_reported": 1748250600
+  },
+  {
+    "name": "search-11",
+    "up": true,
+    "apps": "postgres",
+    "sources": "agent",
+    "cpu_pct": 33.7,
+    "mem_pct": 82.5,
+    "last_reported": 1748250600
+  },
+  {
+    "name": "edge-12",
+    "up": false,
+    "apps": "billing-service",
+    "sources": "agent",
+    "cpu_pct": 0.0,
+    "mem_pct": 0.0,
+    "last_reported": 1748160000
+  },
+  {
+    "name": "cdn-13",
+    "up": true,
+    "apps": "nginx;auth-service",
+    "sources": "agent",
+    "cpu_pct": 72.4,
+    "mem_pct": 61.0,
+    "last_reported": 1748250600
+  },
+  {
+    "name": "job-14",
+    "up": true,
+    "apps": "nginx;web-frontend",
+    "sources": "agent",
+    "cpu_pct": 48.1,
+    "mem_pct": 55.3,
+    "last_reported": 1748250600
+  },
+  {
+    "name": "livestream-15",
+    "up": true,
+    "apps": "postgres",
+    "sources": "agent",
+    "cpu_pct": 33.7,
+    "mem_pct": 82.5,
+    "last_reported": 1748250600
+  },
+  {
+    "name": "worship-16",
+    "up": false,
+    "apps": "billing-service",
+    "sources": "agent",
+    "cpu_pct": 0.0,
+    "mem_pct": 0.0,
+    "last_reported": 1748160000
+  },
+  {
+    "name": "giving-17",
+    "up": true,
+    "apps": "nginx;auth-service",
+    "sources": "agent",
+    "cpu_pct": 72.4,
+    "mem_pct": 61.0,
+    "last_reported": 1748250600
+  },
+  {
+    "name": "album-18",
+    "up": true,
+    "apps": "nginx;web-frontend",
+    "sources": "agent",
+    "cpu_pct": 48.1,
+    "mem_pct": 55.3,
+    "last_reported": 1748250600
+  },
+  {
+    "name": "fund-19",
+    "up": true,
+    "apps": "postgres",
+    "sources": "agent",
+    "cpu_pct": 33.7,
+    "mem_pct": 82.5,
+    "last_reported": 1748250600
+  },
+  {
+    "name": "media-20",
+    "up": false,
+    "apps": "billing-service",
+    "sources": "agent",
+    "cpu_pct": 0.0,
+    "mem_pct": 0.0,
+    "last_reported": 1748160000
+  }
+]

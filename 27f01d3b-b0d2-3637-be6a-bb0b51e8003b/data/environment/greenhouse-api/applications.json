@@ -1,0 +1,182 @@
+[
+  {
+    "id": "app-cc-001",
+    "candidate_id": "cand-cc-001",
+    "job_id": "job-cc-001",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2025-11-05T10:05:00Z",
+    "last_activity_at": "2025-12-01T09:00:00Z"
+  },
+  {
+    "id": "app-cc-002",
+    "candidate_id": "cand-cc-002",
+    "job_id": "job-cc-001",
+    "status": "active",
+    "current_stage": "Phone Screen",
+    "applied_at": "2025-11-12T11:35:00Z",
+    "last_activity_at": "2025-12-03T14:00:00Z"
+  },
+  {
+    "id": "app-cc-003",
+    "candidate_id": "cand-cc-003",
+    "job_id": "job-cc-002",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2026-01-20T09:20:00Z",
+    "last_activity_at": "2026-02-10T11:00:00Z"
+  },
+  {
+    "id": "app-cc-004",
+    "candidate_id": "cand-cc-004",
+    "job_id": "job-cc-003",
+    "status": "hired",
+    "current_stage": "Hired",
+    "applied_at": "2025-10-05T14:50:00Z",
+    "last_activity_at": "2025-12-10T14:00:00Z"
+  },
+  {
+    "id": "app-cc-1002",
+    "candidate_id": "cand-cc-001",
+    "job_id": "job-cc-001",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2025-11-05T10:05:00Z",
+    "last_activity_at": "2025-12-01T09:00:00Z"
+  },
+  {
+    "id": "app-cc-1004",
+    "candidate_id": "cand-cc-002",
+    "job_id": "job-cc-001",
+    "status": "active",
+    "current_stage": "Phone Screen",
+    "applied_at": "2025-11-12T11:35:00Z",
+    "last_activity_at": "2025-12-03T14:00:00Z"
+  },
+  {
+    "id": "app-cc-006",
+    "candidate_id": "cand-cc-003",
+    "job_id": "job-cc-002",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2026-01-20T09:20:00Z",
+    "last_activity_at": "2026-02-10T11:00:00Z"
+  },
+  {
+    "id": "app-cc-008",
+    "candidate_id": "cand-cc-004",
+    "job_id": "job-cc-003",
+    "status": "hired",
+    "current_stage": "Hired",
+    "applied_at": "2025-10-05T14:50:00Z",
+    "last_activity_at": "2025-12-10T14:00:00Z"
+  },
+  {
+    "id": "app-cc-1006",
+    "candidate_id": "cand-cc-001",
+    "job_id": "job-cc-001",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2025-11-05T10:05:00Z",
+    "last_activity_at": "2025-12-01T09:00:00Z"
+  },
+  {
+    "id": "app-cc-1008",
+    "candidate_id": "cand-cc-002",
+    "job_id": "job-cc-001",
+    "status": "active",
+    "current_stage": "Phone Screen",
+    "applied_at": "2025-11-12T11:35:00Z",
+    "last_activity_at": "2025-12-03T14:00:00Z"
+  },
+  {
+    "id": "app-cc-010",
+    "candidate_id": "cand-cc-003",
+    "job_id": "job-cc-002",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2026-01-20T09:20:00Z",
+    "last_activity_at": "2026-02-10T11:00:00Z"
+  },
+  {
+    "id": "app-cc-012",
+    "candidate_id": "cand-cc-004",
+    "job_id": "job-cc-003",
+    "status": "hired",
+    "current_stage": "Hired",
+    "applied_at": "2025-10-05T14:50:00Z",
+    "last_activity_at": "2025-12-10T14:00:00Z"
+  },
+  {
+    "id": "app-cc-1010",
+    "candidate_id": "cand-cc-001",
+    "job_id": "job-cc-001",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2025-11-05T10:05:00Z",
+    "last_activity_at": "2025-12-01T09:00:00Z"
+  },
+  {
+    "id": "app-cc-1012",
+    "candidate_id": "cand-cc-002",
+    "job_id": "job-cc-001",
+    "status": "active",
+    "current_stage": "Phone Screen",
+    "applied_at": "2025-11-12T11:35:00Z",
+    "last_activity_at": "2025-12-03T14:00:00Z"
+  },
+  {
+    "id": "app-cc-014",
+    "candidate_id": "cand-cc-003",
+    "job_id": "job-cc-002",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2026-01-20T09:20:00Z",
+    "last_activity_at": "2026-02-10T11:00:00Z"
+  },
+  {
+    "id": "app-cc-016",
+    "candidate_id": "cand-cc-004",
+    "job_id": "job-cc-003",
+    "status": "hired",
+    "current_stage": "Hired",
+    "applied_at": "2025-10-05T14:50:00Z",
+    "last_activity_at": "2025-12-10T14:00:00Z"
+  },
+  {
+    "id": "app-cc-1014",
+    "candidate_id": "cand-cc-001",
+    "job_id": "job-cc-001",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2025-11-05T10:05:00Z",
+    "last_activity_at": "2025-12-01T09:00:00Z"
+  },
+  {
+    "id": "app-cc-1016",
+    "candidate_id": "cand-cc-002",
+    "job_id": "job-cc-001",
+    "status": "active",
+    "current_stage": "Phone Screen",
+    "applied_at": "2025-11-12T11:35:00Z",
+    "last_activity_at": "2025-12-03T14:00:00Z"
+  },
+  {
+    "id": "app-cc-018",
+    "candidate_id": "cand-cc-003",
+    "job_id": "job-cc-002",
+    "status": "active",
+    "current_stage": "Interview",
+    "applied_at": "2026-01-20T09:20:00Z",
+    "last_activity_at": "2026-02-10T11:00:00Z"
+  },
+  {
+    "id": "app-cc-020",
+    "candidate_id": "cand-cc-004",
+    "job_id": "job-cc-003",
+    "status": "hired",
+    "current_stage": "Hired",
+    "applied_at": "2025-10-05T14:50:00Z",
+    "last_activity_at": "2025-12-10T14:00:00Z"
+  }
+]

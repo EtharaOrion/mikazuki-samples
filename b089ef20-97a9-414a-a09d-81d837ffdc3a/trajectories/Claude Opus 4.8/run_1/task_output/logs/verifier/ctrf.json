@@ -1,0 +1,55 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 7,
+      "passed": 1,
+      "failed": 6,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.4545,
+      "weighted_percentage": 45.45
+    },
+    "tests": [
+      {
+        "name": "test_google_drive_edit_saved",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_google_drive_file_deleted",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_instagram_comment_mutated",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_instagram_media_deleted",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_instagram_user_media_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_notion_page_deleted",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_notion_style_guide_created",
+        "status": "passed",
+        "duration": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "cost": 5.0,
+    "max_delivery_days": 7,
+    "min_delivery_days": 3,
+    "origin_country": "38",
+    "origin_postal_code": "08527",
+    "processing_max": 3,
+    "processing_min": 1,
+    "secondary_cost": 2.5,
+    "shipping_profile_id": 200,
+    "shop_id": 33733645,
+    "title": "Domestic Standard"
+  },
+  {
+    "cost": 18.0,
+    "max_delivery_days": 21,
+    "min_delivery_days": 7,
+    "origin_country": "38",
+    "origin_postal_code": "08527",
+    "processing_max": 3,
+    "processing_min": 1,
+    "secondary_cost": 9.0,
+    "shipping_profile_id": 201,
+    "shop_id": 33733645,
+    "title": "International"
+  }
+]

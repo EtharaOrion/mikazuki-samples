@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Advanced Ballet Saturday Masterclass - Thornfield Ballet Academy</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body { font-family: 'Lato', sans-serif; background: #faf8f5; color: #2d1b4e; line-height: 1.7; }
+
+    /* ---- NAV ---- */
+    #site-nav {
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      background: rgba(250,248,245,0.96);
+      backdrop-filter: blur(8px);
+      border-bottom: 1px solid #e8e0d5;
+      padding: 0 2.5rem;
+      height: 68px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      transition: background 0.3s ease, box-shadow 0.3s ease;
+    }
+    #site-nav.scrolled { box-shadow: 0 2px 18px rgba(45,27,78,0.1); }
+    .nav-logo {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.3rem;
+      font-weight: 600;
+      color: #2d1b4e;
+      letter-spacing: 0.03em;
+      line-height: 1.2;
+    }
+    .nav-logo span { display: block; font-size: 0.7rem; font-weight: 400; letter-spacing: 0.12em; text-transform: uppercase; color: #c9a84c; }
+    .nav-links-list {
+      display: flex;
+      list-style: none;
+      gap: 2.2rem;
+      align-items: center;
+    }
+    .nav-links-list a {
+      text-decoration: none;
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #2d1b4e;
+      position: relative;
+      padding-bottom: 3px;
+    }
+    .nav-links-list a::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 0;
+      height: 1.5px;
+      background: #c9a84c;
+      transition: width 0.3s ease;
+    }
+    .nav-links-list a:hover::after { width: 100%; }
+    .nav-links-list a:hover { color: #c9a84c; }
+    .nav-register-btn {
+      display: inline-block;
+      padding: 0.55rem 1.4rem;
+      background: #2d1b4e;
+      color: #faf8f5 !important;
+      border-radius: 3px;
+      font-size: 0.78rem !important;
+      letter-spacing: 0.1em;
+      font-weight: 700 !important;
+      transition: background 0.2s;
+    }
+    .nav-register-btn:hover { background: #c9a84c !important; }
+    .nav-register-btn::after { display: none !important; }
+
+    /* ---- HERO ---- */
+    #hero {
+      min-height: 90vh;
+      background: radial-gradient(ellipse at 60% 40%, #3d2260 0%, #2d1b4e 55%, #1a0f2e 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 7rem 2rem 5rem;
+      position: relative;
+      overflow: hidden;
+    }
+    #hero .barre-lines {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      opacity: 0.15;
+    }
+    .hero-content { position: relative; z-index: 2; max-width: 760px; }
+    .hero-eyebrow {
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: #c9a84c;
+      margin-bottom: 1.6rem;
+    }
+    .hero-title-main {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(3.2rem, 7vw, 6rem);
+      font-weight: 700;
+      color: #faf8f5;
+      line-height: 1.0;
+      letter-spacing: 0.02em;
+    }
+    .hero-title-sub {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(1.6rem, 3.5vw, 2.6rem);
+      font-weight: 400;
+      color: #c9a84c;
+      letter-spacing: 0.08em;
+      margin-bottom: 1.8rem;
+      font-style: italic;
+    }
+    .hero-rule { width: 48px; height: 1px; background: #c9a84c; margin: 0 auto 1.8rem; }
+    .hero-text {
+      font-size: 1.02rem;
+      color: rgba(250,248,245,0.72);
+      max-width: 560px;
+      margin: 0 auto 2.4rem;
+      line-height: 1.8;
+      font-weight: 300;
+    }
+    .btn-register {
+      display: inline-block;
+      padding: 1rem 2.6rem;
+      background: #c9a84c;
+      color: #2d1b4e;
+      font-size: 0.85rem;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      text-decoration: none;
+      border-radius: 2px;
+      transition: background 0.2s, transform 0.2s;
+    }
+    .btn-register:hover { background: #b8933a; transform: translateY(-2px); }
+
+    /* ---- SECTION COMMON ---- */
+    section { padding: 6rem 2rem; }
+    .container { max-width: 1100px; margin: 0 auto; }
+    .section-eyebrow {
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: #c9a84c;
+      margin-bottom: 0.7rem;
+      text-align: center;
+    }
+    .section-heading {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(2rem, 3.5vw, 3rem);
+      font-weight: 600;
+      color: #2d1b4e;
+      text-align: center;
+      margin-bottom: 0.7rem;
+      line-height: 1.2;
+    }
+    .gold-rule { width: 40px; height: 1.5px; background: #c9a84c; margin: 0 auto 3.5rem; }
+
+    /* ---- ABOUT THE CLASS ---- */
+    #about-class { background: #faf8f5; }
+    .three-col-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 3rem; }
+    .class-pillar { text-align: center; }
+    .class-pillar-rule {
+      width: 32px;
+      height: 1.5px;
+      background: #c9a84c;
+      margin: 0 auto 1.2rem;
+    }
+    .class-pillar-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.4rem;
+      font-weight: 600;
+      color: #2d1b4e;
+      margin-bottom: 0.8rem;
+    }
+    .class-pillar p { font-size: 0.92rem; color: #5a4a6a; line-height: 1.8; }
+
+    /* ---- CURRICULUM ACCORDION ---- */
+    #curriculum { background: #f4f0ec; }
+    .accordion { max-width: 780px; margin: 0 auto; }
+    .acc-item { border-bottom: 1px solid #d8d0c8; }
+    .acc-item:first-of-type { border-top: 1px solid #d8d0c8; }
+    .acc-checkbox { display: none; }
+    .acc-label {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1.4rem 0;
+      cursor: pointer;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.25rem;
+      font-weight: 600;
+      color: #2d1b4e;
+      transition: color 0.2s;
+      user-select: none;
+    }
+    .acc-label:hover { color: #c9a84c; }
+    .acc-label .acc-icon { font-size: 0.85rem; color: #c9a84c; transition: transform 0.3s ease; }
+    .acc-checkbox:checked + .acc-label .acc-icon { transform: rotate(45deg); }
+    .acc-checkbox:checked + .acc-label { color: #c9a84c; }
+    .acc-body {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.4s ease;
+    }
+    .acc-checkbox:checked ~ .acc-body { max-height: 400px; }
+    .acc-inner { padding: 0 0 1.4rem; }
+    .acc-inner ul { list-style: none; padding: 0; }
+    .acc-inner ul li {
+      padding: 0.35rem 0 0.35rem 1.6rem;
+      font-size: 0.93rem;
+      color: #5a4a6a;
+      line-height: 1.6;
+      position: relative;
+    }
+    .acc-inner ul li::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 16px;
+      height: 1px;
+      background: #c9a84c;
+    }
+
+    /* ---- INSTRUCTOR ---- */
+    #instructor { background: #faf8f5; }
+    .instructor-grid { display: grid; grid-template-columns: 220px 1fr; gap: 4rem; align-items: start; max-width: 860px; margin: 0 auto; }
+    .instructor-avatar-wrap { display: flex; flex-direction: column; align-items: center; gap: 1.2rem; }
+    .instructor-avatar {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      border: 2px solid #2d1b4e;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 2.8rem;
+      font-weight: 700;
+      color: #c9a84c;
+      background: #faf8f5;
+    }
+    .instructor-name-sm {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #2d1b4e;
+      text-align: center;
+    }
+    .instructor-role-sm { font-size: 0.75rem; color: #c9a84c; text-align: center; letter-spacing: 0.1em; text-transform: uppercase; }
+    .instructor-bio p { font-size: 0.96rem; line-height: 1.85; color: #4a3a5c; margin-bottom: 1.2rem; }
+    .instructor-bio p:last-child { margin-bottom: 0; }
+    .credential-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      margin-top: 1.4rem;
+    }
+    .cred-tag {
+      background: #f0ebe8;
+      color: #2d1b4e;
+      padding: 0.3rem 0.85rem;
+      border-radius: 20px;
+      font-size: 0.76rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+    }
+
+    /* ---- SCHEDULE ---- */
+    #schedule { background: #f4f0ec; }
+    .schedule-table-wrap { overflow-x: auto; max-width: 860px; margin: 0 auto; }
+    .schedule-table { width: 100%; border-collapse: collapse; }
+    .schedule-table thead th {
+      background: #2d1b4e;
+      color: rgba(250,248,245,0.85);
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      padding: 1rem 1.4rem;
+      text-align: left;
+    }
+    .schedule-table tbody tr { transition: background 0.2s, transform 0.2s; }
+    .schedule-table tbody tr:hover { background: #eae4dd; transform: translateX(4px); }
+    .schedule-table tbody td {
+      padding: 1.1rem 1.4rem;
+      border-bottom: 1px solid #d8d0c8;
+      font-size: 0.92rem;
+      color: #3a2a52;
+      vertical-align: middle;
+    }
+    .schedule-table tbody tr:last-child td { border-bottom: none; }
+    .term-badge {
+      display: inline-block;
+      background: #2d1b4e;
+      color: #faf8f5;
+      padding: 0.25rem 0.75rem;
+      border-radius: 3px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+    }
+    .term-badge.gold { background: #c9a84c; color: #2d1b4e; }
+    .tuition-amount { font-weight: 700; color: #2d1b4e; font-size: 1rem; }
+
+    /* ---- REGISTRATION ---- */
+    #register { background: #faf8f5; }
+    .register-inner { max-width: 680px; margin: 0 auto; }
+    .register-form { background: #ffffff; border: 1px solid #e8e0d5; border-radius: 4px; padding: 2.8rem; }
+    .form-pair { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; }
+    .field-group { margin-bottom: 1.2rem; }
+    .field-group label {
+      display: block;
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #2d1b4e;
+      margin-bottom: 0.45rem;
+    }
+    .field-group input,
+    .field-group select,
+    .field-group textarea {
+      width: 100%;
+      padding: 0.75rem 1rem;
+      border: 1.5px solid #d8d0c8;
+      border-radius: 3px;
+      font-size: 0.9rem;
+      font-family: 'Lato', sans-serif;
+      color: #2d1b4e;
+      background: #faf8f5;
+      outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    .field-group input:focus,
+    .field-group select:focus,
+    .field-group textarea:focus {
+      border-color: #c9a84c;
+      box-shadow: 0 0 0 3px rgba(201,168,76,0.15);
+      background: #ffffff;
+    }
+    .field-group textarea { resize: vertical; min-height: 110px; }
+    .btn-gold-submit {
+      width: 100%;
+      padding: 1rem;
+      background: #c9a84c;
+      color: #2d1b4e;
+      border: none;
+      border-radius: 3px;
+      font-size: 0.88rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      cursor: pointer;
+      transition: background 0.2s, transform 0.2s;
+      font-family: 'Lato', sans-serif;
+      margin-top: 0.4rem;
+    }
+    .btn-gold-submit:hover { background: #b8933a; transform: translateY(-2px); }
+    .register-note { font-size: 0.82rem; color: #8a7a9a; text-align: center; margin-top: 1rem; font-style: italic; }
+
+    /* ---- FAQ ---- */
+    #faq { background: #f4f0ec; }
+    .faq-wrap { max-width: 780px; margin: 0 auto; }
+    .faq-checkbox { display: none; }
+    .faq-item { border-bottom: 1px solid #d8d0c8; }
+    .faq-item:first-of-type { border-top: 1px solid #d8d0c8; }
+    .faq-label {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1.3rem 0;
+      cursor: pointer;
+      font-size: 0.97rem;
+      font-weight: 700;
+      color: #2d1b4e;
+      transition: color 0.2s;
+      user-select: none;
+      gap: 1rem;
+    }
+    .faq-label:hover { color: #c9a84c; }
+    .faq-label .faq-icon { font-size: 0.75rem; color: #c9a84c; flex-shrink: 0; transition: transform 0.3s; }
+    .faq-checkbox:checked + .faq-label .faq-icon { transform: rotate(45deg); }
+    .faq-checkbox:checked + .faq-label { color: #c9a84c; }
+    .faq-body { max-height: 0; overflow: hidden; transition: max-height 0.4s ease; }
+    .faq-checkbox:checked ~ .faq-body { max-height: 300px; }
+    .faq-inner { padding: 0 0 1.3rem; font-size: 0.92rem; color: #5a4a6a; line-height: 1.8; }
+
+    /* ---- CONTACT ---- */
+    #contact { background: #faf8f5; }
+    .contact-inner { max-width: 700px; margin: 0 auto; }
+    .contact-details { display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem; margin-bottom: 2.5rem; }
+    .contact-item-label {
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: #c9a84c;
+      margin-bottom: 0.35rem;
+    }
+    .contact-item-value { font-size: 0.93rem; color: #3a2a52; line-height: 1.6; }
+    .contact-rule { border: none; border-top: 1px solid #d8d0c8; margin: 2rem 0; }
+    .social-row {
+      display: flex;
+      gap: 1.4rem;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .social-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      padding: 0.4rem 1rem;
+      border: 1.5px solid #d8d0c8;
+      border-radius: 20px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: #2d1b4e;
+      cursor: default;
+      transition: border-color 0.2s, color 0.2s;
+      letter-spacing: 0.04em;
+    }
+    .social-chip:hover { border-color: #c9a84c; color: #c9a84c; }
+    .social-chip i { font-size: 0.82rem; }
+
+    /* ---- FOOTER ---- */
+    footer {
+      background: #1a0f2e;
+      padding: 3rem 2rem 2rem;
+      text-align: center;
+    }
+    .footer-academy {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.4rem;
+      font-weight: 600;
+      color: #faf8f5;
+      margin-bottom: 0.4rem;
+    }
+    .footer-tagline { font-size: 0.8rem; color: rgba(250,248,245,0.4); font-style: italic; letter-spacing: 0.06em; margin-bottom: 1.4rem; }
+    .footer-rule { width: 40px; height: 1px; background: #c9a84c; margin: 0 auto 1.4rem; }
+    .footer-nav { display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin-bottom: 1.4rem; }
+    .footer-nav a { color: rgba(250,248,245,0.45); text-decoration: none; font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase; transition: color 0.2s; }
+    .footer-nav a:hover { color: #c9a84c; }
+    .footer-copy { font-size: 0.74rem; color: rgba(250,248,245,0.28); }
+
+    /* ---- RESPONSIVE ---- */
+    @media (max-width: 900px) {
+      .three-col-grid { grid-template-columns: 1fr; gap: 2rem; }
+      .instructor-grid { grid-template-columns: 1fr; }
+      .instructor-avatar-wrap { flex-direction: row; justify-content: flex-start; align-items: center; gap: 1.5rem; }
+      .contact-details { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 660px) {
+      .nav-links-list { display: none; }
+      .form-pair { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav id="site-nav">
+    <div class="nav-logo">
+      Thornfield Ballet Academy
+      <span>Classical Dance Education</span>
+    </div>
+    <ul class="nav-links-list">
+      <li><a href="#about-class">About</a></li>
+      <li><a href="#curriculum">Class</a></li>
+      <li><a href="#instructor">Instructor</a></li>
+      <li><a href="#schedule">Schedule</a></li>
+      <li><a href="#register">Register</a></li>
+      <li><a href="#contact">Contact</a></li>
+      <li><a href="#register" class="nav-register-btn">Enroll Now</a></li>
+    </ul>
+  </nav>
+
+  <!-- HERO -->
+  <section id="hero">
+    <!-- Barre line SVG decoration -->
+    <svg class="barre-lines" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" preserveAspectRatio="xMidYMid slice">
+      <!-- Horizontal barre suggestion lines -->
+      <line x1="0" y1="600" x2="1440" y2="600" stroke="#c9a84c" stroke-width="1.5"/>
+      <line x1="0" y1="620" x2="1440" y2="620" stroke="#c9a84c" stroke-width="0.6"/>
+      <!-- Vertical risers suggesting a studio wing wall -->
+      <line x1="120" y1="0" x2="120" y2="900" stroke="#c9a84c" stroke-width="0.8"/>
+      <line x1="1320" y1="0" x2="1320" y2="900" stroke="#c9a84c" stroke-width="0.8"/>
+      <!-- Diagonal floor lines toward a vanishing point -->
+      <line x1="120" y1="620" x2="720" y2="720" stroke="#c9a84c" stroke-width="0.6"/>
+      <line x1="1320" y1="620" x2="720" y2="720" stroke="#c9a84c" stroke-width="0.6"/>
+      <line x1="120" y1="600" x2="720" y2="680" stroke="#c9a84c" stroke-width="0.4"/>
+      <line x1="1320" y1="600" x2="720" y2="680" stroke="#c9a84c" stroke-width="0.4"/>
+    </svg>
+    <div class="hero-content">
+      <div class="hero-eyebrow">Thornfield Ballet Academy - Saturday Masterclass</div>
+      <h1 class="hero-title-main">Advanced Ballet</h1>
+      <p class="hero-title-sub">Saturday Masterclass</p>
+      <div class="hero-rule"></div>
+      <p class="hero-text">A rigorous program for serious students, taught by a working professional with thirty years of stage experience. Technique, artistry, and the discipline to hold both at once.</p>
+      <a href="#register" class="btn-register">Register for Spring 2027</a>
+    </div>
+  </section>
+
+  <!-- ABOUT THE CLASS -->
+  <section id="about-class">
+    <div class="container">
+      <div class="section-eyebrow">The Program</div>
+      <h2 class="section-heading">About the Class</h2>
+      <div class="gold-rule"></div>
+      <div class="three-col-grid">
+        <div class="class-pillar">
+          <div class="class-pillar-rule"></div>
+          <div class="class-pillar-title">What</div>
+          <p>A two-hour advanced ballet class held every Saturday morning, emphasizing technical refinement, musicality, and classical choreographic style. The class moves through a full barre sequence before transitioning to center work, petite allegro, grand allegro, and combinations from the standard classical repertoire. Students are expected to arrive warmed up and to maintain consistent attendance.</p>
+        </div>
+        <div class="class-pillar">
+          <div class="class-pillar-rule"></div>
+          <div class="class-pillar-title">Who</div>
+          <p>This class is designed for students with a minimum of six years of formal training who are working at or above an intermediate-advanced level. Prior pointe work experience is required for students who wish to participate in the pointe portion of the class. Adult students with equivalent training backgrounds are welcome. Placement for new students is by brief interview or observation during the first session.</p>
+        </div>
+        <div class="class-pillar">
+          <div class="class-pillar-rule"></div>
+          <div class="class-pillar-title">Why</div>
+          <p>Ballet at the advanced level is not only about technique - it is about understanding the tradition well enough to inhabit it fully. Students in this class will develop a stronger command of classical style, greater physical efficiency, the ability to respond to live accompaniment, and a working knowledge of the choreographic forms that define the canon. The class is small by design: no more than twelve students, so each receives meaningful individual attention.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CURRICULUM -->
+  <section id="curriculum">
+    <div class="container">
+      <div class="section-eyebrow">Program Structure</div>
+      <h2 class="section-heading">Curriculum</h2>
+      <div class="gold-rule"></div>
+      <div class="accordion">
+
+        <div class="acc-item">
+          <input type="checkbox" id="acc1" class="acc-checkbox" />
+          <label for="acc1" class="acc-label">
+            Module 1 - Barre Work and Conditioning
+            <span class="acc-icon"><i class="fa-solid fa-plus"></i></span>
+          </label>
+          <div class="acc-body">
+            <div class="acc-inner">
+              <ul>
+                <li>Extended warm-up sequences including plies in all five positions with full port de bras</li>
+                <li>Battement tendu and degage combinations emphasizing placement and weight transfer</li>
+                <li>Rond de jambe work focused on hip rotation mechanics and spatial awareness</li>
+                <li>Fondu, frappe, and adagio sequences drawn from Vaganova and Cecchetti traditions</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="acc-item">
+          <input type="checkbox" id="acc2" class="acc-checkbox" />
+          <label for="acc2" class="acc-label">
+            Module 2 - Center Floor Technique
+            <span class="acc-icon"><i class="fa-solid fa-plus"></i></span>
+          </label>
+          <div class="acc-body">
+            <div class="acc-inner">
+              <ul>
+                <li>Port de bras and epaulement combinations drawn from the classical repertoire</li>
+                <li>Adagio center with arabesque, attitude, and pirouette preparation</li>
+                <li>Pirouette technique: en dehors, en dedans, preparation and finish</li>
+                <li>Petite allegro and jumping combinations with emphasis on landing mechanics and musicality</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="acc-item">
+          <input type="checkbox" id="acc3" class="acc-checkbox" />
+          <label for="acc3" class="acc-label">
+            Module 3 - Pointe Work and Variations
+            <span class="acc-icon"><i class="fa-solid fa-plus"></i></span>
+          </label>
+          <div class="acc-body">
+            <div class="acc-inner">
+              <ul>
+                <li>Pointe barre warm-up with emphasis on intrinsic foot strength and articulation</li>
+                <li>Bourree and pas de bourree sequences across the floor</li>
+                <li>Variation study: excerpts from the standard classical canon such as the Sylphides repertoire and the classical pas de deux tradition</li>
+                <li>Individual coaching on variation corrections and stylistic detail</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="acc-item">
+          <input type="checkbox" id="acc4" class="acc-checkbox" />
+          <label for="acc4" class="acc-label">
+            Module 4 - Choreography Projects
+            <span class="acc-icon"><i class="fa-solid fa-plus"></i></span>
+          </label>
+          <div class="acc-body">
+            <div class="acc-inner">
+              <ul>
+                <li>Each term includes one short choreography project in which students learn and refine a set piece</li>
+                <li>Focus on spatial awareness, use of the stage, and the relationship between movement and musical phrasing</li>
+                <li>Informal showing at the end of each term for students who wish to perform for family and academy community</li>
+                <li>Discussion of score analysis: understanding how choreographic structure relates to musical form</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- INSTRUCTOR -->
+  <section id="instructor">
+    <div class="container">
+      <div class="section-eyebrow">Your Instructor</div>
+      <h2 class="section-heading">Dorothy Langston</h2>
+      <div class="gold-rule"></div>
+      <div class="instructor-grid">
+        <div class="instructor-avatar-wrap">
+          <div class="instructor-avatar">DL</div>
+          <div>
+            <div class="instructor-name-sm">Dorothy Langston</div>
+            <div class="instructor-role-sm">Advanced Class Instructor</div>
+          </div>
+        </div>
+        <div class="instructor-bio">
+          <p>Dorothy Langston has been training and performing in classical ballet for thirty years. She began formal study as a child and continued through her university years, training under the direct mentorship of Patricia Irving, the founder of the Thornfield Ballet Academy. Over those decades she has performed in classical repertoire, participated in faculty demonstrations, and maintained a committed practice that has not diminished alongside a demanding professional life in science.</p>
+          <p>By day, Dorothy is an Associate Professor of Computational Biology at Haverstone University, where she directs a research laboratory focused on protein interaction networks and structural genomics. She holds a Ph.D. from the Ashvale Technology Institute. She brings to her teaching the same qualities she values in research: precision, patience, attention to structure, and the conviction that understanding why something works is inseparable from training until it does.</p>
+          <p>She believes that an advanced student is not someone who has finished the fundamentals - it is someone who has begun to understand them deeply enough to make them disappear into something that looks like dancing. Saturday mornings at Thornfield are dedicated to that conversation.</p>
+          <div class="credential-row">
+            <span class="cred-tag">30 Years Classical Training</span>
+            <span class="cred-tag">Trained under Patricia Irving</span>
+            <span class="cred-tag">Ph.D., Haverstone University</span>
+            <span class="cred-tag">Thornfield Ballet Academy Faculty</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SCHEDULE -->
+  <section id="schedule">
+    <div class="container">
+      <div class="section-eyebrow">Dates and Fees</div>
+      <h2 class="section-heading">Schedule and Tuition</h2>
+      <div class="gold-rule"></div>
+      <div class="schedule-table-wrap">
+        <table class="schedule-table">
+          <thead>
+            <tr>
+              <th>Term</th>
+              <th>Dates</th>
+              <th>Time</th>
+              <th>Location</th>
+              <th>Tuition</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><span class="term-badge">Fall 2026</span></td>
+              <td>October 4, 2026 - November 22, 2026</td>
+              <td>Saturday 10:00 AM - 12:00 PM</td>
+              <td>Thornfield Ballet Academy, Studio A</td>
+              <td><span class="tuition-amount">$720</span></td>
+            </tr>
+            <tr>
+              <td><span class="term-badge gold">Spring 2027</span></td>
+              <td>January 10, 2027 - February 28, 2027</td>
+              <td>Saturday 10:00 AM - 12:00 PM</td>
+              <td>Thornfield Ballet Academy, Studio A</td>
+              <td><span class="tuition-amount">$720</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p style="text-align:center; font-size:0.84rem; color:#8a7a9a; margin-top:1.6rem; font-style:italic;">Tuition covers eight two-hour sessions per term. A limited number of partial scholarship spaces are available for advanced students with demonstrated need - inquire by email before registering.</p>
+    </div>
+  </section>
+
+  <!-- REGISTRATION -->
+  <section id="register">
+    <div class="container">
+      <div class="section-eyebrow">Enrollment</div>
+      <h2 class="section-heading">Register for the Class</h2>
+      <div class="gold-rule"></div>
+      <div class="register-inner">
+        <div class="register-form">
+          <div class="form-pair">
+            <div class="field-group">
+              <label for="stu-name">Student Name</label>
+              <input type="text" id="stu-name" name="student_name" placeholder="Full name" />
+            </div>
+            <div class="field-group">
+              <label for="stu-age">Student Age</label>
+              <input type="number" id="stu-age" name="student_age" placeholder="Age in years" min="8" max="65" />
+            </div>
+          </div>
+          <div class="form-pair">
+            <div class="field-group">
+              <label for="years-training">Years of Ballet Training</label>
+              <select id="years-training" name="years_training">
+                <option value="" disabled selected>Select range</option>
+                <option value="3-5">3-5 years</option>
+                <option value="6-9">6-9 years</option>
+                <option value="10+">10 or more years</option>
+              </select>
+            </div>
+            <div class="field-group">
+              <label for="current-level">Current Level</label>
+              <select id="current-level" name="current_level">
+                <option value="" disabled selected>Select level</option>
+                <option value="intermediate">Intermediate</option>
+                <option value="intermediate-advanced">Intermediate-Advanced</option>
+                <option value="advanced">Advanced</option>
+                <option value="pre-professional">Pre-Professional</option>
+              </select>
+            </div>
+          </div>
+          <div class="form-pair">
+            <div class="field-group">
+              <label for="guardian">Parent or Guardian Name</label>
+              <input type="text" id="guardian" name="guardian_name" placeholder="If student is under 18" />
+            </div>
+            <div class="field-group">
+              <label for="phone">Phone Number</label>
+              <input type="tel" id="phone" name="phone" placeholder="Best contact number" />
+            </div>
+          </div>
+          <div class="field-group">
+            <label for="reg-email">Email Address</label>
+            <input type="email" id="reg-email" name="email" placeholder="your@email.com" />
+          </div>
+          <div class="field-group">
+            <label for="reg-message">Additional Notes</label>
+            <textarea id="reg-message" name="message" placeholder="Any relevant training background, scheduling questions, or other information you would like to share..."></textarea>
+          </div>
+          <button type="submit" class="btn-gold-submit"><i class="fa-solid fa-feather-pointed" style="margin-right:0.5rem;"></i> Submit Registration</button>
+        </div>
+        <p class="register-note">Class is limited to twelve students. Registration does not guarantee placement - you will receive a confirmation within three business days.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section id="faq">
+    <div class="container">
+      <div class="section-eyebrow">Questions</div>
+      <h2 class="section-heading">Frequently Asked Questions</h2>
+      <div class="gold-rule"></div>
+      <div class="faq-wrap">
+
+        <div class="faq-item">
+          <input type="checkbox" id="faq1" class="faq-checkbox" />
+          <label for="faq1" class="faq-label">
+            What are the requirements to join this class?
+            <span class="faq-icon"><i class="fa-solid fa-plus"></i></span>
+          </label>
+          <div class="faq-body">
+            <div class="faq-inner">A minimum of six years of formal classical ballet training is expected, and students should be working at an intermediate-advanced level or above. Prospective students who are uncertain whether their background is appropriate are welcome to contact the academy before registering. For new students, placement is determined during the first session through a brief observation - there is no formal audition in advance.</div>
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <input type="checkbox" id="faq2" class="faq-checkbox" />
+          <label for="faq2" class="faq-label">
+            Do I need pointe shoes?
+            <span class="faq-icon"><i class="fa-solid fa-plus"></i></span>
+          </label>
+          <div class="faq-body">
+            <div class="faq-inner">Pointe shoes are required for students who wish to participate in the pointe portion of the class, which is approximately forty-five minutes of the two-hour session. Students who do not yet work en pointe may still join and participate in the barre and center portions. If you are transitioning to pointe and have questions about readiness, the instructor is happy to discuss this with you before the term begins. Please bring both pointe shoes and flat ballet slippers to each session.</div>
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <input type="checkbox" id="faq3" class="faq-checkbox" />
+          <label for="faq3" class="faq-label">
+            Is this class suitable for adult students?
+            <span class="faq-icon"><i class="fa-solid fa-plus"></i></span>
+          </label>
+          <div class="faq-body">
+            <div class="faq-inner">Yes. Adult students with the appropriate training background are welcome and have historically been a valued part of this class. The class is not designed around age but around level. Adult students often bring a seriousness of focus and a reflective quality to their training that enriches the room for everyone. If you have been training consistently and are working at an advanced level, your age is not a barrier to participation.</div>
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <input type="checkbox" id="faq4" class="faq-checkbox" />
+          <label for="faq4" class="faq-label">
+            What is the typical makeup of the class?
+            <span class="faq-icon"><i class="fa-solid fa-plus"></i></span>
+          </label>
+          <div class="faq-body">
+            <div class="faq-inner">The class is capped at twelve students. In recent terms it has included a mix of teenage students who are training seriously with other schools or who are homeschooled, college-age students, and adult returners who maintained training through their twenties and beyond. The small size is deliberate - individual attention, particularly on epaulement, weight placement, and stylistic detail, is a central part of what makes this class worth attending.</div>
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <input type="checkbox" id="faq5" class="faq-checkbox" />
+          <label for="faq5" class="faq-label">
+            Is there an audition before the term begins?
+            <span class="faq-icon"><i class="fa-solid fa-plus"></i></span>
+          </label>
+          <div class="faq-body">
+            <div class="faq-inner">There is no formal audition process. Placement is assessed during the first session of each term through observation of the student in class. This approach allows the instructor to see a student in a working rather than a performance context, which gives a more honest picture of where they are. Students who are not yet at the level required for this class will be redirected to a more appropriate program within the academy, and this is handled with care and without judgment.</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <div class="container">
+      <div class="section-eyebrow">Find Us</div>
+      <h2 class="section-heading">Contact the Academy</h2>
+      <div class="gold-rule"></div>
+      <div class="contact-inner">
+        <div class="contact-details">
+          <div>
+            <div class="contact-item-label">Studio Address</div>
+            <div class="contact-item-value">Thornfield Ballet Academy<br>14 Harwood Lane, Suite B<br>Thornfield, NJ 08540</div>
+          </div>
+          <div>
+            <div class="contact-item-label">Class Inquiries</div>
+            <div class="contact-item-value">advancedclass@thornfieldballet.org</div>
+          </div>
+          <div>
+            <div class="contact-item-label">Studio Hours</div>
+            <div class="contact-item-value">Monday - Friday: 3:00 PM - 8:00 PM<br>Saturday: 9:00 AM - 1:00 PM</div>
+          </div>
+          <div>
+            <div class="contact-item-label">Academy Founder</div>
+            <div class="contact-item-value">Patricia Irving<br>Director and Founder</div>
+          </div>
+        </div>
+        <hr class="contact-rule" />
+        <div class="social-row">
+          <span class="social-chip"><i class="fa-brands fa-instagram"></i> Instagram</span>
+          <span class="social-chip"><i class="fa-brands fa-facebook"></i> Facebook</span>
+          <span class="social-chip"><i class="fa-solid fa-envelope"></i> Newsletter</span>
+          <span class="social-chip"><i class="fa-solid fa-video"></i> Class Videos</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-academy">Thornfield Ballet Academy</div>
+    <div class="footer-tagline">Classical dance education for the serious student</div>
+    <div class="footer-rule"></div>
+    <nav class="footer-nav">
+      <a href="#about-class">About</a>
+      <a href="#curriculum">Curriculum</a>
+      <a href="#instructor">Instructor</a>
+      <a href="#schedule">Schedule</a>
+      <a href="#register">Register</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <div class="footer-copy">Copyright 2026 Thornfield Ballet Academy. All rights reserved. Thornfield, NJ 08540.</div>
+  </footer>
+
+  <script>
+    // Nav scroll effect
+    const nav = document.getElementById('site-nav');
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 60) {
+        nav.classList.add('scrolled');
+      } else {
+        nav.classList.remove('scrolled');
+      }
+    });
+
+    // Smooth scroll for anchor links
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener('click', function(e) {
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+          e.preventDefault();
+          const offset = 70;
+          const top = target.getBoundingClientRect().top + window.pageYOffset - offset;
+          window.scrollTo({ top: top, behavior: 'smooth' });
+        }
+      });
+    });
+
+    // Form submit prevention (demo)
+    const regForm = document.querySelector('.register-form');
+    if (regForm) {
+      regForm.addEventListener('submit', e => e.preventDefault());
+    }
+  </script>
+</body>
+</html>

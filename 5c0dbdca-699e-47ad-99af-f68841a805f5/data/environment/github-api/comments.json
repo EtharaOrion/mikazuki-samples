@@ -1,0 +1,98 @@
+[
+  {
+    "id": 4100001,
+    "issue_number": 12,
+    "repo": "crossroads-conservatory-site",
+    "user": "marcusreed-dev",
+    "body": "Reproduced on Chrome Android \u2014 the booking endpoint rejects the request without the CSRF token header. Fix submits correctly now. Still need to verify Safari iOS tonight.",
+    "created_at": "2026-03-04T20:00:00Z"
+  },
+  {
+    "id": 4100002,
+    "issue_number": 12,
+    "repo": "crossroads-conservatory-site",
+    "user": "marcusreed-dev",
+    "body": "Confirmed Safari iOS also working after the CSRF header fix on the booking endpoint. Moving to PR.",
+    "created_at": "2026-03-05T08:30:00Z"
+  },
+  {
+    "id": 4100003,
+    "issue_number": 13,
+    "repo": "crossroads-conservatory-site",
+    "user": "jessicawebb-kc",
+    "body": "Parents have been asking about online enrollment since the fall. Let's scope the lesson agreement and Stripe payment carefully before we build it.",
+    "created_at": "2026-02-15T14:15:00Z"
+  },
+  {
+    "id": 4100004,
+    "issue_number": 8,
+    "repo": "crossroads-booking-api",
+    "user": "marcusreed-dev",
+    "body": "Wiring the payment_intent.succeeded webhook to the Mailgun send. Will template the receipt with the lesson date and instructor name.",
+    "created_at": "2026-03-01T09:00:00Z"
+  },
+  {
+    "id": 4100006,
+    "issue_number": 13,
+    "repo": "crossroads-conservatory-site",
+    "user": "jessicawebb-kc",
+    "body": "Payroll ran clean this month \u2014 expenses within budget.",
+    "created_at": "2026-02-15T14:15:00Z"
+  },
+  {
+    "id": 4100008,
+    "issue_number": 8,
+    "repo": "crossroads-booking-api",
+    "user": "marcusreed-dev",
+    "body": "The Phoenix booking pushed to the following Saturday; confirmed with the band.",
+    "created_at": "2026-03-01T09:00:00Z"
+  },
+  {
+    "id": 4100010,
+    "issue_number": 13,
+    "repo": "crossroads-conservatory-site",
+    "user": "jessicawebb-kc",
+    "body": "Recorded a rough take of the ballad \u2014 needs another pass on the head-out.",
+    "created_at": "2026-02-15T14:15:00Z"
+  },
+  {
+    "id": 4100012,
+    "issue_number": 8,
+    "repo": "crossroads-booking-api",
+    "user": "marcusreed-dev",
+    "body": "Reviewed the summer camp roster \u2014 18 confirmed, 2 waitlist.",
+    "created_at": "2026-03-01T09:00:00Z"
+  },
+  {
+    "id": 4100014,
+    "issue_number": 13,
+    "repo": "crossroads-conservatory-site",
+    "user": "jessicawebb-kc",
+    "body": "Confirmed the lesson slot with the parent \u2014 Tuesday 4pm.",
+    "created_at": "2026-02-15T14:15:00Z"
+  },
+  {
+    "id": 4100016,
+    "issue_number": 8,
+    "repo": "crossroads-booking-api",
+    "user": "marcusreed-dev",
+    "body": "Ray suggested tightening the bridge on the fifth chart before the Spotlight Room date.",
+    "created_at": "2026-03-01T09:00:00Z"
+  },
+  {
+    "id": 4100018,
+    "issue_number": 13,
+    "repo": "crossroads-conservatory-site",
+    "user": "jessicawebb-kc",
+    "body": "Frank sent notes on the Coltrane transcription \u2014 apply on Sunday.",
+    "created_at": "2026-02-15T14:15:00Z"
+  },
+  {
+    "id": 4100020,
+    "issue_number": 8,
+    "repo": "crossroads-booking-api",
+    "user": "marcusreed-dev",
+    "body": "Tomoko rescheduled the Tuesday rehearsal to 7:15.",
+    "created_at": "2026-03-01T09:00:00Z"
+  }
+]

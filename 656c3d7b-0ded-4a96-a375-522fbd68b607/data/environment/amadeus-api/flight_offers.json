@@ -1,0 +1,674 @@
+[
+  {
+    "departureDate": "2026-01-12",
+    "destinationLocationCode": "LHR",
+    "id": "1000",
+    "itineraries": [
+      {
+        "duration": "PT10H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "351"
+            },
+            "arrival": {
+              "at": "2026-07-12T10:00:00",
+              "iataCode": "LHR",
+              "terminal": "Terminal C"
+            },
+            "carrierCode": "SN",
+            "departure": {
+              "at": "2026-07-12T00:00:00",
+              "iataCode": "PHX",
+              "terminal": "Terminal A"
+            },
+            "duration": "PT10H",
+            "number": "4178",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 7,
+    "oneWay": true,
+    "originLocationCode": "PHX",
+    "price": {
+      "base": "304.29",
+      "currency": "USD",
+      "grandTotal": "383.35",
+      "total": "383.35"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "BASIC",
+        "price": {
+          "currency": "USD",
+          "total": "177.58"
+        },
+        "travelerId": "travelerId_2618c88a91f1861a",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "SN"
+    ]
+  },
+  {
+    "departureDate": "2026-03-07",
+    "destinationLocationCode": "BWI",
+    "id": "1001",
+    "itineraries": [
+      {
+        "duration": "PT11H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "321"
+            },
+            "arrival": {
+              "at": "2026-09-07T11:00:00",
+              "iataCode": "BWI",
+              "terminal": "Terminal C"
+            },
+            "carrierCode": "SK",
+            "departure": {
+              "at": "2026-09-07T00:00:00",
+              "iataCode": "PHX",
+              "terminal": "Terminal C"
+            },
+            "duration": "PT11H",
+            "number": "7850",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 3,
+    "oneWay": true,
+    "originLocationCode": "PHX",
+    "price": {
+      "base": "477.58",
+      "currency": "USD",
+      "grandTotal": "626.46",
+      "total": "626.46"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "209.12"
+        },
+        "travelerId": "travelerId_ac7a35f089afe6e5",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "SK"
+    ]
+  },
+  {
+    "departureDate": "2026-02-19",
+    "destinationLocationCode": "HNL",
+    "id": "1002",
+    "itineraries": [
+      {
+        "duration": "PT5H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "738"
+            },
+            "arrival": {
+              "at": "2026-08-19T05:00:00",
+              "iataCode": "HNL",
+              "terminal": "Terminal C"
+            },
+            "carrierCode": "AY",
+            "departure": {
+              "at": "2026-08-19T00:00:00",
+              "iataCode": "PHX",
+              "terminal": "Terminal C"
+            },
+            "duration": "PT5H",
+            "number": "2024",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 6,
+    "oneWay": true,
+    "originLocationCode": "PHX",
+    "price": {
+      "base": "536.38",
+      "currency": "USD",
+      "grandTotal": "650.00",
+      "total": "650.00"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "486.25"
+        },
+        "travelerId": "travelerId_8a08a16881a3de99",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "AY"
+    ]
+  },
+  {
+    "departureDate": "2026-02-15",
+    "destinationLocationCode": "MCI",
+    "id": "1003",
+    "itineraries": [
+      {
+        "duration": "PT12H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "351"
+            },
+            "arrival": {
+              "at": "2026-08-15T12:00:00",
+              "iataCode": "MCI",
+              "terminal": "T1"
+            },
+            "carrierCode": "DY",
+            "departure": {
+              "at": "2026-08-15T00:00:00",
+              "iataCode": "PHX",
+              "terminal": "T1"
+            },
+            "duration": "PT12H",
+            "number": "740",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 4,
+    "oneWay": true,
+    "originLocationCode": "PHX",
+    "price": {
+      "base": "254.15",
+      "currency": "USD",
+      "grandTotal": "299.32",
+      "total": "299.32"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "FLEX",
+        "price": {
+          "currency": "USD",
+          "total": "377.06"
+        },
+        "travelerId": "travelerId_01a200b5e96b1f67",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "DY"
+    ]
+  },
+  {
+    "departureDate": "2026-02-16",
+    "destinationLocationCode": "ANC",
+    "id": "1004",
+    "itineraries": [
+      {
+        "duration": "PT8H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "789"
+            },
+            "arrival": {
+              "at": "2026-08-16T08:00:00",
+              "iataCode": "ANC",
+              "terminal": "Terminal C"
+            },
+            "carrierCode": "FR",
+            "departure": {
+              "at": "2026-08-16T00:00:00",
+              "iataCode": "PHX",
+              "terminal": "T1"
+            },
+            "duration": "PT8H",
+            "number": "5225",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 7,
+    "oneWay": true,
+    "originLocationCode": "PHX",
+    "price": {
+      "base": "628.79",
+      "currency": "USD",
+      "grandTotal": "798.44",
+      "total": "798.44"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "467.84"
+        },
+        "travelerId": "travelerId_e5ecbaf9d806a75b",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "FR"
+    ]
+  },
+  {
+    "departureDate": "2026-01-27",
+    "destinationLocationCode": "EWR",
+    "id": "1005",
+    "itineraries": [
+      {
+        "duration": "PT4H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "320"
+            },
+            "arrival": {
+              "at": "2026-07-27T04:00:00",
+              "iataCode": "EWR",
+              "terminal": "Terminal C"
+            },
+            "carrierCode": "U2",
+            "departure": {
+              "at": "2026-07-27T00:00:00",
+              "iataCode": "PHX",
+              "terminal": "Terminal A"
+            },
+            "duration": "PT4H",
+            "number": "7553",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 7,
+    "oneWay": true,
+    "originLocationCode": "PHX",
+    "price": {
+      "base": "193.06",
+      "currency": "USD",
+      "grandTotal": "222.33",
+      "total": "222.33"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "FLEX",
+        "price": {
+          "currency": "USD",
+          "total": "97.83"
+        },
+        "travelerId": "travelerId_4198f661ba7118bf",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "U2"
+    ]
+  },
+  {
+    "departureDate": "2026-03-14",
+    "destinationLocationCode": "AUS",
+    "id": "1006",
+    "itineraries": [
+      {
+        "duration": "PT13H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "E90"
+            },
+            "arrival": {
+              "at": "2026-09-14T13:00:00",
+              "iataCode": "AUS",
+              "terminal": "T1"
+            },
+            "carrierCode": "TK",
+            "departure": {
+              "at": "2026-09-14T00:00:00",
+              "iataCode": "PHX",
+              "terminal": "Terminal C"
+            },
+            "duration": "PT13H",
+            "number": "2143",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 7,
+    "oneWay": true,
+    "originLocationCode": "PHX",
+    "price": {
+      "base": "784.41",
+      "currency": "USD",
+      "grandTotal": "967.21",
+      "total": "967.21"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "FLEX",
+        "price": {
+          "currency": "USD",
+          "total": "84.85"
+        },
+        "travelerId": "travelerId_88ee1631dcdf086d",
+        "travelerType": "SENIOR"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "TK"
+    ]
+  },
+  {
+    "departureDate": "2026-02-14",
+    "destinationLocationCode": "MDW",
+    "id": "1007",
+    "itineraries": [
+      {
+        "duration": "PT9H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "789"
+            },
+            "arrival": {
+              "at": "2026-08-14T09:00:00",
+              "iataCode": "MDW",
+              "terminal": "Terminal A"
+            },
+            "carrierCode": "EK",
+            "departure": {
+              "at": "2026-08-14T00:00:00",
+              "iataCode": "PHX",
+              "terminal": "T1"
+            },
+            "duration": "PT9H",
+            "number": "6589",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 4,
+    "oneWay": true,
+    "originLocationCode": "PHX",
+    "price": {
+      "base": "411.51",
+      "currency": "USD",
+      "grandTotal": "481.95",
+      "total": "481.95"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "420.85"
+        },
+        "travelerId": "travelerId_6cffcb3189fd4da0",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "EK"
+    ]
+  },
+  {
+    "departureDate": "2026-01-11",
+    "destinationLocationCode": "FLL",
+    "id": "1008",
+    "itineraries": [
+      {
+        "duration": "PT14H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "738"
+            },
+            "arrival": {
+              "at": "2026-07-11T14:00:00",
+              "iataCode": "FLL",
+              "terminal": "Terminal A"
+            },
+            "carrierCode": "EY",
+            "departure": {
+              "at": "2026-07-11T00:00:00",
+              "iataCode": "PHX",
+              "terminal": "Terminal A"
+            },
+            "duration": "PT14H",
+            "number": "1477",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 7,
+    "oneWay": true,
+    "originLocationCode": "PHX",
+    "price": {
+      "base": "275.05",
+      "currency": "USD",
+      "grandTotal": "354.34",
+      "total": "354.34"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "234.16"
+        },
+        "travelerId": "travelerId_b9e826c4fd2b2723",
+        "travelerType": "SENIOR"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "EY"
+    ]
+  },
+  {
+    "departureDate": "2026-03-04",
+    "destinationLocationCode": "MUC",
+    "id": "1009",
+    "itineraries": [
+      {
+        "duration": "PT11H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "E90"
+            },
+            "arrival": {
+              "at": "2026-09-04T11:00:00",
+              "iataCode": "MUC",
+              "terminal": "Terminal C"
+            },
+            "carrierCode": "QR",
+            "departure": {
+              "at": "2026-09-04T00:00:00",
+              "iataCode": "PHX",
+              "terminal": "T1"
+            },
+            "duration": "PT11H",
+            "number": "6773",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 7,
+    "oneWay": true,
+    "originLocationCode": "PHX",
+    "price": {
+      "base": "356.73",
+      "currency": "USD",
+      "grandTotal": "451.83",
+      "total": "451.83"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "275.45"
+        },
+        "travelerId": "travelerId_8bab4306fbbfd3dc",
+        "travelerType": "SENIOR"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "QR"
+    ]
+  },
+  {
+    "departureDate": "2026-03-26",
+    "destinationLocationCode": "LGA",
+    "id": "1010",
+    "itineraries": [
+      {
+        "duration": "PT6H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "351"
+            },
+            "arrival": {
+              "at": "2026-09-26T06:00:00",
+              "iataCode": "LGA",
+              "terminal": "T1"
+            },
+            "carrierCode": "SV",
+            "departure": {
+              "at": "2026-09-26T00:00:00",
+              "iataCode": "PHX",
+              "terminal": "T1"
+            },
+            "duration": "PT6H",
+            "number": "749",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 9,
+    "oneWay": true,
+    "originLocationCode": "PHX",
+    "price": {
+      "base": "343.26",
+      "currency": "USD",
+      "grandTotal": "398.06",
+      "total": "398.06"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "STANDARD",
+        "price": {
+          "currency": "USD",
+          "total": "402.67"
+        },
+        "travelerId": "travelerId_4e6df7a6ce80003b",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "SV"
+    ]
+  },
+  {
+    "departureDate": "2026-03-06",
+    "destinationLocationCode": "FCO",
+    "id": "1011",
+    "itineraries": [
+      {
+        "duration": "PT6H",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "E90"
+            },
+            "arrival": {
+              "at": "2026-09-06T06:00:00",
+              "iataCode": "FCO",
+              "terminal": "Terminal C"
+            },
+            "carrierCode": "ET",
+            "departure": {
+              "at": "2026-09-06T00:00:00",
+              "iataCode": "PHX",
+              "terminal": "Terminal C"
+            },
+            "duration": "PT6H",
+            "number": "2150",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "numberOfBookableSeats": 8,
+    "oneWay": true,
+    "originLocationCode": "PHX",
+    "price": {
+      "base": "585.37",
+      "currency": "USD",
+      "grandTotal": "679.39",
+      "total": "679.39"
+    },
+    "source": "GDS",
+    "travelerPricings": [
+      {
+        "fareOption": "FLEX",
+        "price": {
+          "currency": "USD",
+          "total": "248.06"
+        },
+        "travelerId": "travelerId_fb249b2142d1d82f",
+        "travelerType": "ADULT"
+      }
+    ],
+    "type": "general",
+    "validatingAirlineCodes": [
+      "ET"
+    ]
+  }
+]

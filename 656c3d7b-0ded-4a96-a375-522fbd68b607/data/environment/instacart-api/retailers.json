@@ -1,0 +1,114 @@
+[
+  {
+    "delivers_to_zips": [
+      "85005",
+      "85006",
+      "85004"
+    ],
+    "delivery_fee": 3.99,
+    "eta_minutes": 75,
+    "logo_url": "https://lh3.googleusercontent.com/a/ACg8oc4f0259b10f7e8b0a",
+    "min_basket": 20.0,
+    "name": "Giant Food",
+    "retailer_id": "giant",
+    "service_fee_pct": 10.0
+  },
+  {
+    "delivers_to_zips": [
+      "85005",
+      "85006",
+      "85004"
+    ],
+    "delivery_fee": 3.99,
+    "eta_minutes": 75,
+    "logo_url": "https://lh3.googleusercontent.com/a/ACg8oc4f0259b10f7e8b6160a",
+    "min_basket": 35.0,
+    "name": "Vons",
+    "retailer_id": "vons",
+    "service_fee_pct": 7.5
+  },
+  {
+    "delivers_to_zips": [
+      "85005",
+      "85006",
+      "85004"
+    ],
+    "delivery_fee": 3.99,
+    "eta_minutes": 90,
+    "logo_url": "https://lh3.googleusercontent.com/a/ACg8oc4f0259b10f7e8b4961a",
+    "min_basket": 20.0,
+    "name": "Ralphs",
+    "retailer_id": "ralphs",
+    "service_fee_pct": 7.5
+  },
+  {
+    "delivers_to_zips": [
+      "85005",
+      "85006",
+      "85004"
+    ],
+    "delivery_fee": 3.99,
+    "eta_minutes": 75,
+    "logo_url": "https://lh3.googleusercontent.com/a/ACg8oc4f0259b10f7e8b11567a",
+    "min_basket": 25.0,
+    "name": "Meijer",
+    "retailer_id": "meijer",
+    "service_fee_pct": 7.5
+  },
+  {
+    "delivers_to_zips": [
+      "85005",
+      "85006",
+      "85004"
+    ],
+    "delivery_fee": 3.99,
+    "eta_minutes": 60,
+    "logo_url": "https://lh3.googleusercontent.com/a/ACg8oc4f0259b10f7e8b1597a",
+    "min_basket": 25.0,
+    "name": "ShopRite",
+    "retailer_id": "shoprite",
+    "service_fee_pct": 10.0
+  },
+  {
+    "delivers_to_zips": [
+      "85005",
+      "85006",
+      "85004"
+    ],
+    "delivery_fee": 3.99,
+    "eta_minutes": 120,
+    "logo_url": "https://lh3.googleusercontent.com/a/ACg8oc4f0259b10f7e8b11717a",
+    "min_basket": 25.0,
+    "name": "CVS",
+    "retailer_id": "cvs",
+    "service_fee_pct": 7.5
+  },
+  {
+    "delivers_to_zips": [
+      "85005",
+      "85006",
+      "85004"
+    ],
+    "delivery_fee": 3.99,
+    "eta_minutes": 90,
+    "logo_url": "https://lh3.googleusercontent.com/a/ACg8oc4f0259b10f7e8b6727a",
+    "min_basket": 25.0,
+    "name": "Walgreens",
+    "retailer_id": "walgreens",
+    "service_fee_pct": 10.0
+  },
+  {
+    "delivers_to_zips": [
+      "85005",
+      "85006",
+      "85004"
+    ],
+    "delivery_fee": 5.99,
+    "eta_minutes": 120,
+    "logo_url": "https://lh3.googleusercontent.com/a/ACg8oc4f0259b10f7e8b12766a",
+    "min_basket": 20.0,
+    "name": "BJ's Wholesale Club",
+    "retailer_id": "bjs",
+    "service_fee_pct": 7.5
+  }
+]

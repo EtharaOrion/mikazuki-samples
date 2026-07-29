@@ -1,0 +1,162 @@
+[
+  {
+    "body_text": "Hi {{1}}, your order {{2}} has shipped and will arrive by {{3}}.",
+    "category": "UTILITY",
+    "header_text": "Order update",
+    "language": "en_US",
+    "name": "order_shipped",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Reminder: your appointment on {{1}} at {{2}} is confirmed.",
+    "category": "UTILITY",
+    "header_text": "Operational record — Osterreichisches Kunstmuseum.",
+    "language": "en_US",
+    "name": "appointment_reminder",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Welcome to Osterreichisches Kunstmuseum, {{1}}! Use {{2}} for 10% off your first order.",
+    "category": "MARKETING",
+    "header_text": "Welcome to Osterreichisches Kunstmuseum",
+    "language": "en_US",
+    "name": "welcome_offer",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Your verification code is {{1}}. It expires in 10 minutes.",
+    "category": "AUTHENTICATION",
+    "header_text": "Operational record — Osterreichisches Kunstmuseum.",
+    "language": "en_US",
+    "name": "otp_verify",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, did our support resolve your issue today?",
+    "category": "UTILITY",
+    "header_text": "Operational record — Osterreichisches Kunstmuseum.",
+    "language": "en_US",
+    "name": "support_followup",
+    "status": "PENDING"
+  },
+  {
+    "body_text": "Hi {{1}}, your order {{2}} has shipped and will arrive by {{3}}.",
+    "category": "UTILITY",
+    "header_text": "Order update",
+    "language": "en_US",
+    "name": "membership_renewal",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Reminder: your appointment on {{1}} at {{2}} is confirmed.",
+    "category": "UTILITY",
+    "header_text": "Operational record — Osterreichisches Kunstmuseum.",
+    "language": "en_US",
+    "name": "event_invitation",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Welcome to Osterreichisches Kunstmuseum, {{1}}! Use {{2}} for 10% off your first order.",
+    "category": "MARKETING",
+    "header_text": "Welcome to Osterreichisches Kunstmuseum",
+    "language": "en_US",
+    "name": "loan_status_update",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Your verification code is {{1}}. It expires in 10 minutes.",
+    "category": "AUTHENTICATION",
+    "header_text": "Operational record — Osterreichisches Kunstmuseum.",
+    "language": "en_US",
+    "name": "board_meeting_notice",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, did our support resolve your issue today?",
+    "category": "UTILITY",
+    "header_text": "Operational record — Osterreichisches Kunstmuseum.",
+    "language": "en_US",
+    "name": "exhibition_reminder",
+    "status": "PENDING"
+  },
+  {
+    "body_text": "Hi {{1}}, your order {{2}} has shipped and will arrive by {{3}}.",
+    "category": "UTILITY",
+    "header_text": "Order update",
+    "language": "en_US",
+    "name": "donor_thank_you",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Reminder: your appointment on {{1}} at {{2}} is confirmed.",
+    "category": "UTILITY",
+    "header_text": "Operational record — Osterreichisches Kunstmuseum.",
+    "language": "en_US",
+    "name": "ticket_confirmation",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Welcome to Osterreichisches Kunstmuseum, {{1}}! Use {{2}} for 10% off your first order.",
+    "category": "MARKETING",
+    "header_text": "Welcome to Osterreichisches Kunstmuseum",
+    "language": "en_US",
+    "name": "guided_tour_reminder",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Your verification code is {{1}}. It expires in 10 minutes.",
+    "category": "AUTHENTICATION",
+    "header_text": "Operational record — Osterreichisches Kunstmuseum.",
+    "language": "en_US",
+    "name": "catalogue_ready",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, did our support resolve your issue today?",
+    "category": "UTILITY",
+    "header_text": "Operational record — Osterreichisches Kunstmuseum.",
+    "language": "en_US",
+    "name": "press_briefing_notice",
+    "status": "PENDING"
+  },
+  {
+    "body_text": "Hi {{1}}, your order {{2}} has shipped and will arrive by {{3}}.",
+    "category": "UTILITY",
+    "header_text": "Order update",
+    "language": "en_US",
+    "name": "volunteer_schedule",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Reminder: your appointment on {{1}} at {{2}} is confirmed.",
+    "category": "UTILITY",
+    "header_text": "Operational record — Osterreichisches Kunstmuseum.",
+    "language": "en_US",
+    "name": "gala_invitation",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Welcome to Osterreichisches Kunstmuseum, {{1}}! Use {{2}} for 10% off your first order.",
+    "category": "MARKETING",
+    "header_text": "Welcome to Osterreichisches Kunstmuseum",
+    "language": "en_US",
+    "name": "closure_notice",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Your verification code is {{1}}. It expires in 10 minutes.",
+    "category": "AUTHENTICATION",
+    "header_text": "Operational record — Osterreichisches Kunstmuseum.",
+    "language": "en_US",
+    "name": "survey_request",
+    "status": "APPROVED"
+  },
+  {
+    "body_text": "Hi {{1}}, did our support resolve your issue today?",
+    "category": "UTILITY",
+    "header_text": "Operational record — Osterreichisches Kunstmuseum.",
+    "language": "en_US",
+    "name": "newsletter_optin",
+    "status": "PENDING"
+  }
+]

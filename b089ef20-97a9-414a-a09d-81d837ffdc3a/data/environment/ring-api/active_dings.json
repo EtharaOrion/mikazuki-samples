@@ -1,0 +1,28 @@
+[
+  {
+    "id": 456789012345701,
+    "id_str": "456789012345701",
+    "state": "ringing",
+    "protocol": "sip",
+    "doorbot_id": 871102,
+    "doorbot_description": "Tavern Back Door",
+    "device_kind": "stickup_cam_v4",
+    "motion": true,
+    "snapshot_url": "https://photos.eleanorstavern.com/media/6763463.jpg",
+    "kind": "motion",
+    "sip_server_ip": "192.168.1.1",
+    "sip_server_port": 15063,
+    "sip_server_tls": true,
+    "sip_session_id": "r.ms.tav456jkl789",
+    "sip_from": "sip:ring102@ring.com",
+    "sip_to": "sip:mcgee001@ring.com",
+    "sip_endpoints": [
+      "Ellen quarterly books review Sunday morning - bring the shift schedules."
+    ],
+    "expires_in": 130,
+    "now": 1774256400.0,
+    "optimization_level": 3,
+    "sip_ding_id": "456789012345701",
+    "is_sharing": false
+  }
+]

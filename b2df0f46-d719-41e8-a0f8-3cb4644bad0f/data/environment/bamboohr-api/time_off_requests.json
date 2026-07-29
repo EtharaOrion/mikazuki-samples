@@ -1,0 +1,38 @@
+[
+  {
+    "amount": "1",
+    "created": "2026-03-06",
+    "employeeId": "e201",
+    "end": "2026-03-18",
+    "id": "tor-bbef3b4b",
+    "notes": "Family court schedule permitting.",
+    "start": "2026-03-18",
+    "status": "approved",
+    "type": "Vacation",
+    "unit": "days"
+  },
+  {
+    "amount": "1",
+    "created": "2026-02-17",
+    "employeeId": "e201",
+    "end": "2025-11-18",
+    "id": "tor-bbef3b4b-p8",
+    "notes": "Personal day; coverage arranged with front desk.",
+    "start": "2025-11-18",
+    "status": "approved",
+    "type": "Vacation",
+    "unit": "days"
+  },
+  {
+    "amount": "1",
+    "created": "2026-02-15",
+    "employeeId": "e201",
+    "end": "2025-11-18",
+    "id": "tor-bbef3b4b-p16",
+    "notes": "Family court schedule permitting.",
+    "start": "2025-11-18",
+    "status": "approved",
+    "type": "Vacation",
+    "unit": "days"
+  }
+]

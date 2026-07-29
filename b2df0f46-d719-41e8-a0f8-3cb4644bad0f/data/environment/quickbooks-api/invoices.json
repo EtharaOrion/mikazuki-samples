@@ -1,0 +1,562 @@
+[
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Retainer Client A",
+      "value": "1001"
+    },
+    "DocNumber": "BFL-4001",
+    "DueDate": "2026-03-05",
+    "Id": "4001",
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Family law retainer",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Family law flat fee",
+            "value": "3001"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "TxnDate": "2026-02-22",
+    "Status": "Paid"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Retainer Client B",
+      "value": "1002"
+    },
+    "DocNumber": "BFL-4002",
+    "DueDate": "2026-03-12",
+    "Id": "4002",
+    "Line": [
+      {
+        "Amount": 2500.0,
+        "Description": "Family law retainer",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Family law retainer",
+            "value": "3002"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2500.0,
+    "TxnDate": "2026-02-28",
+    "Status": "Paid"
+  },
+  {
+    "Balance": 750.0,
+    "CustomerRef": {
+      "name": "Retainer Client D",
+      "value": "1004"
+    },
+    "DocNumber": "BFL-4003",
+    "DueDate": "2026-10-02",
+    "Id": "4003",
+    "Line": [
+      {
+        "Amount": 750.0,
+        "Description": "Family law consult",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Family law consult",
+            "value": "3005"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 750.0,
+    "TxnDate": "2026-03-12",
+    "Status": "Open"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Patricia Sullivan",
+      "value": "1001"
+    },
+    "DocNumber": "BFL-4001",
+    "DueDate": "2026-02-05",
+    "Id": "4104",
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Family law retainer",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Professional services flat fee A",
+            "value": "3001"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "TxnDate": "2026-02-05",
+    "Status": "Paid"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Adrian Foster",
+      "value": "1002"
+    },
+    "DocNumber": "BFL-4002",
+    "DueDate": "2026-02-05",
+    "Id": "4106",
+    "Line": [
+      {
+        "Amount": 2500.0,
+        "Description": "Family law retainer",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Professional services retainer A",
+            "value": "3002"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2500.0,
+    "TxnDate": "2026-01-26",
+    "Status": "Paid"
+  },
+  {
+    "Balance": 750.0,
+    "CustomerRef": {
+      "name": "Gregory Nolan",
+      "value": "1004"
+    },
+    "DocNumber": "BFL-4003",
+    "DueDate": "2026-02-17",
+    "Id": "4108",
+    "Line": [
+      {
+        "Amount": 750.0,
+        "Description": "Family law consult",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Initial consult",
+            "value": "3005"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 750.0,
+    "TxnDate": "2026-02-17",
+    "Status": "Open"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Gregory Nolan",
+      "value": "1001"
+    },
+    "DocNumber": "BFL-4001",
+    "DueDate": "2026-02-20",
+    "Id": "4107",
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Family law retainer",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Professional services flat fee A",
+            "value": "3001"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "TxnDate": "2026-02-03",
+    "Status": "Paid"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Gregory Nolan",
+      "value": "1002"
+    },
+    "DocNumber": "BFL-4002",
+    "DueDate": "2026-02-19",
+    "Id": "4109",
+    "Line": [
+      {
+        "Amount": 2500.0,
+        "Description": "Family law retainer",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Professional services retainer A",
+            "value": "3002"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2500.0,
+    "TxnDate": "2026-02-19",
+    "Status": "Paid"
+  },
+  {
+    "Balance": 750.0,
+    "CustomerRef": {
+      "name": "Dr. Lillian Reynolds",
+      "value": "1004"
+    },
+    "DocNumber": "BFL-4003",
+    "DueDate": "2026-02-20",
+    "Id": "4111",
+    "Line": [
+      {
+        "Amount": 750.0,
+        "Description": "Family law consult",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Initial consult",
+            "value": "3005"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 750.0,
+    "TxnDate": "2026-02-19",
+    "Status": "Open"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Patricia Sullivan",
+      "value": "1001"
+    },
+    "DocNumber": "BFL-4001",
+    "DueDate": "2026-02-16",
+    "Id": "4110",
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Family law retainer",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Professional services flat fee A",
+            "value": "3001"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "TxnDate": "2026-02-13",
+    "Status": "Paid"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Coach Ramsey",
+      "value": "1002"
+    },
+    "DocNumber": "BFL-4002",
+    "DueDate": "2026-02-20",
+    "Id": "4112",
+    "Line": [
+      {
+        "Amount": 2500.0,
+        "Description": "Family law retainer",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Professional services retainer A",
+            "value": "3002"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2500.0,
+    "TxnDate": "2026-02-08",
+    "Status": "Paid"
+  },
+  {
+    "Balance": 750.0,
+    "CustomerRef": {
+      "name": "Coach Ramsey",
+      "value": "1004"
+    },
+    "DocNumber": "BFL-4003",
+    "DueDate": "2026-02-17",
+    "Id": "4114",
+    "Line": [
+      {
+        "Amount": 750.0,
+        "Description": "Family law consult",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Initial consult",
+            "value": "3005"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 750.0,
+    "TxnDate": "2026-02-13",
+    "Status": "Open"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Adrian Foster",
+      "value": "1001"
+    },
+    "DocNumber": "BFL-4001",
+    "DueDate": "2026-02-18",
+    "Id": "4113",
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Family law retainer",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Professional services flat fee A",
+            "value": "3001"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "TxnDate": "2026-02-18",
+    "Status": "Paid"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Gregory Nolan",
+      "value": "1002"
+    },
+    "DocNumber": "BFL-4002",
+    "DueDate": "2026-01-30",
+    "Id": "4115",
+    "Line": [
+      {
+        "Amount": 2500.0,
+        "Description": "Family law retainer",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Professional services retainer A",
+            "value": "3002"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2500.0,
+    "TxnDate": "2026-01-29",
+    "Status": "Paid"
+  },
+  {
+    "Balance": 750.0,
+    "CustomerRef": {
+      "name": "Linda Brooks",
+      "value": "1004"
+    },
+    "DocNumber": "BFL-4003",
+    "DueDate": "2026-02-14",
+    "Id": "4117",
+    "Line": [
+      {
+        "Amount": 750.0,
+        "Description": "Family law consult",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Initial consult",
+            "value": "3005"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 750.0,
+    "TxnDate": "2026-02-14",
+    "Status": "Open"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Dr. Lillian Reynolds",
+      "value": "1001"
+    },
+    "DocNumber": "BFL-4001",
+    "DueDate": "2026-02-16",
+    "Id": "4116",
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Family law retainer",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Professional services flat fee A",
+            "value": "3001"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "TxnDate": "2026-01-27",
+    "Status": "Paid"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Margaret Stevens",
+      "value": "1002"
+    },
+    "DocNumber": "BFL-4002",
+    "DueDate": "2026-02-19",
+    "Id": "4118",
+    "Line": [
+      {
+        "Amount": 2500.0,
+        "Description": "Family law retainer",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Professional services retainer A",
+            "value": "3002"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2500.0,
+    "TxnDate": "2026-02-19",
+    "Status": "Paid"
+  },
+  {
+    "Balance": 750.0,
+    "CustomerRef": {
+      "name": "Dr. Lillian Reynolds",
+      "value": "1004"
+    },
+    "DocNumber": "BFL-4003",
+    "DueDate": "2026-02-10",
+    "Id": "4120",
+    "Line": [
+      {
+        "Amount": 750.0,
+        "Description": "Family law consult",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Initial consult",
+            "value": "3005"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 750.0,
+    "TxnDate": "2026-02-04",
+    "Status": "Open"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Dr. Lillian Reynolds",
+      "value": "1001"
+    },
+    "DocNumber": "BFL-4001",
+    "DueDate": "2026-02-08",
+    "Id": "4119",
+    "Line": [
+      {
+        "Amount": 1500.0,
+        "Description": "Family law retainer",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Professional services flat fee A",
+            "value": "3001"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1500.0,
+    "TxnDate": "2026-02-05",
+    "Status": "Paid"
+  },
+  {
+    "Balance": 0,
+    "CustomerRef": {
+      "name": "Emily Taylor",
+      "value": "1002"
+    },
+    "DocNumber": "BFL-4002",
+    "DueDate": "2026-02-09",
+    "Id": "4121",
+    "Line": [
+      {
+        "Amount": 2500.0,
+        "Description": "Family law retainer",
+        "DetailType": "SalesItemLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "name": "Professional services retainer A",
+            "value": "3002"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2500.0,
+    "TxnDate": "2026-02-04",
+    "Status": "Paid"
+  }
+]

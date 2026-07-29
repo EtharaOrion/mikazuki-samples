@@ -1,0 +1,920 @@
+[
+  {
+    "applied_at": "2026-05-30T00:00:00Z",
+    "candidate_id": "cand-f079887a",
+    "current_stage": "Application Review",
+    "id": "app-36a0fa07",
+    "job_id": "job-7ec8db86",
+    "last_activity_at": "2026-06-28T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-05-20T00:00:00Z",
+    "candidate_id": "cand-1b52ef48",
+    "current_stage": "Interview",
+    "id": "app-6faa85d2",
+    "job_id": "job-328ef02f",
+    "last_activity_at": "2026-06-27T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-06-23T00:00:00Z",
+    "candidate_id": "cand-7c0c91ef",
+    "current_stage": "Offer",
+    "id": "app-9584e93d",
+    "job_id": "job-e9d16cfb",
+    "last_activity_at": "2026-06-28T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-06-18T00:00:00Z",
+    "candidate_id": "cand-4ea04e26",
+    "current_stage": "Hired",
+    "id": "app-6b46dbc7",
+    "job_id": "job-a96dbef5",
+    "last_activity_at": "2026-06-25T00:00:00Z",
+    "status": "hired"
+  },
+  {
+    "applied_at": "2026-06-18T00:00:00Z",
+    "candidate_id": "cand-570f6859",
+    "current_stage": "Application Review",
+    "id": "app-347103ec",
+    "job_id": "job-862c9625",
+    "last_activity_at": "2026-06-28T00:00:00Z",
+    "status": "rejected"
+  },
+  {
+    "applied_at": "2026-06-06T00:00:00Z",
+    "candidate_id": "cand-97dc1222",
+    "current_stage": "Interview",
+    "id": "app-f7e68e1b",
+    "job_id": "job-2abdc8e2",
+    "last_activity_at": "2026-06-25T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-05-20T00:00:00Z",
+    "candidate_id": "cand-da5729b8",
+    "current_stage": "Offer",
+    "id": "app-9f9c072c",
+    "job_id": "job-039fafe2",
+    "last_activity_at": "2026-06-25T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-05-22T00:00:00Z",
+    "candidate_id": "cand-1b84d191",
+    "current_stage": "Hired",
+    "id": "app-ed227f1d",
+    "job_id": "job-55d14a2c",
+    "last_activity_at": "2026-06-28T00:00:00Z",
+    "status": "hired"
+  },
+  {
+    "applied_at": "2026-06-10T00:00:00Z",
+    "candidate_id": "cand-c2f8f930",
+    "current_stage": "Application Review",
+    "id": "app-dee1db42",
+    "job_id": "job-b4c6289e",
+    "last_activity_at": "2026-06-28T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-05-15T00:00:00Z",
+    "candidate_id": "cand-e74e9247",
+    "current_stage": "Interview",
+    "id": "app-41f9de36",
+    "job_id": "job-536d56b4",
+    "last_activity_at": "2026-06-26T00:00:00Z",
+    "status": "rejected"
+  },
+  {
+    "applied_at": "2026-06-16T00:00:00Z",
+    "candidate_id": "cand-d8f530a7",
+    "current_stage": "Offer",
+    "id": "app-fa7c1b12",
+    "job_id": "job-67a329be",
+    "last_activity_at": "2026-06-28T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-06-11T00:00:00Z",
+    "candidate_id": "cand-ecabe56b",
+    "current_stage": "Hired",
+    "id": "app-a9ffa2c4",
+    "job_id": "job-0ec1e48f",
+    "last_activity_at": "2026-06-27T00:00:00Z",
+    "status": "hired"
+  },
+  {
+    "applied_at": "2026-08-11T00:00:00Z",
+    "candidate_id": "cand-f079887a",
+    "current_stage": "Phone Screen",
+    "id": "app-langston-fc0a28c6",
+    "job_id": "job-7ec8db86",
+    "last_activity_at": "2026-08-18T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-08-12T00:00:00Z",
+    "candidate_id": "cand-1b52ef48",
+    "current_stage": "Technical Interview",
+    "id": "app-langston-dc8499c0",
+    "job_id": "job-328ef02f",
+    "last_activity_at": "2026-08-19T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-08-13T00:00:00Z",
+    "candidate_id": "cand-1b52ef48",
+    "current_stage": "Site Visit",
+    "id": "app-langston-08123c2d",
+    "job_id": "job-e9d16cfb",
+    "last_activity_at": "2026-08-20T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-08-14T00:00:00Z",
+    "candidate_id": "cand-7c0c91ef",
+    "current_stage": "Offer",
+    "id": "app-langston-b6f33730",
+    "job_id": "job-e9d16cfb",
+    "last_activity_at": "2026-08-21T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-08-15T00:00:00Z",
+    "candidate_id": "cand-4ea04e26",
+    "current_stage": "Rejected",
+    "id": "app-langston-c396e5db",
+    "job_id": "job-a96dbef5",
+    "last_activity_at": "2026-08-22T00:00:00Z",
+    "status": "closed"
+  },
+  {
+    "applied_at": "2026-08-16T00:00:00Z",
+    "candidate_id": "cand-4ea04e26",
+    "current_stage": "Application Review",
+    "id": "app-langston-dcad16a4",
+    "job_id": "job-862c9625",
+    "last_activity_at": "2026-08-23T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-08-17T00:00:00Z",
+    "candidate_id": "cand-570f6859",
+    "current_stage": "Phone Screen",
+    "id": "app-langston-37fa6d9d",
+    "job_id": "job-862c9625",
+    "last_activity_at": "2026-08-24T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-08-18T00:00:00Z",
+    "candidate_id": "cand-97dc1222",
+    "current_stage": "Technical Interview",
+    "id": "app-langston-23978918",
+    "job_id": "job-2abdc8e2",
+    "last_activity_at": "2026-08-25T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-08-19T00:00:00Z",
+    "candidate_id": "cand-97dc1222",
+    "current_stage": "Site Visit",
+    "id": "app-langston-f9cff1c0",
+    "job_id": "job-039fafe2",
+    "last_activity_at": "2026-08-26T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-08-20T00:00:00Z",
+    "candidate_id": "cand-da5729b8",
+    "current_stage": "Offer",
+    "id": "app-langston-566e14c1",
+    "job_id": "job-039fafe2",
+    "last_activity_at": "2026-08-27T00:00:00Z",
+    "status": "closed"
+  },
+  {
+    "applied_at": "2026-08-21T00:00:00Z",
+    "candidate_id": "cand-1b84d191",
+    "current_stage": "Rejected",
+    "id": "app-langston-6588cc7e",
+    "job_id": "job-55d14a2c",
+    "last_activity_at": "2026-08-28T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-08-22T00:00:00Z",
+    "candidate_id": "cand-1b84d191",
+    "current_stage": "Application Review",
+    "id": "app-langston-dd77cf5b",
+    "job_id": "job-b4c6289e",
+    "last_activity_at": "2026-08-29T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-08-23T00:00:00Z",
+    "candidate_id": "cand-c2f8f930",
+    "current_stage": "Phone Screen",
+    "id": "app-langston-f1af2001",
+    "job_id": "job-b4c6289e",
+    "last_activity_at": "2026-08-30T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-08-24T00:00:00Z",
+    "candidate_id": "cand-e74e9247",
+    "current_stage": "Technical Interview",
+    "id": "app-langston-b2097536",
+    "job_id": "job-536d56b4",
+    "last_activity_at": "2026-08-31T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-08-25T00:00:00Z",
+    "candidate_id": "cand-e74e9247",
+    "current_stage": "Site Visit",
+    "id": "app-langston-75a6aef8",
+    "job_id": "job-67a329be",
+    "last_activity_at": "2026-09-01T00:00:00Z",
+    "status": "closed"
+  },
+  {
+    "applied_at": "2026-08-26T00:00:00Z",
+    "candidate_id": "cand-d8f530a7",
+    "current_stage": "Offer",
+    "id": "app-langston-2b0aca15",
+    "job_id": "job-67a329be",
+    "last_activity_at": "2026-09-02T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-08-27T00:00:00Z",
+    "candidate_id": "cand-ecabe56b",
+    "current_stage": "Rejected",
+    "id": "app-langston-eb0cd9d3",
+    "job_id": "job-0ec1e48f",
+    "last_activity_at": "2026-09-03T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-08-28T00:00:00Z",
+    "candidate_id": "cand-ecabe56b",
+    "current_stage": "Application Review",
+    "id": "app-langston-0bf39f25",
+    "job_id": "job-6f98fb38",
+    "last_activity_at": "2026-09-04T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-08-29T00:00:00Z",
+    "candidate_id": "cand-f079887a-v1",
+    "current_stage": "Phone Screen",
+    "id": "app-langston-23a86ac6",
+    "job_id": "job-6f98fb38",
+    "last_activity_at": "2026-09-05T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-08-30T00:00:00Z",
+    "candidate_id": "cand-1b52ef48-v2",
+    "current_stage": "Technical Interview",
+    "id": "app-langston-8629b000",
+    "job_id": "job-f2b559f8",
+    "last_activity_at": "2026-09-06T00:00:00Z",
+    "status": "closed"
+  },
+  {
+    "applied_at": "2026-08-31T00:00:00Z",
+    "candidate_id": "cand-1b52ef48-v2",
+    "current_stage": "Site Visit",
+    "id": "app-langston-9083ffdf",
+    "job_id": "job-b6c932f6",
+    "last_activity_at": "2026-09-07T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-01T00:00:00Z",
+    "candidate_id": "cand-7c0c91ef-v3",
+    "current_stage": "Offer",
+    "id": "app-langston-f8b4a0da",
+    "job_id": "job-b6c932f6",
+    "last_activity_at": "2026-09-08T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-02T00:00:00Z",
+    "candidate_id": "cand-4ea04e26-v4",
+    "current_stage": "Rejected",
+    "id": "app-langston-28a49e46",
+    "job_id": "job-langston-f5af372b",
+    "last_activity_at": "2026-09-09T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-03T00:00:00Z",
+    "candidate_id": "cand-4ea04e26-v4",
+    "current_stage": "Application Review",
+    "id": "app-langston-8bacc016",
+    "job_id": "job-langston-9b0bd840",
+    "last_activity_at": "2026-09-10T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-04T00:00:00Z",
+    "candidate_id": "cand-570f6859-v5",
+    "current_stage": "Phone Screen",
+    "id": "app-langston-bfea8e2f",
+    "job_id": "job-langston-9b0bd840",
+    "last_activity_at": "2026-09-11T00:00:00Z",
+    "status": "closed"
+  },
+  {
+    "applied_at": "2026-09-05T00:00:00Z",
+    "candidate_id": "cand-97dc1222-v6",
+    "current_stage": "Technical Interview",
+    "id": "app-langston-1a9c0721",
+    "job_id": "job-langston-db1fde21",
+    "last_activity_at": "2026-09-12T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-06T00:00:00Z",
+    "candidate_id": "cand-97dc1222-v6",
+    "current_stage": "Site Visit",
+    "id": "app-langston-17f46d35",
+    "job_id": "job-langston-6f44c858",
+    "last_activity_at": "2026-09-13T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-07T00:00:00Z",
+    "candidate_id": "cand-da5729b8-v7",
+    "current_stage": "Offer",
+    "id": "app-langston-f0388341",
+    "job_id": "job-langston-6f44c858",
+    "last_activity_at": "2026-09-14T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-08T00:00:00Z",
+    "candidate_id": "cand-1b84d191-v8",
+    "current_stage": "Rejected",
+    "id": "app-langston-2ae408e1",
+    "job_id": "job-langston-6da4989c",
+    "last_activity_at": "2026-09-15T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-09T00:00:00Z",
+    "candidate_id": "cand-1b84d191-v8",
+    "current_stage": "Application Review",
+    "id": "app-langston-f2f6b22b",
+    "job_id": "job-7ec8db86",
+    "last_activity_at": "2026-09-16T00:00:00Z",
+    "status": "closed"
+  },
+  {
+    "applied_at": "2026-09-10T00:00:00Z",
+    "candidate_id": "cand-langston-8a18b93e",
+    "current_stage": "Phone Screen",
+    "id": "app-langston-000eff75",
+    "job_id": "job-7ec8db86",
+    "last_activity_at": "2026-09-17T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-11T00:00:00Z",
+    "candidate_id": "cand-langston-e7a7eb0b",
+    "current_stage": "Technical Interview",
+    "id": "app-langston-2522a34a",
+    "job_id": "job-328ef02f",
+    "last_activity_at": "2026-09-18T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-12T00:00:00Z",
+    "candidate_id": "cand-langston-e7a7eb0b",
+    "current_stage": "Site Visit",
+    "id": "app-langston-5c0558a9",
+    "job_id": "job-e9d16cfb",
+    "last_activity_at": "2026-09-19T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-13T00:00:00Z",
+    "candidate_id": "cand-langston-31831c51",
+    "current_stage": "Offer",
+    "id": "app-langston-ae78abe9",
+    "job_id": "job-e9d16cfb",
+    "last_activity_at": "2026-09-20T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-14T00:00:00Z",
+    "candidate_id": "cand-langston-e35f4bd2",
+    "current_stage": "Rejected",
+    "id": "app-langston-957bf354",
+    "job_id": "job-a96dbef5",
+    "last_activity_at": "2026-09-21T00:00:00Z",
+    "status": "closed"
+  },
+  {
+    "applied_at": "2026-09-15T00:00:00Z",
+    "candidate_id": "cand-langston-e35f4bd2",
+    "current_stage": "Application Review",
+    "id": "app-langston-dd9b4c9c",
+    "job_id": "job-862c9625",
+    "last_activity_at": "2026-09-22T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-16T00:00:00Z",
+    "candidate_id": "cand-langston-c4fd84dd",
+    "current_stage": "Phone Screen",
+    "id": "app-langston-4f3ac12f",
+    "job_id": "job-862c9625",
+    "last_activity_at": "2026-09-23T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-17T00:00:00Z",
+    "candidate_id": "cand-langston-5c39d22b",
+    "current_stage": "Technical Interview",
+    "id": "app-langston-d2b9890b",
+    "job_id": "job-2abdc8e2",
+    "last_activity_at": "2026-09-24T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-18T00:00:00Z",
+    "candidate_id": "cand-langston-5c39d22b",
+    "current_stage": "Site Visit",
+    "id": "app-langston-2f014053",
+    "job_id": "job-039fafe2",
+    "last_activity_at": "2026-09-25T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-19T00:00:00Z",
+    "candidate_id": "cand-langston-d0b2d41b",
+    "current_stage": "Offer",
+    "id": "app-langston-fd94fb03",
+    "job_id": "job-039fafe2",
+    "last_activity_at": "2026-09-26T00:00:00Z",
+    "status": "closed"
+  },
+  {
+    "applied_at": "2026-09-20T00:00:00Z",
+    "candidate_id": "cand-langston-71280025",
+    "current_stage": "Rejected",
+    "id": "app-langston-c11aef26",
+    "job_id": "job-55d14a2c",
+    "last_activity_at": "2026-09-27T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-21T00:00:00Z",
+    "candidate_id": "cand-langston-71280025",
+    "current_stage": "Application Review",
+    "id": "app-langston-237d0cc3",
+    "job_id": "job-b4c6289e",
+    "last_activity_at": "2026-09-28T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-22T00:00:00Z",
+    "candidate_id": "cand-langston-7256855e",
+    "current_stage": "Phone Screen",
+    "id": "app-langston-05c7111e",
+    "job_id": "job-b4c6289e",
+    "last_activity_at": "2026-09-29T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-23T00:00:00Z",
+    "candidate_id": "cand-langston-d00de94f",
+    "current_stage": "Technical Interview",
+    "id": "app-langston-2cb74483",
+    "job_id": "job-536d56b4",
+    "last_activity_at": "2026-09-30T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-24T00:00:00Z",
+    "candidate_id": "cand-langston-d00de94f",
+    "current_stage": "Site Visit",
+    "id": "app-langston-3bbb43cc",
+    "job_id": "job-67a329be",
+    "last_activity_at": "2026-10-01T00:00:00Z",
+    "status": "closed"
+  },
+  {
+    "applied_at": "2026-09-25T00:00:00Z",
+    "candidate_id": "cand-langston-73a33341",
+    "current_stage": "Offer",
+    "id": "app-langston-dc29892f",
+    "job_id": "job-67a329be",
+    "last_activity_at": "2026-10-02T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-26T00:00:00Z",
+    "candidate_id": "cand-langston-b0d49828",
+    "current_stage": "Rejected",
+    "id": "app-langston-c3725ee1",
+    "job_id": "job-0ec1e48f",
+    "last_activity_at": "2026-10-03T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-27T00:00:00Z",
+    "candidate_id": "cand-langston-b0d49828",
+    "current_stage": "Application Review",
+    "id": "app-langston-e8914f24",
+    "job_id": "job-6f98fb38",
+    "last_activity_at": "2026-10-04T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-28T00:00:00Z",
+    "candidate_id": "cand-langston-c1035e80",
+    "current_stage": "Phone Screen",
+    "id": "app-langston-b4bda30b",
+    "job_id": "job-6f98fb38",
+    "last_activity_at": "2026-10-05T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-09-29T00:00:00Z",
+    "candidate_id": "cand-langston-74b484d2",
+    "current_stage": "Technical Interview",
+    "id": "app-langston-43b4f959",
+    "job_id": "job-f2b559f8",
+    "last_activity_at": "2026-10-06T00:00:00Z",
+    "status": "closed"
+  },
+  {
+    "applied_at": "2026-09-30T00:00:00Z",
+    "candidate_id": "cand-langston-74b484d2",
+    "current_stage": "Site Visit",
+    "id": "app-langston-e4b5d34a",
+    "job_id": "job-b6c932f6",
+    "last_activity_at": "2026-10-07T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-01T00:00:00Z",
+    "candidate_id": "cand-langston-54a28217",
+    "current_stage": "Offer",
+    "id": "app-langston-6d823521",
+    "job_id": "job-b6c932f6",
+    "last_activity_at": "2026-10-08T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-02T00:00:00Z",
+    "candidate_id": "cand-langston-ab14b165",
+    "current_stage": "Rejected",
+    "id": "app-langston-0de248a0",
+    "job_id": "job-langston-f5af372b",
+    "last_activity_at": "2026-10-09T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-03T00:00:00Z",
+    "candidate_id": "cand-langston-ab14b165",
+    "current_stage": "Application Review",
+    "id": "app-langston-b352657f",
+    "job_id": "job-langston-9b0bd840",
+    "last_activity_at": "2026-10-10T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-04T00:00:00Z",
+    "candidate_id": "cand-langston-8fef58b1",
+    "current_stage": "Phone Screen",
+    "id": "app-langston-2cc8aec2",
+    "job_id": "job-langston-9b0bd840",
+    "last_activity_at": "2026-10-11T00:00:00Z",
+    "status": "closed"
+  },
+  {
+    "applied_at": "2026-10-05T00:00:00Z",
+    "candidate_id": "cand-langston-1091d5a7",
+    "current_stage": "Technical Interview",
+    "id": "app-langston-f63a043a",
+    "job_id": "job-langston-db1fde21",
+    "last_activity_at": "2026-10-12T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-06T00:00:00Z",
+    "candidate_id": "cand-langston-1091d5a7",
+    "current_stage": "Site Visit",
+    "id": "app-langston-2fbac62c",
+    "job_id": "job-langston-6f44c858",
+    "last_activity_at": "2026-10-13T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-07T00:00:00Z",
+    "candidate_id": "cand-langston-ef122592",
+    "current_stage": "Offer",
+    "id": "app-langston-9015aaed",
+    "job_id": "job-langston-6f44c858",
+    "last_activity_at": "2026-10-14T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-08T00:00:00Z",
+    "candidate_id": "cand-langston-56ceeae4",
+    "current_stage": "Rejected",
+    "id": "app-langston-90386adf",
+    "job_id": "job-langston-6da4989c",
+    "last_activity_at": "2026-10-15T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-09T00:00:00Z",
+    "candidate_id": "cand-langston-56ceeae4",
+    "current_stage": "Application Review",
+    "id": "app-langston-2c88fac3",
+    "job_id": "job-7ec8db86",
+    "last_activity_at": "2026-10-16T00:00:00Z",
+    "status": "closed"
+  },
+  {
+    "applied_at": "2026-10-10T00:00:00Z",
+    "candidate_id": "cand-langston-ea1bd33d",
+    "current_stage": "Phone Screen",
+    "id": "app-langston-a2480a49",
+    "job_id": "job-7ec8db86",
+    "last_activity_at": "2026-10-17T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-11T00:00:00Z",
+    "candidate_id": "cand-langston-74912e0b",
+    "current_stage": "Technical Interview",
+    "id": "app-langston-981441a4",
+    "job_id": "job-328ef02f",
+    "last_activity_at": "2026-10-18T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-12T00:00:00Z",
+    "candidate_id": "cand-langston-74912e0b",
+    "current_stage": "Site Visit",
+    "id": "app-langston-a1387a51",
+    "job_id": "job-e9d16cfb",
+    "last_activity_at": "2026-10-19T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-13T00:00:00Z",
+    "candidate_id": "cand-langston-ce801289",
+    "current_stage": "Offer",
+    "id": "app-langston-fa0ebcee",
+    "job_id": "job-e9d16cfb",
+    "last_activity_at": "2026-10-20T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-14T00:00:00Z",
+    "candidate_id": "cand-langston-5aabe374",
+    "current_stage": "Rejected",
+    "id": "app-langston-ec58964c",
+    "job_id": "job-a96dbef5",
+    "last_activity_at": "2026-10-21T00:00:00Z",
+    "status": "closed"
+  },
+  {
+    "applied_at": "2026-10-15T00:00:00Z",
+    "candidate_id": "cand-langston-5aabe374",
+    "current_stage": "Application Review",
+    "id": "app-langston-a0d9e5fd",
+    "job_id": "job-862c9625",
+    "last_activity_at": "2026-10-22T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-16T00:00:00Z",
+    "candidate_id": "cand-langston-1aca4bda",
+    "current_stage": "Phone Screen",
+    "id": "app-langston-a2eb0a1f",
+    "job_id": "job-862c9625",
+    "last_activity_at": "2026-10-23T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-17T00:00:00Z",
+    "candidate_id": "cand-langston-36af3f66",
+    "current_stage": "Technical Interview",
+    "id": "app-langston-51336a98",
+    "job_id": "job-2abdc8e2",
+    "last_activity_at": "2026-10-24T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-18T00:00:00Z",
+    "candidate_id": "cand-langston-36af3f66",
+    "current_stage": "Site Visit",
+    "id": "app-langston-fbe8ec85",
+    "job_id": "job-039fafe2",
+    "last_activity_at": "2026-10-25T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-19T00:00:00Z",
+    "candidate_id": "cand-langston-53ab5479",
+    "current_stage": "Offer",
+    "id": "app-langston-eb1e2cbe",
+    "job_id": "job-039fafe2",
+    "last_activity_at": "2026-10-26T00:00:00Z",
+    "status": "closed"
+  },
+  {
+    "applied_at": "2026-10-20T00:00:00Z",
+    "candidate_id": "cand-langston-ef6b085a",
+    "current_stage": "Rejected",
+    "id": "app-langston-58d630ea",
+    "job_id": "job-55d14a2c",
+    "last_activity_at": "2026-10-27T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-21T00:00:00Z",
+    "candidate_id": "cand-langston-ef6b085a",
+    "current_stage": "Application Review",
+    "id": "app-langston-009871c2",
+    "job_id": "job-b4c6289e",
+    "last_activity_at": "2026-10-28T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-22T00:00:00Z",
+    "candidate_id": "cand-langston-b2ac6548",
+    "current_stage": "Phone Screen",
+    "id": "app-langston-66f39053",
+    "job_id": "job-b4c6289e",
+    "last_activity_at": "2026-10-29T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-23T00:00:00Z",
+    "candidate_id": "cand-langston-d96f1f02",
+    "current_stage": "Technical Interview",
+    "id": "app-langston-5879a027",
+    "job_id": "job-536d56b4",
+    "last_activity_at": "2026-10-30T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-24T00:00:00Z",
+    "candidate_id": "cand-langston-d96f1f02",
+    "current_stage": "Site Visit",
+    "id": "app-langston-ed9c8ddb",
+    "job_id": "job-67a329be",
+    "last_activity_at": "2026-10-31T00:00:00Z",
+    "status": "closed"
+  },
+  {
+    "applied_at": "2026-10-25T00:00:00Z",
+    "candidate_id": "cand-langston-22386584",
+    "current_stage": "Offer",
+    "id": "app-langston-4ce59ad8",
+    "job_id": "job-67a329be",
+    "last_activity_at": "2026-11-01T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-26T00:00:00Z",
+    "candidate_id": "cand-langston-c5eb62d1",
+    "current_stage": "Rejected",
+    "id": "app-langston-a4099d31",
+    "job_id": "job-0ec1e48f",
+    "last_activity_at": "2026-11-02T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-27T00:00:00Z",
+    "candidate_id": "cand-langston-c5eb62d1",
+    "current_stage": "Application Review",
+    "id": "app-langston-daa7b543",
+    "job_id": "job-6f98fb38",
+    "last_activity_at": "2026-11-03T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-28T00:00:00Z",
+    "candidate_id": "cand-langston-b6f19c2a",
+    "current_stage": "Phone Screen",
+    "id": "app-langston-6148f595",
+    "job_id": "job-6f98fb38",
+    "last_activity_at": "2026-11-04T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-29T00:00:00Z",
+    "candidate_id": "cand-langston-6230adde",
+    "current_stage": "Technical Interview",
+    "id": "app-langston-68c0d83a",
+    "job_id": "job-f2b559f8",
+    "last_activity_at": "2026-11-05T00:00:00Z",
+    "status": "closed"
+  },
+  {
+    "applied_at": "2026-10-30T00:00:00Z",
+    "candidate_id": "cand-langston-6230adde",
+    "current_stage": "Site Visit",
+    "id": "app-langston-90805e6a",
+    "job_id": "job-b6c932f6",
+    "last_activity_at": "2026-11-06T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-10-31T00:00:00Z",
+    "candidate_id": "cand-langston-a1b0a52b",
+    "current_stage": "Offer",
+    "id": "app-langston-1035b137",
+    "job_id": "job-b6c932f6",
+    "last_activity_at": "2026-11-07T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-11-01T00:00:00Z",
+    "candidate_id": "cand-langston-435d33bc",
+    "current_stage": "Rejected",
+    "id": "app-langston-e579e235",
+    "job_id": "job-langston-f5af372b",
+    "last_activity_at": "2026-11-08T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-11-02T00:00:00Z",
+    "candidate_id": "cand-langston-435d33bc",
+    "current_stage": "Application Review",
+    "id": "app-langston-273a3399",
+    "job_id": "job-langston-9b0bd840",
+    "last_activity_at": "2026-11-09T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-11-03T00:00:00Z",
+    "candidate_id": "cand-langston-9cb6f74a",
+    "current_stage": "Phone Screen",
+    "id": "app-langston-44a655c0",
+    "job_id": "job-langston-9b0bd840",
+    "last_activity_at": "2026-11-10T00:00:00Z",
+    "status": "closed"
+  },
+  {
+    "applied_at": "2026-11-04T00:00:00Z",
+    "candidate_id": "cand-langston-a822d726",
+    "current_stage": "Technical Interview",
+    "id": "app-langston-37520d68",
+    "job_id": "job-langston-db1fde21",
+    "last_activity_at": "2026-11-11T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-11-05T00:00:00Z",
+    "candidate_id": "cand-langston-a822d726",
+    "current_stage": "Site Visit",
+    "id": "app-langston-b6571897",
+    "job_id": "job-langston-6f44c858",
+    "last_activity_at": "2026-11-12T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-11-06T00:00:00Z",
+    "candidate_id": "cand-langston-c23c5b8c",
+    "current_stage": "Offer",
+    "id": "app-langston-e227b724",
+    "job_id": "job-langston-6f44c858",
+    "last_activity_at": "2026-11-13T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-11-07T00:00:00Z",
+    "candidate_id": "cand-langston-bfbba50e",
+    "current_stage": "Rejected",
+    "id": "app-langston-d6bff4ba",
+    "job_id": "job-langston-6da4989c",
+    "last_activity_at": "2026-11-14T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-11-08T00:00:00Z",
+    "candidate_id": "cand-langston-bfbba50e",
+    "current_stage": "Application Review",
+    "id": "app-langston-854ccb4c",
+    "job_id": "job-7ec8db86",
+    "last_activity_at": "2026-11-15T00:00:00Z",
+    "status": "closed"
+  }
+]

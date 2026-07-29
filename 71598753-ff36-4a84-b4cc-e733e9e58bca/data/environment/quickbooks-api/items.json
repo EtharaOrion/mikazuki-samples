@@ -1,0 +1,222 @@
+[
+  {
+    "Active": "true",
+    "Description": "Professional services flat fee, tier 1",
+    "Id": "3001",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Professional services flat fee A",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "1500.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Initial retainer, tier 2",
+    "Id": "3002",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Professional services retainer A",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "2500.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Professional services retainer, tier 3",
+    "Id": "3003",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Professional services retainer B",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "2000.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Document drafting and review",
+    "Id": "3004",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Document drafting",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "1000.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Initial consult and filing",
+    "Id": "3005",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Initial consult",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "750.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Hourly billable rate",
+    "Id": "3006",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Hourly Legal Services",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "375.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Professional services flat fee, tier 1",
+    "Id": "3107",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Professional services flat fee A",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "1500.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Initial retainer, tier 2",
+    "Id": "3109",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Professional services retainer A",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "2500.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Professional services retainer, tier 3",
+    "Id": "3111",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Professional services retainer B",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "2000.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Document drafting and review",
+    "Id": "3113",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Document drafting",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "1000.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Initial consult and filing",
+    "Id": "3115",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Initial consult",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "750.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Hourly billable rate",
+    "Id": "3117",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Hourly Legal Services",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "375.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Professional services flat fee, tier 1",
+    "Id": "3124",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Professional services flat fee A",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "1500.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Initial retainer, tier 2",
+    "Id": "3125",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Professional services retainer A",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "2500.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Professional services retainer, tier 3",
+    "Id": "3126",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Professional services retainer B",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "2000.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Document drafting and review",
+    "Id": "3119",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Document drafting",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "1000.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Initial consult and filing",
+    "Id": "3121",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Initial consult",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "750.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Hourly billable rate",
+    "Id": "3123",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Hourly Legal Services",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "375.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Professional services flat fee, tier 1",
+    "Id": "3127",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Professional services flat fee A",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "1500.0"
+  },
+  {
+    "Active": "true",
+    "Description": "Initial retainer, tier 2",
+    "Id": "3128",
+    "IncomeAccountRef_name": "Legal Service Fees",
+    "IncomeAccountRef_value": "4000",
+    "Name": "Professional services retainer A",
+    "Taxable": "false",
+    "Type": "Service",
+    "UnitPrice": "2500.0"
+  }
+]

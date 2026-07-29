@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "gcomp-sol-001",
+    "employee_id": "emp-sol-001",
+    "job_title": "Owner and Saxophone Instructor",
+    "rate": 0.0,
+    "payment_unit": "Year",
+    "flsa_status": "Owner",
+    "effective_date": "2021-10-01"
+  },
+  {
+    "id": "gcomp-sol-002",
+    "employee_id": "emp-sol-002",
+    "job_title": "Guitar Instructor",
+    "rate": 48.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2022-10-03"
+  },
+  {
+    "id": "gcomp-sol-003",
+    "employee_id": "emp-sol-003",
+    "job_title": "Office Manager",
+    "rate": 28.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2021-11-15"
+  },
+  {
+    "id": "gcomp-jw-0200",
+    "employee_id": "emp-sol-001",
+    "job_title": "Instructor",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-01"
+  },
+  {
+    "id": "gcomp-jw-0201",
+    "employee_id": "emp-sol-002",
+    "job_title": "Instructor",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-01"
+  },
+  {
+    "id": "gcomp-jw-0202",
+    "employee_id": "emp-sol-003",
+    "job_title": "Instructor",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-01"
+  },
+  {
+    "id": "gcomp-jw-0203",
+    "employee_id": "emp-sol-004",
+    "job_title": "Instructor",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-01"
+  },
+  {
+    "id": "gcomp-jw-0204",
+    "employee_id": "emp-sol-005",
+    "job_title": "Instructor",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-01"
+  },
+  {
+    "id": "gcomp-jw-0205",
+    "employee_id": "emp-sol-006",
+    "job_title": "Instructor",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-01"
+  },
+  {
+    "id": "gcomp-jw-0206",
+    "employee_id": "emp-sol-007",
+    "job_title": "5th Anniversary Showcase planning",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-01"
+  },
+  {
+    "id": "gcomp-jw-0207",
+    "employee_id": "con-sol-001",
+    "job_title": "Summer camp registration",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-01"
+  },
+  {
+    "id": "gcomp-jw-0208",
+    "employee_id": "con-sol-002",
+    "job_title": "Substitute coverage",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-01"
+  },
+  {
+    "id": "gcomp-jw-0209",
+    "employee_id": "con-sol-003",
+    "job_title": "Sheet music library update",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-01"
+  },
+  {
+    "id": "gcomp-jw-0210",
+    "employee_id": "con-sol-004",
+    "job_title": "Parent meeting slot",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-01"
+  },
+  {
+    "id": "gcomp-jw-0211",
+    "employee_id": "emp-sol-001",
+    "job_title": "Ensemble arrangement rewrite",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-31"
+  },
+  {
+    "id": "gcomp-jw-0212",
+    "employee_id": "emp-sol-002",
+    "job_title": "Recital program layout",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-31"
+  },
+  {
+    "id": "gcomp-jw-0213",
+    "employee_id": "emp-sol-003",
+    "job_title": "Quartet setlist review",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-31"
+  },
+  {
+    "id": "gcomp-jw-0214",
+    "employee_id": "emp-sol-004",
+    "job_title": "Rehearsal recording listen-back",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-31"
+  },
+  {
+    "id": "gcomp-jw-0215",
+    "employee_id": "emp-sol-005",
+    "job_title": "Second album pre-production notes",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-31"
+  },
+  {
+    "id": "gcomp-jw-0216",
+    "employee_id": "emp-sol-006",
+    "job_title": "Venue confirmation thread",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-31"
+  },
+  {
+    "id": "gcomp-jw-0217",
+    "employee_id": "emp-sol-007",
+    "job_title": "Gig payout tracking",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-31"
+  },
+  {
+    "id": "gcomp-jw-0218",
+    "employee_id": "con-sol-001",
+    "job_title": "The Green Note booking",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-31"
+  },
+  {
+    "id": "gcomp-jw-0219",
+    "employee_id": "con-sol-002",
+    "job_title": "The Spotlight Room stage plot",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-31"
+  },
+  {
+    "id": "gcomp-jw-0220",
+    "employee_id": "con-sol-003",
+    "job_title": "Heartland Festival travel",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-31"
+  },
+  {
+    "id": "gcomp-jw-0221",
+    "employee_id": "con-sol-004",
+    "job_title": "Ray Coleman comping notes",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-01-31"
+  },
+  {
+    "id": "gcomp-jw-0222",
+    "employee_id": "emp-sol-001",
+    "job_title": "Luke Vance bass line adjustment",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-03-02"
+  },
+  {
+    "id": "gcomp-jw-0223",
+    "employee_id": "emp-sol-002",
+    "job_title": "Wednesday dinner with Sofia and Dante",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-03-02"
+  },
+  {
+    "id": "gcomp-jw-0224",
+    "employee_id": "emp-sol-003",
+    "job_title": "Custody schedule check-in with Ellen",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-03-02"
+  },
+  {
+    "id": "gcomp-jw-0225",
+    "employee_id": "emp-sol-004",
+    "job_title": "Sunday call with Mom",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-03-02"
+  },
+  {
+    "id": "gcomp-jw-0226",
+    "employee_id": "emp-sol-005",
+    "job_title": "Sister Gianna family thread",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-03-02"
+  },
+  {
+    "id": "gcomp-jw-0227",
+    "employee_id": "emp-sol-006",
+    "job_title": "Sofia choir concert reminder",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-03-02"
+  },
+  {
+    "id": "gcomp-jw-0228",
+    "employee_id": "emp-sol-007",
+    "job_title": "Dante drum lesson pickup",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-03-02"
+  },
+  {
+    "id": "gcomp-jw-0229",
+    "employee_id": "con-sol-001",
+    "job_title": "Private saxophone lesson",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-03-02"
+  },
+  {
+    "id": "gcomp-jw-0230",
+    "employee_id": "con-sol-002",
+    "job_title": "Group jazz ensemble rehearsal",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-03-02"
+  },
+  {
+    "id": "gcomp-jw-0231",
+    "employee_id": "con-sol-003",
+    "job_title": "Trial lesson consultation",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-03-02"
+  },
+  {
+    "id": "gcomp-jw-0232",
+    "employee_id": "con-sol-004",
+    "job_title": "Theory class discussion",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-03-02"
+  },
+  {
+    "id": "gcomp-jw-0233",
+    "employee_id": "emp-sol-001",
+    "job_title": "Instructor coordination meeting",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-04-01"
+  },
+  {
+    "id": "gcomp-jw-0234",
+    "employee_id": "emp-sol-002",
+    "job_title": "Winter recital rehearsal",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-04-01"
+  },
+  {
+    "id": "gcomp-jw-0235",
+    "employee_id": "emp-sol-003",
+    "job_title": "Student progress review",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-04-01"
+  },
+  {
+    "id": "gcomp-jw-0236",
+    "employee_id": "emp-sol-004",
+    "job_title": "Enrollment inquiry follow-up",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-04-01"
+  },
+  {
+    "id": "gcomp-jw-0237",
+    "employee_id": "emp-sol-005",
+    "job_title": "Monthly payroll processing",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-04-01"
+  },
+  {
+    "id": "gcomp-jw-0238",
+    "employee_id": "emp-sol-006",
+    "job_title": "5th Anniversary Showcase planning",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-04-01"
+  },
+  {
+    "id": "gcomp-jw-0239",
+    "employee_id": "emp-sol-007",
+    "job_title": "Summer camp registration",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-04-01"
+  },
+  {
+    "id": "gcomp-jw-0240",
+    "employee_id": "con-sol-001",
+    "job_title": "Substitute coverage",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-04-01"
+  },
+  {
+    "id": "gcomp-jw-0241",
+    "employee_id": "con-sol-002",
+    "job_title": "Sheet music library update",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-04-01"
+  },
+  {
+    "id": "gcomp-jw-0242",
+    "employee_id": "con-sol-003",
+    "job_title": "Parent meeting slot",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-04-01"
+  },
+  {
+    "id": "gcomp-jw-0243",
+    "employee_id": "con-sol-004",
+    "job_title": "Ensemble arrangement rewrite",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-04-01"
+  },
+  {
+    "id": "gcomp-jw-0244",
+    "employee_id": "emp-sol-001",
+    "job_title": "Recital program layout",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-01"
+  },
+  {
+    "id": "gcomp-jw-0245",
+    "employee_id": "emp-sol-002",
+    "job_title": "Quartet setlist review",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-01"
+  },
+  {
+    "id": "gcomp-jw-0246",
+    "employee_id": "emp-sol-003",
+    "job_title": "Rehearsal recording listen-back",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-01"
+  },
+  {
+    "id": "gcomp-jw-0247",
+    "employee_id": "emp-sol-004",
+    "job_title": "Second album pre-production notes",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-01"
+  },
+  {
+    "id": "gcomp-jw-0248",
+    "employee_id": "emp-sol-005",
+    "job_title": "Venue confirmation thread",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-01"
+  },
+  {
+    "id": "gcomp-jw-0249",
+    "employee_id": "emp-sol-006",
+    "job_title": "Gig payout tracking",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-01"
+  },
+  {
+    "id": "gcomp-jw-0250",
+    "employee_id": "emp-sol-007",
+    "job_title": "The Green Note booking",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-01"
+  },
+  {
+    "id": "gcomp-jw-0251",
+    "employee_id": "con-sol-001",
+    "job_title": "The Spotlight Room stage plot",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-01"
+  },
+  {
+    "id": "gcomp-jw-0252",
+    "employee_id": "con-sol-002",
+    "job_title": "Heartland Festival travel",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-01"
+  },
+  {
+    "id": "gcomp-jw-0253",
+    "employee_id": "con-sol-003",
+    "job_title": "Ray Coleman comping notes",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-01"
+  },
+  {
+    "id": "gcomp-jw-0254",
+    "employee_id": "con-sol-004",
+    "job_title": "Luke Vance bass line adjustment",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-01"
+  },
+  {
+    "id": "gcomp-jw-0255",
+    "employee_id": "emp-sol-001",
+    "job_title": "Wednesday dinner with Sofia and Dante",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-31"
+  },
+  {
+    "id": "gcomp-jw-0256",
+    "employee_id": "emp-sol-002",
+    "job_title": "Custody schedule check-in with Ellen",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-31"
+  },
+  {
+    "id": "gcomp-jw-0257",
+    "employee_id": "emp-sol-003",
+    "job_title": "Sunday call with Mom",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-31"
+  },
+  {
+    "id": "gcomp-jw-0258",
+    "employee_id": "emp-sol-004",
+    "job_title": "Sister Gianna family thread",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-31"
+  },
+  {
+    "id": "gcomp-jw-0259",
+    "employee_id": "emp-sol-005",
+    "job_title": "Sofia choir concert reminder",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-31"
+  },
+  {
+    "id": "gcomp-jw-0260",
+    "employee_id": "emp-sol-006",
+    "job_title": "Dante drum lesson pickup",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-31"
+  },
+  {
+    "id": "gcomp-jw-0261",
+    "employee_id": "emp-sol-007",
+    "job_title": "Private saxophone lesson",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-31"
+  },
+  {
+    "id": "gcomp-jw-0262",
+    "employee_id": "con-sol-001",
+    "job_title": "Group jazz ensemble rehearsal",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-31"
+  },
+  {
+    "id": "gcomp-jw-0263",
+    "employee_id": "con-sol-002",
+    "job_title": "Trial lesson consultation",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-31"
+  },
+  {
+    "id": "gcomp-jw-0264",
+    "employee_id": "con-sol-003",
+    "job_title": "Theory class discussion",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-31"
+  },
+  {
+    "id": "gcomp-jw-0265",
+    "employee_id": "con-sol-004",
+    "job_title": "Instructor coordination meeting",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-05-31"
+  },
+  {
+    "id": "gcomp-jw-0266",
+    "employee_id": "emp-sol-001",
+    "job_title": "Winter recital rehearsal",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-06-30"
+  },
+  {
+    "id": "gcomp-jw-0267",
+    "employee_id": "emp-sol-002",
+    "job_title": "Student progress review",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-06-30"
+  },
+  {
+    "id": "gcomp-jw-0268",
+    "employee_id": "emp-sol-003",
+    "job_title": "Enrollment inquiry follow-up",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-06-30"
+  },
+  {
+    "id": "gcomp-jw-0269",
+    "employee_id": "emp-sol-004",
+    "job_title": "Monthly payroll processing",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-06-30"
+  },
+  {
+    "id": "gcomp-jw-0270",
+    "employee_id": "emp-sol-005",
+    "job_title": "5th Anniversary Showcase planning",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-06-30"
+  },
+  {
+    "id": "gcomp-jw-0271",
+    "employee_id": "emp-sol-006",
+    "job_title": "Summer camp registration",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-06-30"
+  },
+  {
+    "id": "gcomp-jw-0272",
+    "employee_id": "emp-sol-007",
+    "job_title": "Substitute coverage",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-06-30"
+  },
+  {
+    "id": "gcomp-jw-0273",
+    "employee_id": "con-sol-001",
+    "job_title": "Sheet music library update",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-06-30"
+  },
+  {
+    "id": "gcomp-jw-0274",
+    "employee_id": "con-sol-002",
+    "job_title": "Parent meeting slot",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-06-30"
+  },
+  {
+    "id": "gcomp-jw-0275",
+    "employee_id": "con-sol-003",
+    "job_title": "Ensemble arrangement rewrite",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-06-30"
+  },
+  {
+    "id": "gcomp-jw-0276",
+    "employee_id": "con-sol-004",
+    "job_title": "Recital program layout",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-06-30"
+  },
+  {
+    "id": "gcomp-jw-0277",
+    "employee_id": "emp-sol-001",
+    "job_title": "Quartet setlist review",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-07-30"
+  },
+  {
+    "id": "gcomp-jw-0278",
+    "employee_id": "emp-sol-002",
+    "job_title": "Rehearsal recording listen-back",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-07-30"
+  },
+  {
+    "id": "gcomp-jw-0279",
+    "employee_id": "emp-sol-003",
+    "job_title": "Second album pre-production notes",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-07-30"
+  },
+  {
+    "id": "gcomp-jw-0280",
+    "employee_id": "emp-sol-004",
+    "job_title": "Venue confirmation thread",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-07-30"
+  },
+  {
+    "id": "gcomp-jw-0281",
+    "employee_id": "emp-sol-005",
+    "job_title": "Gig payout tracking",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-07-30"
+  },
+  {
+    "id": "gcomp-jw-0282",
+    "employee_id": "emp-sol-006",
+    "job_title": "The Green Note booking",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-07-30"
+  },
+  {
+    "id": "gcomp-jw-0283",
+    "employee_id": "emp-sol-007",
+    "job_title": "The Spotlight Room stage plot",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-07-30"
+  },
+  {
+    "id": "gcomp-jw-0284",
+    "employee_id": "con-sol-001",
+    "job_title": "Heartland Festival travel",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-07-30"
+  },
+  {
+    "id": "gcomp-jw-0285",
+    "employee_id": "con-sol-002",
+    "job_title": "Ray Coleman comping notes",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-07-30"
+  },
+  {
+    "id": "gcomp-jw-0286",
+    "employee_id": "con-sol-003",
+    "job_title": "Luke Vance bass line adjustment",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-07-30"
+  },
+  {
+    "id": "gcomp-jw-0287",
+    "employee_id": "con-sol-004",
+    "job_title": "Wednesday dinner with Sofia and Dante",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-07-30"
+  },
+  {
+    "id": "gcomp-jw-0288",
+    "employee_id": "emp-sol-001",
+    "job_title": "Custody schedule check-in with Ellen",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-08-29"
+  },
+  {
+    "id": "gcomp-jw-0289",
+    "employee_id": "emp-sol-002",
+    "job_title": "Sunday call with Mom",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-08-29"
+  },
+  {
+    "id": "gcomp-jw-0290",
+    "employee_id": "emp-sol-003",
+    "job_title": "Sister Gianna family thread",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-08-29"
+  },
+  {
+    "id": "gcomp-jw-0291",
+    "employee_id": "emp-sol-004",
+    "job_title": "Sofia choir concert reminder",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-08-29"
+  },
+  {
+    "id": "gcomp-jw-0292",
+    "employee_id": "emp-sol-005",
+    "job_title": "Dante drum lesson pickup",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-08-29"
+  },
+  {
+    "id": "gcomp-jw-0293",
+    "employee_id": "emp-sol-006",
+    "job_title": "Private saxophone lesson",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-08-29"
+  },
+  {
+    "id": "gcomp-jw-0294",
+    "employee_id": "emp-sol-007",
+    "job_title": "Group jazz ensemble rehearsal",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-08-29"
+  },
+  {
+    "id": "gcomp-jw-0295",
+    "employee_id": "con-sol-001",
+    "job_title": "Trial lesson consultation",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-08-29"
+  },
+  {
+    "id": "gcomp-jw-0296",
+    "employee_id": "con-sol-002",
+    "job_title": "Theory class discussion",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-08-29"
+  },
+  {
+    "id": "gcomp-jw-0297",
+    "employee_id": "con-sol-003",
+    "job_title": "Instructor coordination meeting",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-08-29"
+  },
+  {
+    "id": "gcomp-jw-0298",
+    "employee_id": "con-sol-004",
+    "job_title": "Winter recital rehearsal",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-08-29"
+  },
+  {
+    "id": "gcomp-jw-0299",
+    "employee_id": "emp-sol-001",
+    "job_title": "Student progress review",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-09-28"
+  },
+  {
+    "id": "gcomp-jw-0300",
+    "employee_id": "emp-sol-002",
+    "job_title": "Enrollment inquiry follow-up",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-09-28"
+  },
+  {
+    "id": "gcomp-jw-0301",
+    "employee_id": "emp-sol-003",
+    "job_title": "Monthly payroll processing",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-09-28"
+  },
+  {
+    "id": "gcomp-jw-0302",
+    "employee_id": "emp-sol-004",
+    "job_title": "5th Anniversary Showcase planning",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-09-28"
+  },
+  {
+    "id": "gcomp-jw-0303",
+    "employee_id": "emp-sol-005",
+    "job_title": "Summer camp registration",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-09-28"
+  },
+  {
+    "id": "gcomp-jw-0304",
+    "employee_id": "emp-sol-006",
+    "job_title": "Substitute coverage",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-09-28"
+  },
+  {
+    "id": "gcomp-jw-0305",
+    "employee_id": "emp-sol-007",
+    "job_title": "Sheet music library update",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-09-28"
+  },
+  {
+    "id": "gcomp-jw-0306",
+    "employee_id": "con-sol-001",
+    "job_title": "Parent meeting slot",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-09-28"
+  },
+  {
+    "id": "gcomp-jw-0307",
+    "employee_id": "con-sol-002",
+    "job_title": "Ensemble arrangement rewrite",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-09-28"
+  },
+  {
+    "id": "gcomp-jw-0308",
+    "employee_id": "con-sol-003",
+    "job_title": "Recital program layout",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-09-28"
+  },
+  {
+    "id": "gcomp-jw-0309",
+    "employee_id": "con-sol-004",
+    "job_title": "Quartet setlist review",
+    "rate": 45.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-09-28"
+  },
+  {
+    "id": "gcomp-jw-0310",
+    "employee_id": "emp-sol-001",
+    "job_title": "Rehearsal recording listen-back",
+    "rate": 50.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-10-28"
+  },
+  {
+    "id": "gcomp-jw-0311",
+    "employee_id": "emp-sol-002",
+    "job_title": "Second album pre-production notes",
+    "rate": 55.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-10-28"
+  },
+  {
+    "id": "gcomp-jw-0312",
+    "employee_id": "emp-sol-003",
+    "job_title": "Venue confirmation thread",
+    "rate": 60.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-10-28"
+  },
+  {
+    "id": "gcomp-jw-0313",
+    "employee_id": "emp-sol-004",
+    "job_title": "Gig payout tracking",
+    "rate": 65.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-10-28"
+  },
+  {
+    "id": "gcomp-jw-0314",
+    "employee_id": "emp-sol-005",
+    "job_title": "The Green Note booking",
+    "rate": 40.0,
+    "payment_unit": "Hour",
+    "flsa_status": "Nonexempt",
+    "effective_date": "2025-10-28"
+  }
+]

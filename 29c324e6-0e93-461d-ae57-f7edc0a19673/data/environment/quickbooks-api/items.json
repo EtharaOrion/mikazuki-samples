@@ -1,0 +1,134 @@
+[
+  {
+    "Id": "1",
+    "Name": "Private Lesson Package",
+    "Description": "Monthly private lesson package \u2014 four 45-minute lessons",
+    "Type": "Service",
+    "UnitPrice": 220.0,
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Tuition Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "2",
+    "Name": "Ensemble Tuition",
+    "Description": "Monthly youth jazz ensemble tuition",
+    "Type": "Service",
+    "UnitPrice": 150.0,
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Tuition Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "3",
+    "Name": "Group Theory Class",
+    "Description": "8-week group music theory class",
+    "Type": "Service",
+    "UnitPrice": 120.0,
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Tuition Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "4",
+    "Name": "Summer Jazz Camp",
+    "Description": "One-week summer jazz camp for teens",
+    "Type": "Service",
+    "UnitPrice": 350.0,
+    "IncomeAccountRef_value": "3",
+    "IncomeAccountRef_name": "Camp & Workshop Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "5",
+    "Name": "Showcase Ticket",
+    "Description": "Crossroads student showcase \u2014 single admission",
+    "Type": "Service",
+    "UnitPrice": 20.0,
+    "IncomeAccountRef_value": "2",
+    "IncomeAccountRef_name": "Showcase & Performance Income",
+    "Active": "true",
+    "Taxable": "true"
+  },
+  {
+    "Id": "6",
+    "Name": "Workshop/Clinic Session",
+    "Description": "Guest workshop or clinic engagement, per session",
+    "Type": "Service",
+    "UnitPrice": 150.0,
+    "IncomeAccountRef_value": "2",
+    "IncomeAccountRef_name": "Showcase & Performance Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "100",
+    "Name": "Private Lesson Package v2",
+    "Description": "Monthly private lesson package \u2014 four 45-minute lessons",
+    "Type": "Service",
+    "UnitPrice": 220.0,
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Tuition Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "101",
+    "Name": "Advanced Studio Session v3",
+    "Description": "60-minute advanced session",
+    "Type": "Service",
+    "UnitPrice": 280.0,
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Tuition Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "102",
+    "Name": "Group Ensemble Term v4",
+    "Description": "Group jazz ensemble term tuition",
+    "Type": "Service",
+    "UnitPrice": 320.0,
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Tuition Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "103",
+    "Name": "Adult Theory Track v5",
+    "Description": "Theory group class monthly",
+    "Type": "Service",
+    "UnitPrice": 180.0,
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Tuition Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "104",
+    "Name": "Summer Camp Deposit v6",
+    "Description": "Half deposit for summer teen jazz camp",
+    "Type": "Service",
+    "UnitPrice": 175.0,
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Tuition Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "105",
+    "Name": "Voice Instruction Package v7",
+    "Description": "Voice lesson package",
+    "Type": "Service",
+    "UnitPrice": 200.0,
+    "IncomeAccountRef_value": "1",
+    "IncomeAccountRef_name": "Tuition Income",
+    "Active": "true",
+    "Taxable": "false"
+  }
+]

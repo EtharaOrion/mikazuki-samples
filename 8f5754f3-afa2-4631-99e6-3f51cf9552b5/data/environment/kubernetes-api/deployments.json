@@ -1,0 +1,222 @@
+[
+  {
+    "name": "web",
+    "namespace": "eleanorstavern",
+    "replicas": "2",
+    "available_replicas": "2",
+    "ready_replicas": "2",
+    "updated_replicas": "2",
+    "image": "eleanorstavern/web:1.6.2",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-03-02T12:00:00Z"
+  },
+  {
+    "name": "cms",
+    "namespace": "eleanorstavern",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "wordpress:6.5-php8.2-apache",
+    "strategy": "Recreate",
+    "created_time": "2025-03-02T12:05:00Z"
+  },
+  {
+    "name": "reservations",
+    "namespace": "eleanorstavern",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "eleanorstavern/reservations:0.9.1",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-03-05T10:00:00Z"
+  },
+  {
+    "name": "coredns",
+    "namespace": "kube-system",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "registry.k8s.io/coredns/coredns:v1.11.1",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-03-01T09:00:00Z"
+  },
+  {
+    "name": "menu-api",
+    "namespace": "eleanorstavern",
+    "replicas": "2",
+    "available_replicas": "2",
+    "ready_replicas": "2",
+    "updated_replicas": "2",
+    "image": "eleanorstavern/menu-api:1.2.0",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-03-06T11:00:00Z"
+  },
+  {
+    "name": "gift-cards",
+    "namespace": "eleanorstavern",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "eleanorstavern/gift-cards:0.4.3",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-03-08T14:30:00Z"
+  },
+  {
+    "name": "events-form",
+    "namespace": "eleanorstavern",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "eleanorstavern/events-form:0.7.0",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-03-10T09:15:00Z"
+  },
+  {
+    "name": "newsletter-worker",
+    "namespace": "eleanorstavern",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "eleanorstavern/newsletter-worker:1.1.5",
+    "strategy": "Recreate",
+    "created_time": "2025-03-11T13:00:00Z"
+  },
+  {
+    "name": "doordash-sync",
+    "namespace": "eleanorstavern",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "eleanorstavern/doordash-sync:0.3.2",
+    "strategy": "Recreate",
+    "created_time": "2025-03-12T10:45:00Z"
+  },
+  {
+    "name": "pos-settlement",
+    "namespace": "eleanorstavern",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "eleanorstavern/pos-settlement:1.0.4",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-03-13T08:30:00Z"
+  },
+  {
+    "name": "redis",
+    "namespace": "eleanorstavern",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "redis:7.2-alpine",
+    "strategy": "Recreate",
+    "created_time": "2025-03-02T12:10:00Z"
+  },
+  {
+    "name": "postgres",
+    "namespace": "eleanorstavern",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "postgres:16.2-alpine",
+    "strategy": "Recreate",
+    "created_time": "2025-03-02T12:12:00Z"
+  },
+  {
+    "name": "loyalty",
+    "namespace": "eleanorstavern",
+    "replicas": "2",
+    "available_replicas": "2",
+    "ready_replicas": "2",
+    "updated_replicas": "2",
+    "image": "eleanorstavern/loyalty:0.6.1",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-03-14T11:20:00Z"
+  },
+  {
+    "name": "sms-reminders",
+    "namespace": "eleanorstavern",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "eleanorstavern/sms-reminders:0.2.8",
+    "strategy": "Recreate",
+    "created_time": "2025-03-15T09:00:00Z"
+  },
+  {
+    "name": "image-resizer",
+    "namespace": "eleanorstavern",
+    "replicas": "2",
+    "available_replicas": "2",
+    "ready_replicas": "2",
+    "updated_replicas": "2",
+    "image": "eleanorstavern/image-resizer:1.0.0",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-03-16T14:00:00Z"
+  },
+  {
+    "name": "ingress-nginx",
+    "namespace": "ingress-nginx",
+    "replicas": "2",
+    "available_replicas": "2",
+    "ready_replicas": "2",
+    "updated_replicas": "2",
+    "image": "registry.k8s.io/ingress-nginx/controller:v1.10.1",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-03-01T09:05:00Z"
+  },
+  {
+    "name": "cert-manager",
+    "namespace": "cert-manager",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "quay.io/jetstack/cert-manager-controller:v1.14.4",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-03-01T09:10:00Z"
+  },
+  {
+    "name": "metrics-server",
+    "namespace": "kube-system",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "registry.k8s.io/metrics-server/metrics-server:v0.7.1",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-03-01T09:02:00Z"
+  },
+  {
+    "name": "analytics",
+    "namespace": "eleanorstavern",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "eleanorstavern/analytics:0.5.0",
+    "strategy": "RollingUpdate",
+    "created_time": "2025-03-17T10:30:00Z"
+  },
+  {
+    "name": "reservations-worker",
+    "namespace": "eleanorstavern",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "image": "eleanorstavern/reservations-worker:0.9.1",
+    "strategy": "Recreate",
+    "created_time": "2025-03-05T10:05:00Z"
+  }
+]

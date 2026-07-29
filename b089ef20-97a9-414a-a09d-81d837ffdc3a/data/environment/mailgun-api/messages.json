@@ -1,0 +1,182 @@
+[
+  {
+    "id": "20250301094800.1.6EBED1EEBBE1@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "postmaster@mg.eleanorstavern.com",
+    "recipient": "webmaster@eleanorstavern.com",
+    "subject": "Mailgun domain verification",
+    "body": "Your domain mg.eleanorstavern.com is verified and ready as a backup sender.",
+    "timestamp": "2025-03-01T09:48:00Z"
+  },
+  {
+    "id": "20250329103700.2.CDA640046510@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "postmaster@mg.eleanorstavern.com",
+    "recipient": "webmaster@eleanorstavern.com",
+    "subject": "Backup sender health check",
+    "body": "Automated monthly health check - all systems nominal.",
+    "timestamp": "2025-03-28T10:37:00Z"
+  },
+  {
+    "id": "20251027095300.3.F5E0E6AC8007@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "postmaster@mg.eleanorstavern.com",
+    "recipient": "carlton@eleanorstavern.com",
+    "subject": "Backup sender health check",
+    "body": "Automated monthly health check - all systems nominal.",
+    "timestamp": "2025-10-27T09:53:00Z"
+  },
+  {
+    "id": "20251124091600.4.4346940D3F3C@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "reservations@eleanorstavern.com",
+    "recipient": "webmaster@eleanorstavern.com",
+    "subject": "Reservation Confirmation template",
+    "body": "Reservation confirmation render template via backup sender.",
+    "timestamp": "2025-11-24T09:16:00Z"
+  },
+  {
+    "id": "20251222142500.5.330D80486BD2@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "events@eleanorstavern.com",
+    "recipient": "carlton@eleanorstavern.com",
+    "subject": "Private Event Confirmation template",
+    "body": "Backup-path send for private event confirmation.",
+    "timestamp": "2025-12-22T14:25:00Z"
+  },
+  {
+    "id": "20260119102100.6.FE9B9259BD9E@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "postmaster@mg.eleanorstavern.com",
+    "recipient": "sophia.k@eleanorstavern.com",
+    "subject": "Mailgun domain verification",
+    "body": "Your domain mg.eleanorstavern.com is verified and ready as a backup sender.",
+    "timestamp": "2026-01-19T10:21:00Z"
+  },
+  {
+    "id": "20260216124800.7.951AD638FBED@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "postmaster@mg.eleanorstavern.com",
+    "recipient": "ellen.mcgee@gmail.com",
+    "subject": "Mailgun domain verification",
+    "body": "Your domain mg.eleanorstavern.com is verified and ready as a backup sender.",
+    "timestamp": "2026-02-16T12:48:00Z"
+  },
+  {
+    "id": "20260316155500.8.3F86108384E5@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "reservations@eleanorstavern.com",
+    "recipient": "sophia.k@eleanorstavern.com",
+    "subject": "Reservation Confirmation template",
+    "body": "Reservation confirmation render template via backup sender.",
+    "timestamp": "2026-03-16T15:55:00Z"
+  },
+  {
+    "id": "20260113114400.9.6FBD70E16307@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "events@eleanorstavern.com",
+    "recipient": "sophia.k@eleanorstavern.com",
+    "subject": "Private Event Confirmation template",
+    "body": "Backup-path send for private event confirmation.",
+    "timestamp": "2026-01-13T11:44:00Z"
+  },
+  {
+    "id": "20260122173000.90.104535D0C199@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "postmaster@mg.eleanorstavern.com",
+    "recipient": "carlton@eleanorstavern.com",
+    "subject": "FAILOVER ACTIVATED: SendGrid degraded, routing transactional via Mailgun",
+    "body": "SendGrid US region reporting elevated errors. Transactional reservation confirmations are now routing through the Mailgun backup sender.",
+    "timestamp": "2026-01-22T17:30:00Z"
+  },
+  {
+    "id": "20260122174000.100.2F7BC9E39AA2@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "reservations@eleanorstavern.com",
+    "recipient": "s.henderson@gmail.com",
+    "subject": "Your reservation at Eleanor's Tavern is confirmed",
+    "body": "Hi Stephen, your table is confirmed for tonight. Sent via our backup mail system.",
+    "timestamp": "2026-01-22T17:40:00Z"
+  },
+  {
+    "id": "20260122174700.101.313611E4D0A5@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "reservations@eleanorstavern.com",
+    "recipient": "tony.russo@gmail.com",
+    "subject": "Your reservation at Eleanor's Tavern is confirmed",
+    "body": "Hi Tony, your table is confirmed for tonight. Sent via our backup mail system.",
+    "timestamp": "2026-01-22T17:47:00Z"
+  },
+  {
+    "id": "20260122175400.102.392366017B11@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "reservations@eleanorstavern.com",
+    "recipient": "gloria.fontaine@gmail.com",
+    "subject": "Your reservation at Eleanor's Tavern is confirmed",
+    "body": "Hi Gloria, your table is confirmed for tonight. Sent via our backup mail system.",
+    "timestamp": "2026-01-22T17:54:00Z"
+  },
+  {
+    "id": "20260122180100.103.742DB4197EB3@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "reservations@eleanorstavern.com",
+    "recipient": "derek.tran@outlook.com",
+    "subject": "Your reservation at Eleanor's Tavern is confirmed",
+    "body": "Hi Derek, your table is confirmed for tonight. Sent via our backup mail system.",
+    "timestamp": "2026-01-22T18:01:00Z"
+  },
+  {
+    "id": "20260122180800.104.718ECA998299@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "reservations@eleanorstavern.com",
+    "recipient": "nadia.hassan@gmail.com",
+    "subject": "Your reservation at Eleanor's Tavern is confirmed",
+    "body": "Hi Nadia, your table is confirmed for tonight. Sent via our backup mail system.",
+    "timestamp": "2026-01-22T18:08:00Z"
+  },
+  {
+    "id": "20260122181500.105.41FC85B64607@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "reservations@eleanorstavern.com",
+    "recipient": "bill.oconnor@gmail.com",
+    "subject": "Your reservation at Eleanor's Tavern is confirmed",
+    "body": "Hi Bill, your table is confirmed for tonight. Sent via our backup mail system.",
+    "timestamp": "2026-01-22T18:15:00Z"
+  },
+  {
+    "id": "20260122182200.106.8B786E4712C8@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "reservations@eleanorstavern.com",
+    "recipient": "priya.nair@gmail.com",
+    "subject": "Your reservation at Eleanor's Tavern is confirmed",
+    "body": "Hi Priya, your table is confirmed for tonight. Sent via our backup mail system.",
+    "timestamp": "2026-01-22T18:22:00Z"
+  },
+  {
+    "id": "20260122182900.107.30E681244742@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "reservations@eleanorstavern.com",
+    "recipient": "vincent.caruso@outlook.com",
+    "subject": "Your reservation at Eleanor's Tavern is confirmed",
+    "body": "Hi Vincent, your table is confirmed for tonight. Sent via our backup mail system.",
+    "timestamp": "2026-01-22T18:29:00Z"
+  },
+  {
+    "id": "20260122203000.200.74CF12FDD328@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "postmaster@mg.eleanorstavern.com",
+    "recipient": "carlton@eleanorstavern.com",
+    "subject": "FAILOVER RESOLVED: SendGrid restored",
+    "body": "SendGrid is healthy again. Transactional email has switched back to the primary sender.",
+    "timestamp": "2026-01-22T20:30:00Z"
+  },
+  {
+    "id": "20260211145200.10.BB92207506B8@mg.eleanorstavern.com",
+    "domain": "mg.eleanorstavern.com",
+    "sender": "reservations@eleanorstavern.com",
+    "recipient": "ellen.mcgee@gmail.com",
+    "subject": "Reservation Confirmation template",
+    "body": "Reservation confirmation render template via backup sender.",
+    "timestamp": "2026-02-11T14:52:00Z"
+  }
+]

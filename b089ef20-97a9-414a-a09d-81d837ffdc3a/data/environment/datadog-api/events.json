@@ -1,0 +1,212 @@
+[
+  {
+    "id": "500001",
+    "title": "Deploy web 1.6.2",
+    "text": "Deployed eleanorstavern web 1.6.2 to production.",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "etw-web-1",
+    "tags": "site:eleanorstavern;event:deploy",
+    "date_happened": "1739169000"
+  },
+  {
+    "id": "500002",
+    "title": "Synthetic check passed",
+    "text": "eleanorstavern.com homepage check passing from 3 regions.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "etw-web-1",
+    "tags": "site:eleanorstavern;check:uptime",
+    "date_happened": "1742671400"
+  },
+  {
+    "id": "500003",
+    "title": "SSL renewed",
+    "text": "Certbot renewed SSL certificate for eleanorstavern.com.",
+    "alert_type": "success",
+    "priority": "normal",
+    "host": "etw-web-1",
+    "tags": "site:eleanorstavern;check:ssl",
+    "date_happened": "1738362600"
+  },
+  {
+    "id": "500004",
+    "title": "CMS restarted",
+    "text": "WordPress CMS pod restarted after plugin update.",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "etw-cms-1",
+    "tags": "site:eleanorstavern;component:cms",
+    "date_happened": "1741501800"
+  },
+  {
+    "id": "500005",
+    "title": "Brief homepage latency",
+    "text": "Response time spiked to 3.1s for 4 minutes, recovered.",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "etw-web-2",
+    "tags": "site:eleanorstavern;page:home",
+    "date_happened": "1740767400"
+  },
+  {
+    "id": "500006",
+    "title": "Monitor recovered: homepage response time",
+    "text": "Response time back under threshold.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "etw-web-2",
+    "tags": "site:eleanorstavern;monitor:2002",
+    "date_happened": "1740767700"
+  },
+  {
+    "id": "500007",
+    "title": "Deploy reservations 0.9.1",
+    "text": "Deployed reservation widget 0.9.1.",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "etw-reservations-1",
+    "tags": "site:eleanorstavern;event:deploy",
+    "date_happened": "1739341800"
+  },
+  {
+    "id": "500008",
+    "title": "Backup completed",
+    "text": "Nightly site + DB backup completed successfully.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "etw-cms-1",
+    "tags": "site:eleanorstavern;job:backup",
+    "date_happened": "1742596200"
+  },
+  {
+    "id": "500009",
+    "title": "Sitemap regenerated",
+    "text": "Sitemap job ran and submitted to Google.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "etw-web-1",
+    "tags": "site:eleanorstavern;job:sitemap",
+    "date_happened": "1742245800"
+  },
+  {
+    "id": "500010",
+    "title": "Cloudflare cache purged",
+    "text": "Cache purged after menu update.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "etw-web-1",
+    "tags": "site:eleanorstavern;event:cache-purge",
+    "date_happened": "1741847400"
+  },
+  {
+    "id": "500011",
+    "title": "Synthetic check passed",
+    "text": "Reservation page check passing.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "etw-reservations-1",
+    "tags": "site:eleanorstavern;check:uptime",
+    "date_happened": "1742672000"
+  },
+  {
+    "id": "500012",
+    "title": "Traffic spike (Fri dinner)",
+    "text": "Higher traffic during Friday dinner reservations, handled fine.",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "etw-web-1",
+    "tags": "site:eleanorstavern;event:traffic",
+    "date_happened": "1742139000"
+  },
+  {
+    "id": "500013",
+    "title": "Plugin update applied",
+    "text": "WordPress security plugin updated.",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "etw-cms-1",
+    "tags": "site:eleanorstavern;component:cms",
+    "date_happened": "1741242600"
+  },
+  {
+    "id": "500014",
+    "title": "Monitor recovered: CMS CPU",
+    "text": "CMS CPU back to normal.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "etw-cms-1",
+    "tags": "site:eleanorstavern;monitor:2005",
+    "date_happened": "1741246200"
+  },
+  {
+    "id": "500015",
+    "title": "Deploy web 1.6.1",
+    "text": "Deployed eleanorstavern web 1.6.1.",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "etw-web-1",
+    "tags": "site:eleanorstavern;event:deploy",
+    "date_happened": "1737527400"
+  },
+  {
+    "id": "500016",
+    "title": "DNS record updated",
+    "text": "Cloudflare DNS TXT record updated for email verification.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "etw-web-1",
+    "tags": "site:eleanorstavern;event:dns",
+    "date_happened": "1740421800"
+  },
+  {
+    "id": "500017",
+    "title": "Synthetic check passed",
+    "text": "Homepage check passing.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "etw-web-1",
+    "tags": "site:eleanorstavern;check:uptime",
+    "date_happened": "1742585600"
+  },
+  {
+    "id": "500018",
+    "title": "Backup completed",
+    "text": "Nightly backup completed.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "etw-cms-1",
+    "tags": "site:eleanorstavern;job:backup",
+    "date_happened": "1741991400"
+  },
+  {
+    "id": "500019",
+    "title": "Brief reservations error",
+    "text": "One 500 on reservation submit, retried successfully.",
+    "alert_type": "warning",
+    "priority": "low",
+    "host": "etw-reservations-1",
+    "tags": "site:eleanorstavern;page:reservations",
+    "date_happened": "1741069800"
+  },
+  {
+    "id": "500020",
+    "title": "Monitor recovered: reservations error rate",
+    "text": "Error rate back to zero.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "etw-reservations-1",
+    "tags": "site:eleanorstavern;monitor:2003",
+    "date_happened": "1741070100"
+  },
+  {
+    "id": "500021",
+    "title": "Quiet period",
+    "text": "No alerts in the last 24h. Site healthy.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "etw-web-1",
+    "tags": "site:eleanorstavern;status:idle",
+    "date_happened": "1742712600"
+  }
+]

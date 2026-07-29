@@ -1,0 +1,202 @@
+[
+  {
+    "id": "db-menu",
+    "title": "Menu",
+    "parent_page_id": "page-home",
+    "created_time": "2024-11-12T08:30:00.000Z",
+    "last_edited_time": "2026-03-18T15:00:00.000Z",
+    "created_by": "user-daniel",
+    "icon": "fork-and-knife",
+    "archived": "false"
+  },
+  {
+    "id": "db-vendors",
+    "title": "Vendors",
+    "parent_page_id": "page-home",
+    "created_time": "2024-11-15T08:30:00.000Z",
+    "last_edited_time": "2026-03-16T09:00:00.000Z",
+    "created_by": "user-carlton",
+    "icon": "truck",
+    "archived": "false"
+  },
+  {
+    "id": "db-equipment",
+    "title": "Equipment",
+    "parent_page_id": "page-equipment-watch",
+    "created_time": "2025-03-15T08:30:00.000Z",
+    "last_edited_time": "2026-03-20T09:15:00.000Z",
+    "created_by": "user-daniel",
+    "icon": "warning",
+    "archived": "false"
+  },
+  {
+    "id": "db-events",
+    "title": "Private Events",
+    "parent_page_id": "page-home",
+    "created_time": "2025-02-10T09:00:00.000Z",
+    "last_edited_time": "2026-03-19T10:00:00.000Z",
+    "created_by": "user-sophia",
+    "icon": "calendar",
+    "archived": "false"
+  },
+  {
+    "id": "db-staff",
+    "title": "Staff Roster",
+    "parent_page_id": "page-home",
+    "created_time": "2024-11-20T09:00:00.000Z",
+    "last_edited_time": "2026-03-15T11:30:00.000Z",
+    "created_by": "user-sophia",
+    "icon": "people",
+    "archived": "false"
+  },
+  {
+    "id": "db-schedule",
+    "title": "Weekly Schedule",
+    "parent_page_id": "page-home",
+    "created_time": "2024-12-02T08:00:00.000Z",
+    "last_edited_time": "2026-03-21T07:00:00.000Z",
+    "created_by": "user-sophia",
+    "icon": "clock",
+    "archived": "false"
+  },
+  {
+    "id": "db-recipes",
+    "title": "Recipes & Prep",
+    "parent_page_id": "page-kitchen",
+    "created_time": "2024-12-10T08:30:00.000Z",
+    "last_edited_time": "2026-03-20T14:00:00.000Z",
+    "created_by": "user-daniel",
+    "icon": "book",
+    "archived": "false"
+  },
+  {
+    "id": "db-specials",
+    "title": "Daily Specials",
+    "parent_page_id": "page-kitchen",
+    "created_time": "2025-01-05T08:30:00.000Z",
+    "last_edited_time": "2026-03-22T16:00:00.000Z",
+    "created_by": "user-daniel",
+    "icon": "star",
+    "archived": "false"
+  },
+  {
+    "id": "db-inventory",
+    "title": "Inventory & Par Levels",
+    "parent_page_id": "page-kitchen",
+    "created_time": "2025-01-18T09:00:00.000Z",
+    "last_edited_time": "2026-03-19T10:30:00.000Z",
+    "created_by": "user-daniel",
+    "icon": "package",
+    "archived": "false"
+  },
+  {
+    "id": "db-invoices",
+    "title": "Vendor Invoices",
+    "parent_page_id": "page-finance",
+    "created_time": "2025-02-01T08:30:00.000Z",
+    "last_edited_time": "2026-03-18T13:00:00.000Z",
+    "created_by": "user-ellen",
+    "icon": "receipt",
+    "archived": "false"
+  },
+  {
+    "id": "db-payroll",
+    "title": "Payroll Tracker",
+    "parent_page_id": "page-finance",
+    "created_time": "2025-02-12T09:00:00.000Z",
+    "last_edited_time": "2026-03-14T12:00:00.000Z",
+    "created_by": "user-ellen",
+    "icon": "money",
+    "archived": "false"
+  },
+  {
+    "id": "db-reservations",
+    "title": "Reservations Log",
+    "parent_page_id": "page-home",
+    "created_time": "2025-02-20T09:15:00.000Z",
+    "last_edited_time": "2026-03-22T18:00:00.000Z",
+    "created_by": "user-sophia",
+    "icon": "calendar",
+    "archived": "false"
+  },
+  {
+    "id": "db-maintenance",
+    "title": "Maintenance Log",
+    "parent_page_id": "page-equipment-watch",
+    "created_time": "2025-03-20T08:30:00.000Z",
+    "last_edited_time": "2026-03-16T15:00:00.000Z",
+    "created_by": "user-carlton",
+    "icon": "wrench",
+    "archived": "false"
+  },
+  {
+    "id": "db-marketing",
+    "title": "Marketing Calendar",
+    "parent_page_id": "page-home",
+    "created_time": "2025-01-08T10:00:00.000Z",
+    "last_edited_time": "2026-03-17T11:00:00.000Z",
+    "created_by": "user-carlton",
+    "icon": "megaphone",
+    "archived": "false"
+  },
+  {
+    "id": "db-wine-list",
+    "title": "Wine & Beer List",
+    "parent_page_id": "page-kitchen",
+    "created_time": "2025-01-22T09:30:00.000Z",
+    "last_edited_time": "2026-03-13T14:30:00.000Z",
+    "created_by": "user-sophia",
+    "icon": "wine",
+    "archived": "false"
+  },
+  {
+    "id": "db-tasks",
+    "title": "Open Tasks",
+    "parent_page_id": "page-home",
+    "created_time": "2025-02-06T08:00:00.000Z",
+    "last_edited_time": "2026-03-22T09:00:00.000Z",
+    "created_by": "user-carlton",
+    "icon": "checkbox",
+    "archived": "false"
+  },
+  {
+    "id": "db-feedback",
+    "title": "Customer Feedback",
+    "parent_page_id": "page-home",
+    "created_time": "2025-02-19T10:00:00.000Z",
+    "last_edited_time": "2026-03-11T16:30:00.000Z",
+    "created_by": "user-sophia",
+    "icon": "chat",
+    "archived": "false"
+  },
+  {
+    "id": "db-licenses",
+    "title": "Licenses & Permits",
+    "parent_page_id": "page-finance",
+    "created_time": "2025-03-03T09:00:00.000Z",
+    "last_edited_time": "2026-02-28T10:00:00.000Z",
+    "created_by": "user-carlton",
+    "icon": "document",
+    "archived": "false"
+  },
+  {
+    "id": "db-archive-2024-menu",
+    "title": "2024 Menu Archive",
+    "parent_page_id": "page-home",
+    "created_time": "2024-11-12T09:00:00.000Z",
+    "last_edited_time": "2025-12-31T23:00:00.000Z",
+    "created_by": "user-daniel",
+    "icon": "archive",
+    "archived": "true"
+  },
+  {
+    "id": "db-fishing-trips",
+    "title": "Fishing Trips",
+    "parent_page_id": "page-personal",
+    "created_time": "2025-03-15T20:00:00.000Z",
+    "last_edited_time": "2026-03-10T21:00:00.000Z",
+    "created_by": "user-carlton",
+    "icon": "fish",
+    "archived": "false"
+  }
+]

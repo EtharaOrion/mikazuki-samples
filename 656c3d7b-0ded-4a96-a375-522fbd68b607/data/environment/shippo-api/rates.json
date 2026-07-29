@@ -1,0 +1,902 @@
+[
+  {
+    "amount": 9.1,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-2ebbd21a4fbe",
+    "provider": "USPS",
+    "servicelevel_name": "Priority Mail",
+    "servicelevel_token": "usps_priority",
+    "shipment": "ship-a877643f75da"
+  },
+  {
+    "amount": 12.45,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-9a04766c0c0a",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Ground",
+    "servicelevel_token": "ups_ground",
+    "shipment": "ship-a877643f75da"
+  },
+  {
+    "amount": 19.2,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-344a72bdb5d3",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx 2Day",
+    "servicelevel_token": "fedex_2day",
+    "shipment": "ship-a877643f75da"
+  },
+  {
+    "amount": 5.6,
+    "currency": "USD",
+    "estimated_days": 4,
+    "object_id": "rate-c07495e29d84",
+    "provider": "USPS",
+    "servicelevel_name": "First-Class Package",
+    "servicelevel_token": "usps_first",
+    "shipment": "ship-a877643f75da"
+  },
+  {
+    "amount": 32.4,
+    "currency": "USD",
+    "estimated_days": 1,
+    "object_id": "rate-7f2f757827a3",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Next Day Air",
+    "servicelevel_token": "ups_next_day_air",
+    "shipment": "ship-a877643f75da"
+  },
+  {
+    "amount": 14.75,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-99897beadb34",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx Express Saver",
+    "servicelevel_token": "fedex_express_saver",
+    "shipment": "ship-a877643f75da"
+  },
+  {
+    "amount": 9.1,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-58eb279fb694",
+    "provider": "USPS",
+    "servicelevel_name": "Priority Mail",
+    "servicelevel_token": "usps_priority",
+    "shipment": "ship-d245fbe374bf"
+  },
+  {
+    "amount": 12.45,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-c66ef2ec7ca3",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Ground",
+    "servicelevel_token": "ups_ground",
+    "shipment": "ship-d245fbe374bf"
+  },
+  {
+    "amount": 19.2,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-12b195cb7922",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx 2Day",
+    "servicelevel_token": "fedex_2day",
+    "shipment": "ship-d245fbe374bf"
+  },
+  {
+    "amount": 5.6,
+    "currency": "USD",
+    "estimated_days": 4,
+    "object_id": "rate-ea4e82301b3a",
+    "provider": "USPS",
+    "servicelevel_name": "First-Class Package",
+    "servicelevel_token": "usps_first",
+    "shipment": "ship-d245fbe374bf"
+  },
+  {
+    "amount": 32.4,
+    "currency": "USD",
+    "estimated_days": 1,
+    "object_id": "rate-a83c2079d7ed",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Next Day Air",
+    "servicelevel_token": "ups_next_day_air",
+    "shipment": "ship-d245fbe374bf"
+  },
+  {
+    "amount": 14.75,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-29052ad875fe",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx Express Saver",
+    "servicelevel_token": "fedex_express_saver",
+    "shipment": "ship-d245fbe374bf"
+  },
+  {
+    "amount": 9.1,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-9de9b127638e",
+    "provider": "USPS",
+    "servicelevel_name": "Priority Mail",
+    "servicelevel_token": "usps_priority",
+    "shipment": "ship-bc92fb006bfa"
+  },
+  {
+    "amount": 12.45,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-11b0131043a9",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Ground",
+    "servicelevel_token": "ups_ground",
+    "shipment": "ship-bc92fb006bfa"
+  },
+  {
+    "amount": 19.2,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-2a24d4fa9418",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx 2Day",
+    "servicelevel_token": "fedex_2day",
+    "shipment": "ship-bc92fb006bfa"
+  },
+  {
+    "amount": 5.6,
+    "currency": "USD",
+    "estimated_days": 4,
+    "object_id": "rate-76170cf6fb30",
+    "provider": "USPS",
+    "servicelevel_name": "First-Class Package",
+    "servicelevel_token": "usps_first",
+    "shipment": "ship-bc92fb006bfa"
+  },
+  {
+    "amount": 32.4,
+    "currency": "USD",
+    "estimated_days": 1,
+    "object_id": "rate-e13603e79bf6",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Next Day Air",
+    "servicelevel_token": "ups_next_day_air",
+    "shipment": "ship-bc92fb006bfa"
+  },
+  {
+    "amount": 14.75,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-c2800ed6c24b",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx Express Saver",
+    "servicelevel_token": "fedex_express_saver",
+    "shipment": "ship-bc92fb006bfa"
+  },
+  {
+    "amount": 9.1,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-ea7df1728bf1",
+    "provider": "USPS",
+    "servicelevel_name": "Priority Mail",
+    "servicelevel_token": "usps_priority",
+    "shipment": "ship-53604ac4ce57"
+  },
+  {
+    "amount": 12.45,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-6be961015bd0",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Ground",
+    "servicelevel_token": "ups_ground",
+    "shipment": "ship-53604ac4ce57"
+  },
+  {
+    "amount": 19.2,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-ad5d1289702a",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx 2Day",
+    "servicelevel_token": "fedex_2day",
+    "shipment": "ship-53604ac4ce57"
+  },
+  {
+    "amount": 5.6,
+    "currency": "USD",
+    "estimated_days": 4,
+    "object_id": "rate-bc1c251df50f",
+    "provider": "USPS",
+    "servicelevel_name": "First-Class Package",
+    "servicelevel_token": "usps_first",
+    "shipment": "ship-53604ac4ce57"
+  },
+  {
+    "amount": 32.4,
+    "currency": "USD",
+    "estimated_days": 1,
+    "object_id": "rate-da1de466e26f",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Next Day Air",
+    "servicelevel_token": "ups_next_day_air",
+    "shipment": "ship-53604ac4ce57"
+  },
+  {
+    "amount": 14.75,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-65e231dbd039",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx Express Saver",
+    "servicelevel_token": "fedex_express_saver",
+    "shipment": "ship-53604ac4ce57"
+  },
+  {
+    "amount": 9.1,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-b13637819b19",
+    "provider": "USPS",
+    "servicelevel_name": "Priority Mail",
+    "servicelevel_token": "usps_priority",
+    "shipment": "ship-f60553a816fb"
+  },
+  {
+    "amount": 12.45,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-ed3648665cf2",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Ground",
+    "servicelevel_token": "ups_ground",
+    "shipment": "ship-f60553a816fb"
+  },
+  {
+    "amount": 19.2,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-ae306092f5d1",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx 2Day",
+    "servicelevel_token": "fedex_2day",
+    "shipment": "ship-f60553a816fb"
+  },
+  {
+    "amount": 5.6,
+    "currency": "USD",
+    "estimated_days": 4,
+    "object_id": "rate-8333459ec1b9",
+    "provider": "USPS",
+    "servicelevel_name": "First-Class Package",
+    "servicelevel_token": "usps_first",
+    "shipment": "ship-f60553a816fb"
+  },
+  {
+    "amount": 32.4,
+    "currency": "USD",
+    "estimated_days": 1,
+    "object_id": "rate-2069d2259242",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Next Day Air",
+    "servicelevel_token": "ups_next_day_air",
+    "shipment": "ship-f60553a816fb"
+  },
+  {
+    "amount": 14.75,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-fcdf6dce6f28",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx Express Saver",
+    "servicelevel_token": "fedex_express_saver",
+    "shipment": "ship-f60553a816fb"
+  },
+  {
+    "amount": 9.1,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-350906086721",
+    "provider": "USPS",
+    "servicelevel_name": "Priority Mail",
+    "servicelevel_token": "usps_priority",
+    "shipment": "ship-c2ed24ec0744"
+  },
+  {
+    "amount": 12.45,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-15891b54669a",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Ground",
+    "servicelevel_token": "ups_ground",
+    "shipment": "ship-c2ed24ec0744"
+  },
+  {
+    "amount": 19.2,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-fb33591e3104",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx 2Day",
+    "servicelevel_token": "fedex_2day",
+    "shipment": "ship-c2ed24ec0744"
+  },
+  {
+    "amount": 5.6,
+    "currency": "USD",
+    "estimated_days": 4,
+    "object_id": "rate-3cebed02b0df",
+    "provider": "USPS",
+    "servicelevel_name": "First-Class Package",
+    "servicelevel_token": "usps_first",
+    "shipment": "ship-c2ed24ec0744"
+  },
+  {
+    "amount": 32.4,
+    "currency": "USD",
+    "estimated_days": 1,
+    "object_id": "rate-7b07573f1c4d",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Next Day Air",
+    "servicelevel_token": "ups_next_day_air",
+    "shipment": "ship-c2ed24ec0744"
+  },
+  {
+    "amount": 14.75,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-38d1532e2a04",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx Express Saver",
+    "servicelevel_token": "fedex_express_saver",
+    "shipment": "ship-c2ed24ec0744"
+  },
+  {
+    "amount": 9.1,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-2bad1293a641",
+    "provider": "USPS",
+    "servicelevel_name": "Priority Mail",
+    "servicelevel_token": "usps_priority",
+    "shipment": "ship-3d37d8075501"
+  },
+  {
+    "amount": 12.45,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-5f67ef746c55",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Ground",
+    "servicelevel_token": "ups_ground",
+    "shipment": "ship-3d37d8075501"
+  },
+  {
+    "amount": 19.2,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-3af97f5fc33c",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx 2Day",
+    "servicelevel_token": "fedex_2day",
+    "shipment": "ship-3d37d8075501"
+  },
+  {
+    "amount": 5.6,
+    "currency": "USD",
+    "estimated_days": 4,
+    "object_id": "rate-969046904190",
+    "provider": "USPS",
+    "servicelevel_name": "First-Class Package",
+    "servicelevel_token": "usps_first",
+    "shipment": "ship-3d37d8075501"
+  },
+  {
+    "amount": 32.4,
+    "currency": "USD",
+    "estimated_days": 1,
+    "object_id": "rate-2cf8cb0eccb5",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Next Day Air",
+    "servicelevel_token": "ups_next_day_air",
+    "shipment": "ship-3d37d8075501"
+  },
+  {
+    "amount": 14.75,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-d48280e09c46",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx Express Saver",
+    "servicelevel_token": "fedex_express_saver",
+    "shipment": "ship-3d37d8075501"
+  },
+  {
+    "amount": 9.1,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-d1fb1c0bb171",
+    "provider": "USPS",
+    "servicelevel_name": "Priority Mail",
+    "servicelevel_token": "usps_priority",
+    "shipment": "ship-2f3b4933d2d8"
+  },
+  {
+    "amount": 12.45,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-4dcb553003b9",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Ground",
+    "servicelevel_token": "ups_ground",
+    "shipment": "ship-2f3b4933d2d8"
+  },
+  {
+    "amount": 19.2,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-2ec5a2fa52a1",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx 2Day",
+    "servicelevel_token": "fedex_2day",
+    "shipment": "ship-2f3b4933d2d8"
+  },
+  {
+    "amount": 5.6,
+    "currency": "USD",
+    "estimated_days": 4,
+    "object_id": "rate-422ebf459c88",
+    "provider": "USPS",
+    "servicelevel_name": "First-Class Package",
+    "servicelevel_token": "usps_first",
+    "shipment": "ship-2f3b4933d2d8"
+  },
+  {
+    "amount": 32.4,
+    "currency": "USD",
+    "estimated_days": 1,
+    "object_id": "rate-6cb4bb7f37fd",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Next Day Air",
+    "servicelevel_token": "ups_next_day_air",
+    "shipment": "ship-2f3b4933d2d8"
+  },
+  {
+    "amount": 14.75,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-765480be26f8",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx Express Saver",
+    "servicelevel_token": "fedex_express_saver",
+    "shipment": "ship-2f3b4933d2d8"
+  },
+  {
+    "amount": 9.1,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-9d409feb157d",
+    "provider": "USPS",
+    "servicelevel_name": "Priority Mail",
+    "servicelevel_token": "usps_priority",
+    "shipment": "ship-6dc833610a4d"
+  },
+  {
+    "amount": 12.45,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-950f2b664e51",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Ground",
+    "servicelevel_token": "ups_ground",
+    "shipment": "ship-6dc833610a4d"
+  },
+  {
+    "amount": 19.2,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-d895574b6c14",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx 2Day",
+    "servicelevel_token": "fedex_2day",
+    "shipment": "ship-6dc833610a4d"
+  },
+  {
+    "amount": 5.6,
+    "currency": "USD",
+    "estimated_days": 4,
+    "object_id": "rate-656b7fdad3f0",
+    "provider": "USPS",
+    "servicelevel_name": "First-Class Package",
+    "servicelevel_token": "usps_first",
+    "shipment": "ship-6dc833610a4d"
+  },
+  {
+    "amount": 32.4,
+    "currency": "USD",
+    "estimated_days": 1,
+    "object_id": "rate-6a9e5f13f85d",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Next Day Air",
+    "servicelevel_token": "ups_next_day_air",
+    "shipment": "ship-6dc833610a4d"
+  },
+  {
+    "amount": 14.75,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-7e0e1d895fa5",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx Express Saver",
+    "servicelevel_token": "fedex_express_saver",
+    "shipment": "ship-6dc833610a4d"
+  },
+  {
+    "amount": 9.1,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-72510c9be7cf",
+    "provider": "USPS",
+    "servicelevel_name": "Priority Mail",
+    "servicelevel_token": "usps_priority",
+    "shipment": "ship-15b77103c4fc"
+  },
+  {
+    "amount": 12.45,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-78f28cfb9b81",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Ground",
+    "servicelevel_token": "ups_ground",
+    "shipment": "ship-15b77103c4fc"
+  },
+  {
+    "amount": 19.2,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-1657f2aa0bcd",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx 2Day",
+    "servicelevel_token": "fedex_2day",
+    "shipment": "ship-15b77103c4fc"
+  },
+  {
+    "amount": 5.6,
+    "currency": "USD",
+    "estimated_days": 4,
+    "object_id": "rate-43ba22169a37",
+    "provider": "USPS",
+    "servicelevel_name": "First-Class Package",
+    "servicelevel_token": "usps_first",
+    "shipment": "ship-15b77103c4fc"
+  },
+  {
+    "amount": 32.4,
+    "currency": "USD",
+    "estimated_days": 1,
+    "object_id": "rate-91992092f234",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Next Day Air",
+    "servicelevel_token": "ups_next_day_air",
+    "shipment": "ship-15b77103c4fc"
+  },
+  {
+    "amount": 14.75,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-5ae140828b83",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx Express Saver",
+    "servicelevel_token": "fedex_express_saver",
+    "shipment": "ship-15b77103c4fc"
+  },
+  {
+    "amount": 9.1,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-4970c5393222",
+    "provider": "USPS",
+    "servicelevel_name": "Priority Mail",
+    "servicelevel_token": "usps_priority",
+    "shipment": "ship-8955fc5f63b7"
+  },
+  {
+    "amount": 12.45,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-c120f80f8320",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Ground",
+    "servicelevel_token": "ups_ground",
+    "shipment": "ship-8955fc5f63b7"
+  },
+  {
+    "amount": 19.2,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-fb1c10fde71e",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx 2Day",
+    "servicelevel_token": "fedex_2day",
+    "shipment": "ship-8955fc5f63b7"
+  },
+  {
+    "amount": 5.6,
+    "currency": "USD",
+    "estimated_days": 4,
+    "object_id": "rate-3b49a679b713",
+    "provider": "USPS",
+    "servicelevel_name": "First-Class Package",
+    "servicelevel_token": "usps_first",
+    "shipment": "ship-8955fc5f63b7"
+  },
+  {
+    "amount": 32.4,
+    "currency": "USD",
+    "estimated_days": 1,
+    "object_id": "rate-df916cf935d5",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Next Day Air",
+    "servicelevel_token": "ups_next_day_air",
+    "shipment": "ship-8955fc5f63b7"
+  },
+  {
+    "amount": 14.75,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-5eeb1dac69cd",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx Express Saver",
+    "servicelevel_token": "fedex_express_saver",
+    "shipment": "ship-8955fc5f63b7"
+  },
+  {
+    "amount": 9.1,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-6caeedb33c1e",
+    "provider": "USPS",
+    "servicelevel_name": "Priority Mail",
+    "servicelevel_token": "usps_priority",
+    "shipment": "ship-2baea74adef3"
+  },
+  {
+    "amount": 12.45,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-2c6732509ea0",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Ground",
+    "servicelevel_token": "ups_ground",
+    "shipment": "ship-2baea74adef3"
+  },
+  {
+    "amount": 19.2,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-1f137bdbb1d8",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx 2Day",
+    "servicelevel_token": "fedex_2day",
+    "shipment": "ship-2baea74adef3"
+  },
+  {
+    "amount": 5.6,
+    "currency": "USD",
+    "estimated_days": 4,
+    "object_id": "rate-81b7e94ff324",
+    "provider": "USPS",
+    "servicelevel_name": "First-Class Package",
+    "servicelevel_token": "usps_first",
+    "shipment": "ship-2baea74adef3"
+  },
+  {
+    "amount": 32.4,
+    "currency": "USD",
+    "estimated_days": 1,
+    "object_id": "rate-68d908729882",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Next Day Air",
+    "servicelevel_token": "ups_next_day_air",
+    "shipment": "ship-2baea74adef3"
+  },
+  {
+    "amount": 14.75,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-ee328caf4966",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx Express Saver",
+    "servicelevel_token": "fedex_express_saver",
+    "shipment": "ship-2baea74adef3"
+  },
+  {
+    "amount": 9.1,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-3453552f5de3",
+    "provider": "USPS",
+    "servicelevel_name": "Priority Mail",
+    "servicelevel_token": "usps_priority",
+    "shipment": "ship-f83e79171670"
+  },
+  {
+    "amount": 12.45,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-4d44d0c430c4",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Ground",
+    "servicelevel_token": "ups_ground",
+    "shipment": "ship-f83e79171670"
+  },
+  {
+    "amount": 19.2,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-5ddc1526456c",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx 2Day",
+    "servicelevel_token": "fedex_2day",
+    "shipment": "ship-f83e79171670"
+  },
+  {
+    "amount": 5.6,
+    "currency": "USD",
+    "estimated_days": 4,
+    "object_id": "rate-461202c64b62",
+    "provider": "USPS",
+    "servicelevel_name": "First-Class Package",
+    "servicelevel_token": "usps_first",
+    "shipment": "ship-f83e79171670"
+  },
+  {
+    "amount": 32.4,
+    "currency": "USD",
+    "estimated_days": 1,
+    "object_id": "rate-3842731f207d",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Next Day Air",
+    "servicelevel_token": "ups_next_day_air",
+    "shipment": "ship-f83e79171670"
+  },
+  {
+    "amount": 14.75,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-c5d0048de6f8",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx Express Saver",
+    "servicelevel_token": "fedex_express_saver",
+    "shipment": "ship-f83e79171670"
+  },
+  {
+    "amount": 9.1,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-44519d069a4e",
+    "provider": "USPS",
+    "servicelevel_name": "Priority Mail",
+    "servicelevel_token": "usps_priority",
+    "shipment": "ship-2936720ace75"
+  },
+  {
+    "amount": 12.45,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-681141bfc4ed",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Ground",
+    "servicelevel_token": "ups_ground",
+    "shipment": "ship-2936720ace75"
+  },
+  {
+    "amount": 19.2,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-f4724da0d944",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx 2Day",
+    "servicelevel_token": "fedex_2day",
+    "shipment": "ship-2936720ace75"
+  },
+  {
+    "amount": 5.6,
+    "currency": "USD",
+    "estimated_days": 4,
+    "object_id": "rate-c1184c7f8315",
+    "provider": "USPS",
+    "servicelevel_name": "First-Class Package",
+    "servicelevel_token": "usps_first",
+    "shipment": "ship-2936720ace75"
+  },
+  {
+    "amount": 32.4,
+    "currency": "USD",
+    "estimated_days": 1,
+    "object_id": "rate-fbf24fc7eb7d",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Next Day Air",
+    "servicelevel_token": "ups_next_day_air",
+    "shipment": "ship-2936720ace75"
+  },
+  {
+    "amount": 14.75,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-5604bdbb6f10",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx Express Saver",
+    "servicelevel_token": "fedex_express_saver",
+    "shipment": "ship-2936720ace75"
+  },
+  {
+    "amount": 9.1,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-b0ca5f1dd72b",
+    "provider": "USPS",
+    "servicelevel_name": "Priority Mail",
+    "servicelevel_token": "usps_priority",
+    "shipment": "ship-b5d726f4c922"
+  },
+  {
+    "amount": 12.45,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-de3e36728175",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Ground",
+    "servicelevel_token": "ups_ground",
+    "shipment": "ship-b5d726f4c922"
+  },
+  {
+    "amount": 19.2,
+    "currency": "USD",
+    "estimated_days": 2,
+    "object_id": "rate-57822adc309b",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx 2Day",
+    "servicelevel_token": "fedex_2day",
+    "shipment": "ship-b5d726f4c922"
+  },
+  {
+    "amount": 5.6,
+    "currency": "USD",
+    "estimated_days": 4,
+    "object_id": "rate-25b5de46c3b2",
+    "provider": "USPS",
+    "servicelevel_name": "First-Class Package",
+    "servicelevel_token": "usps_first",
+    "shipment": "ship-b5d726f4c922"
+  },
+  {
+    "amount": 32.4,
+    "currency": "USD",
+    "estimated_days": 1,
+    "object_id": "rate-eb7bfcaa22e6",
+    "provider": "UPS",
+    "servicelevel_name": "UPS Next Day Air",
+    "servicelevel_token": "ups_next_day_air",
+    "shipment": "ship-b5d726f4c922"
+  },
+  {
+    "amount": 14.75,
+    "currency": "USD",
+    "estimated_days": 3,
+    "object_id": "rate-6caed40704ad",
+    "provider": "FedEx",
+    "servicelevel_name": "FedEx Express Saver",
+    "servicelevel_token": "fedex_express_saver",
+    "shipment": "ship-b5d726f4c922"
+  }
+]

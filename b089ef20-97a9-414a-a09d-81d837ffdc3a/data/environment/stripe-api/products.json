@@ -1,0 +1,156 @@
+[
+  {
+    "id": "prod_GC25",
+    "name": "Gift Card $25",
+    "description": "Eleanor's Tavern gift card, $25 denomination",
+    "active": "true",
+    "created": "1706778000"
+  },
+  {
+    "id": "prod_GC50",
+    "name": "Gift Card $50",
+    "description": "Eleanor's Tavern gift card, $50 denomination",
+    "active": "true",
+    "created": "1706778000"
+  },
+  {
+    "id": "prod_GC100",
+    "name": "Gift Card $100",
+    "description": "Eleanor's Tavern gift card, $100 denomination",
+    "active": "true",
+    "created": "1706778000"
+  },
+  {
+    "id": "prod_GC250",
+    "name": "Gift Card $250",
+    "description": "Eleanor's Tavern gift card, $250 denomination",
+    "active": "true",
+    "created": "1706778000"
+  },
+  {
+    "id": "prod_GCHoli",
+    "name": "Gift Card (Holiday)",
+    "description": "Limited holiday gift card with festive sleeve, $100",
+    "active": "true",
+    "created": "1731661200"
+  },
+  {
+    "id": "prod_GCCustom",
+    "name": "Gift Card (Custom Amount)",
+    "description": "Custom-value gift card redeemable in-house",
+    "active": "true",
+    "created": "1710061200"
+  },
+  {
+    "id": "prod_ResDep25",
+    "name": "Reservation Deposit ($25)",
+    "description": "Per-party reservation hold for standard tables",
+    "active": "true",
+    "created": "1707987600"
+  },
+  {
+    "id": "prod_ResDep50",
+    "name": "Reservation Deposit ($50)",
+    "description": "Per-party reservation hold for weekend prime time",
+    "active": "true",
+    "created": "1707987600"
+  },
+  {
+    "id": "prod_ResDepLg",
+    "name": "Reservation Deposit (Large Party)",
+    "description": "Reservation hold for parties of 8 or more",
+    "active": "true",
+    "created": "1704079800"
+  },
+  {
+    "id": "prod_PvtDep250",
+    "name": "Private-Event Deposit ($250)",
+    "description": "Deposit to reserve the back dining room",
+    "active": "true",
+    "created": "1709283600"
+  },
+  {
+    "id": "prod_PvtDep500",
+    "name": "Private-Event Deposit ($500)",
+    "description": "Deposit to reserve the full tavern buyout",
+    "active": "true",
+    "created": "1709283600"
+  },
+  {
+    "id": "prod_PvtDepBar",
+    "name": "Private-Event Deposit (Bar Area)",
+    "description": "Deposit to reserve the bar lounge for private use",
+    "active": "true",
+    "created": "1706758200"
+  },
+  {
+    "id": "prod_CateringRet",
+    "name": "Catering Retainer",
+    "description": "Monthly catering retainer for recurring corporate accounts",
+    "active": "true",
+    "created": "1709263800"
+  },
+  {
+    "id": "prod_CateringDep",
+    "name": "Catering Deposit",
+    "description": "One-time deposit on a booked catering order",
+    "active": "true",
+    "created": "1709263800"
+  },
+  {
+    "id": "prod_TriviaTbl",
+    "name": "Trivia Night Table Reservation",
+    "description": "Reserved table for Wednesday trivia night",
+    "active": "true",
+    "created": "1709263800"
+  },
+  {
+    "id": "prod_BrunchDep",
+    "name": "Bottomless Brunch Deposit",
+    "description": "Per-seat deposit for weekend bottomless brunch",
+    "active": "true",
+    "created": "1736931600"
+  },
+  {
+    "id": "prod_WineDinner",
+    "name": "Wine Pairing Dinner Seat",
+    "description": "Seat at a monthly chef's wine pairing dinner",
+    "active": "true",
+    "created": "1738400400"
+  },
+  {
+    "id": "prod_NYEDep",
+    "name": "New Year's Eve Deposit",
+    "description": "Deposit for the prix-fixe New Year's Eve seating",
+    "active": "true",
+    "created": "1730451600"
+  },
+  {
+    "id": "prod_ThxBuyout",
+    "name": "Thanksgiving Family Table",
+    "description": "Deposit for the Thanksgiving family-style table",
+    "active": "true",
+    "created": "1728982800"
+  },
+  {
+    "id": "prod_GCDigital",
+    "name": "Gift Card (Digital)",
+    "description": "Emailed digital gift card, any denomination",
+    "active": "true",
+    "created": "1704079800"
+  },
+  {
+    "id": "prod_MerchTee",
+    "name": "Eleanor's Tavern T-Shirt",
+    "description": "Logo t-shirt sold via the tavern web shop",
+    "active": "true",
+    "created": "1740819600"
+  },
+  {
+    "id": "prod_MerchPint",
+    "name": "Eleanor's Tavern Pint Glass",
+    "description": "Branded pint glass, web shop merchandise",
+    "active": "false",
+    "created": "1740819600"
+  }
+]

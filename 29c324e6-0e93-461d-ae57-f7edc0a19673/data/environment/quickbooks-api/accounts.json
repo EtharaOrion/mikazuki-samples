@@ -1,0 +1,72 @@
+[
+  {
+    "Id": "1",
+    "Name": "Tuition Income",
+    "AccountType": "Income",
+    "AccountSubType": "ServiceFeeIncome",
+    "CurrentBalance": "12240.00",
+    "Active": "true",
+    "Classification": "Revenue",
+    "Description": "Private lessons, ensemble tuition, and theory class fees"
+  },
+  {
+    "Id": "2",
+    "Name": "Showcase & Performance Income",
+    "AccountType": "Income",
+    "AccountSubType": "ServiceFeeIncome",
+    "CurrentBalance": "1210.00",
+    "Active": "true",
+    "Classification": "Revenue",
+    "Description": "Showcase tickets, recitals, and workshop/clinic engagements"
+  },
+  {
+    "Id": "3",
+    "Name": "Camp & Workshop Income",
+    "AccountType": "Income",
+    "AccountSubType": "ServiceFeeIncome",
+    "CurrentBalance": "1800.00",
+    "Active": "true",
+    "Classification": "Revenue",
+    "Description": "Summer jazz camp and weekend workshop registrations"
+  },
+  {
+    "Id": "4",
+    "Name": "Instrument Rental Income",
+    "AccountType": "Income",
+    "AccountSubType": "SalesOfProductIncome",
+    "CurrentBalance": "550.00",
+    "Active": "true",
+    "Classification": "Revenue",
+    "Description": "Monthly student instrument rentals"
+  },
+  {
+    "Id": "5",
+    "Name": "Studio Lease",
+    "AccountType": "Expense",
+    "AccountSubType": "Rent",
+    "CurrentBalance": "2800.00",
+    "Active": "true",
+    "Classification": "Expense",
+    "Description": "Monthly studio lease \u2014 1420 Grand Blvd"
+  },
+  {
+    "Id": "6",
+    "Name": "Instructor Payroll",
+    "AccountType": "Expense",
+    "AccountSubType": "ContractorsServices",
+    "CurrentBalance": "7585.00",
+    "Active": "true",
+    "Classification": "Expense",
+    "Description": "Part-time instructor pay and web/admin contractor fees"
+  },
+  {
+    "Id": "7",
+    "Name": "Operating Expenses",
+    "AccountType": "Expense",
+    "AccountSubType": "SuppliesMaterials",
+    "CurrentBalance": "1100.00",
+    "Active": "true",
+    "Classification": "Expense",
+    "Description": "Insurance, utilities, instruments, reeds, sheet music, supplies"
+  }
+]

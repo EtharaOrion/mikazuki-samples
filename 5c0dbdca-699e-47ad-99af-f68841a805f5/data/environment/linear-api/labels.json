@@ -1,0 +1,182 @@
+[
+  {
+    "id": "label-bug",
+    "name": "Bug",
+    "color": "#eb5757",
+    "description": "Something isn't working correctly",
+    "teamId": "Jessica Webb",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-critical",
+    "name": "Critical",
+    "color": "#eb5757",
+    "description": "Critical severity",
+    "teamId": "Jessica Webb",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-high",
+    "name": "High",
+    "color": "#f2994a",
+    "description": "High severity",
+    "teamId": "Jessica Webb",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-medium",
+    "name": "Medium",
+    "color": "#f2c94c",
+    "description": "Medium severity",
+    "teamId": "Jessica Webb",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-low",
+    "name": "Low",
+    "color": "#bdbdbd",
+    "description": "Low severity",
+    "teamId": "Jessica Webb",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-content",
+    "name": "Content",
+    "color": "#6fcf97",
+    "description": "Copy updates, bios, schedule changes",
+    "teamId": "team-web",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-seo",
+    "name": "SEO",
+    "color": "#26b5ce",
+    "description": "SEO metadata and structured data",
+    "teamId": "team-web",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-feature",
+    "name": "Feature",
+    "color": "#bb6bd9",
+    "description": "New feature or page",
+    "teamId": "team-web",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-booking",
+    "name": "Booking",
+    "color": "#eb5757",
+    "description": "Online booking form and payment delivery pipeline",
+    "teamId": "team-web",
+    "createdAt": "2026-03-01T09:00:00",
+    "updatedAt": "2026-03-01T09:00:00"
+  },
+  {
+    "id": "label-bug_p001",
+    "name": "5th Anniversary Showcase planning",
+    "color": "#eb5757",
+    "description": "Something isn't working correctly",
+    "teamId": "Jessica Webb",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-critical_p002",
+    "name": "Summer camp registration",
+    "color": "#eb5757",
+    "description": "Critical severity",
+    "teamId": "Jessica Webb",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-high_p003",
+    "name": "Substitute coverage",
+    "color": "#f2994a",
+    "description": "High severity",
+    "teamId": "Jessica Webb",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-medium_p004",
+    "name": "Sheet music library update",
+    "color": "#f2c94c",
+    "description": "Medium severity",
+    "teamId": "Jessica Webb",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-low_p005",
+    "name": "Parent meeting slot",
+    "color": "#bdbdbd",
+    "description": "Low severity",
+    "teamId": "Jessica Webb",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-content_p006",
+    "name": "Ensemble arrangement rewrite",
+    "color": "#6fcf97",
+    "description": "Copy updates, bios, schedule changes",
+    "teamId": "team-web",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-seo_p007",
+    "name": "Recital program layout",
+    "color": "#26b5ce",
+    "description": "SEO metadata and structured data",
+    "teamId": "team-web",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-feature_p008",
+    "name": "Quartet setlist review",
+    "color": "#bb6bd9",
+    "description": "New feature or page",
+    "teamId": "team-web",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-booking_p009",
+    "name": "Rehearsal recording listen-back",
+    "color": "#eb5757",
+    "description": "Online booking form and payment delivery pipeline",
+    "teamId": "team-web",
+    "createdAt": "2026-03-01T09:00:00",
+    "updatedAt": "2026-03-01T09:00:00"
+  },
+  {
+    "id": "label-bug_p010",
+    "name": "Second album pre-production notes",
+    "color": "#eb5757",
+    "description": "Something isn't working correctly",
+    "teamId": "Jessica Webb",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  },
+  {
+    "id": "label-critical_p011",
+    "name": "Venue confirmation thread",
+    "color": "#eb5757",
+    "description": "Critical severity",
+    "teamId": "Jessica Webb",
+    "createdAt": "2025-10-01T09:00:00",
+    "updatedAt": "2025-10-01T09:00:00"
+  }
+]

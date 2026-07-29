@@ -1,0 +1,170 @@
+[
+  {
+    "name": "reservation_reminder",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, reminder of your reservation at Eleanor's Tavern on {{2}} at {{3}}. See you soon!",
+    "header_text": "Reservation reminder"
+  },
+  {
+    "name": "family_dinner",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Monday meal at the house at {{1}}. {{2}} is cooking. See everyone there.",
+    "header_text": "Kevin's Tuesday call - order the halibut for Friday special."
+  },
+  {
+    "name": "pickup_confirm",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Confirming {{1}} pickup at {{2}} today.",
+    "header_text": "Kevin's Tuesday call - order the halibut for Friday special."
+  },
+  {
+    "name": "waitlist_ready",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, your table for {{2}} at Eleanor's Tavern is ready. Please head to the host stand.",
+    "header_text": "Table ready"
+  },
+  {
+    "name": "event_deposit_request",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, to confirm your private event on {{2}} we need a 25% deposit of {{3}}. Reply here with any questions.",
+    "header_text": "Deposit request"
+  },
+  {
+    "name": "vendor_order_confirm",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, confirming our order of {{2}} for delivery on {{3}}. Thanks from Eleanor's Tavern.",
+    "header_text": "Sarah asthma inhaler refill - pharmacy Tuesday."
+  },
+  {
+    "name": "fish_delivery_tuesday",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi Kevin, this week we need {{1}} for Tuesday delivery. Let me know the dock price.",
+    "header_text": "Alex soccer game Saturday 11 AM - leave the tavern to Sophia."
+  },
+  {
+    "name": "shift_reminder",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, reminder you are scheduled for the {{2}} shift on {{3}}. Reply CONFIRM to acknowledge.",
+    "header_text": "Shift reminder"
+  },
+  {
+    "name": "shift_swap_request",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "PENDING",
+    "body_text": "Hi team, {{1}} is looking to swap their {{2}} shift on {{3}}. Reply if you can cover.",
+    "header_text": "Ellen quarterly books review Sunday morning - bring the shift schedules."
+  },
+  {
+    "name": "weekly_specials",
+    "language": "en_US",
+    "category": "MARKETING",
+    "status": "APPROVED",
+    "body_text": "This week at Eleanor's Tavern: {{1}}. Plus jazz on Sunday. See you in Astoria!",
+    "header_text": "This week's specials"
+  },
+  {
+    "name": "happy_hour_promo",
+    "language": "en_US",
+    "category": "MARKETING",
+    "status": "APPROVED",
+    "body_text": "Happy hour at Eleanor's Tavern, {{1}} to {{2}}, Tuesday through Friday. Craft beer and tavern bites.",
+    "header_text": "Happy hour"
+  },
+  {
+    "name": "patio_now_open",
+    "language": "en_US",
+    "category": "MARKETING",
+    "status": "APPROVED",
+    "body_text": "Our patio opens for the spring season! Reserve your outdoor table for {{1}} at Eleanor's Tavern.",
+    "header_text": "Patio opens this spring"
+  },
+  {
+    "name": "birthday_offer",
+    "language": "en_US",
+    "category": "MARKETING",
+    "status": "APPROVED",
+    "body_text": "Happy birthday {{1}}! Enjoy a complimentary slice of house-made pie on us this month at Eleanor's Tavern.",
+    "header_text": "Happy birthday"
+  },
+  {
+    "name": "reservation_cancelled",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, your reservation for {{2}} on {{3}} has been cancelled. We hope to see you again soon.",
+    "header_text": "Kevin's Tuesday call - order the halibut for Friday special."
+  },
+  {
+    "name": "feedback_request",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, thanks for dining with us. We would love your feedback: {{2}}.",
+    "header_text": "How was your visit?"
+  },
+  {
+    "name": "gift_card_delivery",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, your Eleanor's Tavern gift card for {{2}} is ready. Code: {{3}}.",
+    "header_text": "Your gift card"
+  },
+  {
+    "name": "catering_quote",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "PENDING",
+    "body_text": "Hi {{1}}, here is your catering quote for {{2}} guests on {{3}}: {{4}}. Let us know to proceed.",
+    "header_text": "Catering quote"
+  },
+  {
+    "name": "holiday_hours",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Heads up: Eleanor's Tavern hours for {{1}} are {{2}}. We are closed Mondays as always.",
+    "header_text": "Holiday hours"
+  },
+  {
+    "name": "jazz_sunday_reminder",
+    "language": "en_US",
+    "category": "MARKETING",
+    "status": "APPROVED",
+    "body_text": "Jazz Sunday is back at Eleanor's Tavern this {{1}} from {{2}}. Reserve your table now.",
+    "header_text": "Jazz Sunday"
+  },
+  {
+    "name": "large_party_confirm",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "APPROVED",
+    "body_text": "Hi {{1}}, confirming your party of {{2}} on {{3}} at {{4}}. A gratuity is added for parties over 6.",
+    "header_text": "Party confirmed"
+  },
+  {
+    "name": "no_show_followup",
+    "language": "en_US",
+    "category": "UTILITY",
+    "status": "REJECTED",
+    "body_text": "Hi {{1}}, we missed you for your reservation on {{2}}. Reply here to rebook anytime.",
+    "header_text": "Uncle Stuart Wed lunch chess - usual 1 PM."
+  }
+]

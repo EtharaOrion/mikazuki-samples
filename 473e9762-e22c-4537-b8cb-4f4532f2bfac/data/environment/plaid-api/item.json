@@ -1,0 +1,37 @@
+{
+  "institution": {
+    "country_codes": [
+      "AT"
+    ],
+    "institution_id": "ins_56",
+    "name": "Erste Bank",
+    "primary_color": "n/a",
+    "products": [
+      "transactions",
+      "auth",
+      "balance",
+      "identity"
+    ],
+    "routing_numbers": [
+      "20111"
+    ],
+    "url": "https://www.erstebank.at"
+  },
+  "item": {
+    "available_products": [
+      "transactions",
+      "auth",
+      "balance",
+      "identity"
+    ],
+    "billed_products": [
+      "transactions",
+      "identity"
+    ],
+    "consent_expiration_time": "2026-11-15T10:00:00+01:00",
+    "institution_id": "ins_56",
+    "item_id": "item_66033602bb9cd317",
+    "update_type": "background",
+    "webhook": "n/a"
+  }
+}

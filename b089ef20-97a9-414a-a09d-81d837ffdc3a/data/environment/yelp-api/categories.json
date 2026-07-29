@@ -1,0 +1,112 @@
+[
+  {
+    "alias": "tavern",
+    "title": "American (Traditional)",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "american",
+    "title": "American (New)",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "newamerican",
+    "title": "American (New)",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "gastropubs",
+    "title": "Gastropubs",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "pubs",
+    "title": "Pubs",
+    "parent": "nightlife"
+  },
+  {
+    "alias": "beergardens",
+    "title": "Beer Gardens",
+    "parent": "nightlife"
+  },
+  {
+    "alias": "wine_bars",
+    "title": "Wine Bars",
+    "parent": "nightlife"
+  },
+  {
+    "alias": "cocktailbars",
+    "title": "Cocktail Bars",
+    "parent": "nightlife"
+  },
+  {
+    "alias": "bbq",
+    "title": "Barbeque",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "seafood",
+    "title": "Seafood",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "italian",
+    "title": "Italian",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "french",
+    "title": "French",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "japanese",
+    "title": "Japanese",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "tapas",
+    "title": "Tapas/Small Plates",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "burgers",
+    "title": "Burgers",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "brazilian",
+    "title": "Brazilian",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "latin",
+    "title": "Latin American",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "mideastern",
+    "title": "Middle Eastern",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "bakeries",
+    "title": "Bakeries",
+    "parent": "food"
+  },
+  {
+    "alias": "diners",
+    "title": "Diners",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "breakfast_brunch",
+    "title": "Breakfast & Brunch",
+    "parent": "restaurants"
+  },
+  {
+    "alias": "cocktail",
+    "title": "Cocktails",
+    "parent": "nightlife"
+  }
+]

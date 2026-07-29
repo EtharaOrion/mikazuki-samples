@@ -1,0 +1,992 @@
+[
+  {
+    "id": "recTaskBFL00000001",
+    "createdTime": "2026-02-12T11:00:00.000Z",
+    "Name": "Audit current website IA",
+    "Status": "Done",
+    "Project": "Website Redesign",
+    "EstimateHours": "8",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskBFL00000002",
+    "createdTime": "2026-02-19T11:00:00.000Z",
+    "Name": "Vendor scope - WordPress refresh",
+    "Status": "In progress",
+    "Project": "Website Redesign",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskBFL00000003",
+    "createdTime": "2026-02-26T11:00:00.000Z",
+    "Name": "Approve new reception sign proof",
+    "Status": "Done",
+    "Project": "BFL Office Refresh",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskBFL00000004",
+    "createdTime": "2026-10-03T11:00:00.000Z",
+    "Name": "Order replacement lobby chairs",
+    "Status": "In progress",
+    "Project": "BFL Office Refresh",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskBFL00000005",
+    "createdTime": "2026-10-15T11:00:00.000Z",
+    "Name": "Test intake form Spanish toggle",
+    "Status": "Done",
+    "Project": "Intake Form v4 Rollout",
+    "EstimateHours": "3",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskBFL00000006",
+    "createdTime": "2026-10-21T11:00:00.000Z",
+    "Name": "Email Palmetto Q4 volunteer signup",
+    "Status": "Done",
+    "Project": "Palmetto Pro Bono Q4 Drive",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskBFL00000007",
+    "createdTime": "2026-10-28T11:00:00.000Z",
+    "Name": "Confirm Biscayne Bar sponsorship tier",
+    "Status": "Done",
+    "Project": "Biscayne Bar Sponsorship",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskBFL00000008",
+    "createdTime": "2026-11-05T11:00:00.000Z",
+    "Name": "Update AAML slide deck for 2026",
+    "Status": "In progress",
+    "Project": "AAML CLE Slides Update",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskBFL00000009",
+    "createdTime": "2026-11-12T11:00:00.000Z",
+    "Name": "Send draft to Margaret for proof",
+    "Status": "In progress",
+    "Project": "Brand Refresh - Letterhead",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskBFL00000010",
+    "createdTime": "2026-11-20T11:00:00.000Z",
+    "Name": "Draft Q1 newsletter article on custody",
+    "Status": "In progress",
+    "Project": "Client Newsletter Q1",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskBFL00000011",
+    "createdTime": "2026-11-25T11:00:00.000Z",
+    "Name": "Final review engagement letter v3",
+    "Status": "Done",
+    "Project": "Engagement Letter Templates v3",
+    "EstimateHours": "3",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskBFL00000012",
+    "createdTime": "2026-12-02T11:00:00.000Z",
+    "Name": "Kickoff call with Coastal IT",
+    "Status": "Done",
+    "Project": "MyCase Migration",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskBFL00000013",
+    "createdTime": "2026-12-08T11:00:00.000Z",
+    "Name": "Request Westlaw renewal pricing",
+    "Status": "Done",
+    "Project": "Westlaw Renewal Negotiation",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskBFL00000014",
+    "createdTime": "2026-12-12T11:00:00.000Z",
+    "Name": "Book winter break rental cabin",
+    "Status": "In progress",
+    "Project": "Family Vacation Planning - Winter Break",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskBFL00000015",
+    "createdTime": "2026-12-19T11:00:00.000Z",
+    "Name": "Confirm Linda dinner menu with Hillcrest",
+    "Status": "Done",
+    "Project": "Linda Birthday Dinner",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskBFL00000016",
+    "createdTime": "2026-12-22T11:00:00.000Z",
+    "Name": "Print college tour itinerary",
+    "Status": "In progress",
+    "Project": "Victoria College Tour Research",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskBFL00000017",
+    "createdTime": "2026-12-30T11:00:00.000Z",
+    "Name": "Book hotel for Tropical Park tournament",
+    "Status": "In progress",
+    "Project": "Daniel Soccer Tournament Travel",
+    "EstimateHours": "1",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskBFL00000018",
+    "createdTime": "2026-01-08T11:00:00.000Z",
+    "Name": "Schedule pool acid wash",
+    "Status": "Done",
+    "Project": "Pool Equipment Service",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskBFL00000019",
+    "createdTime": "2026-01-15T11:00:00.000Z",
+    "Name": "Send updated will to Del Valle",
+    "Status": "In progress",
+    "Project": "Estate Plan Refresh",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskBFL00000020",
+    "createdTime": "2026-01-22T11:00:00.000Z",
+    "Name": "Submit FL Bar CLE credits Sept",
+    "Status": "In progress",
+    "Project": "Florida Bar CLE Compliance Filing",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskBFL00000021",
+    "createdTime": "2026-01-29T11:00:00.000Z",
+    "Name": "Draft Q1 marketing budget",
+    "Status": "In progress",
+    "Project": "Q1 Marketing Plan",
+    "EstimateHours": "4",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskBFL00000022",
+    "createdTime": "2026-02-05T11:00:00.000Z",
+    "Name": "Sign up for AAML mediation refresher",
+    "Status": "In progress",
+    "Project": "Mediation Training - Certificate Renewal",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000000",
+    "createdTime": "2026-01-06T11:00:00.000Z",
+    "Name": "Confirm Wednesday custody handoff with Rob - 1/6",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000001",
+    "createdTime": "2026-01-08T14:07:00.000Z",
+    "Name": "Register CLE: mediation ethics - 1/8",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000002",
+    "createdTime": "2026-01-10T17:14:00.000Z",
+    "Name": "Book Hillcrest for Friday dinner with Patty - 1/10",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000003",
+    "createdTime": "2026-01-12T20:21:00.000Z",
+    "Name": "Grocery run - Publix Sunset - 1/12",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000004",
+    "createdTime": "2026-01-14T11:28:00.000Z",
+    "Name": "Victoria volleyball vs Carrollton - 1/14",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "5",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000005",
+    "createdTime": "2026-01-16T14:35:00.000Z",
+    "Name": "Daniel soccer vs Palmetto Bay FC at Tropical Park - 1/16",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000006",
+    "createdTime": "2026-01-18T17:42:00.000Z",
+    "Name": "Sunday lunch with Linda in Pembroke Pines - 1/18",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000007",
+    "createdTime": "2026-01-20T20:49:00.000Z",
+    "Name": "Yoga at Palmetto Wellness - 1/20",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000008",
+    "createdTime": "2026-01-22T11:56:00.000Z",
+    "Name": "Operating-reserve check - 1/22",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000009",
+    "createdTime": "2026-01-24T14:03:00.000Z",
+    "Name": "529 contribution - 1/24",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000010",
+    "createdTime": "2026-01-26T17:10:00.000Z",
+    "Name": "Meal prep: baked ziti - 1/26",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "5",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000011",
+    "createdTime": "2026-01-28T20:17:00.000Z",
+    "Name": "Sign school permission slip - 1/28",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000012",
+    "createdTime": "2026-01-30T11:24:00.000Z",
+    "Name": "Schedule BP recheck at Gables Health - 1/30",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000013",
+    "createdTime": "2026-02-01T14:31:00.000Z",
+    "Name": "Plan Daniel birthday dinner - 2/1",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000014",
+    "createdTime": "2026-02-03T17:38:00.000Z",
+    "Name": "Update reading list: A Spool of Blue Thread - 2/3",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000015",
+    "createdTime": "2026-02-05T20:45:00.000Z",
+    "Name": "Pool cleaner service check - 2/5",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000016",
+    "createdTime": "2026-02-07T11:52:00.000Z",
+    "Name": "Ship package to Linda via FedEx - 2/7",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "5",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000017",
+    "createdTime": "2026-02-09T14:59:00.000Z",
+    "Name": "Bar mentorship slot - mentee S.F. - 2/9",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000018",
+    "createdTime": "2026-02-11T17:06:00.000Z",
+    "Name": "Palmetto pro bono availability - 2/11",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000019",
+    "createdTime": "2026-02-13T20:13:00.000Z",
+    "Name": "Order Daniel Lego set - 2/13",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000020",
+    "createdTime": "2026-02-15T11:20:00.000Z",
+    "Name": "Confirm Wednesday custody handoff with Rob - 2/15",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000021",
+    "createdTime": "2026-02-17T14:27:00.000Z",
+    "Name": "Register CLE: trust-account compliance - 2/17",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000022",
+    "createdTime": "2026-02-19T17:34:00.000Z",
+    "Name": "Book Hillcrest for Friday dinner with Patty - 2/19",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "5",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000023",
+    "createdTime": "2026-02-21T20:41:00.000Z",
+    "Name": "Grocery run - Publix Sunset - 2/21",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000024",
+    "createdTime": "2026-02-23T11:48:00.000Z",
+    "Name": "Victoria volleyball vs Coral Reef - 2/23",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000025",
+    "createdTime": "2026-02-25T14:55:00.000Z",
+    "Name": "Daniel soccer vs Key Biscayne United at Tropical Park - 2/25",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000026",
+    "createdTime": "2026-02-27T17:02:00.000Z",
+    "Name": "Sunday lunch with Linda in Pembroke Pines - 2/27",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000027",
+    "createdTime": "2026-03-01T20:09:00.000Z",
+    "Name": "Yoga at Palmetto Wellness - 3/1",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000028",
+    "createdTime": "2026-03-03T11:16:00.000Z",
+    "Name": "Operating-reserve check - 3/3",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "5",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000029",
+    "createdTime": "2026-03-05T14:23:00.000Z",
+    "Name": "529 contribution - 3/5",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000030",
+    "createdTime": "2026-03-07T17:30:00.000Z",
+    "Name": "Meal prep: baked ziti - 3/7",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000031",
+    "createdTime": "2026-03-09T20:37:00.000Z",
+    "Name": "Sign school permission slip - 3/9",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000032",
+    "createdTime": "2026-03-11T11:44:00.000Z",
+    "Name": "Schedule BP recheck at Gables Health - 3/11",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000033",
+    "createdTime": "2026-03-13T14:51:00.000Z",
+    "Name": "Plan Daniel birthday dinner - 3/13",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000034",
+    "createdTime": "2026-03-15T17:58:00.000Z",
+    "Name": "Update reading list: Mohawk - 3/15",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "5",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000035",
+    "createdTime": "2026-03-17T20:05:00.000Z",
+    "Name": "Pool cleaner service check - 3/17",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000036",
+    "createdTime": "2026-03-19T11:12:00.000Z",
+    "Name": "Ship package to Linda via FedEx - 3/19",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000037",
+    "createdTime": "2026-03-21T14:19:00.000Z",
+    "Name": "Bar mentorship slot - mentee N.D. - 3/21",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000038",
+    "createdTime": "2026-03-23T17:26:00.000Z",
+    "Name": "Palmetto pro bono availability - 3/23",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000039",
+    "createdTime": "2026-03-25T20:33:00.000Z",
+    "Name": "Order Daniel Lego set - 3/25",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000040",
+    "createdTime": "2026-03-27T11:40:00.000Z",
+    "Name": "Confirm Wednesday custody handoff with Rob - 3/27",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "5",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000041",
+    "createdTime": "2026-03-29T14:47:00.000Z",
+    "Name": "Register CLE: prenuptial agreement drafting - 3/29",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000042",
+    "createdTime": "2026-03-31T17:54:00.000Z",
+    "Name": "Book Hillcrest for Friday dinner with Patty - 3/31",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000043",
+    "createdTime": "2026-04-02T20:01:00.000Z",
+    "Name": "Grocery run - Publix Sunset - 4/2",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000044",
+    "createdTime": "2026-04-04T11:08:00.000Z",
+    "Name": "Victoria volleyball vs Key Biscayne K-8 - 4/4",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000045",
+    "createdTime": "2026-04-06T14:15:00.000Z",
+    "Name": "Daniel soccer vs Kendall SC at Tropical Park - 4/6",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000046",
+    "createdTime": "2026-04-08T17:22:00.000Z",
+    "Name": "Sunday lunch with Linda in Pembroke Pines - 4/8",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "5",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000047",
+    "createdTime": "2026-04-10T20:29:00.000Z",
+    "Name": "Yoga at Palmetto Wellness - 4/10",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000048",
+    "createdTime": "2026-04-12T11:36:00.000Z",
+    "Name": "Operating-reserve check - 4/12",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000049",
+    "createdTime": "2026-04-14T14:43:00.000Z",
+    "Name": "529 contribution - 4/14",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000050",
+    "createdTime": "2026-04-16T17:50:00.000Z",
+    "Name": "Meal prep: baked ziti - 4/16",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000051",
+    "createdTime": "2026-04-18T20:57:00.000Z",
+    "Name": "Sign school permission slip - 4/18",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000052",
+    "createdTime": "2026-04-20T11:04:00.000Z",
+    "Name": "Schedule BP recheck at Gables Health - 4/20",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "5",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000053",
+    "createdTime": "2026-04-22T14:11:00.000Z",
+    "Name": "Plan Daniel birthday dinner - 4/22",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000054",
+    "createdTime": "2026-04-24T17:18:00.000Z",
+    "Name": "Update reading list: The Dutch House - 4/24",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000055",
+    "createdTime": "2026-04-26T20:25:00.000Z",
+    "Name": "Pool cleaner service check - 4/26",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000056",
+    "createdTime": "2026-04-28T11:32:00.000Z",
+    "Name": "Ship package to Linda via FedEx - 4/28",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000057",
+    "createdTime": "2026-04-30T14:39:00.000Z",
+    "Name": "Bar mentorship slot - mentee H.P. - 4/30",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000058",
+    "createdTime": "2026-05-02T17:46:00.000Z",
+    "Name": "Palmetto pro bono availability - 5/2",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "5",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000059",
+    "createdTime": "2026-05-04T20:53:00.000Z",
+    "Name": "Order Daniel Lego set - 5/4",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000060",
+    "createdTime": "2026-05-06T11:00:00.000Z",
+    "Name": "Confirm Wednesday custody handoff with Rob - 5/6",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000061",
+    "createdTime": "2026-05-08T14:07:00.000Z",
+    "Name": "Register CLE: mediation ethics - 5/8",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000062",
+    "createdTime": "2026-05-10T17:14:00.000Z",
+    "Name": "Book Hillcrest for Friday dinner with Patty - 5/10",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000063",
+    "createdTime": "2026-05-12T20:21:00.000Z",
+    "Name": "Grocery run - Publix Sunset - 5/12",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000064",
+    "createdTime": "2026-05-14T11:28:00.000Z",
+    "Name": "Victoria volleyball vs Carrollton - 5/14",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "5",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000065",
+    "createdTime": "2026-05-16T14:35:00.000Z",
+    "Name": "Daniel soccer vs Palmetto Bay FC at Tropical Park - 5/16",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000066",
+    "createdTime": "2026-05-18T17:42:00.000Z",
+    "Name": "Sunday lunch with Linda in Pembroke Pines - 5/18",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000067",
+    "createdTime": "2026-05-20T20:49:00.000Z",
+    "Name": "Yoga at Palmetto Wellness - 5/20",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000068",
+    "createdTime": "2026-05-22T11:56:00.000Z",
+    "Name": "Operating-reserve check - 5/22",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000069",
+    "createdTime": "2026-05-24T14:03:00.000Z",
+    "Name": "529 contribution - 5/24",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000070",
+    "createdTime": "2026-05-26T17:10:00.000Z",
+    "Name": "Meal prep: baked ziti - 5/26",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "5",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000071",
+    "createdTime": "2026-05-28T20:17:00.000Z",
+    "Name": "Sign school permission slip - 5/28",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000072",
+    "createdTime": "2026-05-30T11:24:00.000Z",
+    "Name": "Schedule BP recheck at Gables Health - 5/30",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000073",
+    "createdTime": "2026-06-01T14:31:00.000Z",
+    "Name": "Plan Daniel birthday dinner - 6/1",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000074",
+    "createdTime": "2026-06-03T17:38:00.000Z",
+    "Name": "Update reading list: Bewilderment - 6/3",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000075",
+    "createdTime": "2026-06-05T20:45:00.000Z",
+    "Name": "Pool cleaner service check - 6/5",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000076",
+    "createdTime": "2026-06-07T11:52:00.000Z",
+    "Name": "Ship package to Linda via FedEx - 6/7",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "5",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000077",
+    "createdTime": "2026-06-09T14:59:00.000Z",
+    "Name": "Bar mentorship slot - mentee C.M. - 6/9",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000078",
+    "createdTime": "2026-06-11T17:06:00.000Z",
+    "Name": "Palmetto pro bono availability - 6/11",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000079",
+    "createdTime": "2026-06-13T20:13:00.000Z",
+    "Name": "Order Daniel Lego set - 6/13",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000080",
+    "createdTime": "2026-06-15T11:20:00.000Z",
+    "Name": "Confirm Wednesday custody handoff with Rob - 6/15",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000081",
+    "createdTime": "2026-06-17T14:27:00.000Z",
+    "Name": "Register CLE: trust-account compliance - 6/17",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "4",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000082",
+    "createdTime": "2026-06-19T17:34:00.000Z",
+    "Name": "Book Hillcrest for Friday dinner with Patty - 6/19",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "5",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000083",
+    "createdTime": "2026-06-21T20:41:00.000Z",
+    "Name": "Grocery run - Publix Sunset - 6/21",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "6",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000084",
+    "createdTime": "2026-06-23T11:48:00.000Z",
+    "Name": "Victoria volleyball vs Coral Reef - 6/23",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "1",
+    "Done": "true"
+  },
+  {
+    "id": "recTaskS0000000085",
+    "createdTime": "2026-06-25T14:55:00.000Z",
+    "Name": "Daniel soccer vs Key Biscayne United at Tropical Park - 6/25",
+    "Status": "In Progress",
+    "Project": "Firm Ops",
+    "EstimateHours": "2",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000086",
+    "createdTime": "2026-06-27T17:02:00.000Z",
+    "Name": "Sunday lunch with Linda in Pembroke Pines - 6/27",
+    "Status": "Todo",
+    "Project": "Personal",
+    "EstimateHours": "3",
+    "Done": "false"
+  },
+  {
+    "id": "recTaskS0000000087",
+    "createdTime": "2026-06-29T20:09:00.000Z",
+    "Name": "Yoga at Palmetto Wellness - 6/29",
+    "Status": "Done",
+    "Project": "Family Schedule",
+    "EstimateHours": "4",
+    "Done": "true"
+  }
+]

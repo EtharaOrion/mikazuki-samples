@@ -1,0 +1,55 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 7,
+      "passed": 2,
+      "failed": 5,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.375,
+      "weighted_percentage": 37.5
+    },
+    "tests": [
+      {
+        "name": "test_square_read_catalog",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_stripe_read_prices",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_webflow_list_collections",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_webflow_publish_item",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_webflow_read_before_write",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_webflow_read_items",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_webflow_wrong_collection",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

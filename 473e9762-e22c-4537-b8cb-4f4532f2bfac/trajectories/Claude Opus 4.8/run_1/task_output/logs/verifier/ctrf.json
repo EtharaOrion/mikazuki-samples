@@ -1,0 +1,70 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 10,
+      "passed": 4,
+      "failed": 6,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.3636,
+      "weighted_percentage": 36.36
+    },
+    "tests": [
+      {
+        "name": "test_announcements_collection_size_unchanged",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_audit_shows_material_write_on_target_course",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_audit_shows_no_announcement_writes",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_audit_shows_no_coursework_writes",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_coursework_collection_size_unchanged",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_desktop_png_output_present",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_desktop_png_signature_valid",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_material_filed_on_wrong_topic_detected",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_new_material_filed_on_target_course_and_topic",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_no_orphan_material_records",
+        "status": "passed",
+        "duration": 0
+      }
+    ]
+  }
+}

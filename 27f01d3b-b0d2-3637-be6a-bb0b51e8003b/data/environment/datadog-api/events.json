@@ -1,0 +1,122 @@
+[
+  {
+    "id": 500001,
+    "title": "Deploy crossroadsconservatory.com v2.4.0",
+    "text": "Booking site updated to v2.4.0 \u2014 online registration page added.",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "crossroads-web-01",
+    "tags": "host:crossroads-web-01;event:deploy",
+    "date_happened": 1773133200
+  },
+  {
+    "id": 500002,
+    "title": "Monitor alert: Slow page load",
+    "text": "Monitor triggered: homepage load time exceeded 3.5s for 5 minutes.",
+    "alert_type": "error",
+    "priority": "normal",
+    "host": "crossroads-web-01",
+    "tags": "host:crossroads-web-01;monitor:1001",
+    "date_happened": 1773583200
+  },
+  {
+    "id": 500003,
+    "title": "Monitor recovered: Page load normal",
+    "text": "Homepage load time back under 2s. Cache warming completed.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "crossroads-web-01",
+    "tags": "host:crossroads-web-01;monitor:1001",
+    "date_happened": 1773586800
+  },
+  {
+    "id": 500004,
+    "title": "SSL certificate renewed",
+    "text": "Cloudflare SSL cert renewed for crossroadsconservatory.com \u2014 valid 90 days.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "crossroads-web-01",
+    "tags": "host:crossroads-web-01;event:ssl",
+    "date_happened": 1773828000
+  },
+  {
+    "id": 500006,
+    "title": "Student progress review",
+    "text": "Homepage load time back under 2s. Cache warming completed.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "crossroads-web-01",
+    "tags": "host:crossroads-web-01;monitor:1001",
+    "date_happened": 1773586800
+  },
+  {
+    "id": 500008,
+    "title": "Enrollment inquiry follow-up",
+    "text": "Cloudflare SSL cert renewed for crossroadsconservatory.com \u2014 valid 90 days.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "crossroads-web-01",
+    "tags": "host:crossroads-web-01;event:ssl",
+    "date_happened": 1773828000
+  },
+  {
+    "id": 500010,
+    "title": "Summer camp registration",
+    "text": "Homepage load time back under 2s. Cache warming completed.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "crossroads-web-01",
+    "tags": "host:crossroads-web-01;monitor:1001",
+    "date_happened": 1773586800
+  },
+  {
+    "id": 500012,
+    "title": "Substitute coverage",
+    "text": "Cloudflare SSL cert renewed for crossroadsconservatory.com \u2014 valid 90 days.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "crossroads-web-01",
+    "tags": "host:crossroads-web-01;event:ssl",
+    "date_happened": 1773828000
+  },
+  {
+    "id": 500014,
+    "title": "Ensemble arrangement rewrite",
+    "text": "Homepage load time back under 2s. Cache warming completed.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "crossroads-web-01",
+    "tags": "host:crossroads-web-01;monitor:1001",
+    "date_happened": 1773586800
+  },
+  {
+    "id": 500016,
+    "title": "Recital program layout",
+    "text": "Cloudflare SSL cert renewed for crossroadsconservatory.com \u2014 valid 90 days.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "crossroads-web-01",
+    "tags": "host:crossroads-web-01;event:ssl",
+    "date_happened": 1773828000
+  },
+  {
+    "id": 500018,
+    "title": "Second album pre-production notes",
+    "text": "Homepage load time back under 2s. Cache warming completed.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "crossroads-web-01",
+    "tags": "host:crossroads-web-01;monitor:1001",
+    "date_happened": 1773586800
+  },
+  {
+    "id": 500020,
+    "title": "Venue confirmation thread",
+    "text": "Cloudflare SSL cert renewed for crossroadsconservatory.com \u2014 valid 90 days.",
+    "alert_type": "info",
+    "priority": "low",
+    "host": "crossroads-web-01",
+    "tags": "host:crossroads-web-01;event:ssl",
+    "date_happened": 1773828000
+  }
+]

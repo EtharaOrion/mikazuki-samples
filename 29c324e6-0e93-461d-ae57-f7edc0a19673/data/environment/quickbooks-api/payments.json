@@ -1,0 +1,422 @@
+[
+  {
+    "Id": "4001",
+    "TxnDate": "2026-03-05",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Monica Foster"
+    },
+    "TotalAmt": 220.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5001",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Tuition payment applied to INV-2026-0301."
+  },
+  {
+    "Id": "4002",
+    "TxnDate": "2026-03-06",
+    "CustomerRef": {
+      "value": "2",
+      "name": "David Brennan"
+    },
+    "TotalAmt": 220.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5002",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Tuition payment applied to INV-2026-0302."
+  },
+  {
+    "Id": "4100",
+    "TxnDate": "2026-01-05",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Monica Foster"
+    },
+    "TotalAmt": 220.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6000",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Tuition payment applied via Stripe payout."
+  },
+  {
+    "Id": "4101",
+    "TxnDate": "2026-01-08",
+    "CustomerRef": {
+      "value": "2",
+      "name": "David Brennan"
+    },
+    "TotalAmt": 220.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6001",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Tuition payment applied via Stripe payout."
+  },
+  {
+    "Id": "4102",
+    "TxnDate": "2026-01-11",
+    "CustomerRef": {
+      "value": "3",
+      "name": "Priya Nair"
+    },
+    "TotalAmt": 220.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6002",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Tuition payment applied via Stripe payout."
+  },
+  {
+    "Id": "4103",
+    "TxnDate": "2026-01-14",
+    "CustomerRef": {
+      "value": "4",
+      "name": "Karen Wallace"
+    },
+    "TotalAmt": 220.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6003",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Tuition payment applied via Stripe payout."
+  },
+  {
+    "Id": "4104",
+    "TxnDate": "2026-01-17",
+    "CustomerRef": {
+      "value": "5",
+      "name": "Tom Schroeder"
+    },
+    "TotalAmt": 220.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6004",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Tuition payment applied via Stripe payout."
+  },
+  {
+    "Id": "4105",
+    "TxnDate": "2026-01-20",
+    "CustomerRef": {
+      "value": "6",
+      "name": "Angela Reyes"
+    },
+    "TotalAmt": 220.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6005",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Tuition payment applied via Stripe payout."
+  },
+  {
+    "Id": "4106",
+    "TxnDate": "2026-01-23",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Heartland Jazz Festival"
+    },
+    "TotalAmt": 220.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6006",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Tuition payment applied via Stripe payout."
+  },
+  {
+    "Id": "4107",
+    "TxnDate": "2026-01-26",
+    "CustomerRef": {
+      "value": "101",
+      "name": "Priya Nair"
+    },
+    "TotalAmt": 220.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6007",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Tuition payment applied via Stripe payout."
+  },
+  {
+    "Id": "5001",
+    "TxnDate": "2026-03-05",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Monica Foster"
+    },
+    "TotalAmt": 225.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5001",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Recorded a rough take of the ballad \u2014 needs another pass on the head-out."
+  },
+  {
+    "Id": "5002",
+    "TxnDate": "2026-03-06",
+    "CustomerRef": {
+      "value": "2",
+      "name": "David Brennan"
+    },
+    "TotalAmt": 225.5,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "5002",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Reviewed the summer camp roster \u2014 18 confirmed, 2 waitlist."
+  },
+  {
+    "Id": "5100",
+    "TxnDate": "2026-01-05",
+    "CustomerRef": {
+      "value": "1",
+      "name": "Monica Foster"
+    },
+    "TotalAmt": 226.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6000",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Second album pre-production: 6 tunes committed, 4 still under discussion."
+  },
+  {
+    "Id": "5101",
+    "TxnDate": "2026-01-08",
+    "CustomerRef": {
+      "value": "2",
+      "name": "David Brennan"
+    },
+    "TotalAmt": 226.5,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6001",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "5th Anniversary Showcase run-of-show draft complete."
+  },
+  {
+    "Id": "5102",
+    "TxnDate": "2026-01-11",
+    "CustomerRef": {
+      "value": "3",
+      "name": "Priya Nair"
+    },
+    "TotalAmt": 227.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6002",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Confirmed the lesson slot with the parent \u2014 Tuesday 4pm."
+  },
+  {
+    "Id": "5103",
+    "TxnDate": "2026-01-14",
+    "CustomerRef": {
+      "value": "4",
+      "name": "Karen Wallace"
+    },
+    "TotalAmt": 227.5,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6003",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Ray suggested tightening the bridge on the fifth chart before the Spotlight Room date."
+  },
+  {
+    "Id": "5104",
+    "TxnDate": "2026-01-17",
+    "CustomerRef": {
+      "value": "5",
+      "name": "Tom Schroeder"
+    },
+    "TotalAmt": 228.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6004",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Claire flagged that we need a substitute for Thursday's ensemble."
+  },
+  {
+    "Id": "5105",
+    "TxnDate": "2026-01-20",
+    "CustomerRef": {
+      "value": "6",
+      "name": "Angela Reyes"
+    },
+    "TotalAmt": 228.5,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6005",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Sofia asked about the winter choir concert \u2014 logistics locked in."
+  },
+  {
+    "Id": "5106",
+    "TxnDate": "2026-01-23",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Heartland Jazz Festival"
+    },
+    "TotalAmt": 229.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6006",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Frank sent notes on the Coltrane transcription \u2014 apply on Sunday."
+  },
+  {
+    "Id": "5107",
+    "TxnDate": "2026-01-26",
+    "CustomerRef": {
+      "value": "101",
+      "name": "Priya Nair"
+    },
+    "TotalAmt": 229.5,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "6007",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 220.0
+      }
+    ],
+    "PrivateNote": "Tomoko rescheduled the Tuesday rehearsal to 7:15."
+  }
+]

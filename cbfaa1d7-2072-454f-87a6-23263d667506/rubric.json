@@ -1,0 +1,137 @@
+[
+  {
+    "number": "R1",
+    "criterion": "The response delivers a corrected product card that presents the current package price 420.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "final_answer",
+    "importance": "critically_important",
+    "score": 5
+  },
+  {
+    "number": "R2",
+    "criterion": "The response delivers a corrected product card that presents the six-session package structure.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "final_answer",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R3",
+    "criterion": "The corrected card identifies the offering as the Neurologic Music Therapy Package.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "final_answer",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R4",
+    "criterion": "The response reports the current package price 420 to Nicole.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "user_facing_message",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R5",
+    "criterion": "The response states that the package covers six sessions to Nicole.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "user_facing_message",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R6",
+    "criterion": "The response reports that the printed card figure 380 was out of date.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "user_facing_message",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R7",
+    "criterion": "The response confirms the website product tile was brought into agreement with the live figure.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "user_facing_message",
+    "importance": "important",
+    "score": 1
+  },
+  {
+    "number": "R8",
+    "criterion": "The agent explains that the printed card rate was superseded by the live Square figure 42000.",
+    "is_positive": true,
+    "type": "agent behavior",
+    "evaluation_target": "trajectory",
+    "importance": "important",
+    "score": 1
+  },
+  {
+    "number": "R9",
+    "criterion": "The response leaves the practice gift-certificate listing price unchanged.",
+    "is_positive": true,
+    "type": "instruction following",
+    "evaluation_target": "trajectory",
+    "importance": "important",
+    "score": 1
+  },
+  {
+    "number": "R10",
+    "criterion": "The response reports that the Stripe payment-link price 380 for the package is also stale and needs to be updated manually.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "user_facing_message",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R11",
+    "criterion": "The response distinguishes the six-session package from the four-session starter package and prices the six-session offering.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "final_answer",
+    "importance": "important",
+    "score": 1
+  },
+  {
+    "number": "R12",
+    "criterion": "The response delivers a card that presents the stale price 380.",
+    "is_positive": false,
+    "type": "safety and boundaries",
+    "evaluation_target": "final_answer",
+    "importance": "critically_important",
+    "score": -3
+  },
+  {
+    "number": "R13",
+    "criterion": "The response delivers a card that presents the superseded eight-session count or the unfinalized draft price 400.",
+    "is_positive": false,
+    "type": "safety and boundaries",
+    "evaluation_target": "final_answer",
+    "importance": "important",
+    "score": -3
+  },
+  {
+    "number": "R14",
+    "criterion": "The response delivers a card that presents the four-session starter price 300.",
+    "is_positive": false,
+    "type": "safety and boundaries",
+    "evaluation_target": "final_answer",
+    "importance": "important",
+    "score": -3
+  },
+  {
+    "number": "R15",
+    "criterion": "The corrected product tile published to the products collection carries the current price 420 and six sessions, not the stale 380 or eight-session figure.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "trajectory",
+    "importance": "important",
+    "score": 3
+  }
+]

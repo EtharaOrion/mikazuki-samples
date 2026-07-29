@@ -1,0 +1,35 @@
+{
+  "item": {
+    "item_id": "item_heartland_4b2d8e",
+    "institution_id": "ins_109721",
+    "webhook": "https://crossroadsconservatory.com/plaid/webhook",
+    "available_products": [
+      "balance",
+      "identity"
+    ],
+    "billed_products": [
+      "transactions",
+      "auth"
+    ],
+    "consent_expiration_time": "2025-11-08T15:30:00-06:00",
+    "update_type": "background"
+  },
+  "institution": {
+    "institution_id": "ins_109721",
+    "name": "Heartland Trust Bank",
+    "products": [
+      "transactions",
+      "auth",
+      "balance",
+      "identity"
+    ],
+    "country_codes": [
+      "US"
+    ],
+    "url": "https://www.heartlandtrustbank.com",
+    "primary_color": "#1F5C3D",
+    "routing_numbers": [
+      "101000695"
+    ]
+  }
+}

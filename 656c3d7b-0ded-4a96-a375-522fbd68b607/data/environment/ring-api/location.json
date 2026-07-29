@@ -1,0 +1,29 @@
+{
+  "address": {
+    "city": "Thornfield",
+    "country": "US",
+    "state": "MA",
+    "street1": "811 Maple Street",
+    "street2": "Apt 312",
+    "zip": "02118"
+  },
+  "created_at": "2025-01-06T00:00:00Z",
+  "latitude": 42.3601,
+  "location_id": "loc_6e700b951a72",
+  "longitude": -71.0589,
+  "mode": "home",
+  "name": "Dorothy's Home",
+  "owner": {
+    "email": "dorothy.langston@finthesiss.ai",
+    "first_name": "Dorothy",
+    "id": 77476712,
+    "last_name": "Langston"
+  },
+  "subscription": {
+    "plan": "ring_protect_plus",
+    "status": "active",
+    "video_history_days": 60
+  },
+  "time_zone": "America/New_York",
+  "updated_at": "2026-06-30T00:00:00Z"
+}

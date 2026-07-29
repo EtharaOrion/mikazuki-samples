@@ -1,0 +1,202 @@
+[
+  {
+    "id": 500001,
+    "title": "Choir President",
+    "text": "Pledge $500 processed via Stripe to convention fund.",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "gawcenter.org",
+    "tags": "service:auth-service;event:deploy",
+    "date_happened": 1748250000
+  },
+  {
+    "id": 500002,
+    "title": "Section Leader",
+    "text": "Convention bus deposit signed and returned to Peach State.",
+    "alert_type": "error",
+    "priority": "normal",
+    "host": "gawcenter.org",
+    "tags": "service:auth-service;monitor:1001",
+    "date_happened": 1748250600
+  },
+  {
+    "id": 500003,
+    "title": "Organist",
+    "text": "Reminder: Ruth's rheumatology at Peachtree, Thursday 10 AM.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "gawcenter.org",
+    "tags": "host:web-01;monitor:1003",
+    "date_happened": 1748190000
+  },
+  {
+    "id": 500004,
+    "title": "Youth Program Director",
+    "text": "Youth band Saturday 3-5 PM - Emmanuel bringing his kit.",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "gawcenter.org",
+    "tags": "service:web-frontend;event:autoscale",
+    "date_happened": 1748232000
+  },
+  {
+    "id": 500001,
+    "title": "Section Leader",
+    "text": "Studio at 2 PM tomorrow for Track 4 comp - Derek confirmed.",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "gawcenter.org",
+    "tags": "service:auth-service;event:deploy",
+    "date_happened": 1748250000
+  },
+  {
+    "id": 500002,
+    "title": "Choir President",
+    "text": "Pledge $500 processed via Stripe to convention fund.",
+    "alert_type": "error",
+    "priority": "normal",
+    "host": "gawcenter.org",
+    "tags": "service:auth-service;monitor:1001",
+    "date_happened": 1748250600
+  },
+  {
+    "id": 500003,
+    "title": "Associate Music Director",
+    "text": "Convention bus deposit signed and returned to Peach State.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "gawcenter.org",
+    "tags": "host:web-01;monitor:1003",
+    "date_happened": 1748190000
+  },
+  {
+    "id": 500004,
+    "title": "Senior Pastor",
+    "text": "Reminder: Ruth's rheumatology at Peachtree, Thursday 10 AM.",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "gawcenter.org",
+    "tags": "service:web-frontend;event:autoscale",
+    "date_happened": 1748232000
+  },
+  {
+    "id": 500001,
+    "title": "Gospel Choir Director",
+    "text": "Youth band Saturday 3-5 PM - Emmanuel bringing his kit.",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "gawcenter.org",
+    "tags": "service:auth-service;event:deploy",
+    "date_happened": 1748250000
+  },
+  {
+    "id": 500002,
+    "title": "Music Director",
+    "text": "Steinway tuning Tuesday Oct 13 at 10 AM - sanctuary blocked.",
+    "alert_type": "error",
+    "priority": "normal",
+    "host": "gawcenter.org",
+    "tags": "service:auth-service;monitor:1001",
+    "date_happened": 1748250600
+  },
+  {
+    "id": 500003,
+    "title": "CPA",
+    "text": "Wilson family confirmed Deacons hotel block Dallas.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "gawcenter.org",
+    "tags": "host:web-01;monitor:1003",
+    "date_happened": 1748190000
+  },
+  {
+    "id": 500004,
+    "title": "Producer",
+    "text": "Sunday dinner: pho ga + fresh spring rolls - arrive 2 PM.",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "gawcenter.org",
+    "tags": "service:web-frontend;event:autoscale",
+    "date_happened": 1748232000
+  },
+  {
+    "id": 500001,
+    "title": "Volunteer Designer",
+    "text": "Confirmed for Thursday 7 PM rehearsal.",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "gawcenter.org",
+    "tags": "service:auth-service;event:deploy",
+    "date_happened": 1748250000
+  },
+  {
+    "id": 500002,
+    "title": "Volunteer Developer",
+    "text": "Sunday 11 AM contemporary - need Way Maker in G, not Ab.",
+    "alert_type": "error",
+    "priority": "normal",
+    "host": "gawcenter.org",
+    "tags": "service:auth-service;monitor:1001",
+    "date_happened": 1748250600
+  },
+  {
+    "id": 500003,
+    "title": "Youth Program Director",
+    "text": "Studio at 2 PM tomorrow for Track 4 comp - Derek confirmed.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "gawcenter.org",
+    "tags": "host:web-01;monitor:1003",
+    "date_happened": 1748190000
+  },
+  {
+    "id": 500004,
+    "title": "Organist",
+    "text": "Pledge $500 processed via Stripe to convention fund.",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "gawcenter.org",
+    "tags": "service:web-frontend;event:autoscale",
+    "date_happened": 1748232000
+  },
+  {
+    "id": 500001,
+    "title": "Section Leader",
+    "text": "Convention bus deposit signed and returned to Peach State.",
+    "alert_type": "info",
+    "priority": "normal",
+    "host": "gawcenter.org",
+    "tags": "service:auth-service;event:deploy",
+    "date_happened": 1748250000
+  },
+  {
+    "id": 500002,
+    "title": "Choir President",
+    "text": "Reminder: Ruth's rheumatology at Peachtree, Thursday 10 AM.",
+    "alert_type": "error",
+    "priority": "normal",
+    "host": "gawcenter.org",
+    "tags": "service:auth-service;monitor:1001",
+    "date_happened": 1748250600
+  },
+  {
+    "id": 500003,
+    "title": "Associate Music Director",
+    "text": "Youth band Saturday 3-5 PM - Emmanuel bringing his kit.",
+    "alert_type": "success",
+    "priority": "low",
+    "host": "gawcenter.org",
+    "tags": "host:web-01;monitor:1003",
+    "date_happened": 1748190000
+  },
+  {
+    "id": 500004,
+    "title": "Senior Pastor",
+    "text": "Steinway tuning Tuesday Oct 13 at 10 AM - sanctuary blocked.",
+    "alert_type": "warning",
+    "priority": "normal",
+    "host": "gawcenter.org",
+    "tags": "service:web-frontend;event:autoscale",
+    "date_happened": 1748232000
+  }
+]

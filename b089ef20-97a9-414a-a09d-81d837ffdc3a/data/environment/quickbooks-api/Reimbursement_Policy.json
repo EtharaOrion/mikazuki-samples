@@ -1,0 +1,37 @@
+{
+  "policy_name": "Staff Expense Reimbursement Policy",
+  "version": "2026.Q2_Updated",
+  "validation_rules": [
+    {
+      "rule": "Alcohol",
+      "requirement": "Alcohol purchases on personal cards",
+      "action": "Manual Review",
+      "notes": "Only licensed beverage orders via approved vendors"
+    },
+    {
+      "rule": "Duplicates",
+      "requirement": "Duplicate receipt uploads",
+      "action": "Reject",
+      "notes": "Only one valid receipt per purchase"
+    },
+    {
+      "rule": "Reprints",
+      "requirement": "Reprinted register receipts",
+      "action": "Review",
+      "notes": "Must match bank or card statement"
+    },
+    {
+      "rule": "Missing Total",
+      "requirement": "Unreadable or missing totals",
+      "action": "Reject",
+      "notes": "Receipt must show legible total"
+    },
+    {
+      "rule": "Late Submission",
+      "requirement": "Submitted after 30 days",
+      "action": "Reject",
+      "notes": "Submit within pay period per Ellen's policy"
+    }
+  ],
+  "context": "Rules Ellen uses when reviewing staff out-of-pocket supply and grocery receipts for Eleanor's Tavern."
+}

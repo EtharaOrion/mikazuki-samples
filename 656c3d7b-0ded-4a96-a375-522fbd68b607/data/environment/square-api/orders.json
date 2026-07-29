@@ -1,0 +1,394 @@
+[
+  {
+    "created_at": "2026-06-29T09:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_006F00EFCAD80C0A1422E",
+    "id": "ORD_00FBFF053ADB5BD07C",
+    "line_items": [
+      "#var_9da022eceaa3x2"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "1100"
+  },
+  {
+    "created_at": "2026-06-27T15:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_006FE310FEABF8897E",
+    "id": "ORD_00EC1DA2A680E9F2E2",
+    "line_items": [
+      "#var_d4e16cd33af7x2",
+      "#var_8074501223b5x1"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "1275"
+  },
+  {
+    "created_at": "2026-06-25T19:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_00AA0F3B26BC3FB928",
+    "id": "ORD_0028236832C9A98FEB",
+    "line_items": [
+      "#var_9da022eceaa3x2",
+      "#var_d4e16cd33af7x2"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "2000"
+  },
+  {
+    "created_at": "2026-06-23T06:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_00AD1367217F77743B",
+    "id": "ORD_00B730799B3C7FE6AB",
+    "line_items": [
+      "#var_cac2ffffb109x2",
+      "#var_6fc58332f65fx1",
+      "#var_9aa96b70f625x1"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "3100"
+  },
+  {
+    "created_at": "2026-06-21T12:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_00C9EBFF06C13B5C28",
+    "id": "ORD_00E013C595577E04E1",
+    "line_items": [
+      "#var_71b62bd6e611x1"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "425"
+  },
+  {
+    "created_at": "2026-06-19T21:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_006F00EFCAD80C0A6E",
+    "id": "ORD_005F40676B01E0D82A",
+    "line_items": [
+      "#var_8074501223b5x1",
+      "#var_9da022eceaa3x1",
+      "#var_71b62bd6e611x2"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "1775"
+  },
+  {
+    "created_at": "2026-06-17T06:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_00174D0BA51B97B2253",
+    "id": "ORD_00C07CB213793213BC",
+    "line_items": [
+      "#var_71b62bd6e611x1"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "425"
+  },
+  {
+    "created_at": "2026-06-15T10:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_003F8166D0E881DF29",
+    "id": "ORD_005A863579758D54A6",
+    "line_items": [
+      "#var_6fc58332f65fx1",
+      "#var_907e819222bax2",
+      "#var_71b62bd6e611x1"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "2225"
+  },
+  {
+    "created_at": "2026-06-13T15:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_001E2891DBDF562069",
+    "id": "ORD_00ED9B60D039A59B4D",
+    "line_items": [
+      "#var_3517da0dafc9x2",
+      "#var_71b62bd6e611x2"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "3050"
+  },
+  {
+    "created_at": "2026-06-11T07:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_0055E1A636B79295A2503",
+    "id": "ORD_0074E9D6ABB48646DF",
+    "line_items": [
+      "#var_9aa96b70f625x2"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "700"
+  },
+  {
+    "created_at": "2026-06-09T13:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_00174D0BA51B97B541",
+    "id": "ORD_0014254DE67C49E9C7",
+    "line_items": [
+      "#var_d4e16cd33af7x1",
+      "#var_6fc58332f65fx1",
+      "#var_8cf805305507x2"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "2550"
+  },
+  {
+    "created_at": "2026-06-07T13:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_00AD1367217F73522B",
+    "id": "ORD_001B507CA7910DC355",
+    "line_items": [
+      "#var_8074501223b5x1",
+      "#var_6fc58332f65fx2"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "2475"
+  },
+  {
+    "created_at": "2026-06-05T21:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_001F0B5F21BC4F11093",
+    "id": "ORD_006626E8949AEC8448",
+    "line_items": [
+      "#var_9da022eceaa3x1"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "550"
+  },
+  {
+    "created_at": "2026-06-03T17:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_00A16D0FF7B02DD441",
+    "id": "ORD_008649CC7D29B7C821",
+    "line_items": [
+      "#var_9da022eceaa3x2",
+      "#var_d4e16cd33af7x1",
+      "#var_71b62bd6e611x1"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "1975"
+  },
+  {
+    "created_at": "2026-06-01T21:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_007005C030E5670A83",
+    "id": "ORD_000FB77D054DC603C7",
+    "line_items": [
+      "#var_9da022eceaa3x2",
+      "#var_cac2ffffb109x2"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "2800"
+  },
+  {
+    "created_at": "2026-05-30T18:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_00174D0BA51B97B5878",
+    "id": "ORD_0088F70DC162852D52",
+    "line_items": [
+      "#var_71b62bd6e611x2",
+      "#var_6fc58332f65fx2",
+      "#var_8074501223b5x1"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "3325"
+  },
+  {
+    "created_at": "2026-05-28T06:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_00E00888546B8D1287",
+    "id": "ORD_00F5BA7112173669DA",
+    "line_items": [
+      "#var_9da022eceaa3x1",
+      "#var_8074501223b5x1"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "925"
+  },
+  {
+    "created_at": "2026-05-26T18:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_0055E1A636B79295A8",
+    "id": "ORD_006CFA4EE4A16702F5",
+    "line_items": [
+      "#var_9da022eceaa3x1"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "550"
+  },
+  {
+    "created_at": "2026-05-24T12:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_001F0B5F21BC4F11727",
+    "id": "ORD_00432912DBEF367042",
+    "line_items": [
+      "#var_3517da0dafc9x2"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "2200"
+  },
+  {
+    "created_at": "2026-05-22T08:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_0014C8B0090330CB8A",
+    "id": "ORD_0037B3532B0D4667B0",
+    "line_items": [
+      "#var_71b62bd6e611x2"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "850"
+  },
+  {
+    "created_at": "2026-05-20T13:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_00AB84D8A9219A3545",
+    "id": "ORD_00E1357962782420BA",
+    "line_items": [
+      "#var_cac2ffffb109x1",
+      "#var_d4e16cd33af7x2"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "1750"
+  },
+  {
+    "created_at": "2026-05-18T23:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_006FE310FEABF10147E",
+    "id": "ORD_00BDD956C16434DF82",
+    "line_items": [
+      "#var_907e819222bax1",
+      "#var_d4e16cd33af7x1",
+      "#var_cac2ffffb109x2"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "2525"
+  },
+  {
+    "created_at": "2026-05-16T12:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_00AA0F3B26BC3FB928",
+    "id": "ORD_00E79453E819174F0A",
+    "line_items": [
+      "#var_9da022eceaa3x1"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "550"
+  },
+  {
+    "created_at": "2026-05-14T10:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_0081BFB648A7EA7F6F",
+    "id": "ORD_00C5B0A4A176A89BFE",
+    "line_items": [
+      "#var_9aa96b70f625x2",
+      "#var_907e819222bax1",
+      "#var_3517da0dafc9x2"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "3275"
+  },
+  {
+    "created_at": "2026-05-12T18:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_00C9EBFF06C13B5C7583",
+    "id": "ORD_00F99CF4945A7B351E",
+    "line_items": [
+      "#var_3517da0dafc9x1",
+      "#var_cac2ffffb109x2",
+      "#var_8074501223b5x2"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "3550"
+  },
+  {
+    "created_at": "2026-05-10T06:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_006F00EFCAD80C0A6E",
+    "id": "ORD_007A9AE17B88A60166",
+    "line_items": [
+      "#var_8cf805305507x1",
+      "#var_3517da0dafc9x1"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "1625"
+  },
+  {
+    "created_at": "2026-05-08T15:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_00B5891844DB79159A",
+    "id": "ORD_00641642CA4C9FD21C",
+    "line_items": [
+      "#var_6fc58332f65fx2",
+      "#var_d4e16cd33af7x2",
+      "#var_8074501223b5x1"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "3375"
+  },
+  {
+    "created_at": "2026-05-06T12:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_00C9EBFF06C13B5C9779",
+    "id": "ORD_00C10BCEFDB74DB2E7",
+    "line_items": [
+      "#var_8cf805305507x2",
+      "#var_3517da0dafc9x2",
+      "#var_71b62bd6e611x1"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "3675"
+  },
+  {
+    "created_at": "2026-05-04T17:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_001E2891DBDF562069",
+    "id": "ORD_00D5942D5E1E71EEE0",
+    "line_items": [
+      "#var_6fc58332f65fx1"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "1050"
+  },
+  {
+    "created_at": "2026-05-02T23:00:00Z",
+    "currency": "USD",
+    "customer_id": "CUST_001F0B5F21BC4F3932",
+    "id": "ORD_007FEE7B8E1699F69E",
+    "line_items": [
+      "#var_8074501223b5x1",
+      "#var_9aa96b70f625x1",
+      "#var_8cf805305507x1"
+    ],
+    "location_id": "LOC_MAIN",
+    "state": "COMPLETED",
+    "total_amount": "1250"
+  }
+]

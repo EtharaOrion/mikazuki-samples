@@ -1,0 +1,254 @@
+[
+  {
+    "Id": "7001",
+    "DocNumber": "E-7001",
+    "TxnDate": "2026-03-15",
+    "ExpirationDate": "2026-12-14",
+    "CustomerRef": {
+      "value": "106",
+      "name": "MIT Computational Biology Symposium"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 1650.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Winter Symposium 2027 travel budget estimate - Amtrak Trenton to Boston, Airbnb Cambridge, ground transit, meals.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Conference Travel Reimbursement"
+          },
+          "UnitPrice": 1650.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 1650.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "",
+    "SyncToken": "0",
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2026-09-15T09:00:00-04:00",
+      "LastUpdatedTime": "2026-09-15T09:00:00-04:00"
+    }
+  },
+  {
+    "Id": "7002",
+    "DocNumber": "E-7002",
+    "TxnDate": "2026-10-01",
+    "ExpirationDate": "2026-12-30",
+    "CustomerRef": {
+      "value": "108",
+      "name": "Northeast Structural Biology Consortium"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 780.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "NESBC 2027 travel budget estimate.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Conference Travel Reimbursement"
+          },
+          "UnitPrice": 780.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 780.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "",
+    "SyncToken": "0",
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2026-10-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-10-01T09:00:00-04:00"
+    }
+  },
+  {
+    "Id": "7003",
+    "DocNumber": "E-7003",
+    "TxnDate": "2026-02-15",
+    "ExpirationDate": "2026-11-13",
+    "CustomerRef": {
+      "value": "103",
+      "name": "National Genomics Consortium"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 420.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "NGC Grantee All-Hands 2026 travel budget estimate.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Conference Travel Reimbursement"
+          },
+          "UnitPrice": 420.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 420.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "",
+    "SyncToken": "0",
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2026-08-15T09:00:00-04:00",
+      "LastUpdatedTime": "2026-08-15T09:00:00-04:00"
+    }
+  },
+  {
+    "Id": "7004",
+    "DocNumber": "E-7004",
+    "TxnDate": "2026-02-15",
+    "ExpirationDate": "2026-11-13",
+    "CustomerRef": {
+      "value": "102",
+      "name": "Whitfield Foundation for Science"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 950.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Whitfield Q3 Update Webinar travel budget - Boston day trip.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Conference Travel Reimbursement"
+          },
+          "UnitPrice": 950.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 950.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "",
+    "SyncToken": "0",
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2026-08-15T09:00:00-04:00",
+      "LastUpdatedTime": "2026-08-15T09:00:00-04:00"
+    }
+  },
+  {
+    "Id": "7005",
+    "DocNumber": "E-7005",
+    "TxnDate": "2026-11-01",
+    "ExpirationDate": "2027-01-30",
+    "CustomerRef": {
+      "value": "104",
+      "name": "Ashvale Technology Institute - Reunion Fund"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 450.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Ashvale Alumni Reunion 2026 travel budget.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Conference Travel Reimbursement"
+          },
+          "UnitPrice": 450.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 450.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "",
+    "SyncToken": "0",
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2026-11-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-11-01T09:00:00-04:00"
+    }
+  },
+  {
+    "Id": "7006",
+    "DocNumber": "E-7006",
+    "TxnDate": "2026-12-01",
+    "ExpirationDate": "2027-03-01",
+    "CustomerRef": {
+      "value": "105",
+      "name": "Ridgemont Institute - Speaker Series"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 620.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Ridgemont Structural Bio Colloquium travel budget.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Conference Travel Reimbursement"
+          },
+          "UnitPrice": 620.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 620.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "",
+    "SyncToken": "0",
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2026-12-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-12-01T09:00:00-04:00"
+    }
+  },
+  {
+    "Id": "7007",
+    "DocNumber": "E-7007",
+    "TxnDate": "2027-02-01",
+    "ExpirationDate": "2027-05-02",
+    "CustomerRef": {
+      "value": "107",
+      "name": "Ashford Journal of Molecular Biology"
+    },
+    "Line": [
+      {
+        "Id": "1",
+        "LineNum": 1,
+        "Amount": 380.0,
+        "DetailType": "SalesItemLineDetail",
+        "Description": "Special-issue editorial meeting travel budget - London remote.",
+        "SalesItemLineDetail": {
+          "ItemRef": {
+            "value": "6",
+            "name": "Conference Travel Reimbursement"
+          },
+          "UnitPrice": 380.0,
+          "Qty": 1
+        }
+      }
+    ],
+    "TotalAmt": 380.0,
+    "TxnStatus": "Accepted",
+    "AcceptedDate": "",
+    "SyncToken": "0",
+    "LinkedTxn": [],
+    "MetaData": {
+      "CreateTime": "2027-02-01T09:00:00-04:00",
+      "LastUpdatedTime": "2027-02-01T09:00:00-04:00"
+    }
+  }
+]

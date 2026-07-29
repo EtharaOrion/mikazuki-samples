@@ -1,0 +1,66 @@
+[
+  {
+    "id": "dst_wh01",
+    "name": "Snowflake Warehouse",
+    "slug": "snowflake",
+    "enabled": "true",
+    "source_id": "src_web01",
+    "created_at": "2026-04-06T01:39:03+00:00"
+  },
+  {
+    "id": "dst_em01",
+    "name": "Customer.io",
+    "slug": "customer-io",
+    "enabled": "true",
+    "source_id": "src_ios01",
+    "created_at": "2026-04-15T23:07:10+00:00"
+  },
+  {
+    "id": "dst_an01",
+    "name": "Mixpanel",
+    "slug": "mixpanel",
+    "enabled": "true",
+    "source_id": "src_and01",
+    "created_at": "2026-05-15T10:50:55+00:00"
+  },
+  {
+    "id": "dst_ads01",
+    "name": "Google Ads",
+    "slug": "google-ads",
+    "enabled": "false",
+    "source_id": "src_srv01",
+    "created_at": "2026-06-09T20:36:40+00:00"
+  },
+  {
+    "id": "dst_amp01",
+    "name": "Amplitude",
+    "slug": "amplitude",
+    "enabled": "false",
+    "source_id": "src_old01",
+    "created_at": "2026-07-01T06:01:58+00:00"
+  },
+  {
+    "id": "dst_sg01",
+    "name": "SendGrid",
+    "slug": "sendgrid",
+    "enabled": "false",
+    "source_id": "src_app01",
+    "created_at": "2026-07-01T20:32:00+00:00"
+  },
+  {
+    "id": "dst_sf01",
+    "name": "Salesforce",
+    "slug": "salesforce",
+    "enabled": "false",
+    "source_id": "src_etl01",
+    "created_at": "2026-06-21T05:00:12+00:00"
+  },
+  {
+    "id": "dst_hs01",
+    "name": "HubSpot",
+    "slug": "hubspot",
+    "enabled": "false",
+    "source_id": "src_chat01",
+    "created_at": "2026-07-13T04:31:19+00:00"
+  }
+]

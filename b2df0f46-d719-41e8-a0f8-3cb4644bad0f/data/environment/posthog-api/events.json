@@ -1,0 +1,178 @@
+[
+  {
+    "id": "ev_ph_00000000",
+    "event": "intake_submitted",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-10-05T11:00:00-05:00",
+    "distinct_id": "michelle_brooks"
+  },
+  {
+    "id": "ev_ph_00000001",
+    "event": "retainer_paid",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-10-07T11:00:00-05:00",
+    "distinct_id": "patty_sullivan"
+  },
+  {
+    "id": "ev_ph_00000002",
+    "event": "calendar_view",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-10-09T11:00:00-05:00",
+    "distinct_id": "emily_taylor"
+  },
+  {
+    "id": "ev_ph_00000003",
+    "event": "portal_login",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-10-12T11:00:00-05:00",
+    "distinct_id": "margaret_stevens"
+  },
+  {
+    "id": "ev_ph_00000004",
+    "event": "document_uploaded",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-10-14T11:00:00-05:00",
+    "distinct_id": "rob_mitchell"
+  },
+  {
+    "id": "ev_ph_00000005",
+    "event": "newsletter_sent",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-10-16T11:00:00-05:00",
+    "distinct_id": "victoria_brooks"
+  },
+  {
+    "id": "ev_ph_00000006",
+    "event": "invoice_generated",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-10-19T11:00:00-05:00",
+    "distinct_id": "linda_brooks"
+  },
+  {
+    "id": "ev_ph_00000007",
+    "event": "payment_received",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-10-21T11:00:00-05:00",
+    "distinct_id": "coach_ramsey"
+  },
+  {
+    "id": "ev_ph_00000008",
+    "event": "time_entry",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-10-23T11:00:00-05:00",
+    "distinct_id": "ada_tomas"
+  },
+  {
+    "id": "ev_ph_00000009",
+    "event": "case_note_added",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-10-26T11:00:00-05:00",
+    "distinct_id": "carlos_ruiz"
+  },
+  {
+    "id": "ev_ph_00000010",
+    "event": "mediation_completed",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-10-28T11:00:00-05:00",
+    "distinct_id": "janet_holcomb"
+  },
+  {
+    "id": "ev_ph_00000011",
+    "event": "court_date_added",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-10-30T11:00:00-05:00",
+    "distinct_id": "dolores_ortiz"
+  },
+  {
+    "id": "ev_ph_00000012",
+    "event": "email_sent",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-11-02T11:00:00-05:00",
+    "distinct_id": "lauren_sandoval"
+  },
+  {
+    "id": "ev_ph_00000013",
+    "event": "email_opened",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-11-04T11:00:00-05:00",
+    "distinct_id": "mateo_delvalle"
+  },
+  {
+    "id": "ev_ph_00000014",
+    "event": "client_signup",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-11-06T11:00:00-05:00",
+    "distinct_id": "beth_west"
+  },
+  {
+    "id": "ev_ph_00000015",
+    "event": "client_archived",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-11-09T11:00:00-05:00",
+    "distinct_id": "daniela_mendez"
+  },
+  {
+    "id": "ev_ph_00000016",
+    "event": "probono_match",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-11-11T11:00:00-05:00",
+    "distinct_id": "frank_sterling"
+  },
+  {
+    "id": "ev_ph_00000017",
+    "event": "cle_logged",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-11-13T11:00:00-05:00",
+    "distinct_id": "susan_holloway"
+  },
+  {
+    "id": "ev_ph_00000018",
+    "event": "compliance_check",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-11-16T11:00:00-05:00",
+    "distinct_id": "howard_cousins"
+  },
+  {
+    "id": "ev_ph_00000019",
+    "event": "quarterly_review",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-11-18T11:00:00-05:00",
+    "distinct_id": "patricia_brookshale"
+  },
+  {
+    "id": "ev_ph_00000020",
+    "event": "tax_doc_uploaded",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-11-20T11:00:00-05:00",
+    "distinct_id": "michelle_brooks"
+  },
+  {
+    "id": "ev_ph_00000021",
+    "event": "year_end_close",
+    "project_id": "101",
+    "properties": "source=brooksfamilylaw.com;user=michelle.brooks",
+    "timestamp": "2026-11-23T11:00:00-05:00",
+    "distinct_id": "patty_sullivan"
+  }
+]

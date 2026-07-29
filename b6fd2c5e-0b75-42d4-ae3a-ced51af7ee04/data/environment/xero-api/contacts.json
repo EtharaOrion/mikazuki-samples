@@ -1,0 +1,222 @@
+[
+  {
+    "contact_id": "c0000001-0000-0000-0000-756790234101",
+    "name": "Vandelay Industries",
+    "first_name": "James",
+    "last_name": "Vaughn",
+    "email": "amanda.tran@Finthesiss.ai",
+    "is_customer": true,
+    "is_supplier": false,
+    "status": "ACTIVE",
+    "account_number": "VAND-001"
+  },
+  {
+    "contact_id": "c0000002-0000-0000-0000-756790234502",
+    "name": "Initech LLC",
+    "first_name": "Angela",
+    "last_name": "Chapman",
+    "email": "mreed@gawcenter.org",
+    "is_customer": true,
+    "is_supplier": false,
+    "status": "ACTIVE",
+    "account_number": "INIT-002"
+  },
+  {
+    "contact_id": "c0000003-0000-0000-0000-756790234903",
+    "name": "Globex Corporation",
+    "first_name": "Monica",
+    "last_name": "Bennett-Cole",
+    "email": "dj@soundcraftstudios.com",
+    "is_customer": true,
+    "is_supplier": false,
+    "status": "ACTIVE",
+    "account_number": "GLOB-003"
+  },
+  {
+    "contact_id": "c0000004-0000-0000-0000-756790235304",
+    "name": "GAW Center Supplies",
+    "first_name": "Michael",
+    "last_name": "Odom",
+    "email": "terrence.walker.drums@gmail.com",
+    "is_customer": false,
+    "is_supplier": true,
+    "status": "ACTIVE",
+    "account_number": "ACME-004"
+  },
+  {
+    "contact_id": "c0000005-0000-0000-0000-756790234305",
+    "name": "Stark Industries",
+    "first_name": "Janet",
+    "last_name": "Wilson",
+    "email": "endocrinology@peachtreeuniversity.org",
+    "is_customer": true,
+    "is_supplier": false,
+    "status": "ACTIVE",
+    "account_number": "STARK-005"
+  },
+  {
+    "contact_id": "c0000006-0000-0000-0000-756790234706",
+    "name": "Wonka Distribution",
+    "first_name": "Carolyn",
+    "last_name": "Banks",
+    "email": "primarycare@peachtreeuniversity.org",
+    "is_customer": false,
+    "is_supplier": true,
+    "status": "ACTIVE",
+    "account_number": "WONK-006"
+  },
+  {
+    "contact_id": "c0000007-0000-0000-0000-756790235107",
+    "name": "Hooli Inc",
+    "first_name": "Marcus",
+    "last_name": "Bostic",
+    "email": "rheumatology@peachtreeuniversity.org",
+    "is_customer": true,
+    "is_supplier": false,
+    "status": "ARCHIVED",
+    "account_number": "HOOL-007"
+  },
+  {
+    "contact_id": "c0000001-0000-0000-0000-0007",
+    "name": "Vandelay Industries",
+    "first_name": "Karen",
+    "last_name": "Pinkston",
+    "email": "vanessa.okwuosa@gmail.com",
+    "is_customer": true,
+    "is_supplier": false,
+    "status": "ACTIVE",
+    "account_number": "VAND-001"
+  },
+  {
+    "contact_id": "c0000002-0000-0000-0000-0008",
+    "name": "Initech LLC",
+    "first_name": "Cheryl",
+    "last_name": "Boykin",
+    "email": "renee.mabry@gmail.com",
+    "is_customer": true,
+    "is_supplier": false,
+    "status": "ACTIVE",
+    "account_number": "INIT-002"
+  },
+  {
+    "contact_id": "c0000003-0000-0000-0000-0009",
+    "name": "Globex Corporation",
+    "first_name": "Byron",
+    "last_name": "Chapman",
+    "email": "corey.fuller@gmail.com",
+    "is_customer": true,
+    "is_supplier": false,
+    "status": "ACTIVE",
+    "account_number": "GLOB-003"
+  },
+  {
+    "contact_id": "c0000004-0000-0000-0000-0010",
+    "name": "GAW Center Supplies",
+    "first_name": "Wilfred",
+    "last_name": "Pinkston",
+    "email": "franklin.meade@gmail.com",
+    "is_customer": false,
+    "is_supplier": true,
+    "status": "ACTIVE",
+    "account_number": "ACME-004"
+  },
+  {
+    "contact_id": "c0000005-0000-0000-0000-0011",
+    "name": "Stark Industries",
+    "first_name": "Elijah",
+    "last_name": "Tran",
+    "email": "malia.perryman.family@gmail.com",
+    "is_customer": true,
+    "is_supplier": false,
+    "status": "ACTIVE",
+    "account_number": "STARK-005"
+  },
+  {
+    "contact_id": "c0000006-0000-0000-0000-0012",
+    "name": "Wonka Distribution",
+    "first_name": "Kaia",
+    "last_name": "Kim",
+    "email": "talia.sinclair.family@gmail.com",
+    "is_customer": false,
+    "is_supplier": true,
+    "status": "ACTIVE",
+    "account_number": "WONK-006"
+  },
+  {
+    "contact_id": "c0000007-0000-0000-0000-0013",
+    "name": "Hooli Inc",
+    "first_name": "Emmanuel",
+    "last_name": "Okwuosa",
+    "email": "ruth.nguyen1951@gmail.com",
+    "is_customer": true,
+    "is_supplier": false,
+    "status": "ARCHIVED",
+    "account_number": "HOOL-007"
+  },
+  {
+    "contact_id": "c0000001-0000-0000-0000-0014",
+    "name": "Vandelay Industries",
+    "first_name": "Amanda",
+    "last_name": "Mabry",
+    "email": "primarycare@peachtreeuniversity.org",
+    "is_customer": true,
+    "is_supplier": false,
+    "status": "ACTIVE",
+    "account_number": "VAND-001"
+  },
+  {
+    "contact_id": "c0000002-0000-0000-0000-0015",
+    "name": "Initech LLC",
+    "first_name": "Marlene",
+    "last_name": "Fuller",
+    "email": "yolanda.preston@gmail.com",
+    "is_customer": true,
+    "is_supplier": false,
+    "status": "ACTIVE",
+    "account_number": "INIT-002"
+  },
+  {
+    "contact_id": "c0000003-0000-0000-0000-0016",
+    "name": "Globex Corporation",
+    "first_name": "Carolyn",
+    "last_name": "Meade",
+    "email": "deborah.wilson@gmail.com",
+    "is_customer": true,
+    "is_supplier": false,
+    "status": "ACTIVE",
+    "account_number": "GLOB-003"
+  },
+  {
+    "contact_id": "c0000004-0000-0000-0000-0017",
+    "name": "GAW Center Supplies",
+    "first_name": "Kelvin",
+    "last_name": "Perryman",
+    "email": "andre.delaney@gmail.com",
+    "is_customer": false,
+    "is_supplier": true,
+    "status": "ACTIVE",
+    "account_number": "ACME-004"
+  },
+  {
+    "contact_id": "c0000005-0000-0000-0000-0018",
+    "name": "Stark Industries",
+    "first_name": "James",
+    "last_name": "Sinclair",
+    "email": "curtis.ellison@gmail.com",
+    "is_customer": true,
+    "is_supplier": false,
+    "status": "ACTIVE",
+    "account_number": "STARK-005"
+  },
+  {
+    "contact_id": "c0000006-0000-0000-0000-0019",
+    "name": "Wonka Distribution",
+    "first_name": "Aaliyah",
+    "last_name": "Brooks",
+    "email": "jaxon.whitmore.family@gmail.com",
+    "is_customer": false,
+    "is_supplier": true,
+    "status": "ACTIVE",
+    "account_number": "WONK-006"
+  }
+]

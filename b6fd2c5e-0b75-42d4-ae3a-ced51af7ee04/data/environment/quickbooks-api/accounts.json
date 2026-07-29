@@ -1,0 +1,269 @@
+{
+  "QueryResponse": {
+    "Account": [
+      {
+        "Id": "1",
+        "Name": "GAW Center - Music Ministry Operating",
+        "AccountType": "Bank",
+        "AccountSubType": "Checking",
+        "CurrentBalance": 5842.5,
+        "Active": true,
+        "Description": "Primary operating account for music ministry",
+        "Classification": "Asset"
+      },
+      {
+        "Id": "2",
+        "Name": "Convention Fund (Dallas 2026 - Restricted)",
+        "AccountType": "Bank",
+        "AccountSubType": "Savings",
+        "CurrentBalance": 19500.0,
+        "Active": true,
+        "Description": "Restricted funds for NGMA convention travel",
+        "Classification": "Asset"
+      },
+      {
+        "Id": "3",
+        "Name": "Album Project Fund",
+        "AccountType": "Bank",
+        "AccountSubType": "Savings",
+        "CurrentBalance": 3200.0,
+        "Active": true,
+        "Description": "Album production reserve",
+        "Classification": "Asset"
+      },
+      {
+        "Id": "4",
+        "Name": "Youth Music Program",
+        "AccountType": "Bank",
+        "AccountSubType": "Savings",
+        "CurrentBalance": 4100.0,
+        "Active": true,
+        "Description": "Restricted youth program funds",
+        "Classification": "Asset"
+      },
+      {
+        "Id": "5",
+        "Name": "Tithes & Offerings",
+        "AccountType": "Income",
+        "AccountSubType": "OtherPrimaryIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Weekly Sunday tithes and offerings",
+        "Classification": "Revenue"
+      },
+      {
+        "Id": "6",
+        "Name": "Sheet Music & Arrangements",
+        "AccountType": "Expense",
+        "AccountSubType": "SuppliesMaterials",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Anthem sheet music and arrangement purchases",
+        "Classification": "Expense"
+      },
+      {
+        "Id": "7",
+        "Name": "Steinway Maintenance",
+        "AccountType": "Expense",
+        "AccountSubType": "RepairMaintenance",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Quarterly tuning + occasional repair",
+        "Classification": "Expense"
+      },
+      {
+        "Id": "8",
+        "Name": "Studio & Recording",
+        "AccountType": "Expense",
+        "AccountSubType": "SuppliesMaterials",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Soundcraft session fees + mastering",
+        "Classification": "Expense"
+      },
+      {
+        "Id": "9",
+        "Name": "Guest Musicians",
+        "AccountType": "Expense",
+        "AccountSubType": "PayrollExpenses",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Guest section coaches, retainer soloists",
+        "Classification": "Expense"
+      },
+      {
+        "Id": "10",
+        "Name": "Convention Travel",
+        "AccountType": "Expense",
+        "AccountSubType": "Travel",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Dallas 2026: bus + hotel + meals + registration",
+        "Classification": "Expense"
+      },
+      {
+        "Id": "11",
+        "Name": "Album Pre-Order Clearing (WooCommerce)",
+        "AccountType": "Bank",
+        "AccountSubType": "Checking",
+        "CurrentBalance": 2340.75,
+        "Active": true,
+        "Description": "Album pre-order pass-through account, swept weekly to operating",
+        "Classification": "Asset"
+      },
+      {
+        "Id": "12",
+        "Name": "Tithe & Offering Income (Unrestricted)",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Weekly tithe + offering deposits",
+        "Classification": "Revenue"
+      },
+      {
+        "Id": "13",
+        "Name": "Convention Fund Donation Income (Restricted)",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Restricted convention fund donations",
+        "Classification": "Revenue"
+      },
+      {
+        "Id": "14",
+        "Name": "Album Pre-Order Income",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Cascade Grace album digital + CD pre-order revenue",
+        "Classification": "Revenue"
+      },
+      {
+        "Id": "15",
+        "Name": "Concert Ticket Income",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Fundraiser concert + guest concert ticket sales",
+        "Classification": "Revenue"
+      },
+      {
+        "Id": "16",
+        "Name": "Banh Mi Sale Income",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Vietnamese banh mi fundraiser sale batches",
+        "Classification": "Revenue"
+      },
+      {
+        "Id": "17",
+        "Name": "Choir Merchandise Income",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "T-shirts, tote bags, choir anniversary merch",
+        "Classification": "Revenue"
+      },
+      {
+        "Id": "18",
+        "Name": "Youth Program Tuition Income",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "22-student youth music program tuition",
+        "Classification": "Revenue"
+      },
+      {
+        "Id": "19",
+        "Name": "Grant Income (Music Foundation)",
+        "AccountType": "Income",
+        "AccountSubType": "SalesOfProductIncome",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Adaeze Njoku Music Foundation grant",
+        "Classification": "Revenue"
+      },
+      {
+        "Id": "20",
+        "Name": "Sheet Music Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "SuppliesMaterials",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Fred Bock, Beckenhorst, Sheet Music Plus catalog buys",
+        "Classification": "Expense"
+      },
+      {
+        "Id": "21",
+        "Name": "Guest Musician Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "PayrollExpenses",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Session guest musicians paid per Sunday",
+        "Classification": "Expense"
+      },
+      {
+        "Id": "22",
+        "Name": "Studio Session Fees (Soundcraft)",
+        "AccountType": "Expense",
+        "AccountSubType": "TravelExpense",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Album recording session studio time",
+        "Classification": "Expense"
+      },
+      {
+        "Id": "23",
+        "Name": "Charter Bus Expense (Convention)",
+        "AccountType": "Expense",
+        "AccountSubType": "TravelExpense",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Peach State Coaches ATL→Dallas Aug 4-9 2026",
+        "Classification": "Expense"
+      },
+      {
+        "Id": "24",
+        "Name": "Hotel Expense (Convention Block)",
+        "AccountType": "Expense",
+        "AccountSubType": "TravelExpense",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Sheraton Dallas convention hotel block",
+        "Classification": "Expense"
+      },
+      {
+        "Id": "25",
+        "Name": "Meals Expense (Convention)",
+        "AccountType": "Expense",
+        "AccountSubType": "TravelExpense",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "Convention per-diem meal allowance",
+        "Classification": "Expense"
+      },
+      {
+        "Id": "26",
+        "Name": "Convention Registration Expense",
+        "AccountType": "Expense",
+        "AccountSubType": "TravelExpense",
+        "CurrentBalance": 0.0,
+        "Active": true,
+        "Description": "NGMA 2026 registration fees",
+        "Classification": "Expense"
+      }
+    ],
+    "startPosition": 1,
+    "maxResults": 25,
+    "totalCount": 25
+  }
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "funnel_id": "7461001",
+    "name": "Reservation Funnel",
+    "step_order": "1",
+    "step_event": "Page View",
+    "count": "1200"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Reservation Funnel",
+    "step_order": "2",
+    "step_event": "Menu Viewed",
+    "count": "640"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Reservation Funnel",
+    "step_order": "3",
+    "step_event": "Reservation Started",
+    "count": "180"
+  },
+  {
+    "funnel_id": "7461001",
+    "name": "Reservation Funnel",
+    "step_order": "4",
+    "step_event": "Reservation Completed",
+    "count": "95"
+  },
+  {
+    "funnel_id": "7461002",
+    "name": "Gift Card Funnel",
+    "step_order": "1",
+    "step_event": "Page View",
+    "count": "1200"
+  },
+  {
+    "funnel_id": "7461002",
+    "name": "Gift Card Funnel",
+    "step_order": "2",
+    "step_event": "Gift Card Viewed",
+    "count": "210"
+  },
+  {
+    "funnel_id": "7461002",
+    "name": "Gift Card Funnel",
+    "step_order": "3",
+    "step_event": "Gift Card Purchased",
+    "count": "64"
+  },
+  {
+    "funnel_id": "7461003",
+    "name": "Newsletter Signup Funnel",
+    "step_order": "1",
+    "step_event": "Page View",
+    "count": "1200"
+  },
+  {
+    "funnel_id": "7461003",
+    "name": "Newsletter Signup Funnel",
+    "step_order": "2",
+    "step_event": "Signup Form Viewed",
+    "count": "430"
+  },
+  {
+    "funnel_id": "7461003",
+    "name": "Newsletter Signup Funnel",
+    "step_order": "3",
+    "step_event": "Newsletter Subscribed",
+    "count": "152"
+  },
+  {
+    "funnel_id": "7461004",
+    "name": "Private Event Inquiry Funnel",
+    "step_order": "1",
+    "step_event": "Page View",
+    "count": "1200"
+  },
+  {
+    "funnel_id": "7461004",
+    "name": "Private Event Inquiry Funnel",
+    "step_order": "2",
+    "step_event": "Private Events Page Viewed",
+    "count": "168"
+  },
+  {
+    "funnel_id": "7461004",
+    "name": "Private Event Inquiry Funnel",
+    "step_order": "3",
+    "step_event": "Inquiry Form Started",
+    "count": "47"
+  },
+  {
+    "funnel_id": "7461004",
+    "name": "Private Event Inquiry Funnel",
+    "step_order": "4",
+    "step_event": "Inquiry Submitted",
+    "count": "23"
+  },
+  {
+    "funnel_id": "7461005",
+    "name": "Menu to Reservation Funnel",
+    "step_order": "1",
+    "step_event": "Menu Viewed",
+    "count": "640"
+  },
+  {
+    "funnel_id": "7461005",
+    "name": "Menu to Reservation Funnel",
+    "step_order": "2",
+    "step_event": "Wine List Viewed",
+    "count": "215"
+  },
+  {
+    "funnel_id": "7461005",
+    "name": "Menu to Reservation Funnel",
+    "step_order": "3",
+    "step_event": "Reservation Completed",
+    "count": "88"
+  },
+  {
+    "funnel_id": "7461006",
+    "name": "Patio Reservation Funnel",
+    "step_order": "1",
+    "step_event": "Patio Banner Clicked",
+    "count": "520"
+  },
+  {
+    "funnel_id": "7461006",
+    "name": "Patio Reservation Funnel",
+    "step_order": "2",
+    "step_event": "Reservation Started",
+    "count": "190"
+  },
+  {
+    "funnel_id": "7461006",
+    "name": "Patio Reservation Funnel",
+    "step_order": "3",
+    "step_event": "Reservation Completed",
+    "count": "112"
+  },
+  {
+    "funnel_id": "7461007",
+    "name": "Merch Store Funnel",
+    "step_order": "1",
+    "step_event": "Page View",
+    "count": "1200"
+  },
+  {
+    "funnel_id": "7461007",
+    "name": "Merch Store Funnel",
+    "step_order": "2",
+    "step_event": "Shop Page Viewed",
+    "count": "184"
+  },
+  {
+    "funnel_id": "7461007",
+    "name": "Merch Store Funnel",
+    "step_order": "3",
+    "step_event": "Add to Cart",
+    "count": "61"
+  },
+  {
+    "funnel_id": "7461007",
+    "name": "Merch Store Funnel",
+    "step_order": "4",
+    "step_event": "Merch Purchased",
+    "count": "29"
+  }
+]

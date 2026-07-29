@@ -1,0 +1,122 @@
+[
+  {
+    "cluster_ip": "10.20.1.1",
+    "created_time": "2024-02-01T09:00:00Z",
+    "external_ip": "203.0.113.10",
+    "name": "web",
+    "namespace": "default",
+    "port": 80,
+    "protocol": "TCP",
+    "selector": "app=web",
+    "target_port": 8080,
+    "type": "LoadBalancer"
+  },
+  {
+    "cluster_ip": "10.20.2.1",
+    "created_time": "2024-02-01T09:00:00Z",
+    "external_ip": "203.0.113.10",
+    "name": "api",
+    "namespace": "default",
+    "port": 81,
+    "protocol": "TCP",
+    "selector": "app=api",
+    "target_port": 8081,
+    "type": "ClusterIP"
+  },
+  {
+    "cluster_ip": "10.20.3.1",
+    "created_time": "2024-02-01T09:00:00Z",
+    "external_ip": "203.0.113.10",
+    "name": "worker",
+    "namespace": "platform",
+    "port": 82,
+    "protocol": "TCP",
+    "selector": "app=worker",
+    "target_port": 8082,
+    "type": "ClusterIP"
+  },
+  {
+    "cluster_ip": "10.20.4.1",
+    "created_time": "2024-02-01T09:00:00Z",
+    "external_ip": "203.0.113.10",
+    "name": "scheduler",
+    "namespace": "platform",
+    "port": 83,
+    "protocol": "TCP",
+    "selector": "app=scheduler",
+    "target_port": 8083,
+    "type": "ClusterIP"
+  },
+  {
+    "cluster_ip": "10.20.5.1",
+    "created_time": "2024-02-01T09:00:00Z",
+    "external_ip": "203.0.113.10",
+    "name": "billing",
+    "namespace": "platform",
+    "port": 84,
+    "protocol": "TCP",
+    "selector": "app=billing",
+    "target_port": 8084,
+    "type": "ClusterIP"
+  },
+  {
+    "cluster_ip": "10.20.6.1",
+    "created_time": "2024-02-01T09:00:00Z",
+    "external_ip": "203.0.113.10",
+    "name": "search",
+    "namespace": "platform",
+    "port": 85,
+    "protocol": "TCP",
+    "selector": "app=search",
+    "target_port": 8085,
+    "type": "ClusterIP"
+  },
+  {
+    "cluster_ip": "10.20.7.1",
+    "created_time": "2024-02-01T09:00:00Z",
+    "external_ip": "203.0.113.10",
+    "name": "notifications",
+    "namespace": "platform",
+    "port": 86,
+    "protocol": "TCP",
+    "selector": "app=notifications",
+    "target_port": 8086,
+    "type": "ClusterIP"
+  },
+  {
+    "cluster_ip": "10.20.8.1",
+    "created_time": "2024-02-01T09:00:00Z",
+    "external_ip": "203.0.113.10",
+    "name": "analytics",
+    "namespace": "platform",
+    "port": 87,
+    "protocol": "TCP",
+    "selector": "app=analytics",
+    "target_port": 8087,
+    "type": "ClusterIP"
+  },
+  {
+    "cluster_ip": "10.20.9.1",
+    "created_time": "2024-02-01T09:00:00Z",
+    "external_ip": "203.0.113.10",
+    "name": "auth",
+    "namespace": "platform",
+    "port": 88,
+    "protocol": "TCP",
+    "selector": "app=auth",
+    "target_port": 8088,
+    "type": "ClusterIP"
+  },
+  {
+    "cluster_ip": "10.20.10.1",
+    "created_time": "2024-02-01T09:00:00Z",
+    "external_ip": "203.0.113.10",
+    "name": "ingestor",
+    "namespace": "platform",
+    "port": 89,
+    "protocol": "TCP",
+    "selector": "app=ingestor",
+    "target_port": 8089,
+    "type": "ClusterIP"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "appointmentscheduled",
+    "stage_label": "Appointment Scheduled",
+    "display_order": 0,
+    "probability": 0.2,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "qualifiedtobuy",
+    "stage_label": "Qualified To Buy",
+    "display_order": 1,
+    "probability": 0.4,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "presentationscheduled",
+    "stage_label": "Presentation Scheduled",
+    "display_order": 2,
+    "probability": 0.6,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "decisionmakerboughtin",
+    "stage_label": "Decision Maker Bought-In",
+    "display_order": 3,
+    "probability": 0.8,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedwon",
+    "stage_label": "Closed Won",
+    "display_order": 4,
+    "probability": 1.0,
+    "closed": true
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedlost",
+    "stage_label": "Closed Lost",
+    "display_order": 5,
+    "probability": 0.0,
+    "closed": true
+  },
+  {
+    "pipeline_id": "default-0006",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "appointmentscheduled-0006",
+    "stage_label": "Appointment Scheduled",
+    "display_order": 0,
+    "probability": 0.2,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default-0007",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "qualifiedtobuy-0007",
+    "stage_label": "Qualified To Buy",
+    "display_order": 1,
+    "probability": 0.4,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default-0008",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "presentationscheduled-0008",
+    "stage_label": "Presentation Scheduled",
+    "display_order": 2,
+    "probability": 0.6,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default-0009",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "decisionmakerboughtin-0009",
+    "stage_label": "Decision Maker Bought-In",
+    "display_order": 3,
+    "probability": 0.8,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default-0010",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedwon-0010",
+    "stage_label": "Closed Won",
+    "display_order": 4,
+    "probability": 1.0,
+    "closed": true
+  },
+  {
+    "pipeline_id": "default-0011",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedlost-0011",
+    "stage_label": "Closed Lost",
+    "display_order": 5,
+    "probability": 0.0,
+    "closed": true
+  },
+  {
+    "pipeline_id": "default-0012",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "appointmentscheduled-0012",
+    "stage_label": "Appointment Scheduled",
+    "display_order": 0,
+    "probability": 0.2,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default-0013",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "qualifiedtobuy-0013",
+    "stage_label": "Qualified To Buy",
+    "display_order": 1,
+    "probability": 0.4,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default-0014",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "presentationscheduled-0014",
+    "stage_label": "Presentation Scheduled",
+    "display_order": 2,
+    "probability": 0.6,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default-0015",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "decisionmakerboughtin-0015",
+    "stage_label": "Decision Maker Bought-In",
+    "display_order": 3,
+    "probability": 0.8,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default-0016",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedwon-0016",
+    "stage_label": "Closed Won",
+    "display_order": 4,
+    "probability": 1.0,
+    "closed": true
+  },
+  {
+    "pipeline_id": "default-0017",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedlost-0017",
+    "stage_label": "Closed Lost",
+    "display_order": 5,
+    "probability": 0.0,
+    "closed": true
+  },
+  {
+    "pipeline_id": "default-0018",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "appointmentscheduled-0018",
+    "stage_label": "Appointment Scheduled",
+    "display_order": 0,
+    "probability": 0.2,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default-0019",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "qualifiedtobuy-0019",
+    "stage_label": "Qualified To Buy",
+    "display_order": 1,
+    "probability": 0.4,
+    "closed": false
+  }
+]

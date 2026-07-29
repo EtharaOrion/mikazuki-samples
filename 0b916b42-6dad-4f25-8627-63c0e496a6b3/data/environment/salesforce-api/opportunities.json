@@ -1,0 +1,122 @@
+[
+  {
+    "Id": "006Ax00000FB2104EF",
+    "Name": "Bridgeport Avenue Elementary (Hartford Public Schools) - Enterprise expansion",
+    "AccountId": "001Ax00000FB2104EF",
+    "StageName": "Prospecting",
+    "Amount": "670000",
+    "Probability": "20",
+    "CloseDate": "2026-08-04T09:50:50+00:00",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax00000FB210514",
+    "Name": "Retired home health aide - Annual renewal",
+    "AccountId": "001Ax00000FB2104F0",
+    "StageName": "Qualification",
+    "Amount": "775000",
+    "Probability": "40",
+    "CloseDate": "2026-07-18T08:39:44+00:00",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax00000FB210539",
+    "Name": "Self-employed electrician - Multi-seat upgrade",
+    "AccountId": "001Ax00000FB2104F1",
+    "StageName": "Proposal/Price Quote",
+    "Amount": "880000",
+    "Probability": "60",
+    "CloseDate": "2026-08-15T05:24:18+00:00",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax00000FB21055E",
+    "Name": "Daycare worker - Pilot program",
+    "AccountId": "001Ax00000FB2104F2",
+    "StageName": "Negotiation/Review",
+    "Amount": "110000",
+    "Probability": "75",
+    "CloseDate": "2026-09-13T21:17:01+00:00",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax00000FB210583",
+    "Name": "Hartford Public Schools (different elementary school) - Department rollout",
+    "AccountId": "001Ax00000FB2104F3",
+    "StageName": "Closed Won",
+    "Amount": "215000",
+    "Probability": "100",
+    "CloseDate": "2026-09-21T18:36:23+00:00",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax00000FB2105A8",
+    "Name": "Grace Tabernacle Community Church - Migration from legacy vendor",
+    "AccountId": "001Ax00000FB2104F4",
+    "StageName": "Closed Lost",
+    "Amount": "320000",
+    "Probability": "0",
+    "CloseDate": "2026-11-11T15:08:48+00:00",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax00000FB2105CD",
+    "Name": "Hartwick Graduate Institute - Renewal at risk",
+    "AccountId": "001Ax00000FB2104F5",
+    "StageName": "Prospecting",
+    "Amount": "425000",
+    "Probability": "20",
+    "CloseDate": "2026-11-28T17:33:00+00:00",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax00000FB2105F2",
+    "Name": "Bridgeport Avenue Elementary - New logo - design partner",
+    "AccountId": "001Ax00000FB2104F6",
+    "StageName": "Qualification",
+    "Amount": "530000",
+    "Probability": "40",
+    "CloseDate": "2026-10-14T15:10:45+00:00",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax00000FB210617",
+    "Name": "Hartford Holdings 08 - Enterprise expansion",
+    "AccountId": "001Ax00000FB21C3E6",
+    "StageName": "Proposal/Price Quote",
+    "Amount": "635000",
+    "Probability": "60",
+    "CloseDate": "2027-01-21T19:57:41+00:00",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax00000FB21063C",
+    "Name": "Hartford Holdings 09 - Annual renewal",
+    "AccountId": "001Ax00000FB21C3E7",
+    "StageName": "Negotiation/Review",
+    "Amount": "740000",
+    "Probability": "75",
+    "CloseDate": "2026-07-28T15:18:08+00:00",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax00000FB210661",
+    "Name": "Hartford Holdings 10 - Multi-seat upgrade",
+    "AccountId": "001Ax00000FB21C3E8",
+    "StageName": "Closed Won",
+    "Amount": "845000",
+    "Probability": "100",
+    "CloseDate": "2026-08-21T05:03:59+00:00",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax00000FB210686",
+    "Name": "Hartford Holdings 11 - Pilot program",
+    "AccountId": "001Ax00000FB21C3E9",
+    "StageName": "Closed Lost",
+    "Amount": "75000",
+    "Probability": "0",
+    "CloseDate": "2026-11-24T23:12:38+00:00",
+    "Type": "Existing Business"
+  }
+]

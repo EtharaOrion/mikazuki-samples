@@ -1,0 +1,122 @@
+[
+  {
+    "name": "default",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=default",
+    "created_time": "2025-03-01T09:00:00Z"
+  },
+  {
+    "name": "kube-system",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-system",
+    "created_time": "2025-03-01T09:00:00Z"
+  },
+  {
+    "name": "eleanorstavern",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=eleanorstavern;app=tavern-site",
+    "created_time": "2025-03-02T11:30:00Z"
+  },
+  {
+    "name": "kube-public",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-public",
+    "created_time": "2025-03-01T09:00:00Z"
+  },
+  {
+    "name": "kube-node-lease",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=kube-node-lease",
+    "created_time": "2025-03-01T09:00:00Z"
+  },
+  {
+    "name": "tavern-staging",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=tavern-staging;app=tavern-site;env=staging",
+    "created_time": "2025-03-03T10:15:00Z"
+  },
+  {
+    "name": "tavern-prod",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=tavern-prod;app=tavern-site;env=production",
+    "created_time": "2025-03-03T10:20:00Z"
+  },
+  {
+    "name": "reservations",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=reservations;app=reservations-api",
+    "created_time": "2025-03-05T14:00:00Z"
+  },
+  {
+    "name": "menu-service",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=menu-service;app=menu-api",
+    "created_time": "2025-03-05T14:05:00Z"
+  },
+  {
+    "name": "giftcards",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=giftcards;app=giftcard-checkout",
+    "created_time": "2025-03-08T09:30:00Z"
+  },
+  {
+    "name": "newsletter",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=newsletter;app=newsletter-signup",
+    "created_time": "2025-03-08T09:35:00Z"
+  },
+  {
+    "name": "monitoring",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=monitoring;app=prometheus",
+    "created_time": "2025-03-10T11:00:00Z"
+  },
+  {
+    "name": "ingress-nginx",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=ingress-nginx;app.kubernetes.io/name=ingress-nginx",
+    "created_time": "2025-03-10T11:10:00Z"
+  },
+  {
+    "name": "cert-manager",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=cert-manager;app=cert-manager",
+    "created_time": "2025-03-10T11:15:00Z"
+  },
+  {
+    "name": "logging",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=logging;app=loki",
+    "created_time": "2025-03-12T13:20:00Z"
+  },
+  {
+    "name": "analytics",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=analytics;app=tavern-analytics",
+    "created_time": "2025-03-14T10:00:00Z"
+  },
+  {
+    "name": "pos-sync",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=pos-sync;app=square-sync",
+    "created_time": "2025-03-16T15:40:00Z"
+  },
+  {
+    "name": "loyalty",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=loyalty;app=loyalty-points",
+    "created_time": "2025-03-18T09:00:00Z"
+  },
+  {
+    "name": "tavern-dev",
+    "status": "Active",
+    "labels": "kubernetes.io/metadata.name=tavern-dev;app=tavern-site;env=dev",
+    "created_time": "2025-03-20T08:30:00Z"
+  },
+  {
+    "name": "events-api",
+    "status": "Terminating",
+    "labels": "kubernetes.io/metadata.name=events-api;app=events-service",
+    "created_time": "2025-03-22T12:00:00Z"
+  }
+]

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cellar venue="Eleanor's Tavern" theme="American craft" countedOn="2026-10-05" currency="USD">
+  <wine sku="ZIN-CA-22">
+    <producer>Ridge Vineyards</producer>
+    <varietal>Zinfandel</varietal>
+    <region>California</region>
+    <vintage>2022</vintage>
+    <onHand>18</onHand>
+    <costPerBottle>32.00</costPerBottle>
+    <listPrice>84.00</listPrice>
+  </wine>
+  <wine sku="PIN-OR-21">
+    <producer>Stoller</producer>
+    <varietal>Pinot Noir</varietal>
+    <region>Oregon</region>
+    <vintage>2021</vintage>
+    <onHand>12</onHand>
+    <costPerBottle>26.00</costPerBottle>
+    <listPrice>72.00</listPrice>
+  </wine>
+  <wine sku="CAB-NV-20">
+    <producer>Frog's Leap</producer>
+    <varietal>Cabernet Sauvignon</varietal>
+    <region>Napa Valley</region>
+    <vintage>2020</vintage>
+    <onHand>9</onHand>
+    <costPerBottle>38.00</costPerBottle>
+    <listPrice>98.00</listPrice>
+  </wine>
+  <wine sku="RIE-WA-23">
+    <producer>Chateau Ste Michelle</producer>
+    <varietal>Riesling</varietal>
+    <region>Washington</region>
+    <vintage>2023</vintage>
+    <onHand>24</onHand>
+    <costPerBottle>14.00</costPerBottle>
+    <listPrice>42.00</listPrice>
+  </wine>
+  <wine sku="RIE-NY-22">
+    <producer>Hermann J Wiemer</producer>
+    <varietal>Dry Riesling</varietal>
+    <region>Finger Lakes, New York</region>
+    <vintage>2022</vintage>
+    <onHand>20</onHand>
+    <costPerBottle>19.00</costPerBottle>
+    <listPrice>56.00</listPrice>
+  </wine>
+  <wine sku="CHA-CA-22">
+    <producer>Au Bon Climat</producer>
+    <varietal>Chardonnay</varietal>
+    <region>California</region>
+    <vintage>2022</vintage>
+    <onHand>15</onHand>
+    <costPerBottle>22.00</costPerBottle>
+    <listPrice>64.00</listPrice>
+  </wine>
+  <wine sku="ROS-NY-24">
+    <producer>Wolffer Estate</producer>
+    <varietal>Rose</varietal>
+    <region>Long Island, New York</region>
+    <vintage>2024</vintage>
+    <onHand>30</onHand>
+    <costPerBottle>16.00</costPerBottle>
+    <listPrice>48.00</listPrice>
+  </wine>
+  <wine sku="RHO-CA-21">
+    <producer>Tablas Creek</producer>
+    <varietal>Rhone blend</varietal>
+    <region>Paso Robles</region>
+    <vintage>2021</vintage>
+    <onHand>8</onHand>
+    <costPerBottle>34.00</costPerBottle>
+    <listPrice>88.00</listPrice>
+  </wine>
+  <wine sku="SPK-CA-20">
+    <producer>Schramsberg</producer>
+    <varietal>Sparkling Blanc de Blancs</varietal>
+    <region>California</region>
+    <vintage>2020</vintage>
+    <onHand>10</onHand>
+    <costPerBottle>30.00</costPerBottle>
+    <listPrice>82.00</listPrice>
+  </wine>
+  <cider sku="CID-NY-24">
+    <producer>Brooklyn Cider House</producer>
+    <varietal>Dry cider</varietal>
+    <region>New York</region>
+    <vintage>2024</vintage>
+    <onHand>36</onHand>
+    <costPerBottle>9.00</costPerBottle>
+    <listPrice>28.00</listPrice>
+  </cider>
+</cellar>

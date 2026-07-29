@@ -1,0 +1,1001 @@
+[
+  {
+    "id": "1001000200030004001",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400001",
+    "author_username": "amanda",
+    "content": "Welcome everyone to the Greater Atlanta Worship Center community!",
+    "timestamp": "2025-05-01T09:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "1001000200030004002",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400002",
+    "author_username": "derek",
+    "content": "Glad to be here. The new dashboard looks great.",
+    "timestamp": "2025-05-01T09:05:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004003",
+    "channel_id": "800100200300400001",
+    "author_id": "300100200300400001",
+    "author_username": "orbitbot",
+    "content": "Release v2.18.0 is now live in production.",
+    "timestamp": "2025-05-01T12:00:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004004",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400004",
+    "author_username": "rohit",
+    "content": "My API key keeps returning 401 after rotation. Any ideas?",
+    "timestamp": "2025-05-02T10:30:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004005",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400003",
+    "author_username": "janet",
+    "content": "Rohit: make sure you regenerated the token after the rotation window closed.",
+    "timestamp": "2025-05-02T10:42:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004006",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400002",
+    "author_username": "derek",
+    "content": "Friday demo idea: live latency dashboard on the big screen.",
+    "timestamp": "2025-05-02T15:10:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004007",
+    "channel_id": "800100200300400005",
+    "author_id": "500100200300400005",
+    "author_username": "bode",
+    "content": "Anyone using a custom physics engine or sticking with off-the-shelf?",
+    "timestamp": "2025-05-03T08:20:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004008",
+    "channel_id": "800100200300400006",
+    "author_id": "500100200300400006",
+    "author_username": "cleo",
+    "content": "Posted my roguelike prototype build in the link below. Feedback welcome!",
+    "timestamp": "2025-05-03T16:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "0",
+    "channel_id": "0",
+    "author_id": "0",
+    "author_username": "amanda",
+    "content": "Welcome everyone to the Greater Atlanta Worship Center community!",
+    "timestamp": "2025-05-09T09:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "0",
+    "channel_id": "0",
+    "author_id": "0",
+    "author_username": "derek",
+    "content": "Glad to be here. The new dashboard looks great.",
+    "timestamp": "2025-05-10T09:05:00Z",
+    "pinned": false
+  },
+  {
+    "id": "0",
+    "channel_id": "0",
+    "author_id": "0",
+    "author_username": "orbitbot",
+    "content": "Release v2.18.0 is now live in production.",
+    "timestamp": "2025-05-11T12:00:00Z",
+    "pinned": false
+  },
+  {
+    "id": "0",
+    "channel_id": "0",
+    "author_id": "0",
+    "author_username": "rohit",
+    "content": "My API key keeps returning 401 after rotation. Any ideas?",
+    "timestamp": "2025-05-13T10:30:00Z",
+    "pinned": false
+  },
+  {
+    "id": "0",
+    "channel_id": "0",
+    "author_id": "0",
+    "author_username": "janet",
+    "content": "Rohit: make sure you regenerated the token after the rotation window closed.",
+    "timestamp": "2025-05-14T10:42:00Z",
+    "pinned": false
+  },
+  {
+    "id": "0",
+    "channel_id": "0",
+    "author_id": "0",
+    "author_username": "derek",
+    "content": "Friday demo idea: live latency dashboard on the big screen.",
+    "timestamp": "2025-05-15T15:10:00Z",
+    "pinned": false
+  },
+  {
+    "id": "0",
+    "channel_id": "0",
+    "author_id": "0",
+    "author_username": "bode",
+    "content": "Anyone using a custom physics engine or sticking with off-the-shelf?",
+    "timestamp": "2025-05-17T08:20:00Z",
+    "pinned": false
+  },
+  {
+    "id": "0",
+    "channel_id": "0",
+    "author_id": "0",
+    "author_username": "cleo",
+    "content": "Posted my roguelike prototype build in the link below. Feedback welcome!",
+    "timestamp": "2025-05-18T16:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "0",
+    "channel_id": "0",
+    "author_id": "0",
+    "author_username": "amanda",
+    "content": "Welcome everyone to the Greater Atlanta Worship Center community!",
+    "timestamp": "2025-05-17T09:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "0",
+    "channel_id": "0",
+    "author_id": "0",
+    "author_username": "derek",
+    "content": "Glad to be here. The new dashboard looks great.",
+    "timestamp": "2025-05-18T09:05:00Z",
+    "pinned": false
+  },
+  {
+    "id": "0",
+    "channel_id": "0",
+    "author_id": "0",
+    "author_username": "orbitbot",
+    "content": "Release v2.18.0 is now live in production.",
+    "timestamp": "2025-05-19T12:00:00Z",
+    "pinned": false
+  },
+  {
+    "id": "0",
+    "channel_id": "0",
+    "author_id": "0",
+    "author_username": "rohit",
+    "content": "My API key keeps returning 401 after rotation. Any ideas?",
+    "timestamp": "2025-05-21T10:30:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004050",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400001",
+    "author_username": "amanda",
+    "content": "Saturday youth-band 3 PM - bring your kit. Kai + Jaden warm up first. (wk 1)",
+    "timestamp": "2026-01-15T00:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "1001000200030004051",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400002",
+    "author_username": "minister_brooks",
+    "content": "Rehearsal track uploaded for Track 4 - check pinned. (wk 1)",
+    "timestamp": "2026-01-15T01:03:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004052",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400003",
+    "author_username": "emmanuel_drums",
+    "content": "Anyone got the sheet music PDF for Sunday's contemporary set? (wk 1)",
+    "timestamp": "2026-01-15T02:06:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004053",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400004",
+    "author_username": "terrence_walker",
+    "content": "Emmanuel - need you on hi-hat groove Tuesday. (wk 1)",
+    "timestamp": "2026-01-15T03:09:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004054",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400005",
+    "author_username": "kai_truong",
+    "content": "Ms. Amanda pinned the arrangement - read before rehearsal. (wk 1)",
+    "timestamp": "2026-01-15T04:12:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004055",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400006",
+    "author_username": "jaden_coleman",
+    "content": "Terrence - the shuffle pattern from last week worked. Keeping it. (wk 1)",
+    "timestamp": "2026-01-15T05:15:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004056",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400007",
+    "author_username": "zoe_freeman",
+    "content": "Reminder: Album lead-single premiere Oct 4 - you're all invited. (wk 1)",
+    "timestamp": "2026-01-15T06:18:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004057",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400008",
+    "author_username": "corey_bui",
+    "content": "Zoe playing piano intro for Track 7. Sheet in shared drive. (wk 1)",
+    "timestamp": "2026-01-15T07:21:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004058",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400001",
+    "author_username": "amanda",
+    "content": "Youth barbecue Sat 5 PM - parents please RSVP. (wk 1)",
+    "timestamp": "2026-01-15T08:24:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004059",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400002",
+    "author_username": "minister_brooks",
+    "content": "Corey - practice log please. Trying to see growth curve. (wk 1)",
+    "timestamp": "2026-01-15T09:27:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004060",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400003",
+    "author_username": "emmanuel_drums",
+    "content": "Kai new chart for Track 8 - 84 bpm not 92. Metronome ready. (wk 1)",
+    "timestamp": "2026-01-15T10:30:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004061",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400004",
+    "author_username": "terrence_walker",
+    "content": "New sub-channel #album-tracks for stems + demo shares. (wk 1)",
+    "timestamp": "2026-01-15T11:33:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004062",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400005",
+    "author_username": "kai_truong",
+    "content": "Reminder: Sunday call time 7 AM. Warmup at 7:15. (wk 1)",
+    "timestamp": "2026-01-15T12:36:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004063",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400006",
+    "author_username": "jaden_coleman",
+    "content": "Minister Brooks - sharing youth-choir Sat plan. (wk 1)",
+    "timestamp": "2026-01-15T13:39:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004064",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400007",
+    "author_username": "zoe_freeman",
+    "content": "Emmanuel - football Fri, rest Thu - no late nights. (wk 1)",
+    "timestamp": "2026-01-15T14:42:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004065",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400008",
+    "author_username": "corey_bui",
+    "content": "Aliya Nash joining youth choir - welcome her Sat. (wk 1)",
+    "timestamp": "2026-01-15T15:45:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004066",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400001",
+    "author_username": "amanda",
+    "content": "Whole youth-band photo Sat before rehearsal - wear GAW navy. (wk 1)",
+    "timestamp": "2026-01-15T16:48:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004067",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400002",
+    "author_username": "minister_brooks",
+    "content": "Christmas pageant tryouts Dec 6 - read-throughs open to youth. (wk 1)",
+    "timestamp": "2026-01-15T17:51:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004068",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400003",
+    "author_username": "emmanuel_drums",
+    "content": "Kirk Franklin tour dates Fox Theatre July 15 - group buy? (wk 1)",
+    "timestamp": "2026-01-15T18:54:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004069",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400001",
+    "author_username": "amanda",
+    "content": "Saturday youth-band 3 PM - bring your kit. Kai + Jaden warm up first. (wk 2)",
+    "timestamp": "2026-01-22T00:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "1001000200030004070",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400002",
+    "author_username": "minister_brooks",
+    "content": "Rehearsal track uploaded for Track 4 - check pinned. (wk 2)",
+    "timestamp": "2026-01-22T01:03:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004071",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400003",
+    "author_username": "emmanuel_drums",
+    "content": "Anyone got the sheet music PDF for Sunday's contemporary set? (wk 2)",
+    "timestamp": "2026-01-22T02:06:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004072",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400004",
+    "author_username": "terrence_walker",
+    "content": "Emmanuel - need you on hi-hat groove Tuesday. (wk 2)",
+    "timestamp": "2026-01-22T03:09:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004073",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400005",
+    "author_username": "kai_truong",
+    "content": "Ms. Amanda pinned the arrangement - read before rehearsal. (wk 2)",
+    "timestamp": "2026-01-22T04:12:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004074",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400006",
+    "author_username": "jaden_coleman",
+    "content": "Terrence - the shuffle pattern from last week worked. Keeping it. (wk 2)",
+    "timestamp": "2026-01-22T05:15:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004075",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400007",
+    "author_username": "zoe_freeman",
+    "content": "Reminder: Album lead-single premiere Oct 4 - you're all invited. (wk 2)",
+    "timestamp": "2026-01-22T06:18:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004076",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400008",
+    "author_username": "corey_bui",
+    "content": "Zoe playing piano intro for Track 7. Sheet in shared drive. (wk 2)",
+    "timestamp": "2026-01-22T07:21:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004077",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400001",
+    "author_username": "amanda",
+    "content": "Youth barbecue Sat 5 PM - parents please RSVP. (wk 2)",
+    "timestamp": "2026-01-22T08:24:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004078",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400002",
+    "author_username": "minister_brooks",
+    "content": "Corey - practice log please. Trying to see growth curve. (wk 2)",
+    "timestamp": "2026-01-22T09:27:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004079",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400003",
+    "author_username": "emmanuel_drums",
+    "content": "Kai new chart for Track 8 - 84 bpm not 92. Metronome ready. (wk 2)",
+    "timestamp": "2026-01-22T10:30:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004080",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400004",
+    "author_username": "terrence_walker",
+    "content": "New sub-channel #album-tracks for stems + demo shares. (wk 2)",
+    "timestamp": "2026-01-22T11:33:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004081",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400005",
+    "author_username": "kai_truong",
+    "content": "Reminder: Sunday call time 7 AM. Warmup at 7:15. (wk 2)",
+    "timestamp": "2026-01-22T12:36:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004082",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400006",
+    "author_username": "jaden_coleman",
+    "content": "Minister Brooks - sharing youth-choir Sat plan. (wk 2)",
+    "timestamp": "2026-01-22T13:39:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004083",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400007",
+    "author_username": "zoe_freeman",
+    "content": "Emmanuel - football Fri, rest Thu - no late nights. (wk 2)",
+    "timestamp": "2026-01-22T14:42:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004084",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400008",
+    "author_username": "corey_bui",
+    "content": "Aliya Nash joining youth choir - welcome her Sat. (wk 2)",
+    "timestamp": "2026-01-22T15:45:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004085",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400001",
+    "author_username": "amanda",
+    "content": "Whole youth-band photo Sat before rehearsal - wear GAW navy. (wk 2)",
+    "timestamp": "2026-01-22T16:48:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004086",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400002",
+    "author_username": "minister_brooks",
+    "content": "Christmas pageant tryouts Dec 6 - read-throughs open to youth. (wk 2)",
+    "timestamp": "2026-01-22T17:51:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004087",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400003",
+    "author_username": "emmanuel_drums",
+    "content": "Kirk Franklin tour dates Fox Theatre July 15 - group buy? (wk 2)",
+    "timestamp": "2026-01-22T18:54:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004088",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400001",
+    "author_username": "amanda",
+    "content": "Saturday youth-band 3 PM - bring your kit. Kai + Jaden warm up first. (wk 3)",
+    "timestamp": "2026-01-29T00:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "1001000200030004089",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400002",
+    "author_username": "minister_brooks",
+    "content": "Rehearsal track uploaded for Track 4 - check pinned. (wk 3)",
+    "timestamp": "2026-01-29T01:03:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004090",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400003",
+    "author_username": "emmanuel_drums",
+    "content": "Anyone got the sheet music PDF for Sunday's contemporary set? (wk 3)",
+    "timestamp": "2026-01-29T02:06:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004091",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400004",
+    "author_username": "terrence_walker",
+    "content": "Emmanuel - need you on hi-hat groove Tuesday. (wk 3)",
+    "timestamp": "2026-01-29T03:09:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004092",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400005",
+    "author_username": "kai_truong",
+    "content": "Ms. Amanda pinned the arrangement - read before rehearsal. (wk 3)",
+    "timestamp": "2026-01-29T04:12:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004093",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400006",
+    "author_username": "jaden_coleman",
+    "content": "Terrence - the shuffle pattern from last week worked. Keeping it. (wk 3)",
+    "timestamp": "2026-01-29T05:15:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004094",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400007",
+    "author_username": "zoe_freeman",
+    "content": "Reminder: Album lead-single premiere Oct 4 - you're all invited. (wk 3)",
+    "timestamp": "2026-01-29T06:18:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004095",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400008",
+    "author_username": "corey_bui",
+    "content": "Zoe playing piano intro for Track 7. Sheet in shared drive. (wk 3)",
+    "timestamp": "2026-01-29T07:21:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004096",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400001",
+    "author_username": "amanda",
+    "content": "Youth barbecue Sat 5 PM - parents please RSVP. (wk 3)",
+    "timestamp": "2026-01-29T08:24:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004097",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400002",
+    "author_username": "minister_brooks",
+    "content": "Corey - practice log please. Trying to see growth curve. (wk 3)",
+    "timestamp": "2026-01-29T09:27:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004098",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400003",
+    "author_username": "emmanuel_drums",
+    "content": "Kai new chart for Track 8 - 84 bpm not 92. Metronome ready. (wk 3)",
+    "timestamp": "2026-01-29T10:30:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004099",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400004",
+    "author_username": "terrence_walker",
+    "content": "New sub-channel #album-tracks for stems + demo shares. (wk 3)",
+    "timestamp": "2026-01-29T11:33:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004100",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400005",
+    "author_username": "kai_truong",
+    "content": "Reminder: Sunday call time 7 AM. Warmup at 7:15. (wk 3)",
+    "timestamp": "2026-01-29T12:36:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004101",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400006",
+    "author_username": "jaden_coleman",
+    "content": "Minister Brooks - sharing youth-choir Sat plan. (wk 3)",
+    "timestamp": "2026-01-29T13:39:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004102",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400007",
+    "author_username": "zoe_freeman",
+    "content": "Emmanuel - football Fri, rest Thu - no late nights. (wk 3)",
+    "timestamp": "2026-01-29T14:42:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004103",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400008",
+    "author_username": "corey_bui",
+    "content": "Aliya Nash joining youth choir - welcome her Sat. (wk 3)",
+    "timestamp": "2026-01-29T15:45:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004104",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400001",
+    "author_username": "amanda",
+    "content": "Whole youth-band photo Sat before rehearsal - wear GAW navy. (wk 3)",
+    "timestamp": "2026-01-29T16:48:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004105",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400002",
+    "author_username": "minister_brooks",
+    "content": "Christmas pageant tryouts Dec 6 - read-throughs open to youth. (wk 3)",
+    "timestamp": "2026-01-29T17:51:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004106",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400003",
+    "author_username": "emmanuel_drums",
+    "content": "Kirk Franklin tour dates Fox Theatre July 15 - group buy? (wk 3)",
+    "timestamp": "2026-01-29T18:54:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004107",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400001",
+    "author_username": "amanda",
+    "content": "Saturday youth-band 3 PM - bring your kit. Kai + Jaden warm up first. (wk 4)",
+    "timestamp": "2026-02-06T00:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "1001000200030004108",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400002",
+    "author_username": "minister_brooks",
+    "content": "Rehearsal track uploaded for Track 4 - check pinned. (wk 4)",
+    "timestamp": "2026-02-06T01:03:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004109",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400003",
+    "author_username": "emmanuel_drums",
+    "content": "Anyone got the sheet music PDF for Sunday's contemporary set? (wk 4)",
+    "timestamp": "2026-02-06T02:06:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004110",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400004",
+    "author_username": "terrence_walker",
+    "content": "Emmanuel - need you on hi-hat groove Tuesday. (wk 4)",
+    "timestamp": "2026-02-06T03:09:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004111",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400005",
+    "author_username": "kai_truong",
+    "content": "Ms. Amanda pinned the arrangement - read before rehearsal. (wk 4)",
+    "timestamp": "2026-02-06T04:12:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004112",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400006",
+    "author_username": "jaden_coleman",
+    "content": "Terrence - the shuffle pattern from last week worked. Keeping it. (wk 4)",
+    "timestamp": "2026-02-06T05:15:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004113",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400007",
+    "author_username": "zoe_freeman",
+    "content": "Reminder: Album lead-single premiere Oct 4 - you're all invited. (wk 4)",
+    "timestamp": "2026-02-06T06:18:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004114",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400008",
+    "author_username": "corey_bui",
+    "content": "Zoe playing piano intro for Track 7. Sheet in shared drive. (wk 4)",
+    "timestamp": "2026-02-06T07:21:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004115",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400001",
+    "author_username": "amanda",
+    "content": "Youth barbecue Sat 5 PM - parents please RSVP. (wk 4)",
+    "timestamp": "2026-02-06T08:24:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004116",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400002",
+    "author_username": "minister_brooks",
+    "content": "Corey - practice log please. Trying to see growth curve. (wk 4)",
+    "timestamp": "2026-02-06T09:27:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004117",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400003",
+    "author_username": "emmanuel_drums",
+    "content": "Kai new chart for Track 8 - 84 bpm not 92. Metronome ready. (wk 4)",
+    "timestamp": "2026-02-06T10:30:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004118",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400004",
+    "author_username": "terrence_walker",
+    "content": "New sub-channel #album-tracks for stems + demo shares. (wk 4)",
+    "timestamp": "2026-02-06T11:33:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004119",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400005",
+    "author_username": "kai_truong",
+    "content": "Reminder: Sunday call time 7 AM. Warmup at 7:15. (wk 4)",
+    "timestamp": "2026-02-06T12:36:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004120",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400006",
+    "author_username": "jaden_coleman",
+    "content": "Minister Brooks - sharing youth-choir Sat plan. (wk 4)",
+    "timestamp": "2026-02-06T13:39:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004121",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400007",
+    "author_username": "zoe_freeman",
+    "content": "Emmanuel - football Fri, rest Thu - no late nights. (wk 4)",
+    "timestamp": "2026-02-06T14:42:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004122",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400008",
+    "author_username": "corey_bui",
+    "content": "Aliya Nash joining youth choir - welcome her Sat. (wk 4)",
+    "timestamp": "2026-02-06T15:45:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004123",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400001",
+    "author_username": "amanda",
+    "content": "Whole youth-band photo Sat before rehearsal - wear GAW navy. (wk 4)",
+    "timestamp": "2026-02-06T16:48:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004124",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400002",
+    "author_username": "minister_brooks",
+    "content": "Christmas pageant tryouts Dec 6 - read-throughs open to youth. (wk 4)",
+    "timestamp": "2026-02-06T17:51:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004125",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400003",
+    "author_username": "emmanuel_drums",
+    "content": "Kirk Franklin tour dates Fox Theatre July 15 - group buy? (wk 4)",
+    "timestamp": "2026-02-06T18:54:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004126",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400001",
+    "author_username": "amanda",
+    "content": "Saturday youth-band 3 PM - bring your kit. Kai + Jaden warm up first. (wk 5)",
+    "timestamp": "2026-02-13T00:00:00Z",
+    "pinned": true
+  },
+  {
+    "id": "1001000200030004127",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400002",
+    "author_username": "minister_brooks",
+    "content": "Rehearsal track uploaded for Track 4 - check pinned. (wk 5)",
+    "timestamp": "2026-02-13T01:03:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004128",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400003",
+    "author_username": "emmanuel_drums",
+    "content": "Anyone got the sheet music PDF for Sunday's contemporary set? (wk 5)",
+    "timestamp": "2026-02-13T02:06:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004129",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400004",
+    "author_username": "terrence_walker",
+    "content": "Emmanuel - need you on hi-hat groove Tuesday. (wk 5)",
+    "timestamp": "2026-02-13T03:09:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004130",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400005",
+    "author_username": "kai_truong",
+    "content": "Ms. Amanda pinned the arrangement - read before rehearsal. (wk 5)",
+    "timestamp": "2026-02-13T04:12:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004131",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400006",
+    "author_username": "jaden_coleman",
+    "content": "Terrence - the shuffle pattern from last week worked. Keeping it. (wk 5)",
+    "timestamp": "2026-02-13T05:15:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004132",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400007",
+    "author_username": "zoe_freeman",
+    "content": "Reminder: Album lead-single premiere Oct 4 - you're all invited. (wk 5)",
+    "timestamp": "2026-02-13T06:18:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004133",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400008",
+    "author_username": "corey_bui",
+    "content": "Zoe playing piano intro for Track 7. Sheet in shared drive. (wk 5)",
+    "timestamp": "2026-02-13T07:21:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004134",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400001",
+    "author_username": "amanda",
+    "content": "Youth barbecue Sat 5 PM - parents please RSVP. (wk 5)",
+    "timestamp": "2026-02-13T08:24:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004135",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400002",
+    "author_username": "minister_brooks",
+    "content": "Corey - practice log please. Trying to see growth curve. (wk 5)",
+    "timestamp": "2026-02-13T09:27:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004136",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400003",
+    "author_username": "emmanuel_drums",
+    "content": "Kai new chart for Track 8 - 84 bpm not 92. Metronome ready. (wk 5)",
+    "timestamp": "2026-02-13T10:30:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004137",
+    "channel_id": "800100200300400003",
+    "author_id": "500100200300400004",
+    "author_username": "terrence_walker",
+    "content": "New sub-channel #album-tracks for stems + demo shares. (wk 5)",
+    "timestamp": "2026-02-13T11:33:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004138",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400005",
+    "author_username": "kai_truong",
+    "content": "Reminder: Sunday call time 7 AM. Warmup at 7:15. (wk 5)",
+    "timestamp": "2026-02-13T12:36:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1001000200030004139",
+    "channel_id": "800100200300400002",
+    "author_id": "500100200300400006",
+    "author_username": "jaden_coleman",
+    "content": "Minister Brooks - sharing youth-choir Sat plan. (wk 5)",
+    "timestamp": "2026-02-13T13:39:00Z",
+    "pinned": false
+  },
+  {
+    "id": "1756790235100000001",
+    "channel_id": "800100200300400001",
+    "author_id": "500100200300400001",
+    "author_username": "a.brooks",
+    "content": "Sat call time still 12:45? Bring drum keys. (msg #1)",
+    "timestamp": "2026-10-15T00:00:00Z",
+    "pinned": false
+  }
+]

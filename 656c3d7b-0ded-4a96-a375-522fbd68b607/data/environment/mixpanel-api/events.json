@@ -1,0 +1,512 @@
+[
+  {
+    "country": "CA",
+    "distinct_id": "user-casey",
+    "event": "feature_used",
+    "event_id": "evt-0001",
+    "plan": "free",
+    "platform": "android",
+    "time": "2026-06-20T15:30:00Z",
+    "utm_source": "google"
+  },
+  {
+    "country": "CA",
+    "distinct_id": "user-jordan",
+    "event": "session_start",
+    "event_id": "evt-0002",
+    "plan": "team",
+    "platform": "web",
+    "time": "2026-06-20T13:30:00Z",
+    "utm_source": "referral"
+  },
+  {
+    "country": "GB",
+    "distinct_id": "user-skylar",
+    "event": "purchase",
+    "event_id": "evt-0003",
+    "plan": "team",
+    "platform": "android",
+    "time": "2026-06-20T15:53:00Z",
+    "utm_source": "newsletter"
+  },
+  {
+    "country": "GB",
+    "distinct_id": "user-skylar",
+    "event": "checkout_started",
+    "event_id": "evt-0004",
+    "plan": "free",
+    "platform": "ios",
+    "time": "2026-06-20T14:23:00Z",
+    "utm_source": "direct"
+  },
+  {
+    "country": "BR",
+    "distinct_id": "user-sage",
+    "event": "logout",
+    "event_id": "evt-0005",
+    "plan": "pro",
+    "platform": "android",
+    "time": "2026-06-20T13:59:00Z",
+    "utm_source": "organic"
+  },
+  {
+    "country": "US",
+    "distinct_id": "user-avery",
+    "event": "error_shown",
+    "event_id": "evt-0006",
+    "plan": "enterprise",
+    "platform": "android",
+    "time": "2026-06-21T20:38:00Z",
+    "utm_source": "newsletter"
+  },
+  {
+    "country": "DE",
+    "distinct_id": "user-mira",
+    "event": "checkout_started",
+    "event_id": "evt-0007",
+    "plan": "free",
+    "platform": "ios",
+    "time": "2026-06-21T19:23:00Z",
+    "utm_source": "twitter"
+  },
+  {
+    "country": "CA",
+    "distinct_id": "user-jordan",
+    "event": "subscription_renewed",
+    "event_id": "evt-0008",
+    "plan": "enterprise",
+    "platform": "ios",
+    "time": "2026-06-21T22:44:00Z",
+    "utm_source": "referral"
+  },
+  {
+    "country": "GB",
+    "distinct_id": "user-quinn",
+    "event": "session_start",
+    "event_id": "evt-0009",
+    "plan": "team",
+    "platform": "web",
+    "time": "2026-06-21T16:33:00Z",
+    "utm_source": "twitter"
+  },
+  {
+    "country": "BR",
+    "distinct_id": "user-casey",
+    "event": "signup_completed",
+    "event_id": "evt-0010",
+    "plan": "team",
+    "platform": "android",
+    "time": "2026-06-21T20:19:00Z",
+    "utm_source": "newsletter"
+  },
+  {
+    "country": "US",
+    "distinct_id": "user-mira",
+    "event": "checkout_started",
+    "event_id": "evt-0011",
+    "plan": "pro",
+    "platform": "web",
+    "time": "2026-06-21T10:33:00Z",
+    "utm_source": "referral"
+  },
+  {
+    "country": "AU",
+    "distinct_id": "user-avery",
+    "event": "page_view",
+    "event_id": "evt-0012",
+    "plan": "pro",
+    "platform": "web",
+    "time": "2026-06-22T08:51:00Z",
+    "utm_source": "google"
+  },
+  {
+    "country": "GB",
+    "distinct_id": "user-sam",
+    "event": "session_start",
+    "event_id": "evt-0013",
+    "plan": "team",
+    "platform": "ios",
+    "time": "2026-06-22T16:10:00Z",
+    "utm_source": "newsletter"
+  },
+  {
+    "country": "BR",
+    "distinct_id": "user-casey",
+    "event": "session_start",
+    "event_id": "evt-0014",
+    "plan": "team",
+    "platform": "web",
+    "time": "2026-06-22T10:16:00Z",
+    "utm_source": "organic"
+  },
+  {
+    "country": "BR",
+    "distinct_id": "user-jordan",
+    "event": "signup_completed",
+    "event_id": "evt-0015",
+    "plan": "team",
+    "platform": "ios",
+    "time": "2026-06-22T20:40:00Z",
+    "utm_source": "twitter"
+  },
+  {
+    "country": "FR",
+    "distinct_id": "user-dana",
+    "event": "checkout_started",
+    "event_id": "evt-0016",
+    "plan": "pro",
+    "platform": "android",
+    "time": "2026-06-22T19:39:00Z",
+    "utm_source": "google"
+  },
+  {
+    "country": "DE",
+    "distinct_id": "user-sam",
+    "event": "logout",
+    "event_id": "evt-0017",
+    "plan": "free",
+    "platform": "android",
+    "time": "2026-06-22T20:08:00Z",
+    "utm_source": "newsletter"
+  },
+  {
+    "country": "AU",
+    "distinct_id": "user-river",
+    "event": "subscription_started",
+    "event_id": "evt-0018",
+    "plan": "enterprise",
+    "platform": "web",
+    "time": "2026-06-23T20:07:00Z",
+    "utm_source": "twitter"
+  },
+  {
+    "country": "AU",
+    "distinct_id": "user-sam",
+    "event": "session_start",
+    "event_id": "evt-0019",
+    "plan": "enterprise",
+    "platform": "web",
+    "time": "2026-06-23T11:28:00Z",
+    "utm_source": "twitter"
+  },
+  {
+    "country": "CA",
+    "distinct_id": "user-alex",
+    "event": "checkout_started",
+    "event_id": "evt-0020",
+    "plan": "free",
+    "platform": "android",
+    "time": "2026-06-23T14:54:00Z",
+    "utm_source": "newsletter"
+  },
+  {
+    "country": "AU",
+    "distinct_id": "user-alex",
+    "event": "session_start",
+    "event_id": "evt-0021",
+    "plan": "pro",
+    "platform": "android",
+    "time": "2026-06-23T21:33:00Z",
+    "utm_source": "direct"
+  },
+  {
+    "country": "AU",
+    "distinct_id": "user-skylar",
+    "event": "subscription_renewed",
+    "event_id": "evt-0022",
+    "plan": "team",
+    "platform": "android",
+    "time": "2026-06-23T16:58:00Z",
+    "utm_source": "google"
+  },
+  {
+    "country": "US",
+    "distinct_id": "user-avery",
+    "event": "purchase",
+    "event_id": "evt-0023",
+    "plan": "team",
+    "platform": "web",
+    "time": "2026-06-23T11:02:00Z",
+    "utm_source": "direct"
+  },
+  {
+    "country": "AU",
+    "distinct_id": "user-quinn",
+    "event": "page_view",
+    "event_id": "evt-0024",
+    "plan": "pro",
+    "platform": "ios",
+    "time": "2026-06-24T06:45:00Z",
+    "utm_source": "newsletter"
+  },
+  {
+    "country": "DE",
+    "distinct_id": "user-mira",
+    "event": "subscription_started",
+    "event_id": "evt-0025",
+    "plan": "team",
+    "platform": "web",
+    "time": "2026-06-24T22:14:00Z",
+    "utm_source": "referral"
+  },
+  {
+    "country": "BR",
+    "distinct_id": "user-mira",
+    "event": "error_shown",
+    "event_id": "evt-0026",
+    "plan": "enterprise",
+    "platform": "ios",
+    "time": "2026-06-24T19:18:00Z",
+    "utm_source": "newsletter"
+  },
+  {
+    "country": "DE",
+    "distinct_id": "user-mira",
+    "event": "page_view",
+    "event_id": "evt-0027",
+    "plan": "enterprise",
+    "platform": "ios",
+    "time": "2026-06-24T17:51:00Z",
+    "utm_source": "twitter"
+  },
+  {
+    "country": "FR",
+    "distinct_id": "user-alex",
+    "event": "page_view",
+    "event_id": "evt-0028",
+    "plan": "pro",
+    "platform": "android",
+    "time": "2026-06-24T09:07:00Z",
+    "utm_source": "newsletter"
+  },
+  {
+    "country": "AU",
+    "distinct_id": "user-quinn",
+    "event": "session_start",
+    "event_id": "evt-0029",
+    "plan": "enterprise",
+    "platform": "ios",
+    "time": "2026-06-25T08:22:00Z",
+    "utm_source": "google"
+  },
+  {
+    "country": "GB",
+    "distinct_id": "user-dana",
+    "event": "subscription_started",
+    "event_id": "evt-0030",
+    "plan": "free",
+    "platform": "ios",
+    "time": "2026-06-25T09:52:00Z",
+    "utm_source": "twitter"
+  },
+  {
+    "country": "AU",
+    "distinct_id": "user-jordan",
+    "event": "page_view",
+    "event_id": "evt-0031",
+    "plan": "pro",
+    "platform": "ios",
+    "time": "2026-06-25T19:46:00Z",
+    "utm_source": "google"
+  },
+  {
+    "country": "FR",
+    "distinct_id": "user-dana",
+    "event": "subscription_started",
+    "event_id": "evt-0032",
+    "plan": "enterprise",
+    "platform": "ios",
+    "time": "2026-06-25T11:42:00Z",
+    "utm_source": "organic"
+  },
+  {
+    "country": "BR",
+    "distinct_id": "user-riley",
+    "event": "subscription_started",
+    "event_id": "evt-0033",
+    "plan": "team",
+    "platform": "android",
+    "time": "2026-06-26T15:51:00Z",
+    "utm_source": "newsletter"
+  },
+  {
+    "country": "AU",
+    "distinct_id": "user-dana",
+    "event": "subscription_renewed",
+    "event_id": "evt-0034",
+    "plan": "enterprise",
+    "platform": "ios",
+    "time": "2026-06-26T20:33:00Z",
+    "utm_source": "google"
+  },
+  {
+    "country": "BR",
+    "distinct_id": "user-quinn",
+    "event": "signup_completed",
+    "event_id": "evt-0035",
+    "plan": "pro",
+    "platform": "ios",
+    "time": "2026-06-26T16:19:00Z",
+    "utm_source": "twitter"
+  },
+  {
+    "country": "AU",
+    "distinct_id": "user-jordan",
+    "event": "purchase",
+    "event_id": "evt-0036",
+    "plan": "team",
+    "platform": "ios",
+    "time": "2026-06-26T06:46:00Z",
+    "utm_source": "direct"
+  },
+  {
+    "country": "AU",
+    "distinct_id": "user-alex",
+    "event": "signup_completed",
+    "event_id": "evt-0037",
+    "plan": "pro",
+    "platform": "ios",
+    "time": "2026-06-27T14:08:00Z",
+    "utm_source": "newsletter"
+  },
+  {
+    "country": "JP",
+    "distinct_id": "user-mira",
+    "event": "subscription_renewed",
+    "event_id": "evt-0038",
+    "plan": "enterprise",
+    "platform": "web",
+    "time": "2026-06-27T19:17:00Z",
+    "utm_source": "direct"
+  },
+  {
+    "country": "US",
+    "distinct_id": "user-river",
+    "event": "purchase",
+    "event_id": "evt-0039",
+    "plan": "free",
+    "platform": "android",
+    "time": "2026-06-27T12:26:00Z",
+    "utm_source": "referral"
+  },
+  {
+    "country": "BR",
+    "distinct_id": "user-sage",
+    "event": "checkout_started",
+    "event_id": "evt-0040",
+    "plan": "team",
+    "platform": "android",
+    "time": "2026-06-27T18:46:00Z",
+    "utm_source": "direct"
+  },
+  {
+    "country": "BR",
+    "distinct_id": "user-casey",
+    "event": "signup_completed",
+    "event_id": "evt-0041",
+    "plan": "enterprise",
+    "platform": "ios",
+    "time": "2026-06-28T06:12:00Z",
+    "utm_source": "referral"
+  },
+  {
+    "country": "GB",
+    "distinct_id": "user-mira",
+    "event": "signup_completed",
+    "event_id": "evt-0042",
+    "plan": "pro",
+    "platform": "ios",
+    "time": "2026-06-28T22:27:00Z",
+    "utm_source": "direct"
+  },
+  {
+    "country": "DE",
+    "distinct_id": "user-alex",
+    "event": "logout",
+    "event_id": "evt-0043",
+    "plan": "free",
+    "platform": "ios",
+    "time": "2026-06-28T18:23:00Z",
+    "utm_source": "direct"
+  },
+  {
+    "country": "BR",
+    "distinct_id": "user-casey",
+    "event": "purchase",
+    "event_id": "evt-0044",
+    "plan": "pro",
+    "platform": "web",
+    "time": "2026-06-28T22:37:00Z",
+    "utm_source": "google"
+  },
+  {
+    "country": "JP",
+    "distinct_id": "user-skylar",
+    "event": "signup_completed",
+    "event_id": "evt-0045",
+    "plan": "team",
+    "platform": "web",
+    "time": "2026-06-28T20:50:00Z",
+    "utm_source": "twitter"
+  },
+  {
+    "country": "JP",
+    "distinct_id": "user-alex",
+    "event": "error_shown",
+    "event_id": "evt-0046",
+    "plan": "team",
+    "platform": "ios",
+    "time": "2026-06-28T07:49:00Z",
+    "utm_source": "newsletter"
+  },
+  {
+    "country": "GB",
+    "distinct_id": "user-riley",
+    "event": "checkout_started",
+    "event_id": "evt-0047",
+    "plan": "enterprise",
+    "platform": "web",
+    "time": "2026-06-29T12:00:00Z",
+    "utm_source": "twitter"
+  },
+  {
+    "country": "DE",
+    "distinct_id": "user-sage",
+    "event": "subscription_started",
+    "event_id": "evt-0048",
+    "plan": "free",
+    "platform": "web",
+    "time": "2026-06-29T20:51:00Z",
+    "utm_source": "twitter"
+  },
+  {
+    "country": "AU",
+    "distinct_id": "user-skylar",
+    "event": "purchase",
+    "event_id": "evt-0049",
+    "plan": "free",
+    "platform": "ios",
+    "time": "2026-06-29T14:23:00Z",
+    "utm_source": "direct"
+  },
+  {
+    "country": "BR",
+    "distinct_id": "user-skylar",
+    "event": "page_view",
+    "event_id": "evt-0050",
+    "plan": "pro",
+    "platform": "ios",
+    "time": "2026-06-29T17:18:00Z",
+    "utm_source": "google"
+  },
+  {
+    "country": "DE",
+    "distinct_id": "user-sam",
+    "event": "purchase",
+    "event_id": "evt-0051",
+    "plan": "enterprise",
+    "platform": "web",
+    "time": "2026-06-29T20:47:00Z",
+    "utm_source": "twitter"
+  }
+]

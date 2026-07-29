@@ -1,0 +1,191 @@
+[
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "appointmentscheduled",
+    "stage_label": "Appointment Scheduled",
+    "display_order": "0",
+    "probability": "0.2",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "qualifiedtobuy",
+    "stage_label": "Qualified To Buy",
+    "display_order": "1",
+    "probability": "0.4",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "presentationscheduled",
+    "stage_label": "Presentation Scheduled",
+    "display_order": "2",
+    "probability": "0.6",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "decisionmakerboughtin",
+    "stage_label": "Decision Maker Bought-In",
+    "display_order": "3",
+    "probability": "0.8",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedwon",
+    "stage_label": "Closed Won",
+    "display_order": "4",
+    "probability": "1.0",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedlost",
+    "stage_label": "Closed Lost",
+    "display_order": "5",
+    "probability": "0.0",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "events",
+    "pipeline_label": "Private Events Pipeline",
+    "stage_id": "inquiryreceived",
+    "stage_label": "Inquiry Received",
+    "display_order": "0",
+    "probability": "0.1",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "events",
+    "pipeline_label": "Private Events Pipeline",
+    "stage_id": "menuproposalsent",
+    "stage_label": "Menu Proposal Sent",
+    "display_order": "1",
+    "probability": "0.3",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "events",
+    "pipeline_label": "Private Events Pipeline",
+    "stage_id": "tastingscheduled",
+    "stage_label": "Tasting Scheduled",
+    "display_order": "2",
+    "probability": "0.5",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "events",
+    "pipeline_label": "Private Events Pipeline",
+    "stage_id": "depositreceived",
+    "stage_label": "Deposit Received",
+    "display_order": "3",
+    "probability": "0.8",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "events",
+    "pipeline_label": "Private Events Pipeline",
+    "stage_id": "eventconfirmed",
+    "stage_label": "Event Confirmed",
+    "display_order": "4",
+    "probability": "1.0",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "events",
+    "pipeline_label": "Private Events Pipeline",
+    "stage_id": "eventcancelled",
+    "stage_label": "Event Cancelled",
+    "display_order": "5",
+    "probability": "0.0",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "catering",
+    "pipeline_label": "Catering Pipeline",
+    "stage_id": "quoterequested",
+    "stage_label": "Quote Requested",
+    "display_order": "0",
+    "probability": "0.15",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "catering",
+    "pipeline_label": "Catering Pipeline",
+    "stage_id": "quotesent",
+    "stage_label": "Quote Sent",
+    "display_order": "1",
+    "probability": "0.35",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "catering",
+    "pipeline_label": "Catering Pipeline",
+    "stage_id": "contractnegotiation",
+    "stage_label": "Contract Negotiation",
+    "display_order": "2",
+    "probability": "0.6",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "catering",
+    "pipeline_label": "Catering Pipeline",
+    "stage_id": "cateringbooked",
+    "stage_label": "Catering Booked",
+    "display_order": "3",
+    "probability": "1.0",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "catering",
+    "pipeline_label": "Catering Pipeline",
+    "stage_id": "cateringlost",
+    "stage_label": "Catering Lost",
+    "display_order": "4",
+    "probability": "0.0",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "vendor",
+    "pipeline_label": "Vendor Onboarding Pipeline",
+    "stage_id": "vendoridentified",
+    "stage_label": "Vendor Identified",
+    "display_order": "0",
+    "probability": "0.2",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "vendor",
+    "pipeline_label": "Vendor Onboarding Pipeline",
+    "stage_id": "samplesrequested",
+    "stage_label": "Samples Requested",
+    "display_order": "1",
+    "probability": "0.5",
+    "closed": "false"
+  },
+  {
+    "pipeline_id": "vendor",
+    "pipeline_label": "Vendor Onboarding Pipeline",
+    "stage_id": "vendorapproved",
+    "stage_label": "Vendor Approved",
+    "display_order": "2",
+    "probability": "1.0",
+    "closed": "true"
+  },
+  {
+    "pipeline_id": "vendor",
+    "pipeline_label": "Vendor Onboarding Pipeline",
+    "stage_id": "vendorrejected",
+    "stage_label": "Vendor Rejected",
+    "display_order": "3",
+    "probability": "0.0",
+    "closed": "true"
+  }
+]

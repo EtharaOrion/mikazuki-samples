@@ -1,0 +1,47 @@
+[
+  {
+    "description": "Core engineering team for platform and infra",
+    "display_name": "Haverstone University Engineering",
+    "id": "19:team-0001@thread.tacv2",
+    "is_archived": true,
+    "member_ids": [
+      "user-001",
+      "user-002",
+      "user-003",
+      "user-004",
+      "user-005"
+    ],
+    "visibility": "private",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-0001"
+  },
+  {
+    "description": "Product, design, and roadmap planning",
+    "display_name": "Haverstone University Product",
+    "id": "19:team-0002@thread.tacv2",
+    "is_archived": true,
+    "member_ids": [
+      "user-001",
+      "user-002",
+      "user-003",
+      "user-004",
+      "user-005"
+    ],
+    "visibility": "private",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-0002"
+  },
+  {
+    "description": "Company-wide announcements and chat",
+    "display_name": "Haverstone University General",
+    "id": "19:team-0003@thread.tacv2",
+    "is_archived": true,
+    "member_ids": [
+      "user-001",
+      "user-002",
+      "user-003",
+      "user-004",
+      "user-005"
+    ],
+    "visibility": "public",
+    "web_url": "https://teams.microsoft.com/l/team/19%3Ateam-0003"
+  }
+]

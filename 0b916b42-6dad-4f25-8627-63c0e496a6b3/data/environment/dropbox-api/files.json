@@ -1,0 +1,472 @@
+[
+  {
+    "id": "id:dbx-folder-personal",
+    "name": "Personal",
+    "path_lower": "/personal",
+    "path_display": "/Personal",
+    "is_folder": "true",
+    "size": "",
+    "client_modified": "2026-06-04T23:46:32+00:00",
+    "rev": "cc9f97fe8571a4a6"
+  },
+  {
+    "id": "id:dbx-folder-work",
+    "name": "Work",
+    "path_lower": "/work",
+    "path_display": "/Work",
+    "is_folder": "true",
+    "size": "",
+    "client_modified": "2026-03-31T00:50:15+00:00",
+    "rev": "cc9f97fe8571a4a7"
+  },
+  {
+    "id": "id:dbx-work-000",
+    "name": "Weekly status.pdf",
+    "path_lower": "/work/weekly status.pdf",
+    "path_display": "/Work/Weekly status.pdf",
+    "is_folder": "false",
+    "size": "300000",
+    "client_modified": "2026-07-14T22:22:58+00:00",
+    "rev": "cc9f97fe8571a4b0"
+  },
+  {
+    "id": "id:dbx-work-001",
+    "name": "Quarterly plan.pdf",
+    "path_lower": "/work/quarterly plan.pdf",
+    "path_display": "/Work/Quarterly plan.pdf",
+    "is_folder": "false",
+    "size": "350000",
+    "client_modified": "2026-07-04T21:04:10+00:00",
+    "rev": "cc9f97fe8571a4b1"
+  },
+  {
+    "id": "id:dbx-work-002",
+    "name": "Project kickoff notes.pdf",
+    "path_lower": "/work/project kickoff notes.pdf",
+    "path_display": "/Work/Project kickoff notes.pdf",
+    "is_folder": "false",
+    "size": "400000",
+    "client_modified": "2026-07-01T00:11:14+00:00",
+    "rev": "cc9f97fe8571a4b2"
+  },
+  {
+    "id": "id:dbx-work-003",
+    "name": "Postmortem draft.pdf",
+    "path_lower": "/work/postmortem draft.pdf",
+    "path_display": "/Work/Postmortem draft.pdf",
+    "is_folder": "false",
+    "size": "450000",
+    "client_modified": "2026-06-29T03:10:25+00:00",
+    "rev": "cc9f97fe8571a4b3"
+  },
+  {
+    "id": "id:dbx-personal-000",
+    "name": "Trip planning.pdf",
+    "path_lower": "/personal/trip planning.pdf",
+    "path_display": "/Personal/Trip planning.pdf",
+    "is_folder": "false",
+    "size": "120000",
+    "client_modified": "2026-07-09T18:18:36+00:00",
+    "rev": "cc9f97fe8571a4d8"
+  },
+  {
+    "id": "id:dbx-personal-001",
+    "name": "House projects.pdf",
+    "path_lower": "/personal/house projects.pdf",
+    "path_display": "/Personal/House projects.pdf",
+    "is_folder": "false",
+    "size": "150000",
+    "client_modified": "2026-06-29T17:32:21+00:00",
+    "rev": "cc9f97fe8571a4d9"
+  },
+  {
+    "id": "id:dbx-personal-002",
+    "name": "Reading list.pdf",
+    "path_lower": "/personal/reading list.pdf",
+    "path_display": "/Personal/Reading list.pdf",
+    "is_folder": "false",
+    "size": "180000",
+    "client_modified": "2026-06-16T22:20:47+00:00",
+    "rev": "cc9f97fe8571a4da"
+  },
+  {
+    "id": "id:dbx-folder-personal-v1",
+    "name": "Personal",
+    "path_lower": "/personal",
+    "path_display": "/Personal",
+    "is_folder": "true",
+    "size": "",
+    "client_modified": "2026-06-04T23:46:32+00:00",
+    "rev": "cc9f97fe8571a4a6"
+  },
+  {
+    "id": "id:dbx-folder-work-v2",
+    "name": "Work",
+    "path_lower": "/work",
+    "path_display": "/Work",
+    "is_folder": "true",
+    "size": "",
+    "client_modified": "2026-03-31T00:50:15+00:00",
+    "rev": "cc9f97fe8571a4a7"
+  },
+  {
+    "id": "id:dbx-work-000-v3",
+    "name": "Weekly status.pdf",
+    "path_lower": "/work/weekly status.pdf",
+    "path_display": "/Work/Weekly status.pdf",
+    "is_folder": "false",
+    "size": "300000",
+    "client_modified": "2026-07-14T22:22:58+00:00",
+    "rev": "cc9f97fe8571a4b0"
+  },
+  {
+    "id": "id:dbx-work-001-v4",
+    "name": "Quarterly plan.pdf",
+    "path_lower": "/work/quarterly plan.pdf",
+    "path_display": "/Work/Quarterly plan.pdf",
+    "is_folder": "false",
+    "size": "350000",
+    "client_modified": "2026-07-04T21:04:10+00:00",
+    "rev": "cc9f97fe8571a4b1"
+  },
+  {
+    "id": "id:dbx-work-002-v5",
+    "name": "Project kickoff notes.pdf",
+    "path_lower": "/work/project kickoff notes.pdf",
+    "path_display": "/Work/Project kickoff notes.pdf",
+    "is_folder": "false",
+    "size": "400000",
+    "client_modified": "2026-07-01T00:11:14+00:00",
+    "rev": "cc9f97fe8571a4b2"
+  },
+  {
+    "id": "id:dbx-work-003-v6",
+    "name": "Postmortem draft.pdf",
+    "path_lower": "/work/postmortem draft.pdf",
+    "path_display": "/Work/Postmortem draft.pdf",
+    "is_folder": "false",
+    "size": "450000",
+    "client_modified": "2026-06-29T03:10:25+00:00",
+    "rev": "cc9f97fe8571a4b3"
+  },
+  {
+    "id": "id:dbx-personal-000-v7",
+    "name": "Trip planning.pdf",
+    "path_lower": "/personal/trip planning.pdf",
+    "path_display": "/Personal/Trip planning.pdf",
+    "is_folder": "false",
+    "size": "120000",
+    "client_modified": "2026-07-09T18:18:36+00:00",
+    "rev": "cc9f97fe8571a4d8"
+  },
+  {
+    "id": "id:dbx-personal-001-v8",
+    "name": "House projects.pdf",
+    "path_lower": "/personal/house projects.pdf",
+    "path_display": "/Personal/House projects.pdf",
+    "is_folder": "false",
+    "size": "150000",
+    "client_modified": "2026-06-29T17:32:21+00:00",
+    "rev": "cc9f97fe8571a4d9"
+  },
+  {
+    "id": "id:dbx-personal-002-v9",
+    "name": "Reading list.pdf",
+    "path_lower": "/personal/reading list.pdf",
+    "path_display": "/Personal/Reading list.pdf",
+    "is_folder": "false",
+    "size": "180000",
+    "client_modified": "2026-06-16T22:20:47+00:00",
+    "rev": "cc9f97fe8571a4da"
+  },
+  {
+    "id": "id:dbx-folder-personal-v10",
+    "name": "Personal",
+    "path_lower": "/personal",
+    "path_display": "/Personal",
+    "is_folder": "true",
+    "size": "",
+    "client_modified": "2026-06-04T23:46:32+00:00",
+    "rev": "cc9f97fe8571a4a6"
+  },
+  {
+    "id": "id:dbx-folder-work-v11",
+    "name": "Work",
+    "path_lower": "/work",
+    "path_display": "/Work",
+    "is_folder": "true",
+    "size": "",
+    "client_modified": "2026-03-31T00:50:15+00:00",
+    "rev": "cc9f97fe8571a4a7"
+  },
+  {
+    "id": "id:dbx-work-000-v12",
+    "name": "Weekly status.pdf",
+    "path_lower": "/work/weekly status.pdf",
+    "path_display": "/Work/Weekly status.pdf",
+    "is_folder": "false",
+    "size": "300000",
+    "client_modified": "2026-07-14T22:22:58+00:00",
+    "rev": "cc9f97fe8571a4b0"
+  },
+  {
+    "id": "id:dbx-work-001-v13",
+    "name": "Quarterly plan.pdf",
+    "path_lower": "/work/quarterly plan.pdf",
+    "path_display": "/Work/Quarterly plan.pdf",
+    "is_folder": "false",
+    "size": "350000",
+    "client_modified": "2026-07-04T21:04:10+00:00",
+    "rev": "cc9f97fe8571a4b1"
+  },
+  {
+    "id": "id:dbx-work-002-v14",
+    "name": "Project kickoff notes.pdf",
+    "path_lower": "/work/project kickoff notes.pdf",
+    "path_display": "/Work/Project kickoff notes.pdf",
+    "is_folder": "false",
+    "size": "400000",
+    "client_modified": "2026-07-01T00:11:14+00:00",
+    "rev": "cc9f97fe8571a4b2"
+  },
+  {
+    "id": "id:dbx-work-003-v15",
+    "name": "Postmortem draft.pdf",
+    "path_lower": "/work/postmortem draft.pdf",
+    "path_display": "/Work/Postmortem draft.pdf",
+    "is_folder": "false",
+    "size": "450000",
+    "client_modified": "2026-06-29T03:10:25+00:00",
+    "rev": "cc9f97fe8571a4b3"
+  },
+  {
+    "id": "id:dbx-personal-000-v16",
+    "name": "Trip planning.pdf",
+    "path_lower": "/personal/trip planning.pdf",
+    "path_display": "/Personal/Trip planning.pdf",
+    "is_folder": "false",
+    "size": "120000",
+    "client_modified": "2026-07-09T18:18:36+00:00",
+    "rev": "cc9f97fe8571a4d8"
+  },
+  {
+    "id": "id:dbx-personal-001-v17",
+    "name": "House projects.pdf",
+    "path_lower": "/personal/house projects.pdf",
+    "path_display": "/Personal/House projects.pdf",
+    "is_folder": "false",
+    "size": "150000",
+    "client_modified": "2026-06-29T17:32:21+00:00",
+    "rev": "cc9f97fe8571a4d9"
+  },
+  {
+    "id": "id:dbx-personal-002-v18",
+    "name": "Reading list.pdf",
+    "path_lower": "/personal/reading list.pdf",
+    "path_display": "/Personal/Reading list.pdf",
+    "is_folder": "false",
+    "size": "180000",
+    "client_modified": "2026-06-16T22:20:47+00:00",
+    "rev": "cc9f97fe8571a4da"
+  },
+  {
+    "id": "id:dbx-folder-personal-v19",
+    "name": "Personal",
+    "path_lower": "/personal",
+    "path_display": "/Personal",
+    "is_folder": "true",
+    "size": "",
+    "client_modified": "2026-06-04T23:46:32+00:00",
+    "rev": "cc9f97fe8571a4a6"
+  },
+  {
+    "id": "id:dbx-folder-work-v20",
+    "name": "Work",
+    "path_lower": "/work",
+    "path_display": "/Work",
+    "is_folder": "true",
+    "size": "",
+    "client_modified": "2026-03-31T00:50:15+00:00",
+    "rev": "cc9f97fe8571a4a7"
+  },
+  {
+    "id": "id:dbx-work-000-v21",
+    "name": "Weekly status.pdf",
+    "path_lower": "/work/weekly status.pdf",
+    "path_display": "/Work/Weekly status.pdf",
+    "is_folder": "false",
+    "size": "300000",
+    "client_modified": "2026-07-14T22:22:58+00:00",
+    "rev": "cc9f97fe8571a4b0"
+  },
+  {
+    "id": "id:dbx-work-001-v22",
+    "name": "Quarterly plan.pdf",
+    "path_lower": "/work/quarterly plan.pdf",
+    "path_display": "/Work/Quarterly plan.pdf",
+    "is_folder": "false",
+    "size": "350000",
+    "client_modified": "2026-07-04T21:04:10+00:00",
+    "rev": "cc9f97fe8571a4b1"
+  },
+  {
+    "id": "id:dbx-work-002-v23",
+    "name": "Project kickoff notes.pdf",
+    "path_lower": "/work/project kickoff notes.pdf",
+    "path_display": "/Work/Project kickoff notes.pdf",
+    "is_folder": "false",
+    "size": "400000",
+    "client_modified": "2026-07-01T00:11:14+00:00",
+    "rev": "cc9f97fe8571a4b2"
+  },
+  {
+    "id": "id:dbx-work-003-v24",
+    "name": "Postmortem draft.pdf",
+    "path_lower": "/work/postmortem draft.pdf",
+    "path_display": "/Work/Postmortem draft.pdf",
+    "is_folder": "false",
+    "size": "450000",
+    "client_modified": "2026-06-29T03:10:25+00:00",
+    "rev": "cc9f97fe8571a4b3"
+  },
+  {
+    "id": "id:dbx-personal-000-v25",
+    "name": "Trip planning.pdf",
+    "path_lower": "/personal/trip planning.pdf",
+    "path_display": "/Personal/Trip planning.pdf",
+    "is_folder": "false",
+    "size": "120000",
+    "client_modified": "2026-07-09T18:18:36+00:00",
+    "rev": "cc9f97fe8571a4d8"
+  },
+  {
+    "id": "id:dbx-personal-001-v26",
+    "name": "House projects.pdf",
+    "path_lower": "/personal/house projects.pdf",
+    "path_display": "/Personal/House projects.pdf",
+    "is_folder": "false",
+    "size": "150000",
+    "client_modified": "2026-06-29T17:32:21+00:00",
+    "rev": "cc9f97fe8571a4d9"
+  },
+  {
+    "id": "id:dbx-personal-002-v27",
+    "name": "Reading list.pdf",
+    "path_lower": "/personal/reading list.pdf",
+    "path_display": "/Personal/Reading list.pdf",
+    "is_folder": "false",
+    "size": "180000",
+    "client_modified": "2026-06-16T22:20:47+00:00",
+    "rev": "cc9f97fe8571a4da"
+  },
+  {
+    "id": "id:dbx-folder-personal-v28",
+    "name": "Personal",
+    "path_lower": "/personal",
+    "path_display": "/Personal",
+    "is_folder": "true",
+    "size": "",
+    "client_modified": "2026-06-04T23:46:32+00:00",
+    "rev": "cc9f97fe8571a4a6"
+  },
+  {
+    "id": "id:dbx-folder-work-v29",
+    "name": "Work",
+    "path_lower": "/work",
+    "path_display": "/Work",
+    "is_folder": "true",
+    "size": "",
+    "client_modified": "2026-03-31T00:50:15+00:00",
+    "rev": "cc9f97fe8571a4a7"
+  },
+  {
+    "id": "id:dbx-work-000-v30",
+    "name": "Weekly status.pdf",
+    "path_lower": "/work/weekly status.pdf",
+    "path_display": "/Work/Weekly status.pdf",
+    "is_folder": "false",
+    "size": "300000",
+    "client_modified": "2026-07-14T22:22:58+00:00",
+    "rev": "cc9f97fe8571a4b0"
+  },
+  {
+    "id": "id:dbx-work-001-v31",
+    "name": "Quarterly plan.pdf",
+    "path_lower": "/work/quarterly plan.pdf",
+    "path_display": "/Work/Quarterly plan.pdf",
+    "is_folder": "false",
+    "size": "350000",
+    "client_modified": "2026-07-04T21:04:10+00:00",
+    "rev": "cc9f97fe8571a4b1"
+  },
+  {
+    "id": "id:dbx-work-002-v32",
+    "name": "Project kickoff notes.pdf",
+    "path_lower": "/work/project kickoff notes.pdf",
+    "path_display": "/Work/Project kickoff notes.pdf",
+    "is_folder": "false",
+    "size": "400000",
+    "client_modified": "2026-07-01T00:11:14+00:00",
+    "rev": "cc9f97fe8571a4b2"
+  },
+  {
+    "id": "id:dbx-work-003-v33",
+    "name": "Postmortem draft.pdf",
+    "path_lower": "/work/postmortem draft.pdf",
+    "path_display": "/Work/Postmortem draft.pdf",
+    "is_folder": "false",
+    "size": "450000",
+    "client_modified": "2026-06-29T03:10:25+00:00",
+    "rev": "cc9f97fe8571a4b3"
+  },
+  {
+    "id": "id:dbx-personal-000-v34",
+    "name": "Trip planning.pdf",
+    "path_lower": "/personal/trip planning.pdf",
+    "path_display": "/Personal/Trip planning.pdf",
+    "is_folder": "false",
+    "size": "120000",
+    "client_modified": "2026-07-09T18:18:36+00:00",
+    "rev": "cc9f97fe8571a4d8"
+  },
+  {
+    "id": "id:dbx-personal-001-v35",
+    "name": "House projects.pdf",
+    "path_lower": "/personal/house projects.pdf",
+    "path_display": "/Personal/House projects.pdf",
+    "is_folder": "false",
+    "size": "150000",
+    "client_modified": "2026-06-29T17:32:21+00:00",
+    "rev": "cc9f97fe8571a4d9"
+  },
+  {
+    "id": "id:dbx-personal-002-v36",
+    "name": "Reading list.pdf",
+    "path_lower": "/personal/reading list.pdf",
+    "path_display": "/Personal/Reading list.pdf",
+    "is_folder": "false",
+    "size": "180000",
+    "client_modified": "2026-06-16T22:20:47+00:00",
+    "rev": "cc9f97fe8571a4da"
+  },
+  {
+    "id": "id:dbx-folder-personal-v37",
+    "name": "Personal",
+    "path_lower": "/personal",
+    "path_display": "/Personal",
+    "is_folder": "true",
+    "size": "",
+    "client_modified": "2026-06-04T23:46:32+00:00",
+    "rev": "cc9f97fe8571a4a6"
+  },
+  {
+    "id": "id:dbx-folder-work-v38",
+    "name": "Work",
+    "path_lower": "/work",
+    "path_display": "/Work",
+    "is_folder": "true",
+    "size": "",
+    "client_modified": "2026-03-31T00:50:15+00:00",
+    "rev": "cc9f97fe8571a4a7"
+  }
+]

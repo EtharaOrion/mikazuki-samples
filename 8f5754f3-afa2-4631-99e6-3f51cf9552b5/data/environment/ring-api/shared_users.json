@@ -1,0 +1,173 @@
+[
+  {
+    "user_id": "100002",
+    "first_name": "Ellen",
+    "last_name": "McGee",
+    "email": "ellen.mcgee@gmail.com",
+    "role": "owner",
+    "device_access": "all",
+    "shared_at": "2021-03-12T16:00:00.000Z"
+  },
+  {
+    "user_id": "100003",
+    "first_name": "Sophia",
+    "last_name": "Kastner",
+    "email": "sophia.k@eleanorstavern.com",
+    "role": "shared_user",
+    "device_access": "871102",
+    "shared_at": "2022-02-18T11:00:00.000Z"
+  },
+  {
+    "user_id": "100004",
+    "first_name": "Daniel",
+    "last_name": "McGee",
+    "email": "daniel.mcgee@gmail.com",
+    "role": "shared_user",
+    "device_access": "871102",
+    "shared_at": "2022-03-01T09:30:00.000Z"
+  },
+  {
+    "user_id": "100005",
+    "first_name": "Carlton",
+    "last_name": "McGee",
+    "email": "carlton.mcgee@eleanorstavern.com",
+    "role": "owner",
+    "device_access": "all",
+    "shared_at": "2021-03-12T16:00:00.000Z"
+  },
+  {
+    "user_id": "100006",
+    "first_name": "Marcus",
+    "last_name": "Rivera",
+    "email": "marcus.r@eleanorstavern.com",
+    "role": "shared_user",
+    "device_access": "871103",
+    "shared_at": "2022-03-15T10:00:00.000Z"
+  },
+  {
+    "user_id": "100007",
+    "first_name": "Nina",
+    "last_name": "Petrova",
+    "email": "nina.p@eleanorstavern.com",
+    "role": "shared_user",
+    "device_access": "871101",
+    "shared_at": "2022-11-20T14:30:00.000Z"
+  },
+  {
+    "user_id": "100008",
+    "first_name": "Oscar",
+    "last_name": "Ruiz",
+    "email": "oscar.r@eleanorstavern.com",
+    "role": "shared_user",
+    "device_access": "871102",
+    "shared_at": "2023-01-10T09:15:00.000Z"
+  },
+  {
+    "user_id": "100009",
+    "first_name": "Grace",
+    "last_name": "Okafor",
+    "email": "grace.o@eleanorstavern.com",
+    "role": "shared_user",
+    "device_access": "871101",
+    "shared_at": "2023-02-22T11:45:00.000Z"
+  },
+  {
+    "user_id": "100010",
+    "first_name": "Luis",
+    "last_name": "Mendoza",
+    "email": "luis.m@eleanorstavern.com",
+    "role": "shared_user",
+    "device_access": "871103",
+    "shared_at": "2023-01-05T08:30:00.000Z"
+  },
+  {
+    "user_id": "100011",
+    "first_name": "Tyler",
+    "last_name": "Brennan",
+    "email": "tyler.b@eleanorstavern.com",
+    "role": "shared_user",
+    "device_access": "871103",
+    "shared_at": "2023-02-18T13:00:00.000Z"
+  },
+  {
+    "user_id": "100013",
+    "first_name": "Hannah",
+    "last_name": "Lieberman",
+    "email": "hannah.l@eleanorstavern.com",
+    "role": "shared_user",
+    "device_access": "871101",
+    "shared_at": "2023-02-14T10:10:00.000Z"
+  },
+  {
+    "user_id": "100014",
+    "first_name": "Pedro",
+    "last_name": "Alvarez",
+    "email": "pedro.a@eleanorstavern.com",
+    "role": "shared_user",
+    "device_access": "871102",
+    "shared_at": "2023-03-25T09:00:00.000Z"
+  },
+  {
+    "user_id": "100015",
+    "first_name": "Maya",
+    "last_name": "Chen",
+    "email": "maya.c@eleanorstavern.com",
+    "role": "shared_user",
+    "device_access": "871101",
+    "shared_at": "2025-03-12T11:30:00.000Z"
+  },
+  {
+    "user_id": "100016",
+    "first_name": "Aisha",
+    "last_name": "Khan",
+    "email": "aisha.k@eleanorstavern.com",
+    "role": "shared_user",
+    "device_access": "871101",
+    "shared_at": "2024-01-10T08:45:00.000Z"
+  },
+  {
+    "user_id": "100017",
+    "first_name": "Eric",
+    "last_name": "Donnelly",
+    "email": "eric.d@eleanorstavern.com",
+    "role": "shared_user",
+    "device_access": "871103",
+    "shared_at": "2025-01-16T10:00:00.000Z"
+  },
+  {
+    "user_id": "100018",
+    "first_name": "Devon",
+    "last_name": "Parker",
+    "email": "devon.p@eleanorstavern.com",
+    "role": "shared_user",
+    "device_access": "871101",
+    "shared_at": "2023-10-20T13:15:00.000Z"
+  },
+  {
+    "user_id": "100019",
+    "first_name": "Ravi",
+    "last_name": "Patel",
+    "email": "ravi.p@eleanorstavern.com",
+    "role": "shared_user",
+    "device_access": "871101",
+    "shared_at": "2024-02-22T09:40:00.000Z"
+  },
+  {
+    "user_id": "100020",
+    "first_name": "Caleb",
+    "last_name": "Foster",
+    "email": "caleb.f@eleanorstavern.com",
+    "role": "shared_user",
+    "device_access": "871101",
+    "shared_at": "2025-02-21T10:30:00.000Z"
+  },
+  {
+    "user_id": "100021",
+    "first_name": "Sam",
+    "last_name": "Whitfield",
+    "email": "sam.w@eleanorstavern.com",
+    "role": "shared_user",
+    "device_access": "871102",
+    "shared_at": "2024-11-06T08:20:00.000Z"
+  }
+]

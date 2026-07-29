@@ -1,0 +1,182 @@
+[
+  {
+    "author_id": "contact-mara",
+    "author_type": "user",
+    "body": "The CSV export button does nothing when I click it.",
+    "conversation_id": "conv-1001",
+    "created_at": "2026-02-20T09:00:00.000Z",
+    "id": "part-1",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-jonas",
+    "author_type": "admin",
+    "body": "Thanks for flagging. Which browser are you using?",
+    "conversation_id": "conv-1001",
+    "created_at": "2026-02-20T10:30:00.000Z",
+    "id": "part-2",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-mara",
+    "author_type": "user",
+    "body": "I am on the latest Chrome on macOS.",
+    "conversation_id": "conv-1001",
+    "created_at": "2026-02-25T14:00:00.000Z",
+    "id": "part-3",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-ethan",
+    "author_type": "user",
+    "body": "Why was I charged twice this month?",
+    "conversation_id": "conv-1002",
+    "created_at": "2026-02-15T10:00:00.000Z",
+    "id": "part-4",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-helena",
+    "author_type": "admin",
+    "body": "One charge was a proration for your upgrade; I have refunded the duplicate.",
+    "conversation_id": "conv-1002",
+    "created_at": "2026-02-16T09:00:00.000Z",
+    "id": "part-5",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-helena",
+    "author_type": "admin",
+    "body": "That should be resolved now; let me know if it persists.",
+    "conversation_id": "conv-1002",
+    "created_at": "2026-02-18T11:00:00.000Z",
+    "id": "part-6",
+    "part_type": "close"
+  },
+  {
+    "author_id": "contact-grace",
+    "author_type": "user",
+    "body": "We need SAML SSO for our team of 30.",
+    "conversation_id": "conv-1003",
+    "created_at": "2026-02-22T13:00:00.000Z",
+    "id": "part-7",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-yara",
+    "author_type": "user",
+    "body": "Could we get two more weeks on the trial?",
+    "conversation_id": "conv-1004",
+    "created_at": "2026-02-10T08:00:00.000Z",
+    "id": "part-8",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-helena",
+    "author_type": "admin",
+    "body": "Thanks - I'll take a look and follow up shortly.",
+    "conversation_id": "conv-1004",
+    "created_at": "2026-02-12T09:00:00.000Z",
+    "id": "part-9",
+    "part_type": "close"
+  },
+  {
+    "author_id": "contact-mara-p9",
+    "author_type": "user",
+    "body": "The CSV export button does nothing when I click it.",
+    "conversation_id": "conv1110",
+    "created_at": "2026-02-01T06:30:00Z",
+    "id": "part110",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-jonas-p10",
+    "author_type": "admin",
+    "body": "Thanks for flagging. Which browser are you using?",
+    "conversation_id": "conv1111",
+    "created_at": "2026-02-14T06:30:00Z",
+    "id": "part112",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-mara-p11",
+    "author_type": "user",
+    "body": "I am on the latest Chrome on macOS.",
+    "conversation_id": "conv1112",
+    "created_at": "2026-02-10T06:30:00Z",
+    "id": "part114",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-ethan-p12",
+    "author_type": "user",
+    "body": "Why was I charged twice this month?",
+    "conversation_id": "conv1114",
+    "created_at": "2026-02-01T06:30:00Z",
+    "id": "part116",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-helena-p13",
+    "author_type": "admin",
+    "body": "One charge was a proration for your upgrade; I have refunded the duplicate.",
+    "conversation_id": "conv1115",
+    "created_at": "2026-02-12T06:30:00Z",
+    "id": "part118",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-helena-p14",
+    "author_type": "admin",
+    "body": "Thanks - I'll take a look and follow up shortly.",
+    "conversation_id": "conv1116",
+    "created_at": "2026-01-28T06:30:00Z",
+    "id": "part120",
+    "part_type": "close"
+  },
+  {
+    "author_id": "contact-grace-p15",
+    "author_type": "user",
+    "body": "We need SAML SSO for our team of 30.",
+    "conversation_id": "conv1118",
+    "created_at": "2026-02-13T06:30:00Z",
+    "id": "part122",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "contact-yara-p16",
+    "author_type": "user",
+    "body": "Could we get two more weeks on the trial?",
+    "conversation_id": "conv1120",
+    "created_at": "2026-02-16T06:30:00Z",
+    "id": "part124",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-helena-p17",
+    "author_type": "admin",
+    "body": "That should be resolved now; let me know if it persists.",
+    "conversation_id": "conv1121",
+    "created_at": "2026-01-31T06:30:00Z",
+    "id": "part126",
+    "part_type": "close"
+  },
+  {
+    "author_id": "contact-mara-p18",
+    "author_type": "user",
+    "body": "The CSV export button does nothing when I click it.",
+    "conversation_id": "conv1119",
+    "created_at": "2026-02-02T06:30:00Z",
+    "id": "part119",
+    "part_type": "comment"
+  },
+  {
+    "author_id": "admin-jonas-p19",
+    "author_type": "admin",
+    "body": "Thanks for flagging. Which browser are you using?",
+    "conversation_id": "conv1120",
+    "created_at": "2026-02-12T06:30:00Z",
+    "id": "part121",
+    "part_type": "comment"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "closed": false,
+    "desc": "Platform sprint board.",
+    "id": "5f1b00000000000000000001",
+    "id_organization": "5f1c00000000000000000001",
+    "member_ids": [
+      "5f1a000000000000000000a1",
+      "5f1a00000000000000000002",
+      "5f1a00000000000000000003",
+      "5f1a00000000000000000004"
+    ],
+    "name": "Platform sprint",
+    "url": "https://trello.com/b/0001/platform-sprint"
+  },
+  {
+    "closed": false,
+    "desc": "Operations board.",
+    "id": "5f1b00000000000000000002",
+    "id_organization": "5f1c00000000000000000001",
+    "member_ids": [
+      "5f1a000000000000000000a1",
+      "5f1a00000000000000000002",
+      "5f1a00000000000000000003",
+      "5f1a00000000000000000004"
+    ],
+    "name": "Operations",
+    "url": "https://trello.com/b/0002/operations"
+  },
+  {
+    "closed": false,
+    "desc": "Personal board.",
+    "id": "5f1b00000000000000000003",
+    "id_organization": "5f1c00000000000000000001",
+    "member_ids": [
+      "5f1a000000000000000000a1",
+      "5f1a00000000000000000002",
+      "5f1a00000000000000000003",
+      "5f1a00000000000000000004"
+    ],
+    "name": "Personal",
+    "url": "https://trello.com/b/0003/personal"
+  },
+  {
+    "closed": false,
+    "desc": "Tenure dossier plan and sub-tasks.",
+    "id": "5f1b00000000000000001001",
+    "id_organization": "5f1c00000000000000000001",
+    "member_ids": [
+      "5f1a000000000000000000a1"
+    ],
+    "name": "Tenure Dossier 2026-27",
+    "url": "https://trello.com/b/5f1b00000000000000001001"
+  },
+  {
+    "closed": false,
+    "desc": "R3 revision tracking board.",
+    "id": "5f1b00000000000000001002",
+    "id_organization": "5f1c00000000000000000001",
+    "member_ids": [
+      "5f1a000000000000000000a1"
+    ],
+    "name": "Voss Ashford R3",
+    "url": "https://trello.com/b/5f1b00000000000000001002"
+  },
+  {
+    "closed": false,
+    "desc": "Ballet showcase planning.",
+    "id": "5f1b00000000000000001003",
+    "id_organization": "5f1c00000000000000000001",
+    "member_ids": [
+      "5f1a000000000000000000a1"
+    ],
+    "name": "Advanced Class Showcase",
+    "url": "https://trello.com/b/5f1b00000000000000001003"
+  }
+]

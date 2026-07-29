@@ -1,0 +1,65 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 9,
+      "passed": 1,
+      "failed": 8,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.0417,
+      "weighted_percentage": 4.17
+    },
+    "tests": [
+      {
+        "name": "test_instagram_distractor",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_notion_guide_deliverable_present",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_notion_oils_station_removed",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_notion_station_order_dairy",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_notion_station_order_fruits",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_notion_station_order_grains",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_notion_station_order_proteins",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_notion_station_order_vegetable",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_notion_station_pages_patched",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

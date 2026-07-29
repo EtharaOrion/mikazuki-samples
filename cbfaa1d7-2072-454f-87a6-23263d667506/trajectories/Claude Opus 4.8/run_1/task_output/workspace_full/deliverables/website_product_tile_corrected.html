@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nicole King, MT-BC, Music Therapy</title>
+<style>
+  :root{
+    --ink:#1c1a24; --paper:#f6f3ee; --burgundy:#6b2737; --burgundy-soft:#8a3a4c;
+    --gold:#b89150; --line:#d9d2c6; --muted:#5f5a52;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:Georgia,'Times New Roman',serif;color:var(--ink);background:var(--paper);line-height:1.6}
+  header{background:var(--burgundy);color:#f6f3ee;padding:48px 24px 40px;text-align:center;border-bottom:5px solid var(--gold)}
+  header h1{font-size:2.4rem;letter-spacing:.5px}
+  header .role{font-style:italic;color:#e9d9be;margin-top:6px;font-size:1.1rem}
+  header .meta{margin-top:14px;font-size:.92rem;color:#dcc7c9}
+  nav{background:#2b2630;display:flex;justify-content:center;flex-wrap:wrap;gap:6px;padding:10px}
+  nav button{background:transparent;color:#e8e2d8;border:1px solid #4a4350;border-radius:20px;padding:8px 18px;font-family:inherit;font-size:.95rem;cursor:pointer;transition:.2s}
+  nav button:hover,nav button.active{background:var(--gold);color:#241f1a;border-color:var(--gold)}
+  main{max-width:860px;margin:0 auto;padding:36px 24px}
+  section{display:none}
+  section.show{display:block;animation:fade .4s ease}
+  @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  h2{color:var(--burgundy);font-size:1.7rem;border-bottom:2px solid var(--line);padding-bottom:8px;margin-bottom:18px}
+  .lede{font-size:1.12rem;color:var(--muted);margin-bottom:22px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}
+  .card{background:#fff;border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:6px;padding:20px}
+  .card h3{color:var(--burgundy-soft);margin-bottom:8px;font-size:1.15rem}
+  ul.clean{list-style:none}
+  ul.clean li{padding:7px 0;border-bottom:1px dashed var(--line)}
+  ul.clean li:last-child{border-bottom:none}
+  .pill{display:inline-block;background:#efe6d6;color:#6b2737;border-radius:14px;padding:3px 12px;margin:4px 4px 0 0;font-size:.85rem}
+  blockquote{font-style:italic;color:var(--muted);border-left:3px solid var(--gold);padding-left:16px;margin:18px 0}
+  footer{background:#2b2630;color:#c9c3b8;text-align:center;padding:28px 24px;border-top:5px solid var(--burgundy)}
+  footer a{color:var(--gold);text-decoration:none}
+  @media(max-width:600px){header h1{font-size:1.8rem}main{padding:24px 16px}}
+</style>
+</head>
+<body>
+<header>
+  <h1>Nicole King, MT-BC</h1>
+  <div class="role">Board-Certified Music Therapist, Neurologic Music Therapy</div>
+  <div class="meta">Park Slope, Brooklyn, NY &bull; Private practice and Kestrel Healthcare</div>
+</header>
+<nav>
+  <button class="active" data-t="about">About</button>
+  <button data-t="practice">Practice</button>
+  <button data-t="approach">Approach</button>
+  <button data-t="contact">Contact</button>
+</nav>
+<main>
+  <section id="about" class="show">
+    <h2>About</h2>
+    <p class="lede">I am a board-certified music therapist working at the intersection of clinical neurorehabilitation and private practice. Music, for me, is the bridge between injury and recovery, isolation and connection.</p>
+    <p>I trained as a concert pianist at Ashvale Conservatory, earning a Bachelor of Music in 2012 and a Master of Music in 2014, before clinical work redirected my path. I completed my MA in Music Therapy at Emberglen University in 2018 and hold MT-BC board certification through CBMT.</p>
+    <blockquote>Music bridges language and silence, injury and recovery, more than concert prestige ever did.</blockquote>
+    <div class="grid">
+      <div class="card"><h3>Clinical Home</h3><p>Manhattan neurorehabilitation unit at Kestrel Healthcare, Monday through Thursday, serving stroke, traumatic brain injury, and neurodegenerative patients.</p></div>
+      <div class="card"><h3>Studio</h3><p>A private Park Slope home studio with an upright Yamaha, rhythm instruments, and therapy-friendly seating for children and adults.</p></div>
+    </div>
+  </section>
+
+  <section id="practice">
+    <h2>Private Practice</h2>
+    <p class="lede">Individualized music therapy for children on the autism spectrum and adults working through anxiety and depression.</p>
+    <div class="grid">
+      <div class="card"><h3>Sessions</h3><ul class="clean">
+        <li>Tuesday and Thursday, 6:30 to 8:30 PM</li>
+        <li>Saturday, 1:00 to 4:00 PM</li>
+        <li>50-minute sessions, 150 dollars each</li>
+      </ul></div>
+      <div class="card"><h3>Who I See</h3><ul class="clean">
+        <li>Children on the autism spectrum</li>
+        <li>Adults in mental health work</li>
+        <li>Intake to treatment planning to care</li>
+      </ul></div>
+    </div>
+    <p style="margin-top:18px">Specialties:
+      <span class="pill">Rhythmic Auditory Stimulation</span>
+      <span class="pill">Melodic Intonation Therapy</span>
+      <span class="pill">Therapeutic Instrument Playing</span>
+      <span class="pill">Autism-spectrum work</span>
+    </p>
+    <h2 style="margin-top:34px">Session Packages</h2>
+    <div class="grid">
+      <div class="card" data-product="nmt-6-session-package">
+        <h3>Neurologic Music Therapy Package</h3>
+        <ul class="clean">
+          <li>Six individual sessions</li>
+          <li>60 minutes each</li>
+          <li><strong>$420</strong> per package</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="approach">
+    <h2>Approach</h2>
+    <p class="lede">Neurologic Music Therapy treats music as a precise clinical tool, not decoration. Rhythm reorganizes movement; melody re-opens language.</p>
+    <div class="grid">
+      <div class="card"><h3>Gait Recovery</h3><p>Rhythmic auditory stimulation entrains a steadier, more symmetrical walking pattern for patients relearning to move after stroke.</p></div>
+      <div class="card"><h3>Aphasia</h3><p>Melodic intonation therapy uses the intact musical systems of the brain to rebuild functional speech after language loss.</p></div>
+      <div class="card"><h3>Motor Return</h3><p>Therapeutic instrument playing turns reaching, grasping, and pressing into musically motivated, repeatable movement.</p></div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact and Intake</h2>
+    <p class="lede">New inquiries are welcome. I keep a small caseload so each client gets full attention.</p>
+    <div class="card">
+      <ul class="clean">
+        <li><strong>Practice email:</strong> nicole.king@finthesiss.ai</li>
+        <li><strong>Location:</strong> Park Slope home studio, Brooklyn, NY 11215</li>
+        <li><strong>Service area:</strong> Brooklyn and lower Manhattan</li>
+      </ul>
+      <p style="margin-top:14px;color:var(--muted)">Please note: clinical work at Kestrel Healthcare is scheduled separately through that institution. This page covers private practice only.</p>
+    </div>
+  </section>
+</main>
+<footer>
+  <p>Nicole King, MT-BC &bull; Music Therapy, Park Slope, Brooklyn</p>
+  <p style="margin-top:6px"><a href="#">nicole.king@finthesiss.ai</a></p>
+  <p style="margin-top:6px;font-size:.85rem">Page last reviewed February 2026</p>
+</footer>
+<script>
+  var btns=document.querySelectorAll('nav button');
+  var secs=document.querySelectorAll('main section');
+  btns.forEach(function(b){
+    b.addEventListener('click',function(){
+      var t=b.getAttribute('data-t');
+      btns.forEach(function(x){x.classList.remove('active')});
+      b.classList.add('active');
+      secs.forEach(function(s){s.classList.toggle('show', s.id===t)});
+      window.scrollTo({top:0,behavior:'smooth'});
+    });
+  });
+</script>
+</body>
+</html>

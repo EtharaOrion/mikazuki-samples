@@ -1,0 +1,80 @@
+{
+  "BreakEvenAnalysis": {
+    "PreparedBy": "Dorothy Langston",
+    "PreparedDate": "2026-03-15",
+    "Context": "Personal Schedule C break-even estimate for Dorothy Langston's ballet + academic side-income arm. Canonical schema shared across QuickBooks personas; category names retained for schema compatibility, values reflect Dorothy's actual sole-proprietor income and expense mix (Thornfield Ballet Academy stipend, guest lecture honoraria, textbook royalties).",
+    "CurrentState": {
+      "MonthlyRevenue": {
+        "MembershipDues": {
+          "Members": 1,
+          "Rate": 500,
+          "Total": 500
+        },
+        "DropIns": {
+          "AvgMonthly": 175
+        },
+        "EquipmentSales": {
+          "AvgMonthly": 250
+        },
+        "TotalMonthlyRevenue": 925
+      },
+      "MonthlyExpenses": {
+        "Rent": 0,
+        "Utilities": {
+          "Electric": 0,
+          "Water": 0,
+          "Total": 0
+        },
+        "Insurance": {
+          "Quarterly": 0,
+          "Monthly": 0
+        },
+        "InstructorPay_Raj": 0,
+        "Supplies": {
+          "AvgMonthly": 100
+        },
+        "Cleaning": {
+          "BiWeekly": 0,
+          "Monthly": 0
+        },
+        "Marketing": {
+          "AvgMonthly": 0
+        },
+        "TotalMonthlyExpenses": 100
+      },
+      "MonthlyNetIncome": 825,
+      "AaronDrawFromNet": 0,
+      "RetainedForReserves": 275,
+      "Note": "Dorothy has no studio rent, utilities, insurance, paid instructor, cleaning, or marketing overhead as a personal Schedule C filer. Supplies covers ballet costumes for the advanced class and academic books/journals. RetainedForReserves is the quarterly estimated tax set-aside routed to Ridgecrest Community Bank."
+    },
+    "Scenarios": {
+      "Scenario_A_RentTo750": {
+        "Label": "Ballet workshop room rental raised to $750/mo at Thornfield Ballet Academy",
+        "RentIncrease": 0,
+        "NewRent": 0,
+        "NewTotalExpenses": 100,
+        "NewNetIncome": 825,
+        "BreakEvenMembers": 0,
+        "BreakEvenCalculation": "Not applicable - Dorothy operates as a personal Schedule C filer without a studio lease. Baseline stipend + royalty stream already covers supplies and reserves.",
+        "Impact": "No impact on Dorothy's break-even. Canonical scenario retained for schema compatibility only."
+      },
+      "Scenario_B_RentTo850": {
+        "Label": "Ballet workshop room rental raised to $850/mo at Thornfield Ballet Academy",
+        "RentIncrease": 0,
+        "NewRent": 0,
+        "NewTotalExpenses": 100,
+        "NewNetIncome": 825,
+        "BreakEvenMembers": 0,
+        "Impact": "No impact on Dorothy's break-even. Canonical scenario retained for schema compatibility only."
+      }
+    },
+    "KeyInsight": "Dorothy's Schedule C arm is net-positive on its baseline stipend + royalty stream alone. Guest lectures are additive but non-critical. Quarterly federal + NJ estimated tax set-aside of approximately $275/month tracks IRS 1040-ES safe harbor. Rent-scenario planning does not apply since Dorothy does not lease a studio.",
+    "ActionItems": [
+      "Maintain the Thornfield Ballet Academy advanced-class instructor role through the March 2027 showcase and revisit after the season ends.",
+      "Continue quarterly 1040-ES federal + NJ-1040-ES state estimated tax payments at current levels through Q1 2027; recompute after the Q1 royalty statement lands.",
+      "Confirm textbook royalty accrual with Ashford Academic Press ahead of the March 2027 quarterly statement.",
+      "Book Winter Symposium 2027 travel through Haverstone reimbursement channel rather than personal card to avoid Schedule C wash entries.",
+      "Track advanced-class costume purchases under Supplies for accurate March-showcase reconciliation."
+    ]
+  }
+}

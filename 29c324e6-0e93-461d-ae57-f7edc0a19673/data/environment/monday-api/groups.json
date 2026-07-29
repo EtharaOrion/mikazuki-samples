@@ -1,0 +1,142 @@
+[
+  {
+    "group_id": "grp-queue",
+    "board_id": "board-101",
+    "title": "To Do",
+    "color": "#fdab3d",
+    "position": 1
+  },
+  {
+    "group_id": "grp-doing",
+    "board_id": "board-101",
+    "title": "In Progress",
+    "color": "#0086c0",
+    "position": 2
+  },
+  {
+    "group_id": "grp-done",
+    "board_id": "board-101",
+    "title": "Done",
+    "color": "#00c875",
+    "position": 3
+  },
+  {
+    "group_id": "grp-planned",
+    "board_id": "board-102",
+    "title": "Planned",
+    "color": "#fdab3d",
+    "position": 1
+  },
+  {
+    "group_id": "grp-sent",
+    "board_id": "board-102",
+    "title": "Sent",
+    "color": "#00c875",
+    "position": 2
+  },
+  {
+    "group_id": "grp-fest-queue",
+    "board_id": "board-201",
+    "title": "Winter recital rehearsal",
+    "color": "#fdab3d",
+    "position": 1
+  },
+  {
+    "group_id": "grp-fest-done",
+    "board_id": "board-201",
+    "title": "Confirmed",
+    "color": "#00c875",
+    "position": 2
+  },
+  {
+    "group_id": "grp-queue_p001",
+    "board_id": "board-101",
+    "title": "Enrollment inquiry follow-up",
+    "color": "#fdab3d",
+    "position": 1
+  },
+  {
+    "group_id": "grp-doing_p002",
+    "board_id": "board-101",
+    "title": "Monthly payroll processing",
+    "color": "#0086c0",
+    "position": 2
+  },
+  {
+    "group_id": "grp-done_p003",
+    "board_id": "board-101",
+    "title": "5th Anniversary Showcase planning",
+    "color": "#00c875",
+    "position": 3
+  },
+  {
+    "group_id": "grp-planned_p004",
+    "board_id": "board-102",
+    "title": "Summer camp registration",
+    "color": "#fdab3d",
+    "position": 1
+  },
+  {
+    "group_id": "grp-sent_p005",
+    "board_id": "board-102",
+    "title": "Substitute coverage",
+    "color": "#00c875",
+    "position": 2
+  },
+  {
+    "group_id": "grp-fest-queue_p006",
+    "board_id": "board-201",
+    "title": "Sheet music library update",
+    "color": "#fdab3d",
+    "position": 1
+  },
+  {
+    "group_id": "grp-fest-done_p007",
+    "board_id": "board-201",
+    "title": "Parent meeting slot",
+    "color": "#00c875",
+    "position": 2
+  },
+  {
+    "group_id": "grp-queue_p008",
+    "board_id": "board-101",
+    "title": "Ensemble arrangement rewrite",
+    "color": "#fdab3d",
+    "position": 1
+  },
+  {
+    "group_id": "grp-doing_p009",
+    "board_id": "board-101",
+    "title": "Recital program layout",
+    "color": "#0086c0",
+    "position": 2
+  },
+  {
+    "group_id": "grp-done_p010",
+    "board_id": "board-101",
+    "title": "Quartet setlist review",
+    "color": "#00c875",
+    "position": 3
+  },
+  {
+    "group_id": "grp-planned_p011",
+    "board_id": "board-102",
+    "title": "Rehearsal recording listen-back",
+    "color": "#fdab3d",
+    "position": 1
+  },
+  {
+    "group_id": "grp-sent_p012",
+    "board_id": "board-102",
+    "title": "Second album pre-production notes",
+    "color": "#00c875",
+    "position": 2
+  },
+  {
+    "group_id": "grp-fest-queue_p013",
+    "board_id": "board-201",
+    "title": "Venue confirmation thread",
+    "color": "#fdab3d",
+    "position": 1
+  }
+]

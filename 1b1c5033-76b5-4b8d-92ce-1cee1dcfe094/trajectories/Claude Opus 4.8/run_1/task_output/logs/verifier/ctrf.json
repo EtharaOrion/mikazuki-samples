@@ -1,0 +1,60 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 8,
+      "passed": 2,
+      "failed": 6,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.2,
+      "weighted_percentage": 20.0
+    },
+    "tests": [
+      {
+        "name": "test_audit_shows_gmail_messages_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_audit_shows_google_calendar_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_audit_shows_no_gmail_send_or_message_write",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_audit_shows_no_google_calendar_writes",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_desktop_png_output_present",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_desktop_png_signature_valid",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_gmail_messages_collection_size_unchanged",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_google_calendar_events_collection_size_unchanged",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

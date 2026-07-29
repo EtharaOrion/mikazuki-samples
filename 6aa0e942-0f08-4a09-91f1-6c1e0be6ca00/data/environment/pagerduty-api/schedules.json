@@ -1,0 +1,182 @@
+[
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Weekly on-call",
+    "oncall_end": "2024-11-05T00:00:00Z",
+    "oncall_start": "2024-11-06T00:00:00Z",
+    "schedule_id": "PSCHED001",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Primary rotation",
+    "oncall_end": "2026-03-26T00:00:00Z",
+    "oncall_start": "2026-03-27T00:00:00Z",
+    "schedule_id": "PSCHED001-2",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Secondary rotation",
+    "oncall_end": "2024-08-28T00:00:00Z",
+    "oncall_start": "2024-08-29T00:00:00Z",
+    "schedule_id": "PSCHED001-3",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Weekend rotation",
+    "oncall_end": "2025-07-31T00:00:00Z",
+    "oncall_start": "2025-08-01T00:00:00Z",
+    "schedule_id": "PSCHED001-4",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Night rotation",
+    "oncall_end": "2025-01-02T00:00:00Z",
+    "oncall_start": "2025-01-03T00:00:00Z",
+    "schedule_id": "PSCHED001-5",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Digitisation on-call",
+    "oncall_end": "2025-12-05T00:00:00Z",
+    "oncall_start": "2025-12-06T00:00:00Z",
+    "schedule_id": "PSCHED001-6",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Web tier rotation",
+    "oncall_end": "2024-11-06T00:00:00Z",
+    "oncall_start": "2024-11-07T00:00:00Z",
+    "schedule_id": "PSCHED001-7",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Collection API rotation",
+    "oncall_end": "2025-10-09T00:00:00Z",
+    "oncall_start": "2025-10-10T00:00:00Z",
+    "schedule_id": "PSCHED001-8",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Infrastructure rotation",
+    "oncall_end": "2025-03-13T00:00:00Z",
+    "oncall_start": "2025-03-14T00:00:00Z",
+    "schedule_id": "PSCHED001-9",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Escalation rotation",
+    "oncall_end": "2024-02-13T00:00:00Z",
+    "oncall_start": "2024-02-14T00:00:00Z",
+    "schedule_id": "PSCHED001-10",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Backup rotation",
+    "oncall_end": "2025-01-15T00:00:00Z",
+    "oncall_start": "2025-01-16T00:00:00Z",
+    "schedule_id": "PSCHED001-11",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Release rotation",
+    "oncall_end": "2025-12-18T00:00:00Z",
+    "oncall_start": "2025-12-19T00:00:00Z",
+    "schedule_id": "PSCHED001-12",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Holiday rotation",
+    "oncall_end": "2025-11-22T00:00:00Z",
+    "oncall_start": "2025-11-23T00:00:00Z",
+    "schedule_id": "PSCHED001-13",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Ops rotation",
+    "oncall_end": "2024-04-23T00:00:00Z",
+    "oncall_start": "2024-04-24T00:00:00Z",
+    "schedule_id": "PSCHED001-14",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Support rotation",
+    "oncall_end": "2025-03-26T00:00:00Z",
+    "oncall_start": "2025-03-27T00:00:00Z",
+    "schedule_id": "PSCHED001-15",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Monitoring rotation",
+    "oncall_end": "2026-02-26T00:00:00Z",
+    "oncall_start": "2026-02-27T00:00:00Z",
+    "schedule_id": "PSCHED001-16",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Database rotation",
+    "oncall_end": "2026-01-31T00:00:00Z",
+    "oncall_start": "2026-02-01T00:00:00Z",
+    "schedule_id": "PSCHED001-17",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Network rotation",
+    "oncall_end": "2024-07-02T00:00:00Z",
+    "oncall_start": "2024-07-03T00:00:00Z",
+    "schedule_id": "PSCHED001-18",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "Storage rotation",
+    "oncall_end": "2025-06-04T00:00:00Z",
+    "oncall_start": "2025-06-05T00:00:00Z",
+    "schedule_id": "PSCHED001-19",
+    "time_zone": "Europe/Vienna"
+  },
+  {
+    "current_oncall_user_id": "PUSER001",
+    "escalation_policy_id": "PPOL001",
+    "name": "On-call rotation",
+    "oncall_end": "2026-11-06T00:00:00Z",
+    "oncall_start": "2026-11-07T00:00:00Z",
+    "schedule_id": "PSCHED001-20",
+    "time_zone": "Europe/Vienna"
+  }
+]

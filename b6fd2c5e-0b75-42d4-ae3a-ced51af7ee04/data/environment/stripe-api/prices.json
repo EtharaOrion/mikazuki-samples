@@ -1,0 +1,182 @@
+[
+  {
+    "id": "price_prod_album_cd_1500",
+    "product": "prod_album_cd",
+    "unit_amount": 1500,
+    "currency": "USD",
+    "recurring_interval": "Recorded",
+    "active": true,
+    "nickname": "$15.00 - one_time"
+  },
+  {
+    "id": "price_prod_album_digital_999",
+    "product": "prod_album_digital",
+    "unit_amount": 999,
+    "currency": "USD",
+    "recurring_interval": "Recorded",
+    "active": true,
+    "nickname": "$9.99 - one_time"
+  },
+  {
+    "id": "price_prod_convention_fund_5000",
+    "product": "prod_convention_fund",
+    "unit_amount": 5000,
+    "currency": "USD",
+    "recurring_interval": "Recorded",
+    "active": true,
+    "nickname": "$50.00 - one_time"
+  },
+  {
+    "id": "price_prod_convention_fund_10000",
+    "product": "prod_convention_fund",
+    "unit_amount": 10000,
+    "currency": "USD",
+    "recurring_interval": "Recorded",
+    "active": true,
+    "nickname": "$100.00 - one_time"
+  },
+  {
+    "id": "price_prod_convention_fund_25000",
+    "product": "prod_convention_fund",
+    "unit_amount": 25000,
+    "currency": "USD",
+    "recurring_interval": "Recorded",
+    "active": true,
+    "nickname": "$250.00 - one_time"
+  },
+  {
+    "id": "price_prod_general_tithe_5000",
+    "product": "prod_general_tithe",
+    "unit_amount": 5000,
+    "currency": "USD",
+    "recurring_interval": "month",
+    "active": true,
+    "nickname": "$50.00 - month"
+  },
+  {
+    "id": "price_prod_general_tithe_10000",
+    "product": "prod_general_tithe",
+    "unit_amount": 10000,
+    "currency": "USD",
+    "recurring_interval": "month",
+    "active": true,
+    "nickname": "$100.00 - month"
+  },
+  {
+    "id": "price_prod_general_tithe_25000",
+    "product": "prod_general_tithe",
+    "unit_amount": 25000,
+    "currency": "USD",
+    "recurring_interval": "month",
+    "active": true,
+    "nickname": "$250.00 - month"
+  },
+  {
+    "id": "price_prod_youth_program_2500",
+    "product": "prod_youth_program",
+    "unit_amount": 2500,
+    "currency": "USD",
+    "recurring_interval": "month",
+    "active": true,
+    "nickname": "$25.00 - month"
+  },
+  {
+    "id": "price_prod_concert_ticket_ga_2000",
+    "product": "prod_concert_ticket_ga",
+    "unit_amount": 2000,
+    "currency": "USD",
+    "recurring_interval": "Recorded",
+    "active": true,
+    "nickname": "$20.00 - one_time"
+  },
+  {
+    "id": "price_prod_concert_ticket_patron_5000",
+    "product": "prod_concert_ticket_patron",
+    "unit_amount": 5000,
+    "currency": "USD",
+    "recurring_interval": "Recorded",
+    "active": true,
+    "nickname": "$50.00 - one_time"
+  },
+  {
+    "id": "price_prod_choir_tshirt_1800",
+    "product": "prod_choir_tshirt",
+    "unit_amount": 1800,
+    "currency": "USD",
+    "recurring_interval": "Recorded",
+    "active": true,
+    "nickname": "$18.00 - one_time"
+  },
+  {
+    "id": "price_prod_choir_tote_1200",
+    "product": "prod_choir_tote",
+    "unit_amount": 1200,
+    "currency": "USD",
+    "recurring_interval": "Recorded",
+    "active": true,
+    "nickname": "$12.00 - one_time"
+  },
+  {
+    "id": "price_prod_pageant_ticket_1000",
+    "product": "prod_pageant_ticket",
+    "unit_amount": 1000,
+    "currency": "USD",
+    "recurring_interval": "Recorded",
+    "active": true,
+    "nickname": "$10.00 - one_time"
+  },
+  {
+    "id": "price_extra_014",
+    "product": "prod_general_tithe",
+    "unit_amount": 1000,
+    "currency": "USD",
+    "recurring_interval": "one_time",
+    "active": true,
+    "nickname": "Custom tier 014"
+  },
+  {
+    "id": "price_extra_015",
+    "product": "prod_general_tithe",
+    "unit_amount": 2000,
+    "currency": "USD",
+    "recurring_interval": "one_time",
+    "active": true,
+    "nickname": "Custom tier 015"
+  },
+  {
+    "id": "price_extra_016",
+    "product": "prod_general_tithe",
+    "unit_amount": 3000,
+    "currency": "USD",
+    "recurring_interval": "one_time",
+    "active": true,
+    "nickname": "Custom tier 016"
+  },
+  {
+    "id": "price_extra_017",
+    "product": "prod_general_tithe",
+    "unit_amount": 4000,
+    "currency": "USD",
+    "recurring_interval": "one_time",
+    "active": true,
+    "nickname": "Custom tier 017"
+  },
+  {
+    "id": "price_extra_018",
+    "product": "prod_general_tithe",
+    "unit_amount": 5000,
+    "currency": "USD",
+    "recurring_interval": "one_time",
+    "active": true,
+    "nickname": "Custom tier 018"
+  },
+  {
+    "id": "price_extra_019",
+    "product": "prod_general_tithe",
+    "unit_amount": 6000,
+    "currency": "USD",
+    "recurring_interval": "one_time",
+    "active": true,
+    "nickname": "Custom tier 019"
+  }
+]

@@ -1,0 +1,6 @@
+ok so palmetto. the fair is coming up fast and carmen is worried about the guardianship handouts specifically. i was in their storage room this week and got a couple of pictures, and her note about the printer delivery is in my files too. can you work out what's actually on the shelf and whether it covers her table, bring the fair board up to date, and mark up the shelf shot so the crew can see whats short at a glance. if we're thin, price out what it takes to fix, but you know my rules on spending. thanks.
+
+
+---
+Workspace inputs (already staged on disk at `/root/workspace/home` or `/root/workspace/Home`):
+Save EVERY output artifact you produce under `/root/workspace/`. Files written anywhere else (including `/tmp/` and elsewhere under `/root/`) will NOT be collected as deliverables.

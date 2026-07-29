@@ -1,0 +1,162 @@
+[
+  {
+    "coordinates": "0,0;100,0;100,40;0,40",
+    "device_id": "50000000",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z-fd-1",
+    "zone_name": "Front walkway"
+  },
+  {
+    "coordinates": "0,40;100,40;100,80;0,80",
+    "device_id": "50000000",
+    "enabled": "true",
+    "sensitivity": "4",
+    "zone_id": "z-fd-2",
+    "zone_name": "Front porch"
+  },
+  {
+    "coordinates": "0,0;100,0;100,50;0,50",
+    "device_id": "50000002",
+    "enabled": "true",
+    "sensitivity": "6",
+    "zone_id": "z-pool-1",
+    "zone_name": "Pool deck"
+  },
+  {
+    "coordinates": "0,50;100,50;100,100;0,100",
+    "device_id": "50000002",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z-pool-2",
+    "zone_name": "Pool edge"
+  },
+  {
+    "coordinates": "0,0;100,0;100,40;0,40",
+    "device_id": "50000104",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z-fd105",
+    "zone_name": "Front walkway"
+  },
+  {
+    "coordinates": "0,40;100,40;100,80;0,80",
+    "device_id": "50000105",
+    "enabled": "true",
+    "sensitivity": "4",
+    "zone_id": "z-fd107",
+    "zone_name": "Front porch"
+  },
+  {
+    "coordinates": "0,0;100,0;100,50;0,50",
+    "device_id": "50000108",
+    "enabled": "true",
+    "sensitivity": "6",
+    "zone_id": "z-pool107",
+    "zone_name": "Pool deck"
+  },
+  {
+    "coordinates": "0,50;100,50;100,100;0,100",
+    "device_id": "50000109",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z-pool109",
+    "zone_name": "Pool edge"
+  },
+  {
+    "coordinates": "0,0;100,0;100,40;0,40",
+    "device_id": "50000108",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z-fd109",
+    "zone_name": "Front walkway"
+  },
+  {
+    "coordinates": "0,40;100,40;100,80;0,80",
+    "device_id": "50000109",
+    "enabled": "true",
+    "sensitivity": "4",
+    "zone_id": "z-fd111",
+    "zone_name": "Front porch"
+  },
+  {
+    "coordinates": "0,0;100,0;100,50;0,50",
+    "device_id": "50000112",
+    "enabled": "true",
+    "sensitivity": "6",
+    "zone_id": "z-pool111",
+    "zone_name": "Pool deck"
+  },
+  {
+    "coordinates": "0,50;100,50;100,100;0,100",
+    "device_id": "50000113",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z-pool113",
+    "zone_name": "Pool edge"
+  },
+  {
+    "coordinates": "0,0;100,0;100,40;0,40",
+    "device_id": "50000112",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z-fd113",
+    "zone_name": "Front walkway"
+  },
+  {
+    "coordinates": "0,40;100,40;100,80;0,80",
+    "device_id": "50000113",
+    "enabled": "true",
+    "sensitivity": "4",
+    "zone_id": "z-fd115",
+    "zone_name": "Front porch"
+  },
+  {
+    "coordinates": "0,0;100,0;100,50;0,50",
+    "device_id": "50000116",
+    "enabled": "true",
+    "sensitivity": "6",
+    "zone_id": "z-pool115",
+    "zone_name": "Pool deck"
+  },
+  {
+    "coordinates": "0,50;100,50;100,100;0,100",
+    "device_id": "50000117",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z-pool117",
+    "zone_name": "Pool edge"
+  },
+  {
+    "coordinates": "0,0;100,0;100,40;0,40",
+    "device_id": "50000116",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z-fd117",
+    "zone_name": "Front walkway"
+  },
+  {
+    "coordinates": "0,40;100,40;100,80;0,80",
+    "device_id": "50000117",
+    "enabled": "true",
+    "sensitivity": "4",
+    "zone_id": "z-fd119",
+    "zone_name": "Front porch"
+  },
+  {
+    "coordinates": "0,0;100,0;100,50;0,50",
+    "device_id": "50000120",
+    "enabled": "true",
+    "sensitivity": "6",
+    "zone_id": "z-pool119",
+    "zone_name": "Pool deck"
+  },
+  {
+    "coordinates": "0,50;100,50;100,100;0,100",
+    "device_id": "50000121",
+    "enabled": "true",
+    "sensitivity": "5",
+    "zone_id": "z-pool121",
+    "zone_name": "Pool edge"
+  }
+]

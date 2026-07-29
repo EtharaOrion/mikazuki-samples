@@ -1,0 +1,218 @@
+{
+  "accountHealth": {
+    "accountStatus": "NORMAL",
+    "customerServiceDissatisfactionRate": 1.2,
+    "customerServiceDissatisfactionRateTarget": 25.0,
+    "lateShipmentRate": 1.8,
+    "lateShipmentRateTarget": 4.0,
+    "onTimeDeliveryRate": 95.5,
+    "onTimeDeliveryRateTarget": 90.0,
+    "orderDefectRate": 0.6,
+    "orderDefectRateTarget": 1.0,
+    "policyViolations": 0,
+    "preFulfillmentCancelRate": 0.4,
+    "preFulfillmentCancelRateTarget": 2.5,
+    "returnDissatisfactionRate": 2.4,
+    "returnDissatisfactionRateTarget": 10.0,
+    "validTrackingRate": 97.2,
+    "validTrackingRateTarget": 95.0
+  },
+  "businessAddress": {
+    "AddressLine1": "735 Commerce Way",
+    "AddressLine2": "Unit B",
+    "City": "Coral Gables",
+    "CountryCode": "US",
+    "Name": "Coral Gables Workshop LLC",
+    "PostalCode": "33134",
+    "StateOrRegion": "FL"
+  },
+  "businessName": "Coral Gables Workshop LLC",
+  "marketplaceId": "ATVPDKIKX0DER",
+  "performanceNotifications": [
+    {
+      "createdDate": "2026-02-04T09:15:00Z",
+      "isRead": false,
+      "message": "Your late shipment rate is trending toward the target. Confirm orders ship by the expected date.",
+      "notificationId": "NOTIF-001",
+      "severity": "WARNING",
+      "title": "Late Shipment Rate Approaching Threshold",
+      "type": "PERFORMANCE_WARNING"
+    },
+    {
+      "createdDate": "2026-03-05T10:15:00Z",
+      "isRead": false,
+      "message": "Amazon has published an updated fee schedule effective next quarter. Review your listings.",
+      "notificationId": "NOTIF-002",
+      "severity": "INFO",
+      "title": "Fee Schedule Update for FBA",
+      "type": "NEWS"
+    },
+    {
+      "createdDate": "2026-02-06T11:15:00Z",
+      "isRead": false,
+      "message": "A compliance document is required for one of your listings. Upload within 30 days.",
+      "notificationId": "NOTIF-003",
+      "severity": "WARNING",
+      "title": "Compliance Document Requested",
+      "type": "PRODUCT_COMPLIANCE"
+    },
+    {
+      "createdDate": "2026-03-07T12:15:00Z",
+      "isRead": false,
+      "message": "Your account health rating is Healthy. No action required at this time.",
+      "notificationId": "NOTIF-004",
+      "severity": "INFO",
+      "title": "Account Health Rating: Healthy",
+      "type": "ACCOUNT_HEALTH"
+    },
+    {
+      "createdDate": "2026-02-08T13:15:00Z",
+      "isRead": false,
+      "message": "A previously suppressed listing has been restored to active status.",
+      "notificationId": "NOTIF-005",
+      "severity": "INFO",
+      "title": "Suppressed Listing Restored",
+      "type": "LISTING"
+    },
+    {
+      "createdDate": "2026-03-09T14:15:00Z",
+      "isRead": false,
+      "message": "Your valid tracking rate meets the target for the current period.",
+      "notificationId": "NOTIF-006",
+      "severity": "INFO",
+      "title": "Valid Tracking Rate On Target",
+      "type": "PERFORMANCE_NOTICE"
+    },
+    {
+      "createdDate": "2026-02-10T15:15:00Z",
+      "isRead": false,
+      "message": "Your late shipment rate is trending toward the target. Confirm orders ship by the expected date.",
+      "notificationId": "NOTIF-007",
+      "severity": "WARNING",
+      "title": "Late Shipment Rate Approaching Threshold",
+      "type": "PERFORMANCE_WARNING"
+    },
+    {
+      "createdDate": "2026-03-11T16:15:00Z",
+      "isRead": false,
+      "message": "Amazon has published an updated fee schedule effective next quarter. Review your listings.",
+      "notificationId": "NOTIF-008",
+      "severity": "INFO",
+      "title": "Fee Schedule Update for FBA",
+      "type": "NEWS"
+    },
+    {
+      "createdDate": "2026-02-12T09:15:00Z",
+      "isRead": false,
+      "message": "A compliance document is required for one of your listings. Upload within 30 days.",
+      "notificationId": "NOTIF-009",
+      "severity": "WARNING",
+      "title": "Compliance Document Requested",
+      "type": "PRODUCT_COMPLIANCE"
+    },
+    {
+      "createdDate": "2026-03-13T10:15:00Z",
+      "isRead": false,
+      "message": "Your account health rating is Healthy. No action required at this time.",
+      "notificationId": "NOTIF-010",
+      "severity": "INFO",
+      "title": "Account Health Rating: Healthy",
+      "type": "ACCOUNT_HEALTH"
+    },
+    {
+      "createdDate": "2026-02-14T11:15:00Z",
+      "isRead": false,
+      "message": "A previously suppressed listing has been restored to active status.",
+      "notificationId": "NOTIF-011",
+      "severity": "INFO",
+      "title": "Suppressed Listing Restored",
+      "type": "LISTING"
+    },
+    {
+      "createdDate": "2026-03-15T12:15:00Z",
+      "isRead": false,
+      "message": "Your valid tracking rate meets the target for the current period.",
+      "notificationId": "NOTIF-012",
+      "severity": "INFO",
+      "title": "Valid Tracking Rate On Target",
+      "type": "PERFORMANCE_NOTICE"
+    },
+    {
+      "createdDate": "2026-02-16T13:15:00Z",
+      "isRead": false,
+      "message": "Your late shipment rate is trending toward the target. Confirm orders ship by the expected date.",
+      "notificationId": "NOTIF-013",
+      "severity": "WARNING",
+      "title": "Late Shipment Rate Approaching Threshold",
+      "type": "PERFORMANCE_WARNING"
+    },
+    {
+      "createdDate": "2026-03-17T14:15:00Z",
+      "isRead": false,
+      "message": "Amazon has published an updated fee schedule effective next quarter. Review your listings.",
+      "notificationId": "NOTIF-014",
+      "severity": "INFO",
+      "title": "Fee Schedule Update for FBA",
+      "type": "NEWS"
+    },
+    {
+      "createdDate": "2026-02-18T15:15:00Z",
+      "isRead": false,
+      "message": "A compliance document is required for one of your listings. Upload within 30 days.",
+      "notificationId": "NOTIF-015",
+      "severity": "WARNING",
+      "title": "Compliance Document Requested",
+      "type": "PRODUCT_COMPLIANCE"
+    },
+    {
+      "createdDate": "2026-03-19T16:15:00Z",
+      "isRead": false,
+      "message": "Your account health rating is Healthy. No action required at this time.",
+      "notificationId": "NOTIF-016",
+      "severity": "INFO",
+      "title": "Account Health Rating: Healthy",
+      "type": "ACCOUNT_HEALTH"
+    },
+    {
+      "createdDate": "2026-02-20T09:15:00Z",
+      "isRead": false,
+      "message": "A previously suppressed listing has been restored to active status.",
+      "notificationId": "NOTIF-017",
+      "severity": "INFO",
+      "title": "Suppressed Listing Restored",
+      "type": "LISTING"
+    },
+    {
+      "createdDate": "2026-03-21T10:15:00Z",
+      "isRead": false,
+      "message": "Your valid tracking rate meets the target for the current period.",
+      "notificationId": "NOTIF-018",
+      "severity": "INFO",
+      "title": "Valid Tracking Rate On Target",
+      "type": "PERFORMANCE_NOTICE"
+    },
+    {
+      "createdDate": "2026-02-22T11:15:00Z",
+      "isRead": false,
+      "message": "Your late shipment rate is trending toward the target. Confirm orders ship by the expected date.",
+      "notificationId": "NOTIF-019",
+      "severity": "WARNING",
+      "title": "Late Shipment Rate Approaching Threshold",
+      "type": "PERFORMANCE_WARNING"
+    },
+    {
+      "createdDate": "2026-03-23T12:15:00Z",
+      "isRead": false,
+      "message": "Amazon has published an updated fee schedule effective next quarter. Review your listings.",
+      "notificationId": "NOTIF-020",
+      "severity": "INFO",
+      "title": "Fee Schedule Update for FBA",
+      "type": "NEWS"
+    }
+  ],
+  "primaryContactEmail": "michelle.brooks@Finthesiss.ai",
+  "registrationDate": "2023-12-29T00:00:00Z",
+  "sellerId": "A8FD250F462D3",
+  "storeName": "Coral GablesWorkshop",
+  "storeUrl": "https://www.amazon.com/sp?seller=A8FD250F462D3"
+}

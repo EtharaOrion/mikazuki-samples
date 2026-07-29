@@ -1,0 +1,845 @@
+[
+  {
+    "id": "1",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "MCI",
+    "destinationLocationCode": "ORD",
+    "departureDate": "2026-10-16",
+    "oneWay": true,
+    "numberOfBookableSeats": 5,
+    "itineraries": [
+      {
+        "duration": "PT1H30M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "MCI",
+              "terminal": "Jessica Webb",
+              "at": "2026-10-16T08:15:00"
+            },
+            "arrival": {
+              "iataCode": "ORD",
+              "terminal": "3",
+              "at": "2026-10-16T09:45:00"
+            },
+            "carrierCode": "AA",
+            "number": "1432",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT1H30M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "178.40",
+      "base": "150.00",
+      "grandTotal": "178.40"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "178.40"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "AA"
+    ]
+  },
+  {
+    "id": "2",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "MCI",
+    "destinationLocationCode": "MDW",
+    "departureDate": "2026-10-16",
+    "oneWay": true,
+    "numberOfBookableSeats": 3,
+    "itineraries": [
+      {
+        "duration": "PT1H25M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "MCI",
+              "terminal": "Jessica Webb",
+              "at": "2026-10-16T07:40:00"
+            },
+            "arrival": {
+              "iataCode": "MDW",
+              "terminal": "Jessica Webb",
+              "at": "2026-10-16T09:05:00"
+            },
+            "carrierCode": "WN",
+            "number": "2210",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT1H25M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "159.98",
+      "base": "132.00",
+      "grandTotal": "159.98"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "159.98"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "WN"
+    ]
+  },
+  {
+    "id": "3",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "ORD",
+    "destinationLocationCode": "MCI",
+    "departureDate": "2026-10-19",
+    "oneWay": true,
+    "numberOfBookableSeats": 7,
+    "itineraries": [
+      {
+        "duration": "PT1H35M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "ORD",
+              "terminal": "3",
+              "at": "2026-10-19T17:20:00"
+            },
+            "arrival": {
+              "iataCode": "MCI",
+              "terminal": "Jessica Webb",
+              "at": "2026-10-19T18:55:00"
+            },
+            "carrierCode": "AA",
+            "number": "1581",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT1H35M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "168.30",
+      "base": "142.00",
+      "grandTotal": "168.30"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "168.30"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "AA"
+    ]
+  },
+  {
+    "id": "4",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "MCI",
+    "destinationLocationCode": "MSY",
+    "departureDate": "2027-01-22",
+    "oneWay": true,
+    "numberOfBookableSeats": 4,
+    "itineraries": [
+      {
+        "duration": "PT4H35M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "MCI",
+              "terminal": "Jessica Webb",
+              "at": "2027-01-22T06:30:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "S",
+              "at": "2027-01-22T09:35:00"
+            },
+            "carrierCode": "DL",
+            "number": "1846",
+            "aircraft": {
+              "code": "321"
+            },
+            "duration": "PT2H05M",
+            "numberOfStops": 0
+          },
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "S",
+              "at": "2027-01-22T10:40:00"
+            },
+            "arrival": {
+              "iataCode": "MSY",
+              "terminal": "Jessica Webb",
+              "at": "2027-01-22T11:05:00"
+            },
+            "carrierCode": "DL",
+            "number": "2207",
+            "aircraft": {
+              "code": "319"
+            },
+            "duration": "PT1H25M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "268.50",
+      "base": "220.00",
+      "grandTotal": "268.50"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "268.50"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "5",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "MSY",
+    "destinationLocationCode": "MCI",
+    "departureDate": "2027-01-25",
+    "oneWay": true,
+    "numberOfBookableSeats": 6,
+    "itineraries": [
+      {
+        "duration": "PT5H05M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "MSY",
+              "terminal": "Jessica Webb",
+              "at": "2027-01-25T12:15:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "S",
+              "at": "2027-01-25T14:45:00"
+            },
+            "carrierCode": "DL",
+            "number": "2210",
+            "aircraft": {
+              "code": "319"
+            },
+            "duration": "PT1H30M",
+            "numberOfStops": 0
+          },
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "S",
+              "at": "2027-01-25T16:10:00"
+            },
+            "arrival": {
+              "iataCode": "MCI",
+              "terminal": "Jessica Webb",
+              "at": "2027-01-25T17:20:00"
+            },
+            "carrierCode": "DL",
+            "number": "1599",
+            "aircraft": {
+              "code": "321"
+            },
+            "duration": "PT2H10M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "284.20",
+      "base": "235.00",
+      "grandTotal": "284.20"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "284.20"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "6",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "MCI",
+    "destinationLocationCode": "JAX",
+    "departureDate": "2026-11-13",
+    "oneWay": true,
+    "numberOfBookableSeats": 8,
+    "itineraries": [
+      {
+        "duration": "PT4H25M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "MCI",
+              "terminal": "Jessica Webb",
+              "at": "2026-11-13T09:10:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "S",
+              "at": "2026-11-13T12:15:00"
+            },
+            "carrierCode": "DL",
+            "number": "1455",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H05M",
+            "numberOfStops": 0
+          },
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "S",
+              "at": "2026-11-13T13:30:00"
+            },
+            "arrival": {
+              "iataCode": "JAX",
+              "terminal": "Jessica Webb",
+              "at": "2026-11-13T14:35:00"
+            },
+            "carrierCode": "DL",
+            "number": "1722",
+            "aircraft": {
+              "code": "319"
+            },
+            "duration": "PT1H05M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "242.80",
+      "base": "198.00",
+      "grandTotal": "242.80"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "242.80"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "7",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "JAX",
+    "destinationLocationCode": "MCI",
+    "departureDate": "2026-11-16",
+    "oneWay": true,
+    "numberOfBookableSeats": 2,
+    "itineraries": [
+      {
+        "duration": "PT4H35M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "JAX",
+              "terminal": "Jessica Webb",
+              "at": "2026-11-16T15:00:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "S",
+              "at": "2026-11-16T16:10:00"
+            },
+            "carrierCode": "DL",
+            "number": "1733",
+            "aircraft": {
+              "code": "319"
+            },
+            "duration": "PT1H10M",
+            "numberOfStops": 0
+          },
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "S",
+              "at": "2026-11-16T17:25:00"
+            },
+            "arrival": {
+              "iataCode": "MCI",
+              "terminal": "Jessica Webb",
+              "at": "2026-11-16T18:35:00"
+            },
+            "carrierCode": "DL",
+            "number": "1488",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H10M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "256.40",
+      "base": "210.00",
+      "grandTotal": "256.40"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "256.40"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "8",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "MCI",
+    "destinationLocationCode": "VPS",
+    "departureDate": "2027-03-12",
+    "oneWay": true,
+    "numberOfBookableSeats": 5,
+    "itineraries": [
+      {
+        "duration": "PT4H30M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "MCI",
+              "terminal": "Jessica Webb",
+              "at": "2027-03-12T07:30:00"
+            },
+            "arrival": {
+              "iataCode": "DFW",
+              "terminal": "A",
+              "at": "2027-03-12T09:10:00"
+            },
+            "carrierCode": "AA",
+            "number": "2356",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT1H40M",
+            "numberOfStops": 0
+          },
+          {
+            "departure": {
+              "iataCode": "DFW",
+              "terminal": "B",
+              "at": "2027-03-12T10:25:00"
+            },
+            "arrival": {
+              "iataCode": "VPS",
+              "terminal": "Jessica Webb",
+              "at": "2027-03-12T12:00:00"
+            },
+            "carrierCode": "AA",
+            "number": "3812",
+            "aircraft": {
+              "code": "E75"
+            },
+            "duration": "PT1H35M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "298.60",
+      "base": "245.00",
+      "grandTotal": "298.60"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "298.60"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "AA"
+    ]
+  },
+  {
+    "id": "10",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "MSY",
+    "destinationLocationCode": "MCI",
+    "departureDate": "2027-01-25",
+    "oneWay": true,
+    "numberOfBookableSeats": 6,
+    "itineraries": [
+      {
+        "duration": "PT5H05M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "MSY",
+              "terminal": "Jessica Webb",
+              "at": "2027-01-25T12:15:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "S",
+              "at": "2027-01-25T14:45:00"
+            },
+            "carrierCode": "DL",
+            "number": "2210",
+            "aircraft": {
+              "code": "319"
+            },
+            "duration": "PT1H30M",
+            "numberOfStops": 0
+          },
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "S",
+              "at": "2027-01-25T16:10:00"
+            },
+            "arrival": {
+              "iataCode": "MCI",
+              "terminal": "Jessica Webb",
+              "at": "2027-01-25T17:20:00"
+            },
+            "carrierCode": "DL",
+            "number": "1599",
+            "aircraft": {
+              "code": "321"
+            },
+            "duration": "PT2H10M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "284.20",
+      "base": "235.00",
+      "grandTotal": "284.20"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "284.20"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "12",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "MCI",
+    "destinationLocationCode": "JAX",
+    "departureDate": "2026-11-13",
+    "oneWay": true,
+    "numberOfBookableSeats": 8,
+    "itineraries": [
+      {
+        "duration": "PT4H25M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "MCI",
+              "terminal": "Jessica Webb",
+              "at": "2026-11-13T09:10:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "S",
+              "at": "2026-11-13T12:15:00"
+            },
+            "carrierCode": "DL",
+            "number": "1455",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H05M",
+            "numberOfStops": 0
+          },
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "S",
+              "at": "2026-11-13T13:30:00"
+            },
+            "arrival": {
+              "iataCode": "JAX",
+              "terminal": "Jessica Webb",
+              "at": "2026-11-13T14:35:00"
+            },
+            "carrierCode": "DL",
+            "number": "1722",
+            "aircraft": {
+              "code": "319"
+            },
+            "duration": "PT1H05M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "242.80",
+      "base": "198.00",
+      "grandTotal": "242.80"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "242.80"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "14",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "JAX",
+    "destinationLocationCode": "MCI",
+    "departureDate": "2026-11-16",
+    "oneWay": true,
+    "numberOfBookableSeats": 2,
+    "itineraries": [
+      {
+        "duration": "PT4H35M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "JAX",
+              "terminal": "Jessica Webb",
+              "at": "2026-11-16T15:00:00"
+            },
+            "arrival": {
+              "iataCode": "ATL",
+              "terminal": "S",
+              "at": "2026-11-16T16:10:00"
+            },
+            "carrierCode": "DL",
+            "number": "1733",
+            "aircraft": {
+              "code": "319"
+            },
+            "duration": "PT1H10M",
+            "numberOfStops": 0
+          },
+          {
+            "departure": {
+              "iataCode": "ATL",
+              "terminal": "S",
+              "at": "2026-11-16T17:25:00"
+            },
+            "arrival": {
+              "iataCode": "MCI",
+              "terminal": "Jessica Webb",
+              "at": "2026-11-16T18:35:00"
+            },
+            "carrierCode": "DL",
+            "number": "1488",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT2H10M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "256.40",
+      "base": "210.00",
+      "grandTotal": "256.40"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "256.40"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "DL"
+    ]
+  },
+  {
+    "id": "16",
+    "type": "flight-offer",
+    "source": "GDS",
+    "originLocationCode": "MCI",
+    "destinationLocationCode": "VPS",
+    "departureDate": "2027-03-12",
+    "oneWay": true,
+    "numberOfBookableSeats": 5,
+    "itineraries": [
+      {
+        "duration": "PT4H30M",
+        "segments": [
+          {
+            "departure": {
+              "iataCode": "MCI",
+              "terminal": "Jessica Webb",
+              "at": "2027-03-12T07:30:00"
+            },
+            "arrival": {
+              "iataCode": "DFW",
+              "terminal": "A",
+              "at": "2027-03-12T09:10:00"
+            },
+            "carrierCode": "AA",
+            "number": "2356",
+            "aircraft": {
+              "code": "738"
+            },
+            "duration": "PT1H40M",
+            "numberOfStops": 0
+          },
+          {
+            "departure": {
+              "iataCode": "DFW",
+              "terminal": "B",
+              "at": "2027-03-12T10:25:00"
+            },
+            "arrival": {
+              "iataCode": "VPS",
+              "terminal": "Jessica Webb",
+              "at": "2027-03-12T12:00:00"
+            },
+            "carrierCode": "AA",
+            "number": "3812",
+            "aircraft": {
+              "code": "E75"
+            },
+            "duration": "PT1H35M",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "price": {
+      "currency": "USD",
+      "total": "298.60",
+      "base": "245.00",
+      "grandTotal": "298.60"
+    },
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "298.60"
+        }
+      }
+    ],
+    "validatingAirlineCodes": [
+      "AA"
+    ]
+  }
+]

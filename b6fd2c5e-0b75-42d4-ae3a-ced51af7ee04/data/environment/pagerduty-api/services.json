@@ -1,0 +1,162 @@
+[
+  {
+    "service_id": "PS001",
+    "name": "auth-api",
+    "description": "Banh mi sale - church parking lot",
+    "status": "critical",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS002",
+    "name": "billing-api",
+    "description": "Amanda + Samuel Friday date night",
+    "status": "active",
+    "escalation_policy_id": "EP002",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS003",
+    "name": "notifications-api",
+    "description": "Choir rehearsal - Track 4 & 'How Great Thou Art'",
+    "status": "active",
+    "escalation_policy_id": "EP001",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS001-0003",
+    "name": "auth-api",
+    "description": "Choir rehearsal - Track 4 & 'How Great Thou Art'",
+    "status": "critical",
+    "escalation_policy_id": "EP001-0003",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS002-0004",
+    "name": "billing-api",
+    "description": "Christmas pageant rehearsal",
+    "status": "active",
+    "escalation_policy_id": "EP002-0004",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS003-0005",
+    "name": "notifications-api",
+    "description": "Album Track 4 recording session at Soundcraft",
+    "status": "active",
+    "escalation_policy_id": "EP001-0005",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS001-0006",
+    "name": "auth-api",
+    "description": "Youth choir Saturday rehearsal - 1-3 PM",
+    "status": "critical",
+    "escalation_policy_id": "EP001-0006",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS002-0007",
+    "name": "billing-api",
+    "description": "Amanda + Samuel Friday date night",
+    "status": "active",
+    "escalation_policy_id": "EP002-0007",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS003-0008",
+    "name": "notifications-api",
+    "description": "Steinway tuning by Piedmont Piano Service",
+    "status": "active",
+    "escalation_policy_id": "EP001-0008",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS001-0009",
+    "name": "auth-api",
+    "description": "Wednesday Emmanuel drum lesson with Terrence Walker",
+    "status": "critical",
+    "escalation_policy_id": "EP001-0009",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS002-0010",
+    "name": "billing-api",
+    "description": "Sunday 11 AM contemporary service (choir + band)",
+    "status": "active",
+    "escalation_policy_id": "EP002-0010",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS003-0011",
+    "name": "notifications-api",
+    "description": "Banh mi sale - church parking lot",
+    "status": "active",
+    "escalation_policy_id": "EP001-0011",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS001-0012",
+    "name": "auth-api",
+    "description": "Convention prep session with Deacon Harris",
+    "status": "critical",
+    "escalation_policy_id": "EP001-0012",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS002-0013",
+    "name": "billing-api",
+    "description": "Wednesday Ruth visit - Decatur",
+    "status": "active",
+    "escalation_policy_id": "EP002-0013",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS003-0014",
+    "name": "notifications-api",
+    "description": "Sunday 8 AM traditional service (choir + Dr. Wells organ)",
+    "status": "active",
+    "escalation_policy_id": "EP001-0014",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS001-0015",
+    "name": "auth-api",
+    "description": "Concert fundraiser evening - GAW Center sanctuary",
+    "status": "critical",
+    "escalation_policy_id": "EP001-0015",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS002-0016",
+    "name": "billing-api",
+    "description": "Q4 church budget committee meeting",
+    "status": "active",
+    "escalation_policy_id": "EP002-0016",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS003-0017",
+    "name": "notifications-api",
+    "description": "Youth band Saturday rehearsal - 3-5 PM (Emmanuel on drums)",
+    "status": "active",
+    "escalation_policy_id": "EP001-0017",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS001-0018",
+    "name": "auth-api",
+    "description": "Choir rehearsal - Track 4 & 'How Great Thou Art'",
+    "status": "critical",
+    "escalation_policy_id": "EP001-0018",
+    "auto_resolve_timeout": 14400
+  },
+  {
+    "service_id": "PS002-0019",
+    "name": "billing-api",
+    "description": "Christmas pageant rehearsal",
+    "status": "active",
+    "escalation_policy_id": "EP002-0019",
+    "auto_resolve_timeout": 14400
+  }
+]

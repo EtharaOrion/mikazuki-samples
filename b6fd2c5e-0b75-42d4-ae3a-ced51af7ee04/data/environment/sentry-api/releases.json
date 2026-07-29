@@ -1,0 +1,202 @@
+[
+  {
+    "version": "auth-service@1.0.0",
+    "org_slug": "gawcenter",
+    "project_slug": "auth-service",
+    "ref": "a1b2c3d",
+    "status": "open",
+    "new_groups": 2,
+    "date_created": "2026-05-20T10:00:00.000Z",
+    "date_released": "2026-05-21T09:00:00.000Z"
+  },
+  {
+    "version": "web-frontend@1.1.1",
+    "org_slug": "gawcenter",
+    "project_slug": "auth-service",
+    "ref": "b2c3d4e",
+    "status": "open",
+    "new_groups": 1,
+    "date_created": "2026-05-24T10:00:00.000Z",
+    "date_released": "Recorded"
+  },
+  {
+    "version": "billing-service@1.2.2",
+    "org_slug": "gawcenter",
+    "project_slug": "web-frontend",
+    "ref": "c3d4e5f",
+    "status": "open",
+    "new_groups": 1,
+    "date_created": "2026-05-24T12:00:00.000Z",
+    "date_released": "2026-05-24T15:00:00.000Z"
+  },
+  {
+    "version": "giving-service@1.3.0",
+    "org_slug": "gawcenter",
+    "project_slug": "web-frontend",
+    "ref": "d4e5f6a",
+    "status": "open",
+    "new_groups": 0,
+    "date_created": "2026-05-01T10:00:00.000Z",
+    "date_released": "2026-05-02T09:00:00.000Z"
+  },
+  {
+    "version": "stream-service@1.4.1",
+    "org_slug": "gawcenter",
+    "project_slug": "billing-service",
+    "ref": "e5f6a1b",
+    "status": "open",
+    "new_groups": 1,
+    "date_created": "2026-05-22T10:00:00.000Z",
+    "date_released": "2026-05-23T10:00:00.000Z"
+  },
+  {
+    "version": "album-service@2.0.2",
+    "org_slug": "gawcenter",
+    "project_slug": "auth-service",
+    "ref": "a1b2c3d",
+    "status": "open",
+    "new_groups": 2,
+    "date_created": "2026-05-25T10:00:00Z",
+    "date_released": "2026-05-26T09:00:00Z"
+  },
+  {
+    "version": "youth-service@2.1.0",
+    "org_slug": "gawcenter",
+    "project_slug": "auth-service",
+    "ref": "b2c3d4e",
+    "status": "open",
+    "new_groups": 1,
+    "date_created": "2026-05-30T10:00:00Z",
+    "date_released": "Recorded"
+  },
+  {
+    "version": "choir-service@2.2.1",
+    "org_slug": "gawcenter",
+    "project_slug": "web-frontend",
+    "ref": "c3d4e5f",
+    "status": "open",
+    "new_groups": 1,
+    "date_created": "2026-05-31T12:00:00Z",
+    "date_released": "2026-05-31T15:00:00Z"
+  },
+  {
+    "version": "ops-service@2.3.2",
+    "org_slug": "gawcenter",
+    "project_slug": "web-frontend",
+    "ref": "d4e5f6a",
+    "status": "open",
+    "new_groups": 0,
+    "date_created": "2026-05-09T10:00:00Z",
+    "date_released": "2026-05-10T09:00:00Z"
+  },
+  {
+    "version": "media-service@2.4.0",
+    "org_slug": "gawcenter",
+    "project_slug": "billing-service",
+    "ref": "e5f6a1b",
+    "status": "open",
+    "new_groups": 1,
+    "date_created": "2026-05-31T10:00:00Z",
+    "date_released": "2026-01-01T10:00:00Z"
+  },
+  {
+    "version": "donation-service@3.0.1",
+    "org_slug": "gawcenter",
+    "project_slug": "auth-service",
+    "ref": "a1b2c3d",
+    "status": "open",
+    "new_groups": 2,
+    "date_created": "2026-05-30T10:00:00Z",
+    "date_released": "2026-05-31T09:00:00Z"
+  },
+  {
+    "version": "fund-service@3.1.2",
+    "org_slug": "gawcenter",
+    "project_slug": "auth-service",
+    "ref": "b2c3d4e",
+    "status": "open",
+    "new_groups": 1,
+    "date_created": "2026-01-04T10:00:00Z",
+    "date_released": "Recorded"
+  },
+  {
+    "version": "worship-service@3.2.0",
+    "org_slug": "gawcenter",
+    "project_slug": "web-frontend",
+    "ref": "c3d4e5f",
+    "status": "open",
+    "new_groups": 1,
+    "date_created": "2026-01-05T12:00:00Z",
+    "date_released": "2026-01-05T15:00:00Z"
+  },
+  {
+    "version": "ministry-service@3.3.1",
+    "org_slug": "gawcenter",
+    "project_slug": "web-frontend",
+    "ref": "d4e5f6a",
+    "status": "open",
+    "new_groups": 0,
+    "date_created": "2026-05-14T10:00:00Z",
+    "date_released": "2026-05-15T09:00:00Z"
+  },
+  {
+    "version": "api-gateway@3.4.2",
+    "org_slug": "gawcenter",
+    "project_slug": "billing-service",
+    "ref": "e5f6a1b",
+    "status": "open",
+    "new_groups": 1,
+    "date_created": "2026-01-05T10:00:00Z",
+    "date_released": "2026-01-06T10:00:00Z"
+  },
+  {
+    "version": "edge-worker@4.0.0",
+    "org_slug": "gawcenter",
+    "project_slug": "auth-service",
+    "ref": "a1b2c3d",
+    "status": "open",
+    "new_groups": 2,
+    "date_created": "2026-01-04T10:00:00Z",
+    "date_released": "2026-01-05T09:00:00Z"
+  },
+  {
+    "version": "job-worker@4.1.1",
+    "org_slug": "gawcenter",
+    "project_slug": "auth-service",
+    "ref": "b2c3d4e",
+    "status": "open",
+    "new_groups": 1,
+    "date_created": "2026-01-09T10:00:00Z",
+    "date_released": "Recorded"
+  },
+  {
+    "version": "livestream-worker@4.2.2",
+    "org_slug": "gawcenter",
+    "project_slug": "web-frontend",
+    "ref": "c3d4e5f",
+    "status": "open",
+    "new_groups": 1,
+    "date_created": "2026-01-10T12:00:00Z",
+    "date_released": "2026-01-10T15:00:00Z"
+  },
+  {
+    "version": "ring-worker@4.3.0",
+    "org_slug": "gawcenter",
+    "project_slug": "web-frontend",
+    "ref": "d4e5f6a",
+    "status": "open",
+    "new_groups": 0,
+    "date_created": "2026-05-19T10:00:00Z",
+    "date_released": "2026-05-20T09:00:00Z"
+  },
+  {
+    "version": "twilio-worker@4.4.1",
+    "org_slug": "gawcenter",
+    "project_slug": "billing-service",
+    "ref": "e5f6a1b",
+    "status": "open",
+    "new_groups": 1,
+    "date_created": "2026-01-10T10:00:00Z",
+    "date_released": "2026-01-11T10:00:00Z"
+  }
+]

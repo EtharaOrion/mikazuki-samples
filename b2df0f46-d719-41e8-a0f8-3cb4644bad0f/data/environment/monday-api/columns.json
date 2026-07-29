@@ -1,0 +1,156 @@
+[
+  {
+    "board_id": "board-1",
+    "column_id": "status",
+    "position": "0",
+    "title": "Status",
+    "type": "status"
+  },
+  {
+    "board_id": "board-1",
+    "column_id": "owner",
+    "position": "1",
+    "title": "Owner",
+    "type": "person"
+  },
+  {
+    "board_id": "board-1",
+    "column_id": "date",
+    "position": "2",
+    "title": "Date",
+    "type": "date"
+  },
+  {
+    "board_id": "board-1",
+    "column_id": "notes",
+    "position": "3",
+    "title": "Notes",
+    "type": "long-text"
+  },
+  {
+    "board_id": "board-2",
+    "column_id": "status",
+    "position": "0",
+    "title": "Status",
+    "type": "status"
+  },
+  {
+    "board_id": "board-2",
+    "column_id": "owner",
+    "position": "1",
+    "title": "Owner",
+    "type": "person"
+  },
+  {
+    "board_id": "board-2",
+    "column_id": "date",
+    "position": "2",
+    "title": "Date",
+    "type": "date"
+  },
+  {
+    "board_id": "board-2",
+    "column_id": "notes",
+    "position": "3",
+    "title": "Notes",
+    "type": "long-text"
+  },
+  {
+    "board_id": "board-3",
+    "column_id": "status",
+    "position": "0",
+    "title": "Status",
+    "type": "status"
+  },
+  {
+    "board_id": "board-3",
+    "column_id": "owner",
+    "position": "1",
+    "title": "Owner",
+    "type": "person"
+  },
+  {
+    "board_id": "board-3",
+    "column_id": "date",
+    "position": "2",
+    "title": "Date",
+    "type": "date"
+  },
+  {
+    "board_id": "board-3",
+    "column_id": "notes",
+    "position": "3",
+    "title": "Notes",
+    "type": "long-text"
+  },
+  {
+    "board_id": "board113",
+    "column_id": "status-p12",
+    "position": "0",
+    "title": "Status",
+    "type": "status"
+  },
+  {
+    "board_id": "board114",
+    "column_id": "owner-p13",
+    "position": "1",
+    "title": "Owner",
+    "type": "person"
+  },
+  {
+    "board_id": "board115",
+    "column_id": "date-p14",
+    "position": "2",
+    "title": "Date",
+    "type": "date"
+  },
+  {
+    "board_id": "board116",
+    "column_id": "notes-p15",
+    "position": "3",
+    "title": "Notes",
+    "type": "long-text"
+  },
+  {
+    "board_id": "board118",
+    "column_id": "status-p16",
+    "position": "0",
+    "title": "Status",
+    "type": "status"
+  },
+  {
+    "board_id": "board119",
+    "column_id": "owner-p17",
+    "position": "1",
+    "title": "Owner",
+    "type": "person"
+  },
+  {
+    "board_id": "board120",
+    "column_id": "date-p18",
+    "position": "2",
+    "title": "Date",
+    "type": "date"
+  },
+  {
+    "board_id": "board121",
+    "column_id": "notes-p19",
+    "position": "3",
+    "title": "Notes",
+    "type": "long-text"
+  },
+  {
+    "board_id": "board-pfa-fair",
+    "column_id": "pfa_counts",
+    "position": "1",
+    "title": "Verified count",
+    "type": "text"
+  },
+  {
+    "board_id": "board-pfa-fair",
+    "column_id": "pfa_target",
+    "position": "2",
+    "title": "Table target",
+    "type": "text"
+  }
+]

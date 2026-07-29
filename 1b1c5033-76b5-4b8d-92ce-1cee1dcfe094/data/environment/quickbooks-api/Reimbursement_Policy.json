@@ -1,0 +1,127 @@
+{
+  "context": "Osterreichisches Kunstmuseum staff and contractor expense reimbursement policy, effective FY2026 — covers travel, meals, conservation materials, and loan-handling expenses.",
+  "policy_name": "Osterreichisches Kunstmuseum Reimbursement Policy v3",
+  "validation_rules": [
+    {
+      "action": "Reject and request receipt",
+      "notes": "Applies to all categories; Stefan Koenig approves exceptions.",
+      "requirement": "Original receipt must be attached for any expense over EUR 25.",
+      "rule": "Receipt required"
+    },
+    {
+      "action": "Reject without prior approval evidence",
+      "notes": "Aligns with the EUR 400 personal-spend threshold.",
+      "requirement": "Travel above EUR 400 requires director or deputy director sign-off in advance.",
+      "rule": "Manager pre-approval"
+    },
+    {
+      "action": "Return to claimant for re-issue",
+      "notes": "Required for finance team QuickBooks entry.",
+      "requirement": "Invoices must show VAT line items for accounting reconciliation.",
+      "rule": "VAT itemisation"
+    },
+    {
+      "action": "Recalculate at correct rate",
+      "notes": "Source: ECB euro reference rates daily fix.",
+      "requirement": "Convert to EUR at the daily ECB reference rate on the transaction date.",
+      "rule": "Foreign currency conversion"
+    },
+    {
+      "action": "Reduce to cap and note variance",
+      "notes": "Source: BMKOES travel guidance Annex B.",
+      "requirement": "Per diem caps follow Federal Ministry guidance: Vienna EUR 35, EU cities EUR 50, non-EU EUR 65.",
+      "rule": "Per diem limits"
+    },
+    {
+      "action": "Reject without co-sign",
+      "notes": "Friedrich Hofmann is the current head of conservation.",
+      "requirement": "Conservation purchases require head of conservation co-signature.",
+      "rule": "Conservation materials"
+    },
+    {
+      "action": "Re-code to exhibition project",
+      "notes": "Vienna Modern uses project code VM-2026.",
+      "requirement": "Loan transit insurance must be coded to the specific exhibition project line.",
+      "rule": "Loan handling expenses"
+    },
+    {
+      "action": "Return for attendee list",
+      "notes": "Confidential donor names entered by Joyce only.",
+      "requirement": "Donor and patron dinners require itemised receipts and attendee list.",
+      "rule": "Client entertainment"
+    },
+    {
+      "action": "Cap at limit",
+      "notes": "Aligns with Austrian tax-deductible mileage rate.",
+      "requirement": "Personal car mileage reimbursed at EUR 0.42/km, capped at EUR 200/month per employee.",
+      "rule": "Mileage claims"
+    },
+    {
+      "action": "Add translation note",
+      "notes": "Catalan and Spanish receipts from Joyce's Latin American partner trips are common.",
+      "requirement": "Receipts in non-German languages require a brief English translation note.",
+      "rule": "Receipt language"
+    },
+    {
+      "action": "Reject and request receipt",
+      "notes": "Applies to all categories; Stefan Koenig approves exceptions.",
+      "requirement": "Original receipt must be attached for any expense over EUR 25.",
+      "rule": "Receipt required"
+    },
+    {
+      "action": "Reject without prior approval evidence",
+      "notes": "Aligns with the EUR 400 personal-spend threshold.",
+      "requirement": "Travel above EUR 400 requires director or deputy director sign-off in advance.",
+      "rule": "Manager pre-approval"
+    },
+    {
+      "action": "Return to claimant for re-issue",
+      "notes": "Required for finance team QuickBooks entry.",
+      "requirement": "Invoices must show VAT line items for accounting reconciliation.",
+      "rule": "VAT itemisation"
+    },
+    {
+      "action": "Recalculate at correct rate",
+      "notes": "Source: ECB euro reference rates daily fix.",
+      "requirement": "Convert to EUR at the daily ECB reference rate on the transaction date.",
+      "rule": "Foreign currency conversion"
+    },
+    {
+      "action": "Reduce to cap and note variance",
+      "notes": "Source: BMKOES travel guidance Annex B.",
+      "requirement": "Per diem caps follow Federal Ministry guidance: Vienna EUR 35, EU cities EUR 50, non-EU EUR 65.",
+      "rule": "Per diem limits"
+    },
+    {
+      "action": "Reject without co-sign",
+      "notes": "Friedrich Hofmann is the current head of conservation.",
+      "requirement": "Conservation purchases require head of conservation co-signature.",
+      "rule": "Conservation materials"
+    },
+    {
+      "action": "Re-code to exhibition project",
+      "notes": "Vienna Modern uses project code VM-2026.",
+      "requirement": "Loan transit insurance must be coded to the specific exhibition project line.",
+      "rule": "Loan handling expenses"
+    },
+    {
+      "action": "Return for attendee list",
+      "notes": "Confidential donor names entered by Joyce only.",
+      "requirement": "Donor and patron dinners require itemised receipts and attendee list.",
+      "rule": "Client entertainment"
+    },
+    {
+      "action": "Cap at limit",
+      "notes": "Aligns with Austrian tax-deductible mileage rate.",
+      "requirement": "Personal car mileage reimbursed at EUR 0.42/km, capped at EUR 200/month per employee.",
+      "rule": "Mileage claims"
+    },
+    {
+      "action": "Add translation note",
+      "notes": "Catalan and Spanish receipts from Joyce's Latin American partner trips are common.",
+      "requirement": "Receipts in non-German languages require a brief English translation note.",
+      "rule": "Receipt language"
+    }
+  ],
+  "version": "v3.2 (FY2026)"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "date_created": "2024-01-15T10:00:00Z",
+    "id": 100,
+    "name": "Platform",
+    "org_slug": "haverstone-university",
+    "platform": "ruby",
+    "slug": "platform",
+    "status": "active"
+  },
+  {
+    "date_created": "2024-01-15T10:00:00Z",
+    "id": 101,
+    "name": "Web",
+    "org_slug": "haverstone-university",
+    "platform": "ruby",
+    "slug": "web",
+    "status": "active"
+  },
+  {
+    "date_created": "2024-01-15T10:00:00Z",
+    "id": 102,
+    "name": "Api gateway",
+    "org_slug": "haverstone-university",
+    "platform": "javascript",
+    "slug": "api-gateway",
+    "status": "active"
+  },
+  {
+    "date_created": "2024-01-15T10:00:00Z",
+    "id": 103,
+    "name": "Infrastructure",
+    "org_slug": "haverstone-university",
+    "platform": "javascript",
+    "slug": "infrastructure",
+    "status": "active"
+  },
+  {
+    "date_created": "2024-01-15T10:00:00Z",
+    "id": 104,
+    "name": "Design system",
+    "org_slug": "haverstone-university",
+    "platform": "ruby",
+    "slug": "design-system",
+    "status": "active"
+  },
+  {
+    "date_created": "2024-01-15T10:00:00Z",
+    "id": 105,
+    "name": "Data pipelines",
+    "org_slug": "haverstone-university",
+    "platform": "node",
+    "slug": "data-pipelines",
+    "status": "active"
+  }
+]

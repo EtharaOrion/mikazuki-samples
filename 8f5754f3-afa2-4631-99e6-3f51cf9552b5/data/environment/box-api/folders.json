@@ -1,0 +1,202 @@
+[
+  {
+    "id": "0",
+    "name": "All Files",
+    "parent_id": "carlton-thread-130",
+    "owner_id": "11446498",
+    "description": "Root folder",
+    "created_at": "2025-01-15T10:00:00-05:00",
+    "modified_at": "2025-11-04T14:00:00-05:00",
+    "item_count": "3"
+  },
+  {
+    "id": "160001",
+    "name": "Tavern Documents",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Old scanned tavern paperwork (mostly moved to Drive/Dropbox)",
+    "created_at": "2025-01-16T09:00:00-05:00",
+    "modified_at": "2025-10-12T11:00:00-04:00",
+    "item_count": "14"
+  },
+  {
+    "id": "160002",
+    "name": "Insurance",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Liability and property insurance scans",
+    "created_at": "2025-01-20T09:00:00-05:00",
+    "modified_at": "2025-03-28T10:00:00-04:00",
+    "item_count": "4"
+  },
+  {
+    "id": "160003",
+    "name": "Bookkeeping Archive",
+    "parent_id": "0",
+    "owner_id": "22893011",
+    "description": "Pre-QuickBooks spreadsheet archive",
+    "created_at": "2025-02-02T09:00:00-05:00",
+    "modified_at": "2025-02-02T09:00:00-05:00",
+    "item_count": "2"
+  },
+  {
+    "id": "160004",
+    "name": "Health Inspections",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "NYC DOH inspection reports and grade cards",
+    "created_at": "2025-02-10T09:30:00-05:00",
+    "modified_at": "2025-03-22T13:00:00-04:00",
+    "item_count": "6"
+  },
+  {
+    "id": "160005",
+    "name": "Vendor Contracts",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Signed agreements with Atlantic Seafood and other suppliers",
+    "created_at": "2025-02-18T10:00:00-05:00",
+    "modified_at": "2025-10-30T15:00:00-04:00",
+    "item_count": "9"
+  },
+  {
+    "id": "160006",
+    "name": "Liquor License",
+    "parent_id": "160001",
+    "owner_id": "11446498",
+    "description": "SLA license and renewal paperwork",
+    "created_at": "2025-03-01T09:00:00-05:00",
+    "modified_at": "2025-03-01T09:00:00-05:00",
+    "item_count": "3"
+  },
+  {
+    "id": "160007",
+    "name": "Lease Documents",
+    "parent_id": "160001",
+    "owner_id": "11446498",
+    "description": "Broadway storefront lease and amendments",
+    "created_at": "2025-03-05T09:00:00-05:00",
+    "modified_at": "2025-03-05T09:00:00-05:00",
+    "item_count": "5"
+  },
+  {
+    "id": "160008",
+    "name": "Payroll Records",
+    "parent_id": "160003",
+    "owner_id": "22893011",
+    "description": "Archived payroll runs for tavern staff",
+    "created_at": "2025-03-12T09:00:00-05:00",
+    "modified_at": "2025-12-20T16:00:00-05:00",
+    "item_count": "18"
+  },
+  {
+    "id": "160009",
+    "name": "Tax Filings",
+    "parent_id": "160003",
+    "owner_id": "22893011",
+    "description": "Quarterly sales tax and prior-year returns",
+    "created_at": "2025-03-20T09:00:00-04:00",
+    "modified_at": "2025-11-15T14:30:00-05:00",
+    "item_count": "7"
+  },
+  {
+    "id": "160010",
+    "name": "Menus Archive",
+    "parent_id": "160001",
+    "owner_id": "11446498",
+    "description": "Seasonal menu PDFs going back to 2015",
+    "created_at": "2025-01-01T09:00:00-04:00",
+    "modified_at": "2025-10-01T12:00:00-04:00",
+    "item_count": "22"
+  },
+  {
+    "id": "160011",
+    "name": "Equipment Manuals",
+    "parent_id": "160001",
+    "owner_id": "11446498",
+    "description": "Manuals for ovens, walk-in cooler, and Square POS hardware",
+    "created_at": "2025-01-08T09:00:00-04:00",
+    "modified_at": "2025-03-05T11:00:00-04:00",
+    "item_count": "11"
+  },
+  {
+    "id": "160012",
+    "name": "Marketing Assets",
+    "parent_id": "0",
+    "owner_id": "11446498",
+    "description": "Logos, photos, and flyers for events and socials",
+    "created_at": "2025-01-15T09:00:00-04:00",
+    "modified_at": "2025-12-01T10:00:00-05:00",
+    "item_count": "31"
+  },
+  {
+    "id": "160013",
+    "name": "Private Events",
+    "parent_id": "160012",
+    "owner_id": "11446498",
+    "description": "Contracts and BEOs for private parties",
+    "created_at": "2025-02-02T09:00:00-04:00",
+    "modified_at": "2025-11-18T13:00:00-05:00",
+    "item_count": "8"
+  },
+  {
+    "id": "160014",
+    "name": "Staff Schedules",
+    "parent_id": "160001",
+    "owner_id": "33102844",
+    "description": "Weekly FOH and BOH schedule exports",
+    "created_at": "2025-02-12T09:00:00-04:00",
+    "modified_at": "2025-12-15T09:00:00-05:00",
+    "item_count": "26"
+  },
+  {
+    "id": "160015",
+    "name": "Permits & Certificates",
+    "parent_id": "160002",
+    "owner_id": "11446498",
+    "description": "Food handler certs, fire safety, and sidewalk cafe permits",
+    "created_at": "2025-02-20T09:00:00-04:00",
+    "modified_at": "2025-02-28T11:00:00-04:00",
+    "item_count": "9"
+  },
+  {
+    "id": "160016",
+    "name": "Recipes & Specs",
+    "parent_id": "160001",
+    "owner_id": "44213955",
+    "description": "Daniel's standardized recipe cards and plating specs",
+    "created_at": "2025-03-01T09:00:00-04:00",
+    "modified_at": "2025-12-10T17:00:00-05:00",
+    "item_count": "44"
+  },
+  {
+    "id": "160017",
+    "name": "Photos",
+    "parent_id": "160012",
+    "owner_id": "11446498",
+    "description": "Food and interior photography from the website shoot",
+    "created_at": "2025-03-10T09:00:00-04:00",
+    "modified_at": "2025-03-28T12:00:00-04:00",
+    "item_count": "63"
+  },
+  {
+    "id": "160018",
+    "name": "Vendor Invoices",
+    "parent_id": "160005",
+    "owner_id": "22893011",
+    "description": "Scanned invoices from produce, meat, and seafood vendors",
+    "created_at": "2025-03-18T09:00:00-04:00",
+    "modified_at": "2025-12-22T15:00:00-05:00",
+    "item_count": "37"
+  },
+  {
+    "id": "160019",
+    "name": "Catering & Events Photos",
+    "parent_id": "160013",
+    "owner_id": "11446498",
+    "description": "Photos from private parties and catered events",
+    "created_at": "2025-03-25T09:00:00-04:00",
+    "modified_at": "2025-11-29T14:00:00-05:00",
+    "item_count": "19"
+  }
+]

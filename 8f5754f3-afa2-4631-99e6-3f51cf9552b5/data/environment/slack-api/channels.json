@@ -1,0 +1,222 @@
+[
+  {
+    "id": "C01GENERAL",
+    "name": "general",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Staff-wide announcements",
+    "purpose": "Tavern-wide chat for all staff",
+    "creator": "U01CARLTON",
+    "created": "1640995200",
+    "num_members": "17"
+  },
+  {
+    "id": "C01FOH",
+    "name": "foh",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Front of house, service notes",
+    "purpose": "Servers, hosts, bar, bussers",
+    "creator": "U01SOPHIA",
+    "created": "1641081600",
+    "num_members": "11"
+  },
+  {
+    "id": "C01KITCHEN",
+    "name": "kitchen",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "86'd items, prep, specials prep",
+    "purpose": "Back of house coordination",
+    "creator": "U01DANIEL",
+    "created": "1641168000",
+    "num_members": "6"
+  },
+  {
+    "id": "C01SCHEDULE",
+    "name": "schedule",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Shift swaps and weekly schedule",
+    "purpose": "Posting schedules + swap requests",
+    "creator": "U01SOPHIA",
+    "created": "1641254400",
+    "num_members": "17"
+  },
+  {
+    "id": "C01VENDORS",
+    "name": "vendors",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Deliveries and vendor notes",
+    "purpose": "Vendor deliveries, shortages, orders",
+    "creator": "U01CARLTON",
+    "created": "1641340800",
+    "num_members": "5"
+  },
+  {
+    "id": "C01SPECIALS",
+    "name": "specials",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Daily specials + menu features",
+    "purpose": "Specials board and descriptions",
+    "creator": "U01DANIEL",
+    "created": "1641427200",
+    "num_members": "8"
+  },
+  {
+    "id": "C01EVENTS",
+    "name": "private-events",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Private event bookings and prep",
+    "purpose": "Coordinating private parties and catering",
+    "creator": "U01SOPHIA",
+    "created": "1641513600",
+    "num_members": "7"
+  },
+  {
+    "id": "C01MAINT",
+    "name": "maintenance",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Equipment issues and repairs",
+    "purpose": "Logging broken equipment and HVAC/repair calls",
+    "creator": "U01CARLTON",
+    "created": "1641600000",
+    "num_members": "6"
+  },
+  {
+    "id": "C01MGMT",
+    "name": "management",
+    "is_private": "true",
+    "is_archived": "false",
+    "topic": "Owner + manager + chef only",
+    "purpose": "Private management discussion",
+    "creator": "U01CARLTON",
+    "created": "1641686400",
+    "num_members": "3"
+  },
+  {
+    "id": "C01BAR",
+    "name": "bar",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Beer/wine/cocktail program",
+    "purpose": "Bar inventory, specials, keg changes",
+    "creator": "U01DANIEL",
+    "created": "1641772800",
+    "num_members": "5"
+  },
+  {
+    "id": "C01MARKETING",
+    "name": "marketing",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Social media and promotions",
+    "purpose": "Instagram posts, newsletter, promos",
+    "creator": "U01CARLTON",
+    "created": "1641859200",
+    "num_members": "4"
+  },
+  {
+    "id": "C01HR",
+    "name": "hr",
+    "is_private": "true",
+    "is_archived": "false",
+    "topic": "Hiring, onboarding, payroll questions",
+    "purpose": "Confidential staffing matters",
+    "creator": "U01SOPHIA",
+    "created": "1641945600",
+    "num_members": "3"
+  },
+  {
+    "id": "C01RESOS",
+    "name": "reservations",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Large party and VIP reservations",
+    "purpose": "Flagging big bookings and special requests",
+    "creator": "U01SOPHIA",
+    "created": "1642032000",
+    "num_members": "9"
+  },
+  {
+    "id": "C01RANDOM",
+    "name": "random",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Off-topic and team fun",
+    "purpose": "Non-work chatter, memes, Celtics talk",
+    "creator": "U01CARLTON",
+    "created": "1642118400",
+    "num_members": "15"
+  },
+  {
+    "id": "C01CLEANING",
+    "name": "cleaning",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Closing checklists and deep cleans",
+    "purpose": "Cleaning rotations and sign-offs",
+    "creator": "U01SOPHIA",
+    "created": "1642204800",
+    "num_members": "10"
+  },
+  {
+    "id": "C01SAFETY",
+    "name": "safety",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Food safety and incidents",
+    "purpose": "Temp logs, allergen alerts, incident reports",
+    "creator": "U01DANIEL",
+    "created": "1642291200",
+    "num_members": "12"
+  },
+  {
+    "id": "C01TIPS",
+    "name": "tips-pool",
+    "is_private": "true",
+    "is_archived": "false",
+    "topic": "Tip pool and distribution",
+    "purpose": "FOH tip pool tracking",
+    "creator": "U01SOPHIA",
+    "created": "1642377600",
+    "num_members": "8"
+  },
+  {
+    "id": "C01CATERING",
+    "name": "catering",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Off-site catering orders",
+    "purpose": "Catering quotes, prep, logistics",
+    "creator": "U01CARLTON",
+    "created": "1642464000",
+    "num_members": "6"
+  },
+  {
+    "id": "C01ARCHIVE",
+    "name": "summer-2024-patio",
+    "is_private": "false",
+    "is_archived": "true",
+    "topic": "Floor & service coordination",
+    "purpose": "Daily FOH/kitchen coordination",
+    "creator": "U01CARLTON",
+    "created": "1640908800",
+    "num_members": "4"
+  },
+  {
+    "id": "C01DELIVERY",
+    "name": "online-ordering",
+    "is_private": "false",
+    "is_archived": "false",
+    "topic": "Takeout and delivery orders",
+    "purpose": "Coordinating online and phone takeout orders",
+    "creator": "U01CARLTON",
+    "created": "1642550400",
+    "num_members": "9"
+  }
+]

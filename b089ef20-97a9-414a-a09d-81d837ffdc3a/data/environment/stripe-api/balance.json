@@ -1,0 +1,28 @@
+{
+  "object": "balance",
+  "livemode": false,
+  "available": [
+    {
+      "amount": 1284750,
+      "currency": "usd",
+      "source_types": {
+        "card": 1284750
+      }
+    }
+  ],
+  "pending": [
+    {
+      "amount": 86500,
+      "currency": "usd",
+      "source_types": {
+        "card": 86500
+      }
+    }
+  ],
+  "connect_reserved": [
+    {
+      "amount": 0,
+      "currency": "usd"
+    }
+  ]
+}

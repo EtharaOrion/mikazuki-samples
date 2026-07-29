@@ -1,0 +1,212 @@
+[
+  {
+    "id": "conv-2001",
+    "contact_id": "contact-vis01",
+    "state": "closed",
+    "title": "Are you open on Mondays?",
+    "created_at": "2026-01-01T10:00:00.000Z",
+    "updated_at": "2026-01-01T11:00:00.000Z",
+    "assignee_id": "admin-carlton",
+    "open": "false"
+  },
+  {
+    "id": "conv-2002",
+    "contact_id": "contact-vis02",
+    "state": "closed",
+    "title": "Do you take reservations for parties of 8?",
+    "created_at": "2026-02-02T10:00:00.000Z",
+    "updated_at": "2026-02-02T11:00:00.000Z",
+    "assignee_id": "admin-sophia",
+    "open": "false"
+  },
+  {
+    "id": "conv-2003",
+    "contact_id": "contact-vis03",
+    "state": "closed",
+    "title": "Is the patio open yet?",
+    "created_at": "2026-03-03T10:00:00.000Z",
+    "updated_at": "2026-03-03T11:00:00.000Z",
+    "assignee_id": "admin-carlton",
+    "open": "false"
+  },
+  {
+    "id": "conv-2004",
+    "contact_id": "contact-vis04",
+    "state": "closed",
+    "title": "Do you have gift cards?",
+    "created_at": "2026-01-04T10:00:00.000Z",
+    "updated_at": "2026-01-04T11:00:00.000Z",
+    "assignee_id": "admin-sophia",
+    "open": "false"
+  },
+  {
+    "id": "conv-2005",
+    "contact_id": "contact-vis05",
+    "state": "closed",
+    "title": "What time does the kitchen close on Friday?",
+    "created_at": "2026-02-05T10:00:00.000Z",
+    "updated_at": "2026-02-05T11:00:00.000Z",
+    "assignee_id": "admin-carlton",
+    "open": "false"
+  },
+  {
+    "id": "conv-2006",
+    "contact_id": "contact-vis06",
+    "state": "closed",
+    "title": "Is there a vegetarian option on the menu?",
+    "created_at": "2026-01-06T10:00:00.000Z",
+    "updated_at": "2026-01-06T11:00:00.000Z",
+    "assignee_id": "admin-sophia",
+    "open": "false"
+  },
+  {
+    "id": "conv-2007",
+    "contact_id": "contact-vis07",
+    "state": "closed",
+    "title": "Can I book the back room for a birthday?",
+    "created_at": "2026-02-07T10:00:00.000Z",
+    "updated_at": "2026-02-07T11:00:00.000Z",
+    "assignee_id": "admin-carlton",
+    "open": "false"
+  },
+  {
+    "id": "conv-2008",
+    "contact_id": "contact-vis08",
+    "state": "closed",
+    "title": "Do you offer catering?",
+    "created_at": "2026-03-08T10:00:00.000Z",
+    "updated_at": "2026-03-08T11:00:00.000Z",
+    "assignee_id": "admin-sophia",
+    "open": "false"
+  },
+  {
+    "id": "conv-2009",
+    "contact_id": "contact-vis09",
+    "state": "closed",
+    "title": "Is there parking nearby?",
+    "created_at": "2026-01-09T10:00:00.000Z",
+    "updated_at": "2026-01-09T11:00:00.000Z",
+    "assignee_id": "admin-carlton",
+    "open": "false"
+  },
+  {
+    "id": "conv-2010",
+    "contact_id": "contact-vis10",
+    "state": "closed",
+    "title": "Are dogs allowed on the patio?",
+    "created_at": "2026-02-10T10:00:00.000Z",
+    "updated_at": "2026-02-10T11:00:00.000Z",
+    "assignee_id": "admin-sophia",
+    "open": "false"
+  },
+  {
+    "id": "conv-2011",
+    "contact_id": "contact-vis11",
+    "state": "closed",
+    "title": "Do you have a kids menu?",
+    "created_at": "2026-01-11T10:00:00.000Z",
+    "updated_at": "2026-01-11T11:00:00.000Z",
+    "assignee_id": "admin-carlton",
+    "open": "false"
+  },
+  {
+    "id": "conv-2012",
+    "contact_id": "contact-vis12",
+    "state": "closed",
+    "title": "Wheelchair accessible entrance?",
+    "created_at": "2026-02-12T10:00:00.000Z",
+    "updated_at": "2026-02-12T11:00:00.000Z",
+    "assignee_id": "admin-sophia",
+    "open": "false"
+  },
+  {
+    "id": "conv-2013",
+    "contact_id": "contact-vis13",
+    "state": "closed",
+    "title": "Can I see the wine list online?",
+    "created_at": "2026-03-13T10:00:00.000Z",
+    "updated_at": "2026-03-13T11:00:00.000Z",
+    "assignee_id": "admin-carlton",
+    "open": "false"
+  },
+  {
+    "id": "conv-2014",
+    "contact_id": "contact-vis14",
+    "state": "open",
+    "title": "Do you do private wine tastings?",
+    "created_at": "2026-01-14T10:00:00.000Z",
+    "updated_at": "2026-01-14T11:00:00.000Z",
+    "assignee_id": "admin-sophia",
+    "open": "true"
+  },
+  {
+    "id": "conv-2015",
+    "contact_id": "contact-vis15",
+    "state": "closed",
+    "title": "Lost an item last night - help?",
+    "created_at": "2026-02-15T10:00:00.000Z",
+    "updated_at": "2026-02-15T11:00:00.000Z",
+    "assignee_id": "admin-carlton",
+    "open": "false"
+  },
+  {
+    "id": "conv-2016",
+    "contact_id": "contact-vis16",
+    "state": "closed",
+    "title": "Do you validate parking?",
+    "created_at": "2026-01-16T10:00:00.000Z",
+    "updated_at": "2026-01-16T11:00:00.000Z",
+    "assignee_id": "admin-sophia",
+    "open": "false"
+  },
+  {
+    "id": "conv-2017",
+    "contact_id": "contact-vis17",
+    "state": "closed",
+    "title": "Can I change my reservation time?",
+    "created_at": "2026-02-17T10:00:00.000Z",
+    "updated_at": "2026-02-17T11:00:00.000Z",
+    "assignee_id": "admin-carlton",
+    "open": "false"
+  },
+  {
+    "id": "conv-2018",
+    "contact_id": "contact-vis18",
+    "state": "closed",
+    "title": "Are you hiring servers?",
+    "created_at": "2026-03-18T10:00:00.000Z",
+    "updated_at": "2026-03-18T11:00:00.000Z",
+    "assignee_id": "admin-sophia",
+    "open": "false"
+  },
+  {
+    "id": "conv-2019",
+    "contact_id": "contact-vis19",
+    "state": "closed",
+    "title": "Do you have happy hour?",
+    "created_at": "2026-01-19T10:00:00.000Z",
+    "updated_at": "2026-01-19T11:00:00.000Z",
+    "assignee_id": "admin-carlton",
+    "open": "false"
+  },
+  {
+    "id": "conv-2020",
+    "contact_id": "contact-vis20",
+    "state": "closed",
+    "title": "Is the bar open for walk-ins?",
+    "created_at": "2026-02-20T10:00:00.000Z",
+    "updated_at": "2026-02-20T11:00:00.000Z",
+    "assignee_id": "admin-sophia",
+    "open": "false"
+  },
+  {
+    "id": "conv-2021",
+    "contact_id": "contact-vis21",
+    "state": "open",
+    "title": "Do you take large group bookings in December?",
+    "created_at": "2026-01-21T10:00:00.000Z",
+    "updated_at": "2026-01-21T11:00:00.000Z",
+    "assignee_id": "admin-carlton",
+    "open": "true"
+  }
+]

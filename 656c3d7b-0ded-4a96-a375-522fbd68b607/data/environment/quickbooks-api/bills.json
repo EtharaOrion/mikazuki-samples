@@ -1,0 +1,1402 @@
+[
+  {
+    "Id": "3001",
+    "DocNumber": "SUB-211-2026-08",
+    "VendorRef": {
+      "value": "211",
+      "name": "Notion Labs Inc."
+    },
+    "TxnDate": "2026-02-01",
+    "DueDate": "2026-02-15",
+    "Line": [
+      {
+        "Amount": 12.0,
+        "Description": "Notion Plus subscription - August 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12.0,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3002",
+    "DocNumber": "SUB-212-2026-08",
+    "VendorRef": {
+      "value": "212",
+      "name": "Dropbox Inc."
+    },
+    "TxnDate": "2026-02-01",
+    "DueDate": "2026-02-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Dropbox Plus subscription - August 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3003",
+    "DocNumber": "SUB-213-2026-08",
+    "VendorRef": {
+      "value": "213",
+      "name": "Adobe Inc."
+    },
+    "TxnDate": "2026-02-01",
+    "DueDate": "2026-02-15",
+    "Line": [
+      {
+        "Amount": 19.99,
+        "Description": "Adobe Acrobat Pro subscription - August 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 19.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3004",
+    "DocNumber": "SUB-215-2026-08",
+    "VendorRef": {
+      "value": "215",
+      "name": "Spotify Premium"
+    },
+    "TxnDate": "2026-02-01",
+    "DueDate": "2026-02-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Spotify Premium subscription - August 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3005",
+    "DocNumber": "SUB-211-2026-09",
+    "VendorRef": {
+      "value": "211",
+      "name": "Notion Labs Inc."
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-15",
+    "Line": [
+      {
+        "Amount": 12.0,
+        "Description": "Notion Plus subscription - September 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12.0,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3006",
+    "DocNumber": "SUB-212-2026-09",
+    "VendorRef": {
+      "value": "212",
+      "name": "Dropbox Inc."
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Dropbox Plus subscription - September 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3007",
+    "DocNumber": "SUB-213-2026-09",
+    "VendorRef": {
+      "value": "213",
+      "name": "Adobe Inc."
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-15",
+    "Line": [
+      {
+        "Amount": 19.99,
+        "Description": "Adobe Acrobat Pro subscription - September 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 19.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3008",
+    "DocNumber": "SUB-215-2026-09",
+    "VendorRef": {
+      "value": "215",
+      "name": "Spotify Premium"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Spotify Premium subscription - September 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3009",
+    "DocNumber": "SUB-211-2026-10",
+    "VendorRef": {
+      "value": "211",
+      "name": "Notion Labs Inc."
+    },
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-15",
+    "Line": [
+      {
+        "Amount": 12.0,
+        "Description": "Notion Plus subscription - October 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12.0,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3010",
+    "DocNumber": "SUB-212-2026-10",
+    "VendorRef": {
+      "value": "212",
+      "name": "Dropbox Inc."
+    },
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Dropbox Plus subscription - October 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3011",
+    "DocNumber": "SUB-213-2026-10",
+    "VendorRef": {
+      "value": "213",
+      "name": "Adobe Inc."
+    },
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-15",
+    "Line": [
+      {
+        "Amount": 19.99,
+        "Description": "Adobe Acrobat Pro subscription - October 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 19.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3012",
+    "DocNumber": "SUB-215-2026-10",
+    "VendorRef": {
+      "value": "215",
+      "name": "Spotify Premium"
+    },
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Spotify Premium subscription - October 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3013",
+    "DocNumber": "SUB-211-2026-11",
+    "VendorRef": {
+      "value": "211",
+      "name": "Notion Labs Inc."
+    },
+    "TxnDate": "2026-11-01",
+    "DueDate": "2026-11-15",
+    "Line": [
+      {
+        "Amount": 12.0,
+        "Description": "Notion Plus subscription - November 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12.0,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3014",
+    "DocNumber": "SUB-212-2026-11",
+    "VendorRef": {
+      "value": "212",
+      "name": "Dropbox Inc."
+    },
+    "TxnDate": "2026-11-01",
+    "DueDate": "2026-11-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Dropbox Plus subscription - November 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3015",
+    "DocNumber": "SUB-213-2026-11",
+    "VendorRef": {
+      "value": "213",
+      "name": "Adobe Inc."
+    },
+    "TxnDate": "2026-11-01",
+    "DueDate": "2026-11-15",
+    "Line": [
+      {
+        "Amount": 19.99,
+        "Description": "Adobe Acrobat Pro subscription - November 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 19.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3016",
+    "DocNumber": "SUB-215-2026-11",
+    "VendorRef": {
+      "value": "215",
+      "name": "Spotify Premium"
+    },
+    "TxnDate": "2026-11-01",
+    "DueDate": "2026-11-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Spotify Premium subscription - November 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3017",
+    "DocNumber": "SUB-211-2026-12",
+    "VendorRef": {
+      "value": "211",
+      "name": "Notion Labs Inc."
+    },
+    "TxnDate": "2026-12-01",
+    "DueDate": "2026-12-15",
+    "Line": [
+      {
+        "Amount": 12.0,
+        "Description": "Notion Plus subscription - December 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12.0,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3018",
+    "DocNumber": "SUB-212-2026-12",
+    "VendorRef": {
+      "value": "212",
+      "name": "Dropbox Inc."
+    },
+    "TxnDate": "2026-12-01",
+    "DueDate": "2026-12-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Dropbox Plus subscription - December 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3019",
+    "DocNumber": "SUB-213-2026-12",
+    "VendorRef": {
+      "value": "213",
+      "name": "Adobe Inc."
+    },
+    "TxnDate": "2026-12-01",
+    "DueDate": "2026-12-15",
+    "Line": [
+      {
+        "Amount": 19.99,
+        "Description": "Adobe Acrobat Pro subscription - December 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 19.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3020",
+    "DocNumber": "SUB-215-2026-12",
+    "VendorRef": {
+      "value": "215",
+      "name": "Spotify Premium"
+    },
+    "TxnDate": "2026-12-01",
+    "DueDate": "2026-12-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Spotify Premium subscription - December 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3021",
+    "DocNumber": "SUB-211-2027-01",
+    "VendorRef": {
+      "value": "211",
+      "name": "Notion Labs Inc."
+    },
+    "TxnDate": "2027-01-01",
+    "DueDate": "2027-01-15",
+    "Line": [
+      {
+        "Amount": 12.0,
+        "Description": "Notion Plus subscription - January 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12.0,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3022",
+    "DocNumber": "SUB-212-2027-01",
+    "VendorRef": {
+      "value": "212",
+      "name": "Dropbox Inc."
+    },
+    "TxnDate": "2027-01-01",
+    "DueDate": "2027-01-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Dropbox Plus subscription - January 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3023",
+    "DocNumber": "SUB-213-2027-01",
+    "VendorRef": {
+      "value": "213",
+      "name": "Adobe Inc."
+    },
+    "TxnDate": "2027-01-01",
+    "DueDate": "2027-01-15",
+    "Line": [
+      {
+        "Amount": 19.99,
+        "Description": "Adobe Acrobat Pro subscription - January 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 19.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3024",
+    "DocNumber": "SUB-215-2027-01",
+    "VendorRef": {
+      "value": "215",
+      "name": "Spotify Premium"
+    },
+    "TxnDate": "2027-01-01",
+    "DueDate": "2027-01-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Spotify Premium subscription - January 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3025",
+    "DocNumber": "SUB-211-2027-02",
+    "VendorRef": {
+      "value": "211",
+      "name": "Notion Labs Inc."
+    },
+    "TxnDate": "2027-02-01",
+    "DueDate": "2027-02-15",
+    "Line": [
+      {
+        "Amount": 12.0,
+        "Description": "Notion Plus subscription - February 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12.0,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3026",
+    "DocNumber": "SUB-212-2027-02",
+    "VendorRef": {
+      "value": "212",
+      "name": "Dropbox Inc."
+    },
+    "TxnDate": "2027-02-01",
+    "DueDate": "2027-02-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Dropbox Plus subscription - February 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3027",
+    "DocNumber": "SUB-213-2027-02",
+    "VendorRef": {
+      "value": "213",
+      "name": "Adobe Inc."
+    },
+    "TxnDate": "2027-02-01",
+    "DueDate": "2027-02-15",
+    "Line": [
+      {
+        "Amount": 19.99,
+        "Description": "Adobe Acrobat Pro subscription - February 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 19.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3028",
+    "DocNumber": "SUB-215-2027-02",
+    "VendorRef": {
+      "value": "215",
+      "name": "Spotify Premium"
+    },
+    "TxnDate": "2027-02-01",
+    "DueDate": "2027-02-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Spotify Premium subscription - February 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3029",
+    "DocNumber": "SUB-211-2027-03",
+    "VendorRef": {
+      "value": "211",
+      "name": "Notion Labs Inc."
+    },
+    "TxnDate": "2027-03-01",
+    "DueDate": "2027-03-15",
+    "Line": [
+      {
+        "Amount": 12.0,
+        "Description": "Notion Plus subscription - March 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12.0,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3030",
+    "DocNumber": "SUB-212-2027-03",
+    "VendorRef": {
+      "value": "212",
+      "name": "Dropbox Inc."
+    },
+    "TxnDate": "2027-03-01",
+    "DueDate": "2027-03-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Dropbox Plus subscription - March 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3031",
+    "DocNumber": "SUB-213-2027-03",
+    "VendorRef": {
+      "value": "213",
+      "name": "Adobe Inc."
+    },
+    "TxnDate": "2027-03-01",
+    "DueDate": "2027-03-15",
+    "Line": [
+      {
+        "Amount": 19.99,
+        "Description": "Adobe Acrobat Pro subscription - March 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 19.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3032",
+    "DocNumber": "SUB-215-2027-03",
+    "VendorRef": {
+      "value": "215",
+      "name": "Spotify Premium"
+    },
+    "TxnDate": "2027-03-01",
+    "DueDate": "2027-03-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Spotify Premium subscription - March 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3033",
+    "DocNumber": "SUB-211-2027-04",
+    "VendorRef": {
+      "value": "211",
+      "name": "Notion Labs Inc."
+    },
+    "TxnDate": "2027-04-01",
+    "DueDate": "2027-04-15",
+    "Line": [
+      {
+        "Amount": 12.0,
+        "Description": "Notion Plus subscription - April 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12.0,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3034",
+    "DocNumber": "SUB-212-2027-04",
+    "VendorRef": {
+      "value": "212",
+      "name": "Dropbox Inc."
+    },
+    "TxnDate": "2027-04-01",
+    "DueDate": "2027-04-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Dropbox Plus subscription - April 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3035",
+    "DocNumber": "SUB-213-2027-04",
+    "VendorRef": {
+      "value": "213",
+      "name": "Adobe Inc."
+    },
+    "TxnDate": "2027-04-01",
+    "DueDate": "2027-04-15",
+    "Line": [
+      {
+        "Amount": 19.99,
+        "Description": "Adobe Acrobat Pro subscription - April 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 19.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3036",
+    "DocNumber": "SUB-215-2027-04",
+    "VendorRef": {
+      "value": "215",
+      "name": "Spotify Premium"
+    },
+    "TxnDate": "2027-04-01",
+    "DueDate": "2027-04-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Spotify Premium subscription - April 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3037",
+    "DocNumber": "SUB-211-2027-05",
+    "VendorRef": {
+      "value": "211",
+      "name": "Notion Labs Inc."
+    },
+    "TxnDate": "2027-05-01",
+    "DueDate": "2027-05-15",
+    "Line": [
+      {
+        "Amount": 12.0,
+        "Description": "Notion Plus subscription - May 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12.0,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3038",
+    "DocNumber": "SUB-212-2027-05",
+    "VendorRef": {
+      "value": "212",
+      "name": "Dropbox Inc."
+    },
+    "TxnDate": "2027-05-01",
+    "DueDate": "2027-05-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Dropbox Plus subscription - May 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3039",
+    "DocNumber": "SUB-213-2027-05",
+    "VendorRef": {
+      "value": "213",
+      "name": "Adobe Inc."
+    },
+    "TxnDate": "2027-05-01",
+    "DueDate": "2027-05-15",
+    "Line": [
+      {
+        "Amount": 19.99,
+        "Description": "Adobe Acrobat Pro subscription - May 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 19.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3040",
+    "DocNumber": "SUB-215-2027-05",
+    "VendorRef": {
+      "value": "215",
+      "name": "Spotify Premium"
+    },
+    "TxnDate": "2027-05-01",
+    "DueDate": "2027-05-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Spotify Premium subscription - May 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3041",
+    "DocNumber": "SUB-211-2027-06",
+    "VendorRef": {
+      "value": "211",
+      "name": "Notion Labs Inc."
+    },
+    "TxnDate": "2027-06-01",
+    "DueDate": "2027-06-15",
+    "Line": [
+      {
+        "Amount": 12.0,
+        "Description": "Notion Plus subscription - June 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12.0,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3042",
+    "DocNumber": "SUB-212-2027-06",
+    "VendorRef": {
+      "value": "212",
+      "name": "Dropbox Inc."
+    },
+    "TxnDate": "2027-06-01",
+    "DueDate": "2027-06-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Dropbox Plus subscription - June 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3043",
+    "DocNumber": "SUB-213-2027-06",
+    "VendorRef": {
+      "value": "213",
+      "name": "Adobe Inc."
+    },
+    "TxnDate": "2027-06-01",
+    "DueDate": "2027-06-15",
+    "Line": [
+      {
+        "Amount": 19.99,
+        "Description": "Adobe Acrobat Pro subscription - June 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 19.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3044",
+    "DocNumber": "SUB-215-2027-06",
+    "VendorRef": {
+      "value": "215",
+      "name": "Spotify Premium"
+    },
+    "TxnDate": "2027-06-01",
+    "DueDate": "2027-06-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Spotify Premium subscription - June 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3045",
+    "DocNumber": "SUB-211-2027-07",
+    "VendorRef": {
+      "value": "211",
+      "name": "Notion Labs Inc."
+    },
+    "TxnDate": "2027-07-01",
+    "DueDate": "2027-07-15",
+    "Line": [
+      {
+        "Amount": 12.0,
+        "Description": "Notion Plus subscription - July 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12.0,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3046",
+    "DocNumber": "SUB-212-2027-07",
+    "VendorRef": {
+      "value": "212",
+      "name": "Dropbox Inc."
+    },
+    "TxnDate": "2027-07-01",
+    "DueDate": "2027-07-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Dropbox Plus subscription - July 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3047",
+    "DocNumber": "SUB-213-2027-07",
+    "VendorRef": {
+      "value": "213",
+      "name": "Adobe Inc."
+    },
+    "TxnDate": "2027-07-01",
+    "DueDate": "2027-07-15",
+    "Line": [
+      {
+        "Amount": 19.99,
+        "Description": "Adobe Acrobat Pro subscription - July 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 19.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3048",
+    "DocNumber": "SUB-215-2027-07",
+    "VendorRef": {
+      "value": "215",
+      "name": "Spotify Premium"
+    },
+    "TxnDate": "2027-07-01",
+    "DueDate": "2027-07-15",
+    "Line": [
+      {
+        "Amount": 11.99,
+        "Description": "Spotify Premium subscription - July 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software & Subscriptions",
+            "value": "13"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11.99,
+    "Balance": 0,
+    "PrivateNote": "Paid via credit card on the 1st of each month."
+  },
+  {
+    "Id": "3049",
+    "DocNumber": "BILL-200-2026-03-15",
+    "VendorRef": {
+      "value": "200",
+      "name": "Internal Revenue Service"
+    },
+    "TxnDate": "2026-03-15",
+    "DueDate": "2026-03-15",
+    "Line": [
+      {
+        "Amount": 1800.0,
+        "Description": "Federal 1040-ES estimated tax payment Q3 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Federal Estimated Tax",
+            "value": "14"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1800.0,
+    "Balance": 0,
+    "PrivateNote": "Filed on 2026-03-15. Reconciled monthly against Ridgecrest checking."
+  },
+  {
+    "Id": "3050",
+    "DocNumber": "BILL-200-2027-01-15",
+    "VendorRef": {
+      "value": "200",
+      "name": "Internal Revenue Service"
+    },
+    "TxnDate": "2027-01-15",
+    "DueDate": "2027-01-15",
+    "Line": [
+      {
+        "Amount": 1800.0,
+        "Description": "Federal 1040-ES estimated tax payment Q4 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Federal Estimated Tax",
+            "value": "14"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1800.0,
+    "Balance": 0,
+    "PrivateNote": "Filed on 2027-01-15. Reconciled monthly against Ridgecrest checking."
+  },
+  {
+    "Id": "3051",
+    "DocNumber": "BILL-200-2027-04-15",
+    "VendorRef": {
+      "value": "200",
+      "name": "Internal Revenue Service"
+    },
+    "TxnDate": "2027-04-15",
+    "DueDate": "2027-04-15",
+    "Line": [
+      {
+        "Amount": 1800.0,
+        "Description": "Federal 1040-ES estimated tax payment Q1 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Federal Estimated Tax",
+            "value": "14"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1800.0,
+    "Balance": 0,
+    "PrivateNote": "Filed on 2027-04-15. Reconciled monthly against Ridgecrest checking."
+  },
+  {
+    "Id": "3052",
+    "DocNumber": "BILL-201-2026-03-15",
+    "VendorRef": {
+      "value": "201",
+      "name": "New Jersey Division of Taxation"
+    },
+    "TxnDate": "2026-03-15",
+    "DueDate": "2026-03-15",
+    "Line": [
+      {
+        "Amount": 380.0,
+        "Description": "NJ-1040-ES estimated tax payment Q3 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "State Estimated Tax (NJ)",
+            "value": "15"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 380.0,
+    "Balance": 0,
+    "PrivateNote": "Filed on 2026-03-15. Reconciled monthly against Ridgecrest checking."
+  },
+  {
+    "Id": "3053",
+    "DocNumber": "BILL-201-2027-01-15",
+    "VendorRef": {
+      "value": "201",
+      "name": "New Jersey Division of Taxation"
+    },
+    "TxnDate": "2027-01-15",
+    "DueDate": "2027-01-15",
+    "Line": [
+      {
+        "Amount": 380.0,
+        "Description": "NJ-1040-ES estimated tax payment Q4 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "State Estimated Tax (NJ)",
+            "value": "15"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 380.0,
+    "Balance": 0,
+    "PrivateNote": "Filed on 2027-01-15. Reconciled monthly against Ridgecrest checking."
+  },
+  {
+    "Id": "3054",
+    "DocNumber": "BILL-201-2027-04-15",
+    "VendorRef": {
+      "value": "201",
+      "name": "New Jersey Division of Taxation"
+    },
+    "TxnDate": "2027-04-15",
+    "DueDate": "2027-04-15",
+    "Line": [
+      {
+        "Amount": 380.0,
+        "Description": "NJ-1040-ES estimated tax payment Q1 2027.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "State Estimated Tax (NJ)",
+            "value": "15"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 380.0,
+    "Balance": 0,
+    "PrivateNote": "Filed on 2027-04-15. Reconciled monthly against Ridgecrest checking."
+  },
+  {
+    "Id": "3055",
+    "DocNumber": "BILL-209-2026-03-01",
+    "VendorRef": {
+      "value": "209",
+      "name": "International Society for Computational Biology (ISCB)"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-01",
+    "Line": [
+      {
+        "Amount": 195.0,
+        "Description": "ISCB annual membership renewal 2026-27.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Professional Society Dues",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 195.0,
+    "Balance": 0,
+    "PrivateNote": "Filed on 2026-03-01. Reconciled monthly against Ridgecrest checking."
+  },
+  {
+    "Id": "3056",
+    "DocNumber": "BILL-210-2026-10-01",
+    "VendorRef": {
+      "value": "210",
+      "name": "American Society for Cell Biology (ASCB)"
+    },
+    "TxnDate": "2026-10-01",
+    "DueDate": "2026-10-01",
+    "Line": [
+      {
+        "Amount": 240.0,
+        "Description": "ASCB annual membership renewal 2026-27.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Professional Society Dues",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 240.0,
+    "Balance": 0,
+    "PrivateNote": "Filed on 2026-10-01. Reconciled monthly against Ridgecrest checking."
+  }
+]

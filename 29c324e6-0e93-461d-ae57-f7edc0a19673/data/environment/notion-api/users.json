@@ -1,0 +1,202 @@
+[
+  {
+    "id": "user-jessica",
+    "name": "Jessica Webb",
+    "email": "jessica.webb@finthesiss.ai",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/a1f3c2e8-7b94-4d6a-9c12-3e5f8a0b1d22/jessica-webb.png",
+    "type": "person",
+    "bot": false,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-02T09:00:00.000Z"
+  },
+  {
+    "id": "user-claire",
+    "name": "Claire Reynolds",
+    "email": "claire.reynolds@gmail.com",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/b4e7d1a9-2c83-4f15-8a6b-7d9e0c4f3a11/claire-reynolds.png",
+    "type": "person",
+    "bot": false,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-03T11:00:00.000Z"
+  },
+  {
+    "id": "user-ray",
+    "name": "Ray Coleman",
+    "email": "ray.coleman@gmail.com",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c7a2f5b3-9d41-4e87-b2c0-1f6a8d3e5c44/ray-coleman.png",
+    "type": "person",
+    "bot": false,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "bot-notionbot",
+    "name": "Notion Automations",
+    "email": "jessica.webb@finthesiss.ai",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/d9c4e2a1-5f38-4b72-a1d9-8e3f0a7b2c66/notion-automations.png",
+    "type": "bot",
+    "bot": true,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-02T09:05:00.000Z"
+  },
+  {
+    "id": "user-jessica_p001",
+    "name": "Instructor coordination meeting",
+    "email": "jessica.webb@finthesiss.ai",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/a1f3c2e8-7b94-4d6a-9c12-3e5f8a0b1d22/jessica-webb.png",
+    "type": "person",
+    "bot": false,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-02T09:00:00.000Z"
+  },
+  {
+    "id": "user-claire_p002",
+    "name": "Winter recital rehearsal",
+    "email": "claire.reynolds@gmail.com",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/b4e7d1a9-2c83-4f15-8a6b-7d9e0c4f3a11/claire-reynolds.png",
+    "type": "person",
+    "bot": false,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-03T11:00:00.000Z"
+  },
+  {
+    "id": "user-ray_p003",
+    "name": "Student progress review",
+    "email": "ray.coleman@gmail.com",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c7a2f5b3-9d41-4e87-b2c0-1f6a8d3e5c44/ray-coleman.png",
+    "type": "person",
+    "bot": false,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "bot-notionbot_p004",
+    "name": "Enrollment inquiry follow-up",
+    "email": "jessica.webb@finthesiss.ai",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/d9c4e2a1-5f38-4b72-a1d9-8e3f0a7b2c66/notion-automations.png",
+    "type": "bot",
+    "bot": true,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-02T09:05:00.000Z"
+  },
+  {
+    "id": "user-jessica_p005",
+    "name": "Monthly payroll processing",
+    "email": "jessica.webb@finthesiss.ai",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/a1f3c2e8-7b94-4d6a-9c12-3e5f8a0b1d22/jessica-webb.png",
+    "type": "person",
+    "bot": false,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-02T09:00:00.000Z"
+  },
+  {
+    "id": "user-claire_p006",
+    "name": "5th Anniversary Showcase planning",
+    "email": "claire.reynolds@gmail.com",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/b4e7d1a9-2c83-4f15-8a6b-7d9e0c4f3a11/claire-reynolds.png",
+    "type": "person",
+    "bot": false,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-03T11:00:00.000Z"
+  },
+  {
+    "id": "user-ray_p007",
+    "name": "Summer camp registration",
+    "email": "ray.coleman@gmail.com",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c7a2f5b3-9d41-4e87-b2c0-1f6a8d3e5c44/ray-coleman.png",
+    "type": "person",
+    "bot": false,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "bot-notionbot_p008",
+    "name": "Substitute coverage",
+    "email": "jessica.webb@finthesiss.ai",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/d9c4e2a1-5f38-4b72-a1d9-8e3f0a7b2c66/notion-automations.png",
+    "type": "bot",
+    "bot": true,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-02T09:05:00.000Z"
+  },
+  {
+    "id": "user-jessica_p009",
+    "name": "Sheet music library update",
+    "email": "jessica.webb@finthesiss.ai",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/a1f3c2e8-7b94-4d6a-9c12-3e5f8a0b1d22/jessica-webb.png",
+    "type": "person",
+    "bot": false,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-02T09:00:00.000Z"
+  },
+  {
+    "id": "user-claire_p010",
+    "name": "Parent meeting slot",
+    "email": "claire.reynolds@gmail.com",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/b4e7d1a9-2c83-4f15-8a6b-7d9e0c4f3a11/claire-reynolds.png",
+    "type": "person",
+    "bot": false,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-03T11:00:00.000Z"
+  },
+  {
+    "id": "user-ray_p011",
+    "name": "Ensemble arrangement rewrite",
+    "email": "ray.coleman@gmail.com",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c7a2f5b3-9d41-4e87-b2c0-1f6a8d3e5c44/ray-coleman.png",
+    "type": "person",
+    "bot": false,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "bot-notionbot_p012",
+    "name": "Recital program layout",
+    "email": "jessica.webb@finthesiss.ai",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/d9c4e2a1-5f38-4b72-a1d9-8e3f0a7b2c66/notion-automations.png",
+    "type": "bot",
+    "bot": true,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-02T09:05:00.000Z"
+  },
+  {
+    "id": "user-jessica_p013",
+    "name": "Quartet setlist review",
+    "email": "jessica.webb@finthesiss.ai",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/a1f3c2e8-7b94-4d6a-9c12-3e5f8a0b1d22/jessica-webb.png",
+    "type": "person",
+    "bot": false,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-02T09:00:00.000Z"
+  },
+  {
+    "id": "user-claire_p014",
+    "name": "Rehearsal recording listen-back",
+    "email": "claire.reynolds@gmail.com",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/b4e7d1a9-2c83-4f15-8a6b-7d9e0c4f3a11/claire-reynolds.png",
+    "type": "person",
+    "bot": false,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-03T11:00:00.000Z"
+  },
+  {
+    "id": "user-ray_p015",
+    "name": "Second album pre-production notes",
+    "email": "ray.coleman@gmail.com",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/c7a2f5b3-9d41-4e87-b2c0-1f6a8d3e5c44/ray-coleman.png",
+    "type": "person",
+    "bot": false,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "bot-notionbot_p016",
+    "name": "Venue confirmation thread",
+    "email": "jessica.webb@finthesiss.ai",
+    "avatar_url": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/d9c4e2a1-5f38-4b72-a1d9-8e3f0a7b2c66/notion-automations.png",
+    "type": "bot",
+    "bot": true,
+    "owner_workspace": "workspace-crossroads",
+    "created_time": "2025-10-02T09:05:00.000Z"
+  }
+]

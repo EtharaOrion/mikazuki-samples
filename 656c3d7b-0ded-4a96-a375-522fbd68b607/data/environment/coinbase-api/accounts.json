@@ -1,0 +1,80 @@
+[
+  {
+    "balance_amount": 0.441327,
+    "created_at": "2025-01-06T00:00:00Z",
+    "currency_code": "SOL",
+    "currency_name": "Solana",
+    "id": "6a618156-a0f7-9bbe-490c-ef78666685ed",
+    "name": "SOL Wallet",
+    "native_balance_amount": 63.99,
+    "native_currency": "USD",
+    "primary": true,
+    "type": "wallet",
+    "updated_at": "2026-06-29T00:00:00Z"
+  },
+  {
+    "balance_amount": 67.644402,
+    "created_at": "2025-03-07T00:00:00Z",
+    "currency_code": "USDC",
+    "currency_name": "USD Coin",
+    "id": "6d8ec764-c9a0-e18d-4dfa-48e36b74ad4d",
+    "name": "USDC Wallet",
+    "native_balance_amount": 67.64,
+    "native_currency": "USD",
+    "primary": false,
+    "type": "wallet",
+    "updated_at": "2026-06-28T00:00:00Z"
+  },
+  {
+    "balance_amount": 0.249644,
+    "created_at": "2025-05-06T00:00:00Z",
+    "currency_code": "XRP",
+    "currency_name": "XRP",
+    "id": "36841a5e-4bfc-b390-4d76-35386e0bffc7",
+    "name": "XRP Wallet",
+    "native_balance_amount": 0.15,
+    "native_currency": "USD",
+    "primary": false,
+    "type": "wallet",
+    "updated_at": "2026-06-27T00:00:00Z"
+  },
+  {
+    "balance_amount": 1.349887,
+    "created_at": "2025-07-05T00:00:00Z",
+    "currency_code": "ADA",
+    "currency_name": "Cardano",
+    "id": "d16b949e-b86f-4ca7-4d4d-80069b95132e",
+    "name": "ADA Wallet",
+    "native_balance_amount": 0.61,
+    "native_currency": "USD",
+    "primary": false,
+    "type": "wallet",
+    "updated_at": "2026-06-26T00:00:00Z"
+  },
+  {
+    "balance_amount": 0.790275,
+    "created_at": "2025-09-03T00:00:00Z",
+    "currency_code": "AVAX",
+    "currency_name": "Avalanche",
+    "id": "ad34e7b1-68ae-588d-4c43-bf078b7b5742",
+    "name": "AVAX Wallet",
+    "native_balance_amount": 21.81,
+    "native_currency": "USD",
+    "primary": false,
+    "type": "wallet",
+    "updated_at": "2026-06-25T00:00:00Z"
+  },
+  {
+    "balance_amount": 0.5054,
+    "created_at": "2025-11-02T00:00:00Z",
+    "currency_code": "DOGE",
+    "currency_name": "Dogecoin",
+    "id": "f420d2e0-16ea-d0a1-4236-a3bf3f72bd5b",
+    "name": "DOGE Wallet",
+    "native_balance_amount": 0.08,
+    "native_currency": "USD",
+    "primary": false,
+    "type": "wallet",
+    "updated_at": "2026-06-24T00:00:00Z"
+  }
+]

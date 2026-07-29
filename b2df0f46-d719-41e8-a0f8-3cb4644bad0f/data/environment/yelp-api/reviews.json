@@ -1,0 +1,882 @@
+[
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-000001",
+    "rating": "4",
+    "text": "Solid local spot - friendly staff, came back twice this week.",
+    "time_created": "2026-03-25 00:00:00",
+    "user_name": "Alex M."
+  },
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-000002",
+    "rating": "4",
+    "text": "Quality has been consistent. Reliable when I'm in a hurry.",
+    "time_created": "2026-02-21 00:00:00",
+    "user_name": "Jamie L."
+  },
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-000003",
+    "rating": "3",
+    "text": "Good vibes, slightly pricey for what you get but worth it once.",
+    "time_created": "2026-02-21 00:00:00",
+    "user_name": "Taylor K."
+  },
+  {
+    "business_id": "yelp-public.library.branch-c573",
+    "id": "rev-000004",
+    "rating": "3",
+    "text": "Loved the atmosphere. Will bring friends next time.",
+    "time_created": "2026-02-28 00:00:00",
+    "user_name": "Casey R."
+  },
+  {
+    "business_id": "yelp-public.library.branch-c573",
+    "id": "rev-000005",
+    "rating": "3",
+    "text": "Excellent service. Owner remembered my order on the second visit.",
+    "time_created": "2026-02-20 00:00:00",
+    "user_name": "Priya N."
+  },
+  {
+    "business_id": "yelp-north.end.pharmacy-f53e",
+    "id": "rev-000006",
+    "rating": "5",
+    "text": "Decent, but the line at peak hours is rough.",
+    "time_created": "2026-01-23 00:00:00",
+    "user_name": "Marco D."
+  },
+  {
+    "business_id": "yelp-north.end.pharmacy-f53e",
+    "id": "rev-000007",
+    "rating": "3",
+    "text": "Cozy, clean, and the prices are fair.",
+    "time_created": "2026-03-04 00:00:00",
+    "user_name": "Sasha B."
+  },
+  {
+    "business_id": "yelp-harbor.yoga.studio-1c61",
+    "id": "rev-000008",
+    "rating": "3",
+    "text": "Best in the neighborhood, no notes.",
+    "time_created": "2026-02-18 00:00:00",
+    "user_name": "Rin O."
+  },
+  {
+    "business_id": "yelp-harbor.yoga.studio-1c61",
+    "id": "rev-000009",
+    "rating": "4",
+    "text": "Solid local spot - friendly staff, came back twice this week.",
+    "time_created": "2026-03-23 00:00:00",
+    "user_name": "Dani V."
+  },
+  {
+    "business_id": "yelp-harbor.yoga.studio-1c61",
+    "id": "rev-00000a",
+    "rating": "4",
+    "text": "Quality has been consistent. Reliable when I'm in a hurry.",
+    "time_created": "2026-01-07 00:00:00",
+    "user_name": "Quinn S."
+  },
+  {
+    "business_id": "yelp-beacon.hardware-beac",
+    "id": "rev-00000b",
+    "rating": "4",
+    "text": "Good vibes, slightly pricey for what you get but worth it once.",
+    "time_created": "2026-01-20 00:00:00",
+    "user_name": "Alex M."
+  },
+  {
+    "business_id": "yelp-old.town.bookshop-204f",
+    "id": "rev-00000c",
+    "rating": "3",
+    "text": "Loved the atmosphere. Will bring friends next time.",
+    "time_created": "2026-03-03 00:00:00",
+    "user_name": "Jamie L."
+  },
+  {
+    "business_id": "yelp-west.side.grocery-4d93",
+    "id": "rev-00000d",
+    "rating": "4",
+    "text": "Excellent service. Owner remembered my order on the second visit.",
+    "time_created": "2026-03-22 00:00:00",
+    "user_name": "Taylor K."
+  },
+  {
+    "business_id": "yelp-maple.avenue.diner-aa07",
+    "id": "rev-00000e",
+    "rating": "5",
+    "text": "Decent, but the line at peak hours is rough.",
+    "time_created": "2026-03-11 00:00:00",
+    "user_name": "Casey R."
+  },
+  {
+    "business_id": "yelp-liberty.park-b5ca",
+    "id": "rev-00000f",
+    "rating": "4",
+    "text": "Cozy, clean, and the prices are fair.",
+    "time_created": "2026-01-30 00:00:00",
+    "user_name": "Priya N."
+  },
+  {
+    "business_id": "yelp-liberty.park-b5ca",
+    "id": "rev-000010",
+    "rating": "4",
+    "text": "Best in the neighborhood, no notes.",
+    "time_created": "2026-02-09 00:00:00",
+    "user_name": "Marco D."
+  },
+  {
+    "business_id": "yelp-heritage.museum-cf28",
+    "id": "rev-000011",
+    "rating": "3",
+    "text": "Solid local spot - friendly staff, came back twice this week.",
+    "time_created": "2026-01-20 00:00:00",
+    "user_name": "Sasha B."
+  },
+  {
+    "business_id": "yelp-heritage.museum-cf28",
+    "id": "rev-000012",
+    "rating": "5",
+    "text": "Quality has been consistent. Reliable when I'm in a hurry.",
+    "time_created": "2026-03-30 00:00:00",
+    "user_name": "Rin O."
+  },
+  {
+    "business_id": "yelp-skyline.hotel-d975",
+    "id": "rev-000013",
+    "rating": "5",
+    "text": "Good vibes, slightly pricey for what you get but worth it once.",
+    "time_created": "2026-02-02 00:00:00",
+    "user_name": "Dani V."
+  },
+  {
+    "business_id": "yelp-cedar.coffee.roasters-0995",
+    "id": "rev-000014",
+    "rating": "5",
+    "text": "Loved the atmosphere. Will bring friends next time.",
+    "time_created": "2026-01-24 00:00:00",
+    "user_name": "Quinn S."
+  },
+  {
+    "business_id": "yelp-cedar.coffee.roasters-0995",
+    "id": "rev-000015",
+    "rating": "5",
+    "text": "Excellent service. Owner remembered my order on the second visit.",
+    "time_created": "2026-01-18 00:00:00",
+    "user_name": "Alex M."
+  },
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-100000",
+    "rating": "3",
+    "text": "Solid neighborhood spot - the roast chicken was excellent, quick service. (1/6)",
+    "time_created": "2026-01-06 13:00:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-100001",
+    "rating": "4",
+    "text": "Came here with Patty after a long week. the Cuban hit the mark. (1/8)",
+    "time_created": "2026-01-08 16:07:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-100002",
+    "rating": "5",
+    "text": "Good for a family dinner. Kids liked the the salmon. (1/10)",
+    "time_created": "2026-01-10 19:14:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-public.library.branch-c573",
+    "id": "rev-100003",
+    "rating": "3",
+    "text": "Reliable 3-star lunch near the office. Would return. (1/12)",
+    "time_created": "2026-01-12 22:21:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-public.library.branch-c573",
+    "id": "rev-100004",
+    "rating": "4",
+    "text": "Coffee and a quiet table before court. the cortadito was a nice surprise. (1/14)",
+    "time_created": "2026-01-14 13:28:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-north.end.pharmacy-f53e",
+    "id": "rev-100005",
+    "rating": "5",
+    "text": "Weekend brunch with the kids. the ropa vieja for the table. (1/16)",
+    "time_created": "2026-01-16 16:35:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-north.end.pharmacy-f53e",
+    "id": "rev-100006",
+    "rating": "3",
+    "text": "Local gem on the Mile. the biscuits done right. (1/18)",
+    "time_created": "2026-01-18 19:42:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-harbor.yoga.studio-1c61",
+    "id": "rev-100007",
+    "rating": "4",
+    "text": "Nice find when Hillcrest is booked. the lentil soup recommended. (1/20)",
+    "time_created": "2026-01-20 22:49:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-harbor.yoga.studio-1c61",
+    "id": "rev-100008",
+    "rating": "5",
+    "text": "Solid neighborhood spot - the mahi was excellent, quick service. (1/22)",
+    "time_created": "2026-01-22 13:56:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-harbor.yoga.studio-1c61",
+    "id": "rev-100009",
+    "rating": "3",
+    "text": "Came here with Patty after a long week. the flan hit the mark. (1/24)",
+    "time_created": "2026-01-24 16:03:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-beacon.hardware-beac",
+    "id": "rev-100010",
+    "rating": "4",
+    "text": "Good for a family dinner. Kids liked the the house salad. (1/26)",
+    "time_created": "2026-01-26 19:10:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-old.town.bookshop-204f",
+    "id": "rev-100011",
+    "rating": "5",
+    "text": "Reliable 5-star lunch near the office. Would return. (1/28)",
+    "time_created": "2026-01-28 22:17:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-west.side.grocery-4d93",
+    "id": "rev-100012",
+    "rating": "3",
+    "text": "Coffee and a quiet table before court. the roast chicken was a nice surprise. (1/30)",
+    "time_created": "2026-01-30 13:24:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-maple.avenue.diner-aa07",
+    "id": "rev-100013",
+    "rating": "4",
+    "text": "Weekend brunch with the kids. the Cuban for the table. (2/1)",
+    "time_created": "2026-02-01 16:31:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-liberty.park-b5ca",
+    "id": "rev-100014",
+    "rating": "5",
+    "text": "Local gem on the Mile. the salmon done right. (2/3)",
+    "time_created": "2026-02-03 19:38:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-liberty.park-b5ca",
+    "id": "rev-100015",
+    "rating": "3",
+    "text": "Nice find when Hillcrest is booked. the key lime pie recommended. (2/5)",
+    "time_created": "2026-02-05 22:45:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-heritage.museum-cf28",
+    "id": "rev-100016",
+    "rating": "4",
+    "text": "Solid neighborhood spot - the cortadito was excellent, quick service. (2/7)",
+    "time_created": "2026-02-07 13:52:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-heritage.museum-cf28",
+    "id": "rev-100017",
+    "rating": "5",
+    "text": "Came here with Patty after a long week. the ropa vieja hit the mark. (2/9)",
+    "time_created": "2026-02-09 16:59:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-skyline.hotel-d975",
+    "id": "rev-100018",
+    "rating": "3",
+    "text": "Good for a family dinner. Kids liked the the biscuits. (2/11)",
+    "time_created": "2026-02-11 19:06:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-cedar.coffee.roasters-0995",
+    "id": "rev-100019",
+    "rating": "4",
+    "text": "Reliable 4-star lunch near the office. Would return. (2/13)",
+    "time_created": "2026-02-13 22:13:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-cedar.coffee.roasters-0995",
+    "id": "rev-100020",
+    "rating": "5",
+    "text": "Coffee and a quiet table before court. the mahi was a nice surprise. (2/15)",
+    "time_created": "2026-02-15 13:20:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-100021",
+    "rating": "3",
+    "text": "Weekend brunch with the kids. the flan for the table. (2/17)",
+    "time_created": "2026-02-17 16:27:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-100022",
+    "rating": "4",
+    "text": "Local gem on the Mile. the house salad done right. (2/19)",
+    "time_created": "2026-02-19 19:34:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-100023",
+    "rating": "5",
+    "text": "Nice find when Hillcrest is booked. the tres leches recommended. (2/21)",
+    "time_created": "2026-02-21 22:41:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-public.library.branch-c573",
+    "id": "rev-100024",
+    "rating": "3",
+    "text": "Solid neighborhood spot - the roast chicken was excellent, quick service. (2/23)",
+    "time_created": "2026-02-23 13:48:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-public.library.branch-c573",
+    "id": "rev-100025",
+    "rating": "4",
+    "text": "Came here with Patty after a long week. the Cuban hit the mark. (2/25)",
+    "time_created": "2026-02-25 16:55:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-north.end.pharmacy-f53e",
+    "id": "rev-100026",
+    "rating": "5",
+    "text": "Good for a family dinner. Kids liked the the salmon. (2/27)",
+    "time_created": "2026-02-27 19:02:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-north.end.pharmacy-f53e",
+    "id": "rev-100027",
+    "rating": "3",
+    "text": "Reliable 3-star lunch near the office. Would return. (3/1)",
+    "time_created": "2026-03-01 22:09:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-harbor.yoga.studio-1c61",
+    "id": "rev-100028",
+    "rating": "4",
+    "text": "Coffee and a quiet table before court. the cortadito was a nice surprise. (3/3)",
+    "time_created": "2026-03-03 13:16:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-harbor.yoga.studio-1c61",
+    "id": "rev-100029",
+    "rating": "5",
+    "text": "Weekend brunch with the kids. the ropa vieja for the table. (3/5)",
+    "time_created": "2026-03-05 16:23:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-harbor.yoga.studio-1c61",
+    "id": "rev-100030",
+    "rating": "3",
+    "text": "Local gem on the Mile. the biscuits done right. (3/7)",
+    "time_created": "2026-03-07 19:30:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-beacon.hardware-beac",
+    "id": "rev-100031",
+    "rating": "4",
+    "text": "Nice find when Hillcrest is booked. the lentil soup recommended. (3/9)",
+    "time_created": "2026-03-09 22:37:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-old.town.bookshop-204f",
+    "id": "rev-100032",
+    "rating": "5",
+    "text": "Solid neighborhood spot - the mahi was excellent, quick service. (3/11)",
+    "time_created": "2026-03-11 13:44:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-west.side.grocery-4d93",
+    "id": "rev-100033",
+    "rating": "3",
+    "text": "Came here with Patty after a long week. the flan hit the mark. (3/13)",
+    "time_created": "2026-03-13 16:51:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-maple.avenue.diner-aa07",
+    "id": "rev-100034",
+    "rating": "4",
+    "text": "Good for a family dinner. Kids liked the the house salad. (3/15)",
+    "time_created": "2026-03-15 19:58:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-liberty.park-b5ca",
+    "id": "rev-100035",
+    "rating": "5",
+    "text": "Reliable 5-star lunch near the office. Would return. (3/17)",
+    "time_created": "2026-03-17 22:05:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-liberty.park-b5ca",
+    "id": "rev-100036",
+    "rating": "3",
+    "text": "Coffee and a quiet table before court. the roast chicken was a nice surprise. (3/19)",
+    "time_created": "2026-03-19 13:12:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-heritage.museum-cf28",
+    "id": "rev-100037",
+    "rating": "4",
+    "text": "Weekend brunch with the kids. the Cuban for the table. (3/21)",
+    "time_created": "2026-03-21 16:19:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-heritage.museum-cf28",
+    "id": "rev-100038",
+    "rating": "5",
+    "text": "Local gem on the Mile. the salmon done right. (3/23)",
+    "time_created": "2026-03-23 19:26:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-skyline.hotel-d975",
+    "id": "rev-100039",
+    "rating": "3",
+    "text": "Nice find when Hillcrest is booked. the key lime pie recommended. (3/25)",
+    "time_created": "2026-03-25 22:33:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-cedar.coffee.roasters-0995",
+    "id": "rev-100040",
+    "rating": "4",
+    "text": "Solid neighborhood spot - the cortadito was excellent, quick service. (3/27)",
+    "time_created": "2026-03-27 13:40:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-cedar.coffee.roasters-0995",
+    "id": "rev-100041",
+    "rating": "5",
+    "text": "Came here with Patty after a long week. the ropa vieja hit the mark. (3/29)",
+    "time_created": "2026-03-29 16:47:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-100042",
+    "rating": "3",
+    "text": "Good for a family dinner. Kids liked the the biscuits. (3/31)",
+    "time_created": "2026-03-31 19:54:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-100043",
+    "rating": "4",
+    "text": "Reliable 4-star lunch near the office. Would return. (4/2)",
+    "time_created": "2026-04-02 22:01:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-100044",
+    "rating": "5",
+    "text": "Coffee and a quiet table before court. the mahi was a nice surprise. (4/4)",
+    "time_created": "2026-04-04 13:08:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-public.library.branch-c573",
+    "id": "rev-100045",
+    "rating": "3",
+    "text": "Weekend brunch with the kids. the flan for the table. (4/6)",
+    "time_created": "2026-04-06 16:15:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-public.library.branch-c573",
+    "id": "rev-100046",
+    "rating": "4",
+    "text": "Local gem on the Mile. the house salad done right. (4/8)",
+    "time_created": "2026-04-08 19:22:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-north.end.pharmacy-f53e",
+    "id": "rev-100047",
+    "rating": "5",
+    "text": "Nice find when Hillcrest is booked. the tres leches recommended. (4/10)",
+    "time_created": "2026-04-10 22:29:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-north.end.pharmacy-f53e",
+    "id": "rev-100048",
+    "rating": "3",
+    "text": "Solid neighborhood spot - the roast chicken was excellent, quick service. (4/12)",
+    "time_created": "2026-04-12 13:36:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-harbor.yoga.studio-1c61",
+    "id": "rev-100049",
+    "rating": "4",
+    "text": "Came here with Patty after a long week. the Cuban hit the mark. (4/14)",
+    "time_created": "2026-04-14 16:43:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-harbor.yoga.studio-1c61",
+    "id": "rev-100050",
+    "rating": "5",
+    "text": "Good for a family dinner. Kids liked the the salmon. (4/16)",
+    "time_created": "2026-04-16 19:50:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-harbor.yoga.studio-1c61",
+    "id": "rev-100051",
+    "rating": "3",
+    "text": "Reliable 3-star lunch near the office. Would return. (4/18)",
+    "time_created": "2026-04-18 22:57:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-beacon.hardware-beac",
+    "id": "rev-100052",
+    "rating": "4",
+    "text": "Coffee and a quiet table before court. the cortadito was a nice surprise. (4/20)",
+    "time_created": "2026-04-20 13:04:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-old.town.bookshop-204f",
+    "id": "rev-100053",
+    "rating": "5",
+    "text": "Weekend brunch with the kids. the ropa vieja for the table. (4/22)",
+    "time_created": "2026-04-22 16:11:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-west.side.grocery-4d93",
+    "id": "rev-100054",
+    "rating": "3",
+    "text": "Local gem on the Mile. the biscuits done right. (4/24)",
+    "time_created": "2026-04-24 19:18:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-maple.avenue.diner-aa07",
+    "id": "rev-100055",
+    "rating": "4",
+    "text": "Nice find when Hillcrest is booked. the lentil soup recommended. (4/26)",
+    "time_created": "2026-04-26 22:25:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-liberty.park-b5ca",
+    "id": "rev-100056",
+    "rating": "5",
+    "text": "Solid neighborhood spot - the mahi was excellent, quick service. (4/28)",
+    "time_created": "2026-04-28 13:32:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-liberty.park-b5ca",
+    "id": "rev-100057",
+    "rating": "3",
+    "text": "Came here with Patty after a long week. the flan hit the mark. (4/30)",
+    "time_created": "2026-04-30 16:39:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-heritage.museum-cf28",
+    "id": "rev-100058",
+    "rating": "4",
+    "text": "Good for a family dinner. Kids liked the the house salad. (5/2)",
+    "time_created": "2026-05-02 19:46:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-heritage.museum-cf28",
+    "id": "rev-100059",
+    "rating": "5",
+    "text": "Reliable 5-star lunch near the office. Would return. (5/4)",
+    "time_created": "2026-05-04 22:53:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-skyline.hotel-d975",
+    "id": "rev-100060",
+    "rating": "3",
+    "text": "Coffee and a quiet table before court. the roast chicken was a nice surprise. (5/6)",
+    "time_created": "2026-05-06 13:00:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-cedar.coffee.roasters-0995",
+    "id": "rev-100061",
+    "rating": "4",
+    "text": "Weekend brunch with the kids. the Cuban for the table. (5/8)",
+    "time_created": "2026-05-08 16:07:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-cedar.coffee.roasters-0995",
+    "id": "rev-100062",
+    "rating": "5",
+    "text": "Local gem on the Mile. the salmon done right. (5/10)",
+    "time_created": "2026-05-10 19:14:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-100063",
+    "rating": "3",
+    "text": "Nice find when Hillcrest is booked. the key lime pie recommended. (5/12)",
+    "time_created": "2026-05-12 22:21:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-100064",
+    "rating": "4",
+    "text": "Solid neighborhood spot - the cortadito was excellent, quick service. (5/14)",
+    "time_created": "2026-05-14 13:28:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-100065",
+    "rating": "5",
+    "text": "Came here with Patty after a long week. the ropa vieja hit the mark. (5/16)",
+    "time_created": "2026-05-16 16:35:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-public.library.branch-c573",
+    "id": "rev-100066",
+    "rating": "3",
+    "text": "Good for a family dinner. Kids liked the the biscuits. (5/18)",
+    "time_created": "2026-05-18 19:42:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-public.library.branch-c573",
+    "id": "rev-100067",
+    "rating": "4",
+    "text": "Reliable 4-star lunch near the office. Would return. (5/20)",
+    "time_created": "2026-05-20 22:49:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-north.end.pharmacy-f53e",
+    "id": "rev-100068",
+    "rating": "5",
+    "text": "Coffee and a quiet table before court. the mahi was a nice surprise. (5/22)",
+    "time_created": "2026-05-22 13:56:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-north.end.pharmacy-f53e",
+    "id": "rev-100069",
+    "rating": "3",
+    "text": "Weekend brunch with the kids. the flan for the table. (5/24)",
+    "time_created": "2026-05-24 16:03:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-harbor.yoga.studio-1c61",
+    "id": "rev-100070",
+    "rating": "4",
+    "text": "Local gem on the Mile. the house salad done right. (5/26)",
+    "time_created": "2026-05-26 19:10:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-harbor.yoga.studio-1c61",
+    "id": "rev-100071",
+    "rating": "5",
+    "text": "Nice find when Hillcrest is booked. the tres leches recommended. (5/28)",
+    "time_created": "2026-05-28 22:17:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-harbor.yoga.studio-1c61",
+    "id": "rev-100072",
+    "rating": "3",
+    "text": "Solid neighborhood spot - the roast chicken was excellent, quick service. (5/30)",
+    "time_created": "2026-05-30 13:24:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-beacon.hardware-beac",
+    "id": "rev-100073",
+    "rating": "4",
+    "text": "Came here with Patty after a long week. the Cuban hit the mark. (6/1)",
+    "time_created": "2026-06-01 16:31:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-old.town.bookshop-204f",
+    "id": "rev-100074",
+    "rating": "5",
+    "text": "Good for a family dinner. Kids liked the the salmon. (6/3)",
+    "time_created": "2026-06-03 19:38:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-west.side.grocery-4d93",
+    "id": "rev-100075",
+    "rating": "3",
+    "text": "Reliable 3-star lunch near the office. Would return. (6/5)",
+    "time_created": "2026-06-05 22:45:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-maple.avenue.diner-aa07",
+    "id": "rev-100076",
+    "rating": "4",
+    "text": "Coffee and a quiet table before court. the cortadito was a nice surprise. (6/7)",
+    "time_created": "2026-06-07 13:52:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-liberty.park-b5ca",
+    "id": "rev-100077",
+    "rating": "5",
+    "text": "Weekend brunch with the kids. the ropa vieja for the table. (6/9)",
+    "time_created": "2026-06-09 16:59:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-liberty.park-b5ca",
+    "id": "rev-100078",
+    "rating": "3",
+    "text": "Local gem on the Mile. the biscuits done right. (6/11)",
+    "time_created": "2026-06-11 19:06:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-heritage.museum-cf28",
+    "id": "rev-100079",
+    "rating": "4",
+    "text": "Nice find when Hillcrest is booked. the lentil soup recommended. (6/13)",
+    "time_created": "2026-06-13 22:13:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-heritage.museum-cf28",
+    "id": "rev-100080",
+    "rating": "5",
+    "text": "Solid neighborhood spot - the mahi was excellent, quick service. (6/15)",
+    "time_created": "2026-06-15 13:20:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-skyline.hotel-d975",
+    "id": "rev-100081",
+    "rating": "3",
+    "text": "Came here with Patty after a long week. the flan hit the mark. (6/17)",
+    "time_created": "2026-06-17 16:27:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-cedar.coffee.roasters-0995",
+    "id": "rev-100082",
+    "rating": "4",
+    "text": "Good for a family dinner. Kids liked the the house salad. (6/19)",
+    "time_created": "2026-06-19 19:34:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-cedar.coffee.roasters-0995",
+    "id": "rev-100083",
+    "rating": "5",
+    "text": "Reliable 5-star lunch near the office. Would return. (6/21)",
+    "time_created": "2026-06-21 22:41:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-100084",
+    "rating": "3",
+    "text": "Coffee and a quiet table before court. the roast chicken was a nice surprise. (6/23)",
+    "time_created": "2026-06-23 13:48:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-100085",
+    "rating": "4",
+    "text": "Weekend brunch with the kids. the Cuban for the table. (6/25)",
+    "time_created": "2026-06-25 16:55:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-riverside.cafe-4f4a",
+    "id": "rev-100086",
+    "rating": "5",
+    "text": "Local gem on the Mile. the salmon done right. (6/27)",
+    "time_created": "2026-06-27 19:02:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-public.library.branch-c573",
+    "id": "rev-100087",
+    "rating": "3",
+    "text": "Nice find when Hillcrest is booked. the key lime pie recommended. (6/29)",
+    "time_created": "2026-06-29 22:09:00",
+    "user_name": "Michelle B."
+  },
+  {
+    "business_id": "yelp-public.library.branch-c573",
+    "id": "rev-100088",
+    "rating": "4",
+    "text": "Solid neighborhood spot - the cortadito was excellent, quick service. (7/1)",
+    "time_created": "2026-07-01 13:16:00",
+    "user_name": "Michelle B."
+  }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "currency":  "USD",
+        "delivery_day":  "GROUND_TUE",
+        "dest_zip":  "10001",
+        "net_charge":  "16.76",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx Ground",
+        "service_type":  "FEDEX_GROUND",
+        "transit_days":  "3",
+        "weight_lb":  "1.9"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "TUE",
+        "dest_zip":  "10001",
+        "net_charge":  "28.30",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx 2Day",
+        "service_type":  "FEDEX_2_DAY",
+        "transit_days":  "2",
+        "weight_lb":  "4.5"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "MON",
+        "dest_zip":  "10001",
+        "net_charge":  "52.46",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx Priority Overnight",
+        "service_type":  "FEDEX_PRIORITY_OVERNIGHT",
+        "transit_days":  "1",
+        "weight_lb":  "3.7"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "GROUND_TUE",
+        "dest_zip":  "94103",
+        "net_charge":  "23.65",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx Ground",
+        "service_type":  "FEDEX_GROUND",
+        "transit_days":  "3",
+        "weight_lb":  "4.4"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "TUE",
+        "dest_zip":  "94103",
+        "net_charge":  "30.57",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx 2Day",
+        "service_type":  "FEDEX_2_DAY",
+        "transit_days":  "2",
+        "weight_lb":  "4.8"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "MON",
+        "dest_zip":  "94103",
+        "net_charge":  "52.21",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx Priority Overnight",
+        "service_type":  "FEDEX_PRIORITY_OVERNIGHT",
+        "transit_days":  "1",
+        "weight_lb":  "2.4"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "GROUND_TUE",
+        "dest_zip":  "60601",
+        "net_charge":  "14.44",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx Ground",
+        "service_type":  "FEDEX_GROUND",
+        "transit_days":  "3",
+        "weight_lb":  "1.4"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "TUE",
+        "dest_zip":  "60601",
+        "net_charge":  "26.64",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx 2Day",
+        "service_type":  "FEDEX_2_DAY",
+        "transit_days":  "2",
+        "weight_lb":  "1.6"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "MON",
+        "dest_zip":  "60601",
+        "net_charge":  "60.41",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx Priority Overnight",
+        "service_type":  "FEDEX_PRIORITY_OVERNIGHT",
+        "transit_days":  "1",
+        "weight_lb":  "5.8"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "GROUND_TUE",
+        "dest_zip":  "30303",
+        "net_charge":  "14.05",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx Ground",
+        "service_type":  "FEDEX_GROUND",
+        "transit_days":  "3",
+        "weight_lb":  "1.1"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "TUE",
+        "dest_zip":  "30303",
+        "net_charge":  "29.27",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx 2Day",
+        "service_type":  "FEDEX_2_DAY",
+        "transit_days":  "2",
+        "weight_lb":  "4.3"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "MON",
+        "dest_zip":  "30303",
+        "net_charge":  "57.18",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx Priority Overnight",
+        "service_type":  "FEDEX_PRIORITY_OVERNIGHT",
+        "transit_days":  "1",
+        "weight_lb":  "3.5"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "GROUND_TUE",
+        "dest_zip":  "98101",
+        "net_charge":  "21.87",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx Ground",
+        "service_type":  "FEDEX_GROUND",
+        "transit_days":  "3",
+        "weight_lb":  "4.3"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "TUE",
+        "dest_zip":  "98101",
+        "net_charge":  "28.42",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx 2Day",
+        "service_type":  "FEDEX_2_DAY",
+        "transit_days":  "2",
+        "weight_lb":  "2.7"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "MON",
+        "dest_zip":  "98101",
+        "net_charge":  "50.10",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx Priority Overnight",
+        "service_type":  "FEDEX_PRIORITY_OVERNIGHT",
+        "transit_days":  "1",
+        "weight_lb":  "1.2"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "GROUND_TUE",
+        "dest_zip":  "78701",
+        "net_charge":  "16.28",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx Ground",
+        "service_type":  "FEDEX_GROUND",
+        "transit_days":  "3",
+        "weight_lb":  "4.6"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "TUE",
+        "dest_zip":  "78701",
+        "net_charge":  "24.70",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx 2Day",
+        "service_type":  "FEDEX_2_DAY",
+        "transit_days":  "2",
+        "weight_lb":  "1.2"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "MON",
+        "dest_zip":  "78701",
+        "net_charge":  "52.08",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx Priority Overnight",
+        "service_type":  "FEDEX_PRIORITY_OVERNIGHT",
+        "transit_days":  "1",
+        "weight_lb":  "2.7"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "GROUND_TUE",
+        "dest_zip":  "10001",
+        "net_charge":  "16.76",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx Ground",
+        "service_type":  "FEDEX_GROUND",
+        "transit_days":  "3",
+        "weight_lb":  "1.9"
+    },
+    {
+        "currency":  "USD",
+        "delivery_day":  "TUE",
+        "dest_zip":  "10001",
+        "net_charge":  "28.30",
+        "origin_zip":  "33134",
+        "service_name":  "FedEx 2Day",
+        "service_type":  "FEDEX_2_DAY",
+        "transit_days":  "2",
+        "weight_lb":  "4.5"
+    }
+]

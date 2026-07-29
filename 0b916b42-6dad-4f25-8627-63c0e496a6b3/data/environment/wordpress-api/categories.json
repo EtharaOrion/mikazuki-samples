@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "description": "Default",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "id": "2",
+    "name": "News",
+    "slug": "news",
+    "description": "News posts",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "id": "3",
+    "name": "Guides",
+    "slug": "guides",
+    "description": "Guides posts",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "id": "4",
+    "name": "Perspective",
+    "slug": "perspective",
+    "description": "Perspective posts",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "id": "5",
+    "name": "Announcements",
+    "slug": "announcements",
+    "description": "Announcements posts",
+    "parent": "0",
+    "count": "1"
+  }
+]

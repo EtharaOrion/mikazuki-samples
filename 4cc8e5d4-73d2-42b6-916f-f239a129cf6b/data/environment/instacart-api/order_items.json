@@ -1,0 +1,26 @@
+[
+  {
+    "order_id": "order-001",
+    "product_id": "prod-safe-001",
+    "quantity": "2",
+    "unit_price": "2.49",
+    "line_total": "4.98",
+    "replacement_for": ""
+  },
+  {
+    "order_id": "order-002",
+    "product_id": "prod-wf-001",
+    "quantity": "2",
+    "unit_price": "14.99",
+    "line_total": "29.98",
+    "replacement_for": ""
+  },
+  {
+    "order_id": "order-003",
+    "product_id": "prod-tj-001",
+    "quantity": "2",
+    "unit_price": "5.49",
+    "line_total": "10.98",
+    "replacement_for": ""
+  }
+]

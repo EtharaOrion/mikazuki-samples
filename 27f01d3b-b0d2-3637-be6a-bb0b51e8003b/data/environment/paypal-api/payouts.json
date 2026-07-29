@@ -1,0 +1,20 @@
+[
+  {
+    "payout_batch_id": "PAYOUT-BATCH-001",
+    "sender_batch_id": "Payouts_2026_01_18",
+    "status": "SUCCESS",
+    "amount_value": "162.50",
+    "currency_code": "USD",
+    "recipient_email": "ray.coleman@gmail.com",
+    "create_time": "2026-01-18T12:00:00Z"
+  },
+  {
+    "payout_batch_id": "PAYOUT-BATCH-002",
+    "sender_batch_id": "Payouts_2026_01_18",
+    "status": "SUCCESS",
+    "amount_value": "162.50",
+    "currency_code": "USD",
+    "recipient_email": "luke.vance@gmail.com",
+    "create_time": "2026-01-18T12:00:00Z"
+  }
+]

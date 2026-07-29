@@ -1,0 +1,162 @@
+[
+  {
+    "id": "flag_4001",
+    "project_id": "1",
+    "key": "new-reservations-widget",
+    "name": "New Reservations Widget",
+    "active": "false",
+    "rollout_percentage": "0"
+  },
+  {
+    "id": "flag_4002",
+    "project_id": "1",
+    "key": "menu-search",
+    "name": "Algolia Menu Search",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4003",
+    "project_id": "1",
+    "key": "online-gift-cards",
+    "name": "Online Gift Cards",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4004",
+    "project_id": "1",
+    "key": "event-rsvp-form",
+    "name": "Event RSVP Form",
+    "active": "false",
+    "rollout_percentage": "25"
+  },
+  {
+    "id": "flag_4005",
+    "project_id": "1",
+    "key": "newsletter-popup",
+    "name": "Newsletter Signup Popup",
+    "active": "true",
+    "rollout_percentage": "50"
+  },
+  {
+    "id": "flag_4006",
+    "project_id": "1",
+    "key": "waitlist-sms",
+    "name": "Waitlist SMS Notifications",
+    "active": "false",
+    "rollout_percentage": "10"
+  },
+  {
+    "id": "flag_4007",
+    "project_id": "1",
+    "key": "allergen-icons",
+    "name": "Menu Allergen Icons",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4008",
+    "project_id": "1",
+    "key": "patio-season-banner",
+    "name": "Patio Season Banner",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4009",
+    "project_id": "1",
+    "key": "jazz-sunday-events",
+    "name": "Jazz Sunday Events Page",
+    "active": "false",
+    "rollout_percentage": "0"
+  },
+  {
+    "id": "flag_4010",
+    "project_id": "1",
+    "key": "loyalty-rewards",
+    "name": "Loyalty Rewards Program",
+    "active": "true",
+    "rollout_percentage": "75"
+  },
+  {
+    "id": "flag_4011",
+    "project_id": "1",
+    "key": "online-ordering",
+    "name": "Online Ordering Pickup",
+    "active": "false",
+    "rollout_percentage": "20"
+  },
+  {
+    "id": "flag_4012",
+    "project_id": "1",
+    "key": "table-side-qr-menu",
+    "name": "Table-Side QR Menu",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4013",
+    "project_id": "1",
+    "key": "catering-quote-form",
+    "name": "Catering Quote Form",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4014",
+    "project_id": "1",
+    "key": "dark-mode-site",
+    "name": "Site Dark Mode Toggle",
+    "active": "false",
+    "rollout_percentage": "5"
+  },
+  {
+    "id": "flag_4015",
+    "project_id": "1",
+    "key": "wine-pairing-suggestions",
+    "name": "Wine Pairing Suggestions",
+    "active": "false",
+    "rollout_percentage": "30"
+  },
+  {
+    "id": "flag_4016",
+    "project_id": "1",
+    "key": "guest-feedback-survey",
+    "name": "Post-Visit Feedback Survey",
+    "active": "true",
+    "rollout_percentage": "60"
+  },
+  {
+    "id": "flag_4017",
+    "project_id": "1",
+    "key": "seasonal-specials-section",
+    "name": "Seasonal Specials Section",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4018",
+    "project_id": "1",
+    "key": "instagram-feed-embed",
+    "name": "Instagram Feed Embed",
+    "active": "true",
+    "rollout_percentage": "100"
+  },
+  {
+    "id": "flag_4019",
+    "project_id": "1",
+    "key": "party-size-cap",
+    "name": "Reservation Party Size Cap",
+    "active": "false",
+    "rollout_percentage": "0"
+  },
+  {
+    "id": "flag_4020",
+    "project_id": "1",
+    "key": "abandoned-reservation-email",
+    "name": "Abandoned Reservation Email",
+    "active": "true",
+    "rollout_percentage": "40"
+  }
+]

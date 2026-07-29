@@ -1,0 +1,182 @@
+[
+  {
+    "id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e415",
+    "symbol": "AAPL",
+    "name": "Apple Inc. Common Stock",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": true
+  },
+  {
+    "id": "f30d734c-2806-4d0d-b145-f9fee271c5cd",
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation Common Stock",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": true
+  },
+  {
+    "id": "b6d1aa75-5c14-4920-aef3-7eb33a01c123",
+    "symbol": "VTI",
+    "name": "Vanguard Total Stock Market ETF",
+    "exchange": "ARCA",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": false
+  },
+  {
+    "id": "69b6d1aa-5c14-4920-aef3-7eb33a01c456",
+    "symbol": "QQQ",
+    "name": "Invesco QQQ Trust ETF",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": false
+  },
+  {
+    "id": "0d1aa75b-5c14-4920-aef3-7eb33a01c789",
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc. Common Stock",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": true
+  },
+  {
+    "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc. Class A",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": true
+  },
+  {
+    "id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+    "symbol": "SPY",
+    "name": "SPDR S&P 500 ETF Trust",
+    "exchange": "ARCA",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": false
+  },
+  {
+    "id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e416",
+    "symbol": "AAPL",
+    "name": "Enrollment inquiry follow-up",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": true
+  },
+  {
+    "id": "f30d734c-2806-4d0d-b145-f9fee271c5cd_p002",
+    "symbol": "MSFT",
+    "name": "Monthly payroll processing",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": true
+  },
+  {
+    "id": "b6d1aa75-5c14-4920-aef3-7eb33a01c126",
+    "symbol": "VTI",
+    "name": "5th Anniversary Showcase planning",
+    "exchange": "ARCA",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": false
+  },
+  {
+    "id": "69b6d1aa-5c14-4920-aef3-7eb33a01c460",
+    "symbol": "QQQ",
+    "name": "Summer camp registration",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": false
+  },
+  {
+    "id": "0d1aa75b-5c14-4920-aef3-7eb33a01c794",
+    "symbol": "AMZN",
+    "name": "Substitute coverage",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": true
+  },
+  {
+    "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d_p006",
+    "symbol": "GOOGL",
+    "name": "Sheet music library update",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": true
+  },
+  {
+    "id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e_p007",
+    "symbol": "SPY",
+    "name": "Parent meeting slot",
+    "exchange": "ARCA",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": false
+  },
+  {
+    "id": "b0b6dd9d-8b9b-48a9-ba46-b9d54906e423",
+    "symbol": "AAPL",
+    "name": "Ensemble arrangement rewrite",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": true
+  },
+  {
+    "id": "f30d734c-2806-4d0d-b145-f9fee271c5cd_p009",
+    "symbol": "MSFT",
+    "name": "Recital program layout",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": true
+  },
+  {
+    "id": "b6d1aa75-5c14-4920-aef3-7eb33a01c133",
+    "symbol": "VTI",
+    "name": "Quartet setlist review",
+    "exchange": "ARCA",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": false
+  },
+  {
+    "id": "69b6d1aa-5c14-4920-aef3-7eb33a01c467",
+    "symbol": "QQQ",
+    "name": "Rehearsal recording listen-back",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": false
+  },
+  {
+    "id": "0d1aa75b-5c14-4920-aef3-7eb33a01c801",
+    "symbol": "AMZN",
+    "name": "Second album pre-production notes",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": true
+  },
+  {
+    "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d_p013",
+    "symbol": "GOOGL",
+    "name": "Venue confirmation thread",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": true,
+    "fractionable": true
+  }
+]

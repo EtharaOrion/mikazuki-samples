@@ -1,0 +1,202 @@
+[
+  {
+    "id": "pr0001aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "*.gawcenter.com/static/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-04-01T10:00:00.000Z"
+  },
+  {
+    "id": "pr0002bbbb",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "gawcenter.com/admin/*",
+    "setting": "security_level",
+    "value": "high",
+    "status": "active",
+    "priority": 2,
+    "created_on": "2024-04-02T10:00:00.000Z"
+  },
+  {
+    "id": "pr0003cccc",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh",
+    "target": "orbit-cdn.net/*",
+    "setting": "ssl",
+    "value": "full",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-04-10T10:00:00.000Z"
+  },
+  {
+    "id": "pr0001aaaa-0003",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0003",
+    "target": "*.gawcenter.com/static/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-04-04T10:00:00Z"
+  },
+  {
+    "id": "pr0002bbbb-0004",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0004",
+    "target": "gawcenter.com/admin/*",
+    "setting": "security_level",
+    "value": "high",
+    "status": "active",
+    "priority": 2,
+    "created_on": "2024-04-06T10:00:00Z"
+  },
+  {
+    "id": "pr0003cccc-0005",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh-0005",
+    "target": "orbit-cdn.net/*",
+    "setting": "ssl",
+    "value": "full",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-04-15T10:00:00Z"
+  },
+  {
+    "id": "pr0001aaaa-0006",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0006",
+    "target": "*.gawcenter.com/static/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-04-07T10:00:00Z"
+  },
+  {
+    "id": "pr0002bbbb-0007",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0007",
+    "target": "gawcenter.com/admin/*",
+    "setting": "security_level",
+    "value": "high",
+    "status": "active",
+    "priority": 2,
+    "created_on": "2024-04-09T10:00:00Z"
+  },
+  {
+    "id": "pr0003cccc-0008",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh-0008",
+    "target": "orbit-cdn.net/*",
+    "setting": "ssl",
+    "value": "full",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-04-18T10:00:00Z"
+  },
+  {
+    "id": "pr0001aaaa-0009",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0009",
+    "target": "*.gawcenter.com/static/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-04-10T10:00:00Z"
+  },
+  {
+    "id": "pr0002bbbb-0010",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0010",
+    "target": "gawcenter.com/admin/*",
+    "setting": "security_level",
+    "value": "high",
+    "status": "active",
+    "priority": 2,
+    "created_on": "2024-04-12T10:00:00Z"
+  },
+  {
+    "id": "pr0003cccc-0011",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh-0011",
+    "target": "orbit-cdn.net/*",
+    "setting": "ssl",
+    "value": "full",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-04-21T10:00:00Z"
+  },
+  {
+    "id": "pr0001aaaa-0012",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0012",
+    "target": "*.gawcenter.com/static/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-04-13T10:00:00Z"
+  },
+  {
+    "id": "pr0002bbbb-0013",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0013",
+    "target": "gawcenter.com/admin/*",
+    "setting": "security_level",
+    "value": "high",
+    "status": "active",
+    "priority": 2,
+    "created_on": "2024-04-15T10:00:00Z"
+  },
+  {
+    "id": "pr0003cccc-0014",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh-0014",
+    "target": "orbit-cdn.net/*",
+    "setting": "ssl",
+    "value": "full",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-04-24T10:00:00Z"
+  },
+  {
+    "id": "pr0001aaaa-0015",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0015",
+    "target": "*.gawcenter.com/static/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-04-16T10:00:00Z"
+  },
+  {
+    "id": "pr0002bbbb-0016",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0016",
+    "target": "gawcenter.com/admin/*",
+    "setting": "security_level",
+    "value": "high",
+    "status": "active",
+    "priority": 2,
+    "created_on": "2024-04-18T10:00:00Z"
+  },
+  {
+    "id": "pr0003cccc-0017",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh-0017",
+    "target": "orbit-cdn.net/*",
+    "setting": "ssl",
+    "value": "full",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-04-27T10:00:00Z"
+  },
+  {
+    "id": "pr0001aaaa-0018",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0018",
+    "target": "*.gawcenter.com/static/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-04-19T10:00:00Z"
+  },
+  {
+    "id": "pr0002bbbb-0019",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0019",
+    "target": "gawcenter.com/admin/*",
+    "setting": "security_level",
+    "value": "high",
+    "status": "active",
+    "priority": 2,
+    "created_on": "2024-04-21T10:00:00Z"
+  }
+]

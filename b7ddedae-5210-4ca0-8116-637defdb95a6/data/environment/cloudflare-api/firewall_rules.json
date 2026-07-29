@@ -1,0 +1,202 @@
+[
+  {
+    "action": "block",
+    "created_on": "2024-02-01T09:00:00.000000Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "f899139df5e1059396431415e770c6dd",
+    "paused": "false",
+    "priority": "1",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2024-02-01T09:00:00.000000Z",
+    "description": "Challenge high-risk countries",
+    "expression": "(ip.geoip.country in {\"KP\"})",
+    "id": "38b3eff8baf56627478ec76a704e9b52",
+    "paused": "false",
+    "priority": "2",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "allow",
+    "created_on": "2024-02-01T09:00:00.000000Z",
+    "description": "Allow known partners",
+    "expression": "(ip.src in {198.51.100.0/24})",
+    "id": "ec8956637a99787bd197eacd77acce5e",
+    "paused": "false",
+    "priority": "3",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "block",
+    "created_on": "2025-08-09T09:00:00.000000Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "f899139df5e1059396431415e770c6dd-2",
+    "paused": "false",
+    "priority": "4",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2026-01-11T09:00:00.000000Z",
+    "description": "Challenge high-risk countries",
+    "expression": "(ip.geoip.country in {\"KP\"})",
+    "id": "f899139df5e1059396431415e770c6dd-3",
+    "paused": "false",
+    "priority": "5",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "allow",
+    "created_on": "2026-12-14T09:00:00.000000Z",
+    "description": "Allow known partners",
+    "expression": "(ip.src in {198.51.100.0/24})",
+    "id": "f899139df5e1059396431415e770c6dd-4",
+    "paused": "false",
+    "priority": "6",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "block",
+    "created_on": "2024-11-15T09:00:00.000000Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "f899139df5e1059396431415e770c6dd-5",
+    "paused": "false",
+    "priority": "7",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2025-10-18T09:00:00.000000Z",
+    "description": "Challenge high-risk countries",
+    "expression": "(ip.geoip.country in {\"KP\"})",
+    "id": "f899139df5e1059396431415e770c6dd-6",
+    "paused": "false",
+    "priority": "8",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "allow",
+    "created_on": "2026-03-22T09:00:00.000000Z",
+    "description": "Allow known partners",
+    "expression": "(ip.src in {198.51.100.0/24})",
+    "id": "f899139df5e1059396431415e770c6dd-7",
+    "paused": "false",
+    "priority": "9",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "block",
+    "created_on": "2024-02-22T09:00:00.000000Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "f899139df5e1059396431415e770c6dd-8",
+    "paused": "false",
+    "priority": "10",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2025-01-24T09:00:00.000000Z",
+    "description": "Challenge high-risk countries",
+    "expression": "(ip.geoip.country in {\"KP\"})",
+    "id": "f899139df5e1059396431415e770c6dd-9",
+    "paused": "false",
+    "priority": "11",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "allow",
+    "created_on": "2025-12-27T09:00:00.000000Z",
+    "description": "Allow known partners",
+    "expression": "(ip.src in {198.51.100.0/24})",
+    "id": "f899139df5e1059396431415e770c6dd-10",
+    "paused": "false",
+    "priority": "12",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "block",
+    "created_on": "2026-11-30T09:00:00.000000Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "f899139df5e1059396431415e770c6dd-11",
+    "paused": "false",
+    "priority": "13",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2024-05-02T09:00:00.000000Z",
+    "description": "Challenge high-risk countries",
+    "expression": "(ip.geoip.country in {\"KP\"})",
+    "id": "f899139df5e1059396431415e770c6dd-12",
+    "paused": "false",
+    "priority": "14",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "allow",
+    "created_on": "2025-04-04T09:00:00.000000Z",
+    "description": "Allow known partners",
+    "expression": "(ip.src in {198.51.100.0/24})",
+    "id": "f899139df5e1059396431415e770c6dd-13",
+    "paused": "false",
+    "priority": "15",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "block",
+    "created_on": "2026-03-07T09:00:00.000000Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "f899139df5e1059396431415e770c6dd-14",
+    "paused": "false",
+    "priority": "16",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2026-02-09T09:00:00.000000Z",
+    "description": "Challenge high-risk countries",
+    "expression": "(ip.geoip.country in {\"KP\"})",
+    "id": "f899139df5e1059396431415e770c6dd-15",
+    "paused": "false",
+    "priority": "17",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "allow",
+    "created_on": "2024-07-11T09:00:00.000000Z",
+    "description": "Allow known partners",
+    "expression": "(ip.src in {198.51.100.0/24})",
+    "id": "f899139df5e1059396431415e770c6dd-16",
+    "paused": "false",
+    "priority": "18",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "block",
+    "created_on": "2025-06-13T09:00:00.000000Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "f899139df5e1059396431415e770c6dd-17",
+    "paused": "false",
+    "priority": "19",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2026-11-15T09:00:00.000000Z",
+    "description": "Challenge high-risk countries",
+    "expression": "(ip.geoip.country in {\"KP\"})",
+    "id": "f899139df5e1059396431415e770c6dd-18",
+    "paused": "false",
+    "priority": "20",
+    "zone_id": "cfcd208495d565ef66e7dff9f98764da"
+  }
+]

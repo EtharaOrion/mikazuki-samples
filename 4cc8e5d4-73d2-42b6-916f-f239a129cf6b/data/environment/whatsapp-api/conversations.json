@@ -1,0 +1,50 @@
+[
+  {
+    "conversation_id": "conv-001",
+    "wa_id": "15551550101",
+    "started_at": "2026-07-01T12:33:32+00:00",
+    "last_message_at": "2026-11-09T08:06:00+00:00",
+    "origin": "user_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-002",
+    "wa_id": "18605550134",
+    "started_at": "2026-07-03T05:16:16+00:00",
+    "last_message_at": "2026-11-10T13:13:00+00:00",
+    "origin": "business_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-003",
+    "wa_id": "18605550156",
+    "started_at": "2026-07-02T01:45:47+00:00",
+    "last_message_at": "2026-11-11T18:20:00+00:00",
+    "origin": "user_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-004",
+    "wa_id": "18605550157",
+    "started_at": "2026-07-03T17:35:27+00:00",
+    "last_message_at": "2026-11-09T10:27:00+00:00",
+    "origin": "business_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-005",
+    "wa_id": "18605550189",
+    "started_at": "2026-07-04T20:04:41+00:00",
+    "last_message_at": "2026-11-07T11:52:00+00:00",
+    "origin": "user_initiated",
+    "within_24h_window": "true"
+  },
+  {
+    "conversation_id": "conv-006",
+    "wa_id": "18605550201",
+    "started_at": "2026-07-01T20:27:27+00:00",
+    "last_message_at": "2026-11-08T16:59:00+00:00",
+    "origin": "business_initiated",
+    "within_24h_window": "true"
+  }
+]

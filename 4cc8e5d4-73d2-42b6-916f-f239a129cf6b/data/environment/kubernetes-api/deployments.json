@@ -1,0 +1,112 @@
+[
+  {
+    "name": "web",
+    "namespace": "default",
+    "image": "registry.bridgeport-avenue-elementary-hartford-public-schools.local/web:1.0.0",
+    "strategy": "RollingUpdate",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "created_time": "2025-09-15T10:00:00Z"
+  },
+  {
+    "name": "api",
+    "namespace": "default",
+    "image": "registry.bridgeport-avenue-elementary-hartford-public-schools.local/api:1.0.1",
+    "strategy": "RollingUpdate",
+    "replicas": "3",
+    "available_replicas": "3",
+    "ready_replicas": "3",
+    "updated_replicas": "3",
+    "created_time": "2025-09-15T10:00:00Z"
+  },
+  {
+    "name": "worker",
+    "namespace": "platform",
+    "image": "registry.bridgeport-avenue-elementary-hartford-public-schools.local/worker:1.0.2",
+    "strategy": "RollingUpdate",
+    "replicas": "2",
+    "available_replicas": "2",
+    "ready_replicas": "2",
+    "updated_replicas": "2",
+    "created_time": "2025-09-15T10:00:00Z"
+  },
+  {
+    "name": "scheduler",
+    "namespace": "platform",
+    "image": "registry.bridgeport-avenue-elementary-hartford-public-schools.local/scheduler:1.0.3",
+    "strategy": "RollingUpdate",
+    "replicas": "2",
+    "available_replicas": "2",
+    "ready_replicas": "2",
+    "updated_replicas": "2",
+    "created_time": "2025-09-15T10:00:00Z"
+  },
+  {
+    "name": "billing",
+    "namespace": "platform",
+    "image": "registry.bridgeport-avenue-elementary-hartford-public-schools.local/billing:1.0.4",
+    "strategy": "RollingUpdate",
+    "replicas": "2",
+    "available_replicas": "2",
+    "ready_replicas": "2",
+    "updated_replicas": "2",
+    "created_time": "2025-09-15T10:00:00Z"
+  },
+  {
+    "name": "search",
+    "namespace": "platform",
+    "image": "registry.bridgeport-avenue-elementary-hartford-public-schools.local/search:1.0.5",
+    "strategy": "RollingUpdate",
+    "replicas": "2",
+    "available_replicas": "2",
+    "ready_replicas": "2",
+    "updated_replicas": "2",
+    "created_time": "2025-09-15T10:00:00Z"
+  },
+  {
+    "name": "notifications",
+    "namespace": "platform",
+    "image": "registry.bridgeport-avenue-elementary-hartford-public-schools.local/notifications:1.0.6",
+    "strategy": "RollingUpdate",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "created_time": "2025-09-15T10:00:00Z"
+  },
+  {
+    "name": "analytics",
+    "namespace": "platform",
+    "image": "registry.bridgeport-avenue-elementary-hartford-public-schools.local/analytics:1.0.7",
+    "strategy": "RollingUpdate",
+    "replicas": "2",
+    "available_replicas": "2",
+    "ready_replicas": "2",
+    "updated_replicas": "2",
+    "created_time": "2025-09-15T10:00:00Z"
+  },
+  {
+    "name": "auth",
+    "namespace": "platform",
+    "image": "registry.bridgeport-avenue-elementary-hartford-public-schools.local/auth:1.0.8",
+    "strategy": "RollingUpdate",
+    "replicas": "1",
+    "available_replicas": "1",
+    "ready_replicas": "1",
+    "updated_replicas": "1",
+    "created_time": "2025-09-15T10:00:00Z"
+  },
+  {
+    "name": "ingestor",
+    "namespace": "platform",
+    "image": "registry.bridgeport-avenue-elementary-hartford-public-schools.local/ingestor:1.0.9",
+    "strategy": "RollingUpdate",
+    "replicas": "3",
+    "available_replicas": "3",
+    "ready_replicas": "3",
+    "updated_replicas": "3",
+    "created_time": "2025-09-15T10:00:00Z"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "C01WORSHIP",
+    "name": "worship-team",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "Sunday service orders + song keys + anthem swaps",
+    "purpose": "Weekly worship planning: Amanda, Dr. Wells, Minister Brooks, Pastor Hayes",
+    "creator": "U01AMANDA",
+    "created": 1780536600,
+    "num_members": 6
+  },
+  {
+    "id": "C02CHOIR",
+    "name": "choir-45",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "Full choir announcements - rehearsal reminders, sectional notes",
+    "purpose": "45-voice choir coordination",
+    "creator": "U01AMANDA",
+    "created": 1770512160,
+    "num_members": 47
+  },
+  {
+    "id": "C03ALBUM",
+    "name": "album-cascade-grace",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "Album production coordination - tracks 1-10 through mastering",
+    "purpose": "Amanda + DJ + section leaders + Sarah",
+    "creator": "U01AMANDA",
+    "created": 1771255020,
+    "num_members": 8
+  },
+  {
+    "id": "C04CONV",
+    "name": "convention-dallas-2026",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "NGMA Dallas Aug 4-9 planning - logistics, fundraising, showcase",
+    "purpose": "Amanda + Deacon Harris + convention subcommittee",
+    "creator": "U01AMANDA",
+    "created": 1777211580,
+    "num_members": 12
+  },
+  {
+    "id": "C05YOUTH",
+    "name": "youth-music-program",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "22-student youth music program coordination",
+    "purpose": "Angela + Amanda + youth choir helpers",
+    "creator": "U03BROOKS",
+    "created": 1768270200,
+    "num_members": 9
+  },
+  {
+    "id": "C06WEB",
+    "name": "website-team",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "Ministry website + album landing + fundraiser microsite",
+    "purpose": "Amanda + Aaron (dev) + Sarah (design)",
+    "creator": "U10AARON",
+    "created": 1776004740,
+    "num_members": 4
+  },
+  {
+    "id": "C07DEACONS",
+    "name": "deacon-board",
+    "is_private": true,
+    "is_archived": false,
+    "topic": "Deacon board coordination - private",
+    "purpose": "Pastor Sam + Deacon Harris + elders",
+    "creator": "U02SAMUEL",
+    "created": 1786143600,
+    "num_members": 7
+  },
+  {
+    "id": "C08GENERAL",
+    "name": "general",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "GAW Center Music Ministry general channel",
+    "purpose": "Cross-team announcements",
+    "creator": "U01AMANDA",
+    "created": 1768545000,
+    "num_members": 22
+  },
+  {
+    "id": "C09SUNDAY",
+    "name": "sunday-prep",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "Weekly Sunday-service prep thread",
+    "purpose": "Setlists, riser layouts, mic assignments",
+    "creator": "U01AMANDA",
+    "created": 1769861520,
+    "num_members": 10
+  },
+  {
+    "id": "C10AV",
+    "name": "av-sanctuary",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "Sanctuary AV: mics, monitors, livestream, mixing board",
+    "purpose": "Aaron + AV lead + Amanda escalation",
+    "creator": "U10AARON",
+    "created": 1785459360,
+    "num_members": 5
+  },
+  {
+    "id": "C20RANDOM",
+    "name": "announcements",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "Church-wide announcements",
+    "purpose": "Cross-ministry",
+    "creator": "U01AMANDA",
+    "created": 1771452660,
+    "num_members": 6
+  },
+  {
+    "id": "C21RANDOM",
+    "name": "prayer-requests",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "Congregational prayer wall",
+    "purpose": "Cross-ministry",
+    "creator": "U01AMANDA",
+    "created": 1786120380,
+    "num_members": 7
+  },
+  {
+    "id": "C22RANDOM",
+    "name": "vendor-coordination",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "External vendor coordination",
+    "purpose": "Cross-ministry",
+    "creator": "U01AMANDA",
+    "created": 1771745460,
+    "num_members": 8
+  },
+  {
+    "id": "C23RANDOM",
+    "name": "sunday-dinner",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "Sunday dinner rotation coordination",
+    "purpose": "Cross-ministry",
+    "creator": "U01AMANDA",
+    "created": 1771741680,
+    "num_members": 9
+  },
+  {
+    "id": "C24RANDOM",
+    "name": "lunar-new-year-prep",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "Lunar New Year 2027 planning",
+    "purpose": "Cross-ministry",
+    "creator": "U01AMANDA",
+    "created": 1778726400,
+    "num_members": 10
+  },
+  {
+    "id": "C25RANDOM",
+    "name": "mid-autumn-prep",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "Mid-Autumn Festival 2026 planning",
+    "purpose": "Cross-ministry",
+    "creator": "U01AMANDA",
+    "created": 1775532840,
+    "num_members": 11
+  },
+  {
+    "id": "C26RANDOM",
+    "name": "easter-pageant-prep",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "Easter Pageant 2027 rehearsals",
+    "purpose": "Cross-ministry",
+    "creator": "U01AMANDA",
+    "created": 1784008560,
+    "num_members": 12
+  },
+  {
+    "id": "C27RANDOM",
+    "name": "christmas-pageant-prep",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "Christmas Pageant Dec 20 rehearsals",
+    "purpose": "Cross-ministry",
+    "creator": "U01AMANDA",
+    "created": 1783413960,
+    "num_members": 13
+  },
+  {
+    "id": "C28RANDOM",
+    "name": "outreach",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "Community outreach",
+    "purpose": "Cross-ministry",
+    "creator": "U01AMANDA",
+    "created": 1780861200,
+    "num_members": 14
+  },
+  {
+    "id": "C29RANDOM",
+    "name": "media-ministry",
+    "is_private": false,
+    "is_archived": false,
+    "topic": "Media ministry: livestream, socials, blog",
+    "purpose": "Cross-ministry",
+    "creator": "U01AMANDA",
+    "created": 1785869100,
+    "num_members": 15
+  }
+]

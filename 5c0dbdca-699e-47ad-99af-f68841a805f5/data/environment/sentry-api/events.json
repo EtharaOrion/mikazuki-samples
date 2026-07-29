@@ -1,0 +1,222 @@
+[
+  {
+    "id": 70001,
+    "issue_id": 40001,
+    "event_id": "a1b2c3d4e5f64718a1b2c3d4e5f64718",
+    "message": "MailgunAuthError: 401 Unauthorized \u2014 API key rejected",
+    "platform": "node",
+    "environment": "production",
+    "release": "booking-api@1.2.1",
+    "user_email": "jessica.webb@finthesiss.ai",
+    "date_created": "2026-03-22T13:58:00.000Z"
+  },
+  {
+    "id": 70002,
+    "issue_id": 40001,
+    "event_id": "b2c3d4e5f6471801b2c3d4e5f6471801",
+    "message": "Ray suggested tightening the bridge on the fifth chart before the Spotlight Room date.",
+    "platform": "node",
+    "environment": "production",
+    "release": "booking-api@1.2.1",
+    "user_email": "jessica.webb@finthesiss.ai",
+    "date_created": "2026-03-21T09:14:00.000Z"
+  },
+  {
+    "id": 70003,
+    "issue_id": 40002,
+    "event_id": "c3d4e5f64718012ac3d4e5f64718012a",
+    "message": "FunctionTimeout \u2014 booking confirmation handler exceeded 10s",
+    "platform": "node",
+    "environment": "production",
+    "release": "booking-api@1.2.1",
+    "user_email": "jessica.webb@finthesiss.ai",
+    "date_created": "2026-03-20T09:30:00.000Z"
+  },
+  {
+    "id": 70004,
+    "issue_id": 40003,
+    "event_id": "d4e5f64718012a3bd4e5f64718012a3b",
+    "message": "EnvVarMissing: MAILGUN_API_KEY not set \u2014 check production environment config",
+    "platform": "node",
+    "environment": "production",
+    "release": "booking-api@1.2.1",
+    "user_email": "jessica.webb@finthesiss.ai",
+    "date_created": "2026-02-20T14:12:00.000Z"
+  },
+  {
+    "id": 70005,
+    "issue_id": 40010,
+    "event_id": "e5f64718012a3b4ce5f64718012a3b4c",
+    "message": "TypeError: Cannot read property 'submit' of null",
+    "platform": "javascript",
+    "environment": "production",
+    "release": "crossroads-web@2.4.0",
+    "user_email": "amy.delgado@gmail.com",
+    "date_created": "2026-03-22T14:07:55.000Z"
+  },
+  {
+    "id": 70002,
+    "issue_id": 40001,
+    "event_id": "a1b2c3d4e5f64718a1b2c3d4e5f64719",
+    "message": "Tomoko rescheduled the Tuesday rehearsal to 7:15.",
+    "platform": "node",
+    "environment": "production",
+    "release": "booking-api@1.2.1",
+    "user_email": "jessica.webb@finthesiss.ai",
+    "date_created": "2026-03-22T13:58:00.000Z"
+  },
+  {
+    "id": 70004,
+    "issue_id": 40001,
+    "event_id": "b2c3d4e5f6471801b2c3d4e5f6471803",
+    "message": "Payroll ran clean this month \u2014 expenses within budget.",
+    "platform": "node",
+    "environment": "production",
+    "release": "booking-api@1.2.1",
+    "user_email": "jessica.webb@finthesiss.ai",
+    "date_created": "2026-03-21T09:14:00.000Z"
+  },
+  {
+    "id": 70006,
+    "issue_id": 40002,
+    "event_id": "c3d4e5f64718012ac3d4e5f64718012a_p003",
+    "message": "The Phoenix booking pushed to the following Saturday; confirmed with the band.",
+    "platform": "node",
+    "environment": "production",
+    "release": "booking-api@1.2.1",
+    "user_email": "jessica.webb@finthesiss.ai",
+    "date_created": "2026-03-20T09:30:00.000Z"
+  },
+  {
+    "id": 70008,
+    "issue_id": 40003,
+    "event_id": "d4e5f64718012a3bd4e5f64718012a3b_p004",
+    "message": "Enrollment inquiry from a parent for beginner alto \u2014 offer trial slot.",
+    "platform": "node",
+    "environment": "production",
+    "release": "booking-api@1.2.1",
+    "user_email": "jessica.webb@finthesiss.ai",
+    "date_created": "2026-02-20T14:12:00.000Z"
+  },
+  {
+    "id": 70010,
+    "issue_id": 40010,
+    "event_id": "e5f64718012a3b4ce5f64718012a3b4c_p005",
+    "message": "Dante's drum kit needs new heads before the recital.",
+    "platform": "javascript",
+    "environment": "production",
+    "release": "crossroads-web@2.4.0",
+    "user_email": "amy.delgado@gmail.com",
+    "date_created": "2026-03-22T14:07:55.000Z"
+  },
+  {
+    "id": 70007,
+    "issue_id": 40001,
+    "event_id": "a1b2c3d4e5f64718a1b2c3d4e5f64724",
+    "message": "Recorded a rough take of the ballad \u2014 needs another pass on the head-out.",
+    "platform": "node",
+    "environment": "production",
+    "release": "booking-api@1.2.1",
+    "user_email": "jessica.webb@finthesiss.ai",
+    "date_created": "2026-03-22T13:58:00.000Z"
+  },
+  {
+    "id": 70009,
+    "issue_id": 40001,
+    "event_id": "b2c3d4e5f6471801b2c3d4e5f6471808",
+    "message": "Reviewed the summer camp roster \u2014 18 confirmed, 2 waitlist.",
+    "platform": "node",
+    "environment": "production",
+    "release": "booking-api@1.2.1",
+    "user_email": "jessica.webb@finthesiss.ai",
+    "date_created": "2026-03-21T09:14:00.000Z"
+  },
+  {
+    "id": 70011,
+    "issue_id": 40002,
+    "event_id": "c3d4e5f64718012ac3d4e5f64718012a_p008",
+    "message": "Second album pre-production: 6 tunes committed, 4 still under discussion.",
+    "platform": "node",
+    "environment": "production",
+    "release": "booking-api@1.2.1",
+    "user_email": "jessica.webb@finthesiss.ai",
+    "date_created": "2026-03-20T09:30:00.000Z"
+  },
+  {
+    "id": 70013,
+    "issue_id": 40003,
+    "event_id": "d4e5f64718012a3bd4e5f64718012a3b_p009",
+    "message": "5th Anniversary Showcase run-of-show draft complete.",
+    "platform": "node",
+    "environment": "production",
+    "release": "booking-api@1.2.1",
+    "user_email": "jessica.webb@finthesiss.ai",
+    "date_created": "2026-02-20T14:12:00.000Z"
+  },
+  {
+    "id": 70015,
+    "issue_id": 40010,
+    "event_id": "e5f64718012a3b4ce5f64718012a3b4c_p010",
+    "message": "Confirmed the lesson slot with the parent \u2014 Tuesday 4pm.",
+    "platform": "javascript",
+    "environment": "production",
+    "release": "crossroads-web@2.4.0",
+    "user_email": "amy.delgado@gmail.com",
+    "date_created": "2026-03-22T14:07:55.000Z"
+  },
+  {
+    "id": 70012,
+    "issue_id": 40001,
+    "event_id": "a1b2c3d4e5f64718a1b2c3d4e5f64729",
+    "message": "Ray suggested tightening the bridge on the fifth chart before the Spotlight Room date.",
+    "platform": "node",
+    "environment": "production",
+    "release": "booking-api@1.2.1",
+    "user_email": "jessica.webb@finthesiss.ai",
+    "date_created": "2026-03-22T13:58:00.000Z"
+  },
+  {
+    "id": 70014,
+    "issue_id": 40001,
+    "event_id": "b2c3d4e5f6471801b2c3d4e5f6471813",
+    "message": "Claire flagged that we need a substitute for Thursday's ensemble.",
+    "platform": "node",
+    "environment": "production",
+    "release": "booking-api@1.2.1",
+    "user_email": "jessica.webb@finthesiss.ai",
+    "date_created": "2026-03-21T09:14:00.000Z"
+  },
+  {
+    "id": 70016,
+    "issue_id": 40002,
+    "event_id": "c3d4e5f64718012ac3d4e5f64718012a_p013",
+    "message": "Sofia asked about the winter choir concert \u2014 logistics locked in.",
+    "platform": "node",
+    "environment": "production",
+    "release": "booking-api@1.2.1",
+    "user_email": "jessica.webb@finthesiss.ai",
+    "date_created": "2026-03-20T09:30:00.000Z"
+  },
+  {
+    "id": 70018,
+    "issue_id": 40003,
+    "event_id": "d4e5f64718012a3bd4e5f64718012a3b_p014",
+    "message": "Frank sent notes on the Coltrane transcription \u2014 apply on Sunday.",
+    "platform": "node",
+    "environment": "production",
+    "release": "booking-api@1.2.1",
+    "user_email": "jessica.webb@finthesiss.ai",
+    "date_created": "2026-02-20T14:12:00.000Z"
+  },
+  {
+    "id": 70020,
+    "issue_id": 40010,
+    "event_id": "e5f64718012a3b4ce5f64718012a3b4c_p015",
+    "message": "Tomoko rescheduled the Tuesday rehearsal to 7:15.",
+    "platform": "javascript",
+    "environment": "production",
+    "release": "crossroads-web@2.4.0",
+    "user_email": "amy.delgado@gmail.com",
+    "date_created": "2026-03-22T14:07:55.000Z"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "dst_ga4001",
+    "name": "Google Analytics 4",
+    "slug": "google-analytics-4",
+    "enabled": true,
+    "source_id": "src_web01",
+    "created_at": "2026-03-16T14:06:00Z"
+  },
+  {
+    "id": "dst_ampl01",
+    "name": "Amplitude",
+    "slug": "amplitude",
+    "enabled": true,
+    "source_id": "src_web01",
+    "created_at": "2026-03-13T03:05:00Z"
+  },
+  {
+    "id": "dst_bq001",
+    "name": "BigQuery Warehouse",
+    "slug": "bigquery",
+    "enabled": true,
+    "source_id": "src_srv01",
+    "created_at": "2026-03-11T21:43:00Z"
+  },
+  {
+    "id": "dst_slk001",
+    "name": "Slack Alerts",
+    "slug": "slack",
+    "enabled": true,
+    "source_id": "src_srv01",
+    "created_at": "2026-02-03T05:07:00Z"
+  },
+  {
+    "id": "dst_mkt001",
+    "name": "Mixpanel",
+    "slug": "mixpanel",
+    "enabled": false,
+    "source_id": "src_ios01",
+    "created_at": "2026-05-18T07:07:00Z"
+  },
+  {
+    "id": "dst_fb001",
+    "name": "Facebook Conversions",
+    "slug": "facebook-conversions",
+    "enabled": true,
+    "source_id": "src_web01",
+    "created_at": "2026-01-17T11:05:00Z"
+  },
+  {
+    "id": "dst_ga4001-0006",
+    "name": "Google Analytics 4",
+    "slug": "google-analytics-4",
+    "enabled": true,
+    "source_id": "src_web01-0006",
+    "created_at": "2026-05-05T08:29:00Z"
+  },
+  {
+    "id": "dst_ampl01-0007",
+    "name": "Amplitude",
+    "slug": "amplitude",
+    "enabled": true,
+    "source_id": "src_web01-0007",
+    "created_at": "2026-04-12T20:39:00Z"
+  },
+  {
+    "id": "dst_bq001-0008",
+    "name": "BigQuery Warehouse",
+    "slug": "bigquery",
+    "enabled": true,
+    "source_id": "src_srv01-0008",
+    "created_at": "2026-05-14T05:22:00Z"
+  },
+  {
+    "id": "dst_slk001-0009",
+    "name": "Slack Alerts",
+    "slug": "slack",
+    "enabled": true,
+    "source_id": "src_srv01-0009",
+    "created_at": "2026-02-29T06:35:00Z"
+  },
+  {
+    "id": "dst_mkt001-0010",
+    "name": "Mixpanel",
+    "slug": "mixpanel",
+    "enabled": false,
+    "source_id": "src_ios01-0010",
+    "created_at": "2026-02-20T15:53:00Z"
+  },
+  {
+    "id": "dst_fb001-0011",
+    "name": "Facebook Conversions",
+    "slug": "facebook-conversions",
+    "enabled": true,
+    "source_id": "src_web01-0011",
+    "created_at": "2026-05-20T14:03:00Z"
+  },
+  {
+    "id": "dst_ga4001-0012",
+    "name": "Google Analytics 4",
+    "slug": "google-analytics-4",
+    "enabled": true,
+    "source_id": "src_web01-0012",
+    "created_at": "2026-03-31T07:55:00Z"
+  },
+  {
+    "id": "dst_ampl01-0013",
+    "name": "Amplitude",
+    "slug": "amplitude",
+    "enabled": true,
+    "source_id": "src_web01-0013",
+    "created_at": "2026-01-17T07:00:00Z"
+  },
+  {
+    "id": "dst_bq001-0014",
+    "name": "BigQuery Warehouse",
+    "slug": "bigquery",
+    "enabled": true,
+    "source_id": "src_srv01-0014",
+    "created_at": "2026-01-08T11:08:00Z"
+  },
+  {
+    "id": "dst_slk001-0015",
+    "name": "Slack Alerts",
+    "slug": "slack",
+    "enabled": true,
+    "source_id": "src_srv01-0015",
+    "created_at": "2026-03-27T07:58:00Z"
+  },
+  {
+    "id": "dst_mkt001-0016",
+    "name": "Mixpanel",
+    "slug": "mixpanel",
+    "enabled": false,
+    "source_id": "src_ios01-0016",
+    "created_at": "2026-01-21T11:22:00Z"
+  },
+  {
+    "id": "dst_fb001-0017",
+    "name": "Facebook Conversions",
+    "slug": "facebook-conversions",
+    "enabled": true,
+    "source_id": "src_web01-0017",
+    "created_at": "2026-03-02T18:14:00Z"
+  },
+  {
+    "id": "dst_ga4001-0018",
+    "name": "Google Analytics 4",
+    "slug": "google-analytics-4",
+    "enabled": true,
+    "source_id": "src_web01-0018",
+    "created_at": "2026-01-27T01:33:00Z"
+  },
+  {
+    "id": "dst_ampl01-0019",
+    "name": "Amplitude",
+    "slug": "amplitude",
+    "enabled": true,
+    "source_id": "src_web01-0019",
+    "created_at": "2026-04-06T10:47:00Z"
+  }
+]

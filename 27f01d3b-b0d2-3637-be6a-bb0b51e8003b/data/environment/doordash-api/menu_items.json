@@ -1,0 +1,222 @@
+[
+  {
+    "item_id": "item-gf-001",
+    "store_id": "store-gildedfork",
+    "name": "Kansas City Strip Steak",
+    "description": "Center-cut strip steak with roasted garlic butter and fingerling potatoes",
+    "category": "Steaks",
+    "price": 32.0,
+    "calories": 880,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-gf-002",
+    "store_id": "store-gildedfork",
+    "name": "Brown Butter Roast Chicken",
+    "description": "Half chicken roasted in brown butter with seasonal vegetables",
+    "category": "Entrees",
+    "price": 24.0,
+    "calories": 760,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-gf-003",
+    "store_id": "store-gildedfork",
+    "name": "Skillet Cornbread",
+    "description": "Cast-iron cornbread with honey butter",
+    "category": "Sides",
+    "price": 7.0,
+    "calories": 420,
+    "popular": false,
+    "available": true
+  },
+  {
+    "item_id": "item-hb-001",
+    "store_id": "store-habesha",
+    "name": "Doro Wat with Injera",
+    "description": "Slow-simmered chicken in berbere sauce served with injera",
+    "category": "Entrees",
+    "price": 17.5,
+    "calories": 690,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-hb-002",
+    "store_id": "store-habesha",
+    "name": "Veggie Combo Platter",
+    "description": "Lentils collard greens and spiced cabbage over injera",
+    "category": "Platters",
+    "price": 16.0,
+    "calories": 610,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-hb-003",
+    "store_id": "store-habesha",
+    "name": "Sambusa (3 pc)",
+    "description": "Crispy pastry filled with spiced lentils",
+    "category": "Starters",
+    "price": 6.5,
+    "calories": 330,
+    "popular": false,
+    "available": true
+  },
+  {
+    "item_id": "item-cb-001",
+    "store_id": "store-cornerbistro",
+    "name": "Bistro Burger",
+    "description": "Half-pound beef patty with cheddar lettuce tomato and house sauce",
+    "category": "Burgers",
+    "price": 13.5,
+    "calories": 910,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-cb-002",
+    "store_id": "store-cornerbistro",
+    "name": "Loaded Fries",
+    "description": "Crispy fries topped with cheese bacon and scallions",
+    "category": "Sides",
+    "price": 6.5,
+    "calories": 560,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-ab-001",
+    "store_id": "store-alpinebistro",
+    "name": "Cheese Fondue for Two",
+    "description": "Gruyere and Emmental fondue with bread and apples",
+    "category": "Fondue",
+    "price": 28.0,
+    "calories": 1040,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-ab-002",
+    "store_id": "store-alpinebistro",
+    "name": "Wiener Schnitzel",
+    "description": "Breaded pork cutlet with lemon and warm potato salad",
+    "category": "Entrees",
+    "price": 22.0,
+    "calories": 820,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-ab-003",
+    "store_id": "store-alpinebistro",
+    "name": "Apple Strudel",
+    "description": "Flaky strudel with cinnamon apples and vanilla cream",
+    "category": "Desserts",
+    "price": 8.5,
+    "calories": 470,
+    "popular": false,
+    "available": true
+  },
+  {
+    "item_id": "item-gf-1001",
+    "store_id": "store-gildedfork",
+    "name": "Substitute coverage",
+    "description": "Center-cut strip steak with roasted garlic butter and fingerling potatoes",
+    "category": "Steaks",
+    "price": 37.5,
+    "calories": 880,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-gf-1002",
+    "store_id": "store-gildedfork",
+    "name": "Sheet music library update",
+    "description": "Half chicken roasted in brown butter with seasonal vegetables",
+    "category": "Entrees",
+    "price": 30.0,
+    "calories": 760,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-gf-1003",
+    "store_id": "store-gildedfork",
+    "name": "Parent meeting slot",
+    "description": "Cast-iron cornbread with honey butter",
+    "category": "Sides",
+    "price": 13.5,
+    "calories": 420,
+    "popular": false,
+    "available": true
+  },
+  {
+    "item_id": "item-hb-1001",
+    "store_id": "store-habesha",
+    "name": "Ensemble arrangement rewrite",
+    "description": "Slow-simmered chicken in berbere sauce served with injera",
+    "category": "Entrees",
+    "price": 24.5,
+    "calories": 690,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-hb-1002",
+    "store_id": "store-habesha",
+    "name": "Recital program layout",
+    "description": "Lentils collard greens and spiced cabbage over injera",
+    "category": "Platters",
+    "price": 23.5,
+    "calories": 610,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-hb-1003",
+    "store_id": "store-habesha",
+    "name": "Quartet setlist review",
+    "description": "Crispy pastry filled with spiced lentils",
+    "category": "Starters",
+    "price": 14.5,
+    "calories": 330,
+    "popular": false,
+    "available": true
+  },
+  {
+    "item_id": "item-cb-1001",
+    "store_id": "store-cornerbistro",
+    "name": "Rehearsal recording listen-back",
+    "description": "Half-pound beef patty with cheddar lettuce tomato and house sauce",
+    "category": "Burgers",
+    "price": 22.0,
+    "calories": 910,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-cb-1002",
+    "store_id": "store-cornerbistro",
+    "name": "Second album pre-production notes",
+    "description": "Crispy fries topped with cheese bacon and scallions",
+    "category": "Sides",
+    "price": 15.5,
+    "calories": 560,
+    "popular": true,
+    "available": true
+  },
+  {
+    "item_id": "item-ab-1001",
+    "store_id": "store-alpinebistro",
+    "name": "Venue confirmation thread",
+    "description": "Gruyere and Emmental fondue with bread and apples",
+    "category": "Fondue",
+    "price": 37.5,
+    "calories": 1040,
+    "popular": true,
+    "available": true
+  }
+]

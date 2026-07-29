@@ -1,0 +1,222 @@
+[
+  {
+    "id": "70000000",
+    "title": "website uptime check",
+    "alert_type": "warning",
+    "date_happened": "1791181800",
+    "host": "synthetic.global-pulse-1",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "high",
+    "text": "WordPress core update applied"
+  },
+  {
+    "id": "70000001",
+    "title": "newsletter pipeline",
+    "alert_type": "info",
+    "date_happened": "1791354600",
+    "host": "synthetic.global-pulse-2",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "normal",
+    "text": "Backup completed"
+  },
+  {
+    "id": "70000002",
+    "title": "backup job",
+    "alert_type": "info",
+    "date_happened": "1791527400",
+    "host": "synthetic.global-pulse-3",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "normal",
+    "text": "SSL cert renewed"
+  },
+  {
+    "id": "70000003",
+    "title": "cert renewal",
+    "alert_type": "warning",
+    "date_happened": "1791786600",
+    "host": "synthetic.global-pulse-4",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "high",
+    "text": "Form submission spike"
+  },
+  {
+    "id": "70000004",
+    "title": "cdn cache invalidate",
+    "alert_type": "info",
+    "date_happened": "1791959400",
+    "host": "synthetic.global-pulse-5",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "normal",
+    "text": "Slow query detected"
+  },
+  {
+    "id": "70000005",
+    "title": "portal release",
+    "alert_type": "info",
+    "date_happened": "1792132200",
+    "host": "synthetic.global-pulse-6",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "normal",
+    "text": "Plugin updated"
+  },
+  {
+    "id": "70000006",
+    "title": "intake form deploy",
+    "alert_type": "warning",
+    "date_happened": "1792391400",
+    "host": "synthetic.global-pulse-7",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "high",
+    "text": "High CPU on web-1"
+  },
+  {
+    "id": "70000007",
+    "title": "mediation tools release",
+    "alert_type": "info",
+    "date_happened": "1792564200",
+    "host": "synthetic.global-pulse-8",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "normal",
+    "text": "DB connection pool warning"
+  },
+  {
+    "id": "70000008",
+    "title": "docs portal release",
+    "alert_type": "info",
+    "date_happened": "1792737000",
+    "host": "synthetic.global-pulse-9",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "normal",
+    "text": "Cache flush completed"
+  },
+  {
+    "id": "70000009",
+    "title": "secrets rotation",
+    "alert_type": "warning",
+    "date_happened": "1792996200",
+    "host": "synthetic.global-pulse-10",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "high",
+    "text": "Theme deployed"
+  },
+  {
+    "id": "70000010",
+    "title": "monitoring config update",
+    "alert_type": "info",
+    "date_happened": "1793169000",
+    "host": "synthetic.global-pulse-11",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "normal",
+    "text": "404 spike on /blog/old-url"
+  },
+  {
+    "id": "70000011",
+    "title": "logging config update",
+    "alert_type": "info",
+    "date_happened": "1793341800",
+    "host": "synthetic.global-pulse-12",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "normal",
+    "text": "Login throttling triggered"
+  },
+  {
+    "id": "70000012",
+    "title": "bridge restart",
+    "alert_type": "warning",
+    "date_happened": "1793601000",
+    "host": "synthetic.global-pulse-13",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "high",
+    "text": "Cron job completed"
+  },
+  {
+    "id": "70000013",
+    "title": "forms refresh",
+    "alert_type": "info",
+    "date_happened": "1793773800",
+    "host": "synthetic.global-pulse-14",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "normal",
+    "text": "Health check failed briefly"
+  },
+  {
+    "id": "70000014",
+    "title": "staging deploy",
+    "alert_type": "info",
+    "date_happened": "1793946600",
+    "host": "synthetic.global-pulse-15",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "normal",
+    "text": "Failover succeeded"
+  },
+  {
+    "id": "70000015",
+    "title": "sandbox refresh",
+    "alert_type": "warning",
+    "date_happened": "1794205800",
+    "host": "synthetic.global-pulse-16",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "high",
+    "text": "Disk usage 78%"
+  },
+  {
+    "id": "70000016",
+    "title": "build pipeline update",
+    "alert_type": "info",
+    "date_happened": "1794378600",
+    "host": "synthetic.global-pulse-17",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "normal",
+    "text": "API latency p95 1.2s"
+  },
+  {
+    "id": "70000017",
+    "title": "dev tools update",
+    "alert_type": "info",
+    "date_happened": "1794551400",
+    "host": "synthetic.global-pulse-18",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "normal",
+    "text": "Email queue cleared"
+  },
+  {
+    "id": "70000018",
+    "title": "analytics pipeline update",
+    "alert_type": "warning",
+    "date_happened": "1794810600",
+    "host": "synthetic.global-pulse-19",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "high",
+    "text": "Search index rebuilt"
+  },
+  {
+    "id": "70000019",
+    "title": "cdn edge config",
+    "alert_type": "info",
+    "date_happened": "1794983400",
+    "host": "synthetic.global-pulse-20",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "normal",
+    "text": "Migration finished"
+  },
+  {
+    "id": "70000020",
+    "title": "contact form deploy",
+    "alert_type": "info",
+    "date_happened": "1795156200",
+    "host": "synthetic.global-pulse-21",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "normal",
+    "text": "Page load avg 1.6s"
+  },
+  {
+    "id": "70000021",
+    "title": "contact form staging",
+    "alert_type": "warning",
+    "date_happened": "1795415400",
+    "host": "synthetic.global-pulse-22",
+    "tags": "env:prod;service:brooksfamilylaw-www;team:firm-ops",
+    "priority": "high",
+    "text": "Maintenance window opened"
+  }
+]

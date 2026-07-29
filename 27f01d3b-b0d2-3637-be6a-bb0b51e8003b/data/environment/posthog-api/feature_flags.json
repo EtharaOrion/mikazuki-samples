@@ -1,0 +1,146 @@
+[
+  {
+    "id": "flag_4001",
+    "project_id": 1,
+    "key": "trial-booking-enabled",
+    "name": "Trial Lesson Booking Enabled",
+    "active": false,
+    "rollout_percentage": 0
+  },
+  {
+    "id": "flag_4002",
+    "project_id": 1,
+    "key": "showcase-ticket-widget",
+    "name": "Showcase Ticket Sales Widget",
+    "active": false,
+    "rollout_percentage": 0
+  },
+  {
+    "id": "flag_4003",
+    "project_id": 1,
+    "key": "student-portal-login",
+    "name": "Student Portal Login",
+    "active": false,
+    "rollout_percentage": 0
+  },
+  {
+    "id": "flag_4004",
+    "project_id": 1,
+    "key": "fall-enrollment-banner",
+    "name": "Fall 2026 Lesson Enrollment Banner",
+    "active": true,
+    "rollout_percentage": 100
+  },
+  {
+    "id": "flag_4005",
+    "project_id": 1,
+    "key": "webp-image-fallback",
+    "name": "WebP Image with JPEG Fallback",
+    "active": true,
+    "rollout_percentage": 100
+  },
+  {
+    "id": "flag_4006",
+    "project_id": 1,
+    "key": "student-portal-login",
+    "name": "Enrollment inquiry follow-up",
+    "active": false,
+    "rollout_percentage": 0
+  },
+  {
+    "id": "flag_4008",
+    "project_id": 1,
+    "key": "fall-enrollment-banner",
+    "name": "Monthly payroll processing",
+    "active": true,
+    "rollout_percentage": 100
+  },
+  {
+    "id": "flag_4010",
+    "project_id": 1,
+    "key": "webp-image-fallback",
+    "name": "5th Anniversary Showcase planning",
+    "active": true,
+    "rollout_percentage": 100
+  },
+  {
+    "id": "flag_4007",
+    "project_id": 1,
+    "key": "trial-booking-enabled",
+    "name": "Summer camp registration",
+    "active": false,
+    "rollout_percentage": 0
+  },
+  {
+    "id": "flag_4009",
+    "project_id": 1,
+    "key": "showcase-ticket-widget",
+    "name": "Substitute coverage",
+    "active": false,
+    "rollout_percentage": 0
+  },
+  {
+    "id": "flag_4011",
+    "project_id": 1,
+    "key": "student-portal-login",
+    "name": "Sheet music library update",
+    "active": false,
+    "rollout_percentage": 0
+  },
+  {
+    "id": "flag_4013",
+    "project_id": 1,
+    "key": "fall-enrollment-banner",
+    "name": "Parent meeting slot",
+    "active": true,
+    "rollout_percentage": 100
+  },
+  {
+    "id": "flag_4015",
+    "project_id": 1,
+    "key": "webp-image-fallback",
+    "name": "Ensemble arrangement rewrite",
+    "active": true,
+    "rollout_percentage": 100
+  },
+  {
+    "id": "flag_4012",
+    "project_id": 1,
+    "key": "trial-booking-enabled",
+    "name": "Recital program layout",
+    "active": false,
+    "rollout_percentage": 0
+  },
+  {
+    "id": "flag_4014",
+    "project_id": 1,
+    "key": "showcase-ticket-widget",
+    "name": "Quartet setlist review",
+    "active": false,
+    "rollout_percentage": 0
+  },
+  {
+    "id": "flag_4016",
+    "project_id": 1,
+    "key": "student-portal-login",
+    "name": "Rehearsal recording listen-back",
+    "active": false,
+    "rollout_percentage": 0
+  },
+  {
+    "id": "flag_4018",
+    "project_id": 1,
+    "key": "fall-enrollment-banner",
+    "name": "Second album pre-production notes",
+    "active": true,
+    "rollout_percentage": 100
+  },
+  {
+    "id": "flag_4020",
+    "project_id": 1,
+    "key": "webp-image-fallback",
+    "name": "Venue confirmation thread",
+    "active": true,
+    "rollout_percentage": 100
+  }
+]

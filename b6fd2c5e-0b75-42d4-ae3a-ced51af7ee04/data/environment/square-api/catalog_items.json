@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ITEM_LATTE",
+    "type": "ITEM",
+    "name": "Caffe Latte",
+    "description": "Banh mi sale - church parking lot",
+    "category": "Drinks",
+    "variation_id": "VAR_LATTE_R",
+    "variation_name": "Regular",
+    "price_amount": "450",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_COLDBREW",
+    "type": "ITEM",
+    "name": "Cold Brew",
+    "description": "Amanda + Samuel Friday date night",
+    "category": "Drinks",
+    "variation_id": "VAR_COLDBREW_R",
+    "variation_name": "Regular",
+    "price_amount": "500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_CROISSANT",
+    "type": "ITEM",
+    "name": "Butter Croissant",
+    "description": "Choir rehearsal - Track 4 & 'How Great Thou Art'",
+    "category": "Bakery",
+    "variation_id": "VAR_CROISSANT_R",
+    "variation_name": "Regular",
+    "price_amount": "375",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BAGEL",
+    "type": "ITEM",
+    "name": "Sesame Bagel",
+    "description": "Sunday 8 AM traditional service (choir + Dr. Wells organ)",
+    "category": "Bakery",
+    "variation_id": "VAR_BAGEL_R",
+    "variation_name": "Regular",
+    "price_amount": "300",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_MUG",
+    "type": "ITEM",
+    "name": "Ceramic Mug",
+    "description": "Sunday 11 AM contemporary service (choir + band)",
+    "category": "Merch",
+    "variation_id": "VAR_MUG_R",
+    "variation_name": "Standard",
+    "price_amount": "1200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BEANS",
+    "type": "ITEM",
+    "name": "House Blend Beans",
+    "description": "Youth choir Saturday rehearsal - 1-3 PM",
+    "category": "Merch",
+    "variation_id": "VAR_BEANS_12",
+    "variation_name": "12oz",
+    "price_amount": "1600",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_TEA",
+    "type": "ITEM",
+    "name": "Loose Leaf Tea",
+    "description": "Youth band Saturday rehearsal - 3-5 PM (Emmanuel on drums)",
+    "category": "Drinks",
+    "variation_id": "VAR_TEA_TIN",
+    "variation_name": "Tin",
+    "price_amount": "900",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_LATTE-0007",
+    "type": "ITEM",
+    "name": "Caffe Latte",
+    "description": "Choir rehearsal - Track 4 & 'How Great Thou Art'",
+    "category": "Drinks",
+    "variation_id": "VAR_LATTE_R-0007",
+    "variation_name": "Regular",
+    "price_amount": "450",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_COLDBREW-0008",
+    "type": "ITEM",
+    "name": "Cold Brew",
+    "description": "Christmas pageant rehearsal",
+    "category": "Drinks",
+    "variation_id": "VAR_COLDBREW_R-0008",
+    "variation_name": "Regular",
+    "price_amount": "500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_CROISSANT-0009",
+    "type": "ITEM",
+    "name": "Butter Croissant",
+    "description": "Album Track 4 recording session at Soundcraft",
+    "category": "Bakery",
+    "variation_id": "VAR_CROISSANT_R-0009",
+    "variation_name": "Regular",
+    "price_amount": "375",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BAGEL-0010",
+    "type": "ITEM",
+    "name": "Sesame Bagel",
+    "description": "Youth choir Saturday rehearsal - 1-3 PM",
+    "category": "Bakery",
+    "variation_id": "VAR_BAGEL_R-0010",
+    "variation_name": "Regular",
+    "price_amount": "300",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_MUG-0011",
+    "type": "ITEM",
+    "name": "Ceramic Mug",
+    "description": "Amanda + Samuel Friday date night",
+    "category": "Merch",
+    "variation_id": "VAR_MUG_R-0011",
+    "variation_name": "Standard",
+    "price_amount": "1200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BEANS-0012",
+    "type": "ITEM",
+    "name": "House Blend Beans",
+    "description": "Steinway tuning by Piedmont Piano Service",
+    "category": "Merch",
+    "variation_id": "VAR_BEANS_12-0012",
+    "variation_name": "12oz",
+    "price_amount": "1600",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_TEA-0013",
+    "type": "ITEM",
+    "name": "Loose Leaf Tea",
+    "description": "Wednesday Emmanuel drum lesson with Terrence Walker",
+    "category": "Drinks",
+    "variation_id": "VAR_TEA_TIN-0013",
+    "variation_name": "Tin",
+    "price_amount": "900",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_LATTE-0014",
+    "type": "ITEM",
+    "name": "Caffe Latte",
+    "description": "Sunday 11 AM contemporary service (choir + band)",
+    "category": "Drinks",
+    "variation_id": "VAR_LATTE_R-0014",
+    "variation_name": "Regular",
+    "price_amount": "450",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_COLDBREW-0015",
+    "type": "ITEM",
+    "name": "Cold Brew",
+    "description": "Banh mi sale - church parking lot",
+    "category": "Drinks",
+    "variation_id": "VAR_COLDBREW_R-0015",
+    "variation_name": "Regular",
+    "price_amount": "500",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_CROISSANT-0016",
+    "type": "ITEM",
+    "name": "Butter Croissant",
+    "description": "Convention prep session with Deacon Harris",
+    "category": "Bakery",
+    "variation_id": "VAR_CROISSANT_R-0016",
+    "variation_name": "Regular",
+    "price_amount": "375",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BAGEL-0017",
+    "type": "ITEM",
+    "name": "Sesame Bagel",
+    "description": "Wednesday Ruth visit - Decatur",
+    "category": "Bakery",
+    "variation_id": "VAR_BAGEL_R-0017",
+    "variation_name": "Regular",
+    "price_amount": "300",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_MUG-0018",
+    "type": "ITEM",
+    "name": "Ceramic Mug",
+    "description": "Sunday 8 AM traditional service (choir + Dr. Wells organ)",
+    "category": "Merch",
+    "variation_id": "VAR_MUG_R-0018",
+    "variation_name": "Standard",
+    "price_amount": "1200",
+    "currency": "USD"
+  },
+  {
+    "id": "ITEM_BEANS-0019",
+    "type": "ITEM",
+    "name": "House Blend Beans",
+    "description": "Concert fundraiser evening - GAW Center sanctuary",
+    "category": "Merch",
+    "variation_id": "VAR_BEANS_12-0019",
+    "variation_name": "12oz",
+    "price_amount": "1600",
+    "currency": "USD"
+  }
+]

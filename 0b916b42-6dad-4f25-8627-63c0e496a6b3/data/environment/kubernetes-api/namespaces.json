@@ -1,0 +1,38 @@
+[
+  {
+    "name": "default",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=bridgeport-avenue-elementary-hartford-public-schools",
+    "status": "Active",
+    "created_time": "2024-01-15T09:00:00Z"
+  },
+  {
+    "name": "kube-system",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=bridgeport-avenue-elementary-hartford-public-schools",
+    "status": "Active",
+    "created_time": "2024-01-15T09:00:00Z"
+  },
+  {
+    "name": "ingress-nginx",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=bridgeport-avenue-elementary-hartford-public-schools",
+    "status": "Active",
+    "created_time": "2024-01-15T09:00:00Z"
+  },
+  {
+    "name": "monitoring",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=bridgeport-avenue-elementary-hartford-public-schools",
+    "status": "Active",
+    "created_time": "2024-01-15T09:00:00Z"
+  },
+  {
+    "name": "platform",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=bridgeport-avenue-elementary-hartford-public-schools",
+    "status": "Active",
+    "created_time": "2024-01-15T09:00:00Z"
+  },
+  {
+    "name": "data",
+    "labels": "app.kubernetes.io/managed-by=platform;owner=bridgeport-avenue-elementary-hartford-public-schools",
+    "status": "Active",
+    "created_time": "2024-01-15T09:00:00Z"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "response_id": "resp-csat-1",
+    "field_id": "fld-csat-name",
+    "field_type": "short_text",
+    "ref": "name",
+    "answer": "Maria Chen"
+  },
+  {
+    "response_id": "resp-csat-2",
+    "field_id": "fld-csat-name",
+    "field_type": "short_text",
+    "ref": "name",
+    "answer": "Tomas Reyes"
+  },
+  {
+    "response_id": "resp-csat-3",
+    "field_id": "fld-csat-name",
+    "field_type": "short_text",
+    "ref": "name",
+    "answer": "Lena Voss"
+  },
+  {
+    "response_id": "resp-onb-1",
+    "field_id": "fld-onb-role",
+    "field_type": "multiple_choice",
+    "ref": "role",
+    "answer": "Engineer"
+  },
+  {
+    "response_id": "resp-onb-2",
+    "field_id": "fld-onb-role",
+    "field_type": "multiple_choice",
+    "ref": "role",
+    "answer": "Product Manager"
+  },
+  {
+    "response_id": "resp-evt-1",
+    "field_id": "fld-evt-name",
+    "field_type": "short_text",
+    "ref": "attendee_name",
+    "answer": "Devon Clark"
+  },
+  {
+    "response_id": "resp-evt-2",
+    "field_id": "fld-evt-name",
+    "field_type": "short_text",
+    "ref": "attendee_name",
+    "answer": "Priya Nair"
+  }
+]

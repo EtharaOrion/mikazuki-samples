@@ -1,0 +1,31 @@
+{
+  "CompanyInfo": {
+    "CompanyAddr": {
+      "City": "Coral Gables",
+      "CountrySubDivisionCode": "FL",
+      "Line1": "249 Main Street",
+      "PostalCode": "00000"
+    },
+    "CompanyName": "Michelle Grace Brooks Practice",
+    "Country": "UN",
+    "Email": {
+      "Address": "billing@brooksfamilylaw.com"
+    },
+    "FiscalYearStartMonth": "January",
+    "IndustryType": "Legal Services",
+    "LegalName": "Michelle Grace Brooks Practice, LLC",
+    "MetaData": {
+      "CreateTime": "2012-05-01T09:00:00-04:00",
+      "LastUpdatedTime": "2026-03-15T13:13:19-04:00"
+    },
+    "NameValue": [
+      {
+        "Name": "OwnerName",
+        "Value": "Michelle Grace Brooks"
+      }
+    ],
+    "PrimaryPhone": {
+      "FreeFormNumber": "+13053870100"
+    }
+  }
+}

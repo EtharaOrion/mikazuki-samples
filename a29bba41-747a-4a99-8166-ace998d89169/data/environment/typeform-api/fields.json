@@ -1,0 +1,202 @@
+[
+  {
+    "choices": "",
+    "field_id": "fld-palmetto-initials",
+    "field_type": "short_text",
+    "form_id": "frm-palmetto-intake",
+    "order": "1",
+    "ref": "initials",
+    "required": "true",
+    "title": "Your initials only (no full name)"
+  },
+  {
+    "choices": "Divorce; Custody; Other family law",
+    "field_id": "fld-palmetto-matter",
+    "field_type": "multiple_choice",
+    "form_id": "frm-palmetto-intake",
+    "order": "2",
+    "ref": "matter_type",
+    "required": "true",
+    "title": "Type of family-law matter"
+  },
+  {
+    "choices": "Yes; No",
+    "field_id": "fld-palmetto-children",
+    "field_type": "multiple_choice",
+    "form_id": "frm-palmetto-intake",
+    "order": "3",
+    "ref": "has_children",
+    "required": "true",
+    "title": "Are minor children involved?"
+  },
+  {
+    "choices": "Under $25k; $25k-$50k; $50k-$75k; Over $75k",
+    "field_id": "fld-palmetto-income",
+    "field_type": "multiple_choice",
+    "form_id": "frm-palmetto-intake",
+    "order": "4",
+    "ref": "income_band",
+    "required": "true",
+    "title": "Household income band"
+  },
+  {
+    "choices": "",
+    "field_id": "fld-palmetto-zip",
+    "field_type": "short_text",
+    "form_id": "frm-palmetto-intake",
+    "order": "5",
+    "ref": "zip",
+    "required": "true",
+    "title": "ZIP code"
+  },
+  {
+    "choices": "",
+    "field_id": "fld-palmetto-initials-p5",
+    "field_type": "short_text",
+    "form_id": "frm-palmetto-intake-p5",
+    "order": "1",
+    "ref": "initials",
+    "required": "true",
+    "title": "Your initials only (no full name)"
+  },
+  {
+    "choices": "Divorce; Custody; Other family law",
+    "field_id": "fld-palmetto-matter-p6",
+    "field_type": "multiple_choice",
+    "form_id": "frm-palmetto-intake-p6",
+    "order": "2",
+    "ref": "matter_type",
+    "required": "true",
+    "title": "Type of family-law matter"
+  },
+  {
+    "choices": "Yes; No",
+    "field_id": "fld-palmetto-children-p7",
+    "field_type": "multiple_choice",
+    "form_id": "frm-palmetto-intake-p7",
+    "order": "3",
+    "ref": "has_children",
+    "required": "true",
+    "title": "Are minor children involved?"
+  },
+  {
+    "choices": "Under $25k; $25k-$50k; $50k-$75k; Over $75k",
+    "field_id": "fld-palmetto-income-p8",
+    "field_type": "multiple_choice",
+    "form_id": "frm-palmetto-intake-p8",
+    "order": "4",
+    "ref": "income_band",
+    "required": "true",
+    "title": "Household income band"
+  },
+  {
+    "choices": "",
+    "field_id": "fld-palmetto-zip-p9",
+    "field_type": "short_text",
+    "form_id": "frm-palmetto-intake-p9",
+    "order": "5",
+    "ref": "zip",
+    "required": "true",
+    "title": "ZIP code"
+  },
+  {
+    "choices": "",
+    "field_id": "fld-palmetto-initials-p10",
+    "field_type": "short_text",
+    "form_id": "frm-palmetto-intake-p10",
+    "order": "1",
+    "ref": "initials",
+    "required": "true",
+    "title": "Your initials only (no full name)"
+  },
+  {
+    "choices": "Divorce; Custody; Other family law",
+    "field_id": "fld-palmetto-matter-p11",
+    "field_type": "multiple_choice",
+    "form_id": "frm-palmetto-intake-p11",
+    "order": "2",
+    "ref": "matter_type",
+    "required": "true",
+    "title": "Type of family-law matter"
+  },
+  {
+    "choices": "Yes; No",
+    "field_id": "fld-palmetto-children-p12",
+    "field_type": "multiple_choice",
+    "form_id": "frm-palmetto-intake-p12",
+    "order": "3",
+    "ref": "has_children",
+    "required": "true",
+    "title": "Are minor children involved?"
+  },
+  {
+    "choices": "Under $25k; $25k-$50k; $50k-$75k; Over $75k",
+    "field_id": "fld-palmetto-income-p13",
+    "field_type": "multiple_choice",
+    "form_id": "frm-palmetto-intake-p13",
+    "order": "4",
+    "ref": "income_band",
+    "required": "true",
+    "title": "Household income band"
+  },
+  {
+    "choices": "",
+    "field_id": "fld-palmetto-zip-p14",
+    "field_type": "short_text",
+    "form_id": "frm-palmetto-intake-p14",
+    "order": "5",
+    "ref": "zip",
+    "required": "true",
+    "title": "ZIP code"
+  },
+  {
+    "choices": "",
+    "field_id": "fld-palmetto-initials-p15",
+    "field_type": "short_text",
+    "form_id": "frm-palmetto-intake-p15",
+    "order": "1",
+    "ref": "initials",
+    "required": "true",
+    "title": "Your initials only (no full name)"
+  },
+  {
+    "choices": "Divorce; Custody; Other family law",
+    "field_id": "fld-palmetto-matter-p16",
+    "field_type": "multiple_choice",
+    "form_id": "frm-palmetto-intake-p16",
+    "order": "2",
+    "ref": "matter_type",
+    "required": "true",
+    "title": "Type of family-law matter"
+  },
+  {
+    "choices": "Yes; No",
+    "field_id": "fld-palmetto-children-p17",
+    "field_type": "multiple_choice",
+    "form_id": "frm-palmetto-intake-p17",
+    "order": "3",
+    "ref": "has_children",
+    "required": "true",
+    "title": "Are minor children involved?"
+  },
+  {
+    "choices": "Under $25k; $25k-$50k; $50k-$75k; Over $75k",
+    "field_id": "fld-palmetto-income-p18",
+    "field_type": "multiple_choice",
+    "form_id": "frm-palmetto-intake-p18",
+    "order": "4",
+    "ref": "income_band",
+    "required": "true",
+    "title": "Household income band"
+  },
+  {
+    "choices": "",
+    "field_id": "fld-palmetto-zip-p19",
+    "field_type": "short_text",
+    "form_id": "frm-palmetto-intake-p19",
+    "order": "5",
+    "ref": "zip",
+    "required": "true",
+    "title": "ZIP code"
+  }
+]

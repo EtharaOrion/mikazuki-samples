@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "ORDER-9OUDOCUZRENUN5Z3J",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "2374.10",
+    "currency_code": "USD",
+    "payee_email": "claire@hvwineimports.com",
+    "description": "Wine list restock - reds & whites",
+    "create_time": "2024-02-06T14:45:00Z"
+  },
+  {
+    "id": "ORDER-ZXOI65FDHJK1EYY37",
+    "intent": "CAPTURE",
+    "status": "APPROVED",
+    "amount_value": "1803.39",
+    "currency_code": "USD",
+    "payee_email": "billing@fiveboroughsbeverage.com",
+    "description": "Seasonal craft beer order",
+    "create_time": "2024-03-24T16:45:00Z"
+  },
+  {
+    "id": "ORDER-VHS1K3AQ6L6GT6MJX",
+    "intent": "CAPTURE",
+    "status": "VOIDED",
+    "amount_value": "3630.03",
+    "currency_code": "USD",
+    "payee_email": "kevin@atlanticseafood.com",
+    "description": "Hunts Point seafood restock",
+    "create_time": "2024-03-22T08:30:00Z"
+  },
+  {
+    "id": "ORDER-HXTPDPFF5E8II49KQ",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "3066.42",
+    "currency_code": "USD",
+    "payee_email": "kevin@atlanticseafood.com",
+    "description": "Hunts Point seafood restock",
+    "create_time": "2024-10-20T12:45:00Z"
+  },
+  {
+    "id": "ORDER-TZX272HPOEVB9OOAE",
+    "intent": "CAPTURE",
+    "status": "CREATED",
+    "amount_value": "2169.60",
+    "currency_code": "USD",
+    "payee_email": "ar@metrorestaurantsupply.com",
+    "description": "Dry goods & paper supplies",
+    "create_time": "2024-11-07T15:15:00Z"
+  },
+  {
+    "id": "ORDER-6PR5N8I4P40MGG1W1",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "2856.64",
+    "currency_code": "USD",
+    "payee_email": "claire@hvwineimports.com",
+    "description": "By-the-glass program restock",
+    "create_time": "2025-01-03T07:30:00Z"
+  },
+  {
+    "id": "ORDER-54NZDKYAYQ3S195JM",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "2512.10",
+    "currency_code": "USD",
+    "payee_email": "kevin@atlanticseafood.com",
+    "description": "Weekly seafood delivery - oysters, salmon, cod",
+    "create_time": "2025-03-03T10:15:00Z"
+  },
+  {
+    "id": "ORDER-ZVGPMM82I1LR3PE29",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "2034.98",
+    "currency_code": "USD",
+    "payee_email": "kevin@atlanticseafood.com",
+    "description": "Hunts Point seafood restock",
+    "create_time": "2025-03-22T17:00:00Z"
+  },
+  {
+    "id": "ORDER-467KD6FLEEPZHPCF0",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "3377.70",
+    "currency_code": "USD",
+    "payee_email": "kevin@atlanticseafood.com",
+    "description": "Hunts Point seafood restock",
+    "create_time": "2025-01-24T12:00:00Z"
+  },
+  {
+    "id": "ORDER-QZIT3UEA3GE8N6QIW",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "567.58",
+    "currency_code": "USD",
+    "payee_email": "orders@astoriabakerydairy.com",
+    "description": "Daily bread & dairy delivery",
+    "create_time": "2025-03-09T10:30:00Z"
+  },
+  {
+    "id": "ORDER-8T7A9TGIQHG9JRSNV",
+    "intent": "CAPTURE",
+    "status": "VOIDED",
+    "amount_value": "269.58",
+    "currency_code": "USD",
+    "payee_email": "orders@astoriabakerydairy.com",
+    "description": "Brunch pastry & dairy order",
+    "create_time": "2025-01-10T09:45:00Z"
+  },
+  {
+    "id": "ORDER-DF1RCAVIQK2919AHE",
+    "intent": "CAPTURE",
+    "status": "VOIDED",
+    "amount_value": "3468.12",
+    "currency_code": "USD",
+    "payee_email": "billing@fiveboroughsbeverage.com",
+    "description": "Seasonal craft beer order",
+    "create_time": "2025-02-17T14:30:00Z"
+  },
+  {
+    "id": "ORDER-9J1ICTXCWNPGW90JP",
+    "intent": "CAPTURE",
+    "status": "APPROVED",
+    "amount_value": "5312.58",
+    "currency_code": "USD",
+    "payee_email": "frank@empiremeat.com",
+    "description": "Dry-aged ribeye & short rib order",
+    "create_time": "2025-03-18T07:30:00Z"
+  },
+  {
+    "id": "ORDER-KLFYP5JO3Q3QA3S8K",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "584.65",
+    "currency_code": "USD",
+    "payee_email": "ar@metrorestaurantsupply.com",
+    "description": "Kitchen equipment - replacement saute pans",
+    "create_time": "2025-03-19T17:15:00Z"
+  },
+  {
+    "id": "ORDER-0PRKGYC4OM3WTOOBM",
+    "intent": "CAPTURE",
+    "status": "VOIDED",
+    "amount_value": "1396.16",
+    "currency_code": "USD",
+    "payee_email": "ar@metrorestaurantsupply.com",
+    "description": "Kitchen equipment - replacement saute pans",
+    "create_time": "2025-11-01T09:30:00Z"
+  },
+  {
+    "id": "ORDER-78MX1EVUHT6T0UZS9",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1920.05",
+    "currency_code": "USD",
+    "payee_email": "claire@hvwineimports.com",
+    "description": "Quarterly wine cellar order",
+    "create_time": "2025-12-09T07:45:00Z"
+  },
+  {
+    "id": "ORDER-6Z8VBHQLQCG1WU16H",
+    "intent": "CAPTURE",
+    "status": "CREATED",
+    "amount_value": "1554.83",
+    "currency_code": "USD",
+    "payee_email": "maria@greenmarketproduce.com",
+    "description": "Seasonal produce restock",
+    "create_time": "2025-12-25T11:30:00Z"
+  },
+  {
+    "id": "ORDER-JE4QVZFV8YU58CEPS",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "539.18",
+    "currency_code": "USD",
+    "payee_email": "accounts@pristinelinen.com",
+    "description": "Linen rental & laundering",
+    "create_time": "2026-01-01T09:45:00Z"
+  },
+  {
+    "id": "ORDER-3XQYXGO4B9UOE3T0H",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "749.44",
+    "currency_code": "USD",
+    "payee_email": "ar@metrorestaurantsupply.com",
+    "description": "Dry goods & paper supplies",
+    "create_time": "2026-01-01T11:00:00Z"
+  },
+  {
+    "id": "ORDER-MJBCP4E30MY5ZPJAG",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "522.50",
+    "currency_code": "USD",
+    "payee_email": "orders@astoriabakerydairy.com",
+    "description": "Daily bread & dairy delivery",
+    "create_time": "2026-01-03T10:30:00Z"
+  },
+  {
+    "id": "ORDER-OWOMQIGCT2CXIFSU0",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "2221.54",
+    "currency_code": "USD",
+    "payee_email": "kevin@atlanticseafood.com",
+    "description": "Weekly seafood delivery - oysters, salmon, cod",
+    "create_time": "2026-01-20T14:30:00Z"
+  },
+  {
+    "id": "ORDER-9ATSN1U322N64KFS6",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "2059.63",
+    "currency_code": "USD",
+    "payee_email": "ar@metrorestaurantsupply.com",
+    "description": "Cleaning & dry goods restock",
+    "create_time": "2026-01-22T09:30:00Z"
+  },
+  {
+    "id": "ORDER-9PH3I379U26192K42",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "3133.09",
+    "currency_code": "USD",
+    "payee_email": "frank@empiremeat.com",
+    "description": "Dry-aged ribeye & short rib order",
+    "create_time": "2026-01-26T15:45:00Z"
+  },
+  {
+    "id": "ORDER-V6RAST5J284WV98Y3",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "5558.27",
+    "currency_code": "USD",
+    "payee_email": "frank@empiremeat.com",
+    "description": "Dry-aged ribeye & short rib order",
+    "create_time": "2026-02-03T11:45:00Z"
+  },
+  {
+    "id": "ORDER-PR2ESPRVU8FIJOYJN",
+    "intent": "CAPTURE",
+    "status": "CREATED",
+    "amount_value": "1354.15",
+    "currency_code": "USD",
+    "payee_email": "billing@fiveboroughsbeverage.com",
+    "description": "Draft line restock",
+    "create_time": "2026-02-25T15:45:00Z"
+  },
+  {
+    "id": "ORDER-N0YBY4AWTY088O5OR",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "371.77",
+    "currency_code": "USD",
+    "payee_email": "orders@astoriabakerydairy.com",
+    "description": "Daily bread & dairy delivery",
+    "create_time": "2026-03-18T14:45:00Z"
+  },
+  {
+    "id": "ORDER-22PXGX8WDZRMH3FNB",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1921.39",
+    "currency_code": "USD",
+    "payee_email": "kevin@atlanticseafood.com",
+    "description": "Fresh fish order - whole branzino & shrimp",
+    "create_time": "2026-03-23T12:15:00Z"
+  },
+  {
+    "id": "ORDER-K3I8BZBF1I3LDQYUN",
+    "intent": "CAPTURE",
+    "status": "CREATED",
+    "amount_value": "1536.75",
+    "currency_code": "USD",
+    "payee_email": "ar@metrorestaurantsupply.com",
+    "description": "Kitchen equipment - replacement saute pans",
+    "create_time": "2026-02-11T17:45:00Z"
+  },
+  {
+    "id": "ORDER-F4B8DWOECBPMBJPI4",
+    "intent": "CAPTURE",
+    "status": "VOIDED",
+    "amount_value": "2073.65",
+    "currency_code": "USD",
+    "payee_email": "ar@metrorestaurantsupply.com",
+    "description": "Cleaning & dry goods restock",
+    "create_time": "2026-03-09T13:30:00Z"
+  },
+  {
+    "id": "ORDER-YVB5UL5NWQVRR9A7M",
+    "intent": "CAPTURE",
+    "status": "APPROVED",
+    "amount_value": "1405.47",
+    "currency_code": "USD",
+    "payee_email": "billing@fiveboroughsbeverage.com",
+    "description": "Seasonal craft beer order",
+    "create_time": "2026-03-15T10:45:00Z"
+  },
+  {
+    "id": "ORDER-HKTGBTYZMEPGTHCW8",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "2913.65",
+    "currency_code": "USD",
+    "payee_email": "claire@hvwineimports.com",
+    "description": "Quarterly wine cellar order",
+    "create_time": "2026-03-15T11:30:00Z"
+  },
+  {
+    "id": "ORDER-05G1X3J1L7R8431RU",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "2347.91",
+    "currency_code": "USD",
+    "payee_email": "maria@greenmarketproduce.com",
+    "description": "Produce delivery - greens, root veg, herbs",
+    "create_time": "2026-03-17T17:30:00Z"
+  },
+  {
+    "id": "ORDER-C6E4AF9637D79A25C8",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1858.18",
+    "currency_code": "USD",
+    "payee_email": "claire@hvwineimports.com",
+    "description": "Wine restock - Mar 2026",
+    "create_time": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "ORDER-3E4A5A87085009929E",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1517.37",
+    "currency_code": "USD",
+    "payee_email": "kevin@atlanticseafood.com",
+    "description": "Fish weekly invoice - Mar 2026",
+    "create_time": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "ORDER-37BF407553573EA0A2",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1014.30",
+    "currency_code": "USD",
+    "payee_email": "chef@ariel.wine",
+    "description": "Rare bottle allocation - Mar 2026",
+    "create_time": "2026-03-02T00:00:00Z"
+  },
+  {
+    "id": "ORDER-9516AD32855C942EB2",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "451.24",
+    "currency_code": "USD",
+    "payee_email": "linens@astorialaundry.com",
+    "description": "Linen service monthly - Mar 2026",
+    "create_time": "2026-03-02T00:00:00Z"
+  },
+  {
+    "id": "ORDER-1D773BFB15F47DA720",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "975.67",
+    "currency_code": "USD",
+    "payee_email": "hood@nychoodcleaning.com",
+    "description": "Hood cleaning quarterly - Mar 2026",
+    "create_time": "2026-03-03T00:00:00Z"
+  },
+  {
+    "id": "ORDER-B936E6D3F12E026D79",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "177.40",
+    "currency_code": "USD",
+    "payee_email": "grease@bwytrap.com",
+    "description": "Grease trap service - Mar 2026",
+    "create_time": "2026-03-03T00:00:00Z"
+  },
+  {
+    "id": "ORDER-BE374A60C23D6FF1E6",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "213.34",
+    "currency_code": "USD",
+    "payee_email": "pest@astoriapc.com",
+    "description": "Pest control quarterly - Mar 2026",
+    "create_time": "2026-03-04T00:00:00Z"
+  },
+  {
+    "id": "ORDER-3A7A16DC7BDF11B8E5",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "818.96",
+    "currency_code": "USD",
+    "payee_email": "staff-bonus-daniel@pp",
+    "description": "Daniel monthly bonus - Mar 2026",
+    "create_time": "2026-03-04T00:00:00Z"
+  },
+  {
+    "id": "ORDER-74DA87908294537AA0",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1146.88",
+    "currency_code": "USD",
+    "payee_email": "staff-bonus-sophia@pp",
+    "description": "Sophia monthly bonus - Mar 2026",
+    "create_time": "2026-03-05T00:00:00Z"
+  },
+  {
+    "id": "ORDER-BC762BA66119CDDECD",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "126.05",
+    "currency_code": "USD",
+    "payee_email": "regular-refund@pp",
+    "description": "Regular's over-charge refund - Mar 2026",
+    "create_time": "2026-03-05T00:00:00Z"
+  },
+  {
+    "id": "ORDER-C5178417F9A9055908",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "3381.80",
+    "currency_code": "USD",
+    "payee_email": "claire@hvwineimports.com",
+    "description": "Wine restock - Mar 2026",
+    "create_time": "2026-03-06T00:00:00Z"
+  },
+  {
+    "id": "ORDER-CACBB9E26C0F6B3E9B",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1741.89",
+    "currency_code": "USD",
+    "payee_email": "kevin@atlanticseafood.com",
+    "description": "Fish weekly invoice - Mar 2026",
+    "create_time": "2026-03-06T00:00:00Z"
+  },
+  {
+    "id": "ORDER-6DD5473435859BEB4A",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "537.40",
+    "currency_code": "USD",
+    "payee_email": "chef@ariel.wine",
+    "description": "Rare bottle allocation - Mar 2026",
+    "create_time": "2026-03-07T00:00:00Z"
+  },
+  {
+    "id": "ORDER-E4EB2047EA9D23AC8B",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "464.84",
+    "currency_code": "USD",
+    "payee_email": "linens@astorialaundry.com",
+    "description": "Linen service monthly - Mar 2026",
+    "create_time": "2026-03-07T00:00:00Z"
+  },
+  {
+    "id": "ORDER-9271C7FE1B0E5036F5",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "971.37",
+    "currency_code": "USD",
+    "payee_email": "hood@nychoodcleaning.com",
+    "description": "Hood cleaning quarterly - Mar 2026",
+    "create_time": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "ORDER-B5FFE179348ABC3A2F",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "216.58",
+    "currency_code": "USD",
+    "payee_email": "grease@bwytrap.com",
+    "description": "Grease trap service - Mar 2026",
+    "create_time": "2026-03-08T00:00:00Z"
+  },
+  {
+    "id": "ORDER-ED5B296AB36B6FB459",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "229.43",
+    "currency_code": "USD",
+    "payee_email": "pest@astoriapc.com",
+    "description": "Pest control quarterly - Mar 2026",
+    "create_time": "2026-03-09T00:00:00Z"
+  },
+  {
+    "id": "ORDER-1AD94A4E28416E80B8",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1177.14",
+    "currency_code": "USD",
+    "payee_email": "staff-bonus-daniel@pp",
+    "description": "Daniel monthly bonus - Mar 2026",
+    "create_time": "2026-03-09T00:00:00Z"
+  },
+  {
+    "id": "ORDER-71953676408FA1DD0C",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "729.86",
+    "currency_code": "USD",
+    "payee_email": "staff-bonus-sophia@pp",
+    "description": "Sophia monthly bonus - Mar 2026",
+    "create_time": "2026-03-10T00:00:00Z"
+  },
+  {
+    "id": "ORDER-00010C7CB786BE05F9",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "173.20",
+    "currency_code": "USD",
+    "payee_email": "regular-refund@pp",
+    "description": "Regular's over-charge refund - Mar 2026",
+    "create_time": "2026-03-10T00:00:00Z"
+  },
+  {
+    "id": "ORDER-D399C794D6F5BF1AB1",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "2169.82",
+    "currency_code": "USD",
+    "payee_email": "claire@hvwineimports.com",
+    "description": "Wine restock - Mar 2026",
+    "create_time": "2026-03-11T00:00:00Z"
+  },
+  {
+    "id": "ORDER-A11564B9859992E049",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1744.68",
+    "currency_code": "USD",
+    "payee_email": "kevin@atlanticseafood.com",
+    "description": "Fish weekly invoice - Mar 2026",
+    "create_time": "2026-03-11T00:00:00Z"
+  },
+  {
+    "id": "ORDER-DA47EA165A53C62974",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "634.54",
+    "currency_code": "USD",
+    "payee_email": "chef@ariel.wine",
+    "description": "Rare bottle allocation - Mar 2026",
+    "create_time": "2026-03-12T00:00:00Z"
+  },
+  {
+    "id": "ORDER-0CDBDB82DEA3CC658B",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "400.97",
+    "currency_code": "USD",
+    "payee_email": "linens@astorialaundry.com",
+    "description": "Linen service monthly - Mar 2026",
+    "create_time": "2026-03-12T00:00:00Z"
+  },
+  {
+    "id": "ORDER-3975253D5406C554CC",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1185.83",
+    "currency_code": "USD",
+    "payee_email": "hood@nychoodcleaning.com",
+    "description": "Hood cleaning quarterly - Mar 2026",
+    "create_time": "2026-03-13T00:00:00Z"
+  },
+  {
+    "id": "ORDER-0753B665C5C3105070",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "214.15",
+    "currency_code": "USD",
+    "payee_email": "grease@bwytrap.com",
+    "description": "Grease trap service - Mar 2026",
+    "create_time": "2026-03-13T00:00:00Z"
+  },
+  {
+    "id": "ORDER-37C770034FB971B0C5",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "187.58",
+    "currency_code": "USD",
+    "payee_email": "pest@astoriapc.com",
+    "description": "Pest control quarterly - Mar 2026",
+    "create_time": "2026-03-14T00:00:00Z"
+  },
+  {
+    "id": "ORDER-60807B6AB5F5A9E493",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "845.59",
+    "currency_code": "USD",
+    "payee_email": "staff-bonus-daniel@pp",
+    "description": "Daniel monthly bonus - Mar 2026",
+    "create_time": "2026-03-14T00:00:00Z"
+  },
+  {
+    "id": "ORDER-FF22454DB1D19C4EF5",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "688.01",
+    "currency_code": "USD",
+    "payee_email": "staff-bonus-sophia@pp",
+    "description": "Sophia monthly bonus - Mar 2026",
+    "create_time": "2026-03-15T00:00:00Z"
+  },
+  {
+    "id": "ORDER-A0585CEB7D09E66E79",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "119.37",
+    "currency_code": "USD",
+    "payee_email": "regular-refund@pp",
+    "description": "Regular's over-charge refund - Mar 2026",
+    "create_time": "2026-03-15T00:00:00Z"
+  },
+  {
+    "id": "ORDER-595147A455BBD602B4",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "2144.66",
+    "currency_code": "USD",
+    "payee_email": "claire@hvwineimports.com",
+    "description": "Wine restock - Mar 2026",
+    "create_time": "2026-03-16T00:00:00Z"
+  },
+  {
+    "id": "ORDER-BF5446C349B96C88E8",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1483.58",
+    "currency_code": "USD",
+    "payee_email": "kevin@atlanticseafood.com",
+    "description": "Fish weekly invoice - Mar 2026",
+    "create_time": "2026-03-16T00:00:00Z"
+  },
+  {
+    "id": "ORDER-8F8AE42BCD1CDA81D2",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "841.91",
+    "currency_code": "USD",
+    "payee_email": "chef@ariel.wine",
+    "description": "Rare bottle allocation - Mar 2026",
+    "create_time": "2026-03-17T00:00:00Z"
+  },
+  {
+    "id": "ORDER-F63C4DD639087E3E9D",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "405.14",
+    "currency_code": "USD",
+    "payee_email": "linens@astorialaundry.com",
+    "description": "Linen service monthly - Mar 2026",
+    "create_time": "2026-03-17T00:00:00Z"
+  },
+  {
+    "id": "ORDER-5DE65E5945344F090A",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1073.74",
+    "currency_code": "USD",
+    "payee_email": "hood@nychoodcleaning.com",
+    "description": "Hood cleaning quarterly - Mar 2026",
+    "create_time": "2026-03-18T00:00:00Z"
+  },
+  {
+    "id": "ORDER-4367D80CF77B8C0C4C",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "146.27",
+    "currency_code": "USD",
+    "payee_email": "grease@bwytrap.com",
+    "description": "Grease trap service - Mar 2026",
+    "create_time": "2026-03-18T00:00:00Z"
+  },
+  {
+    "id": "ORDER-D6200858DDEECE7C9D",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "181.89",
+    "currency_code": "USD",
+    "payee_email": "pest@astoriapc.com",
+    "description": "Pest control quarterly - Mar 2026",
+    "create_time": "2026-03-19T00:00:00Z"
+  },
+  {
+    "id": "ORDER-6F812651DEB6C586EF",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "836.02",
+    "currency_code": "USD",
+    "payee_email": "staff-bonus-daniel@pp",
+    "description": "Daniel monthly bonus - Mar 2026",
+    "create_time": "2026-03-19T00:00:00Z"
+  },
+  {
+    "id": "ORDER-85F02B051928F0C36E",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "742.54",
+    "currency_code": "USD",
+    "payee_email": "staff-bonus-sophia@pp",
+    "description": "Sophia monthly bonus - Mar 2026",
+    "create_time": "2026-03-20T00:00:00Z"
+  },
+  {
+    "id": "ORDER-5D1B473D9A9B116A97",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "171.53",
+    "currency_code": "USD",
+    "payee_email": "regular-refund@pp",
+    "description": "Regular's over-charge refund - Mar 2026",
+    "create_time": "2026-03-20T00:00:00Z"
+  },
+  {
+    "id": "ORDER-A80AA7048686092916",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "2289.00",
+    "currency_code": "USD",
+    "payee_email": "claire@hvwineimports.com",
+    "description": "Wine restock - Mar 2026",
+    "create_time": "2026-03-21T00:00:00Z"
+  },
+  {
+    "id": "ORDER-4653DBBEA11B8EAD8B",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1671.46",
+    "currency_code": "USD",
+    "payee_email": "kevin@atlanticseafood.com",
+    "description": "Fish weekly invoice - Mar 2026",
+    "create_time": "2026-03-21T00:00:00Z"
+  },
+  {
+    "id": "ORDER-845AD463B0E1E6587F",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1331.18",
+    "currency_code": "USD",
+    "payee_email": "chef@ariel.wine",
+    "description": "Rare bottle allocation - Mar 2026",
+    "create_time": "2026-03-22T00:00:00Z"
+  },
+  {
+    "id": "ORDER-410CAA6AF51FDDAA76",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "392.12",
+    "currency_code": "USD",
+    "payee_email": "linens@astorialaundry.com",
+    "description": "Linen service monthly - Mar 2026",
+    "create_time": "2026-03-22T00:00:00Z"
+  },
+  {
+    "id": "ORDER-35CCC9205850A67FD1",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1194.44",
+    "currency_code": "USD",
+    "payee_email": "hood@nychoodcleaning.com",
+    "description": "Hood cleaning quarterly - Mar 2026",
+    "create_time": "2026-03-23T00:00:00Z"
+  },
+  {
+    "id": "ORDER-86F1F2F8385FEF1B75",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "145.94",
+    "currency_code": "USD",
+    "payee_email": "grease@bwytrap.com",
+    "description": "Grease trap service - Mar 2026",
+    "create_time": "2026-03-23T00:00:00Z"
+  },
+  {
+    "id": "ORDER-58F10824B8196A5686",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "198.87",
+    "currency_code": "USD",
+    "payee_email": "pest@astoriapc.com",
+    "description": "Pest control quarterly - Mar 2026",
+    "create_time": "2026-03-24T00:00:00Z"
+  },
+  {
+    "id": "ORDER-49E8870CF86AE2FCCB",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1103.56",
+    "currency_code": "USD",
+    "payee_email": "staff-bonus-daniel@pp",
+    "description": "Daniel monthly bonus - Mar 2026",
+    "create_time": "2026-03-24T00:00:00Z"
+  },
+  {
+    "id": "ORDER-E74671A229507E31FF",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "783.84",
+    "currency_code": "USD",
+    "payee_email": "staff-bonus-sophia@pp",
+    "description": "Sophia monthly bonus - Mar 2026",
+    "create_time": "2026-03-25T00:00:00Z"
+  },
+  {
+    "id": "ORDER-D92D10FEFDCD391062",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "78.13",
+    "currency_code": "USD",
+    "payee_email": "regular-refund@pp",
+    "description": "Regular's over-charge refund - Mar 2026",
+    "create_time": "2026-03-25T00:00:00Z"
+  },
+  {
+    "id": "ORDER-854EA476BB5E1A35BE",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "2264.91",
+    "currency_code": "USD",
+    "payee_email": "claire@hvwineimports.com",
+    "description": "Wine restock - Mar 2026",
+    "create_time": "2026-03-26T00:00:00Z"
+  },
+  {
+    "id": "ORDER-8C9426C162A53F83E7",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1339.03",
+    "currency_code": "USD",
+    "payee_email": "kevin@atlanticseafood.com",
+    "description": "Fish weekly invoice - Mar 2026",
+    "create_time": "2026-03-26T00:00:00Z"
+  },
+  {
+    "id": "ORDER-DB564C4AD43095B109",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "910.27",
+    "currency_code": "USD",
+    "payee_email": "chef@ariel.wine",
+    "description": "Rare bottle allocation - Mar 2026",
+    "create_time": "2026-03-27T00:00:00Z"
+  },
+  {
+    "id": "ORDER-D652BE2F1A852C7E20",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "353.41",
+    "currency_code": "USD",
+    "payee_email": "linens@astorialaundry.com",
+    "description": "Linen service monthly - Mar 2026",
+    "create_time": "2026-03-27T00:00:00Z"
+  },
+  {
+    "id": "ORDER-68D6527DBA39F6593E",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1144.41",
+    "currency_code": "USD",
+    "payee_email": "hood@nychoodcleaning.com",
+    "description": "Hood cleaning quarterly - Mar 2026",
+    "create_time": "2026-03-28T00:00:00Z"
+  },
+  {
+    "id": "ORDER-392B6D883AFBBF8F68",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "149.02",
+    "currency_code": "USD",
+    "payee_email": "grease@bwytrap.com",
+    "description": "Grease trap service - Mar 2026",
+    "create_time": "2026-03-28T00:00:00Z"
+  },
+  {
+    "id": "ORDER-A6491F77F6091A0131",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "206.33",
+    "currency_code": "USD",
+    "payee_email": "pest@astoriapc.com",
+    "description": "Pest control quarterly - Mar 2026",
+    "create_time": "2026-03-29T00:00:00Z"
+  },
+  {
+    "id": "ORDER-252639BF396048CABD",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "930.41",
+    "currency_code": "USD",
+    "payee_email": "staff-bonus-daniel@pp",
+    "description": "Daniel monthly bonus - Mar 2026",
+    "create_time": "2026-03-29T00:00:00Z"
+  },
+  {
+    "id": "ORDER-7EF0F0A59C182935AE",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1164.87",
+    "currency_code": "USD",
+    "payee_email": "staff-bonus-sophia@pp",
+    "description": "Sophia monthly bonus - Mar 2026",
+    "create_time": "2026-03-30T00:00:00Z"
+  },
+  {
+    "id": "ORDER-1CAEBF8A814F3117D0",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "150.42",
+    "currency_code": "USD",
+    "payee_email": "regular-refund@pp",
+    "description": "Regular's over-charge refund - Mar 2026",
+    "create_time": "2026-03-30T00:00:00Z"
+  },
+  {
+    "id": "ORDER-433755F7B336003158",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "2005.19",
+    "currency_code": "USD",
+    "payee_email": "claire@hvwineimports.com",
+    "description": "Wine restock - Mar 2026",
+    "create_time": "2026-03-31T00:00:00Z"
+  },
+  {
+    "id": "ORDER-1244B12890F91F68F3",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1553.79",
+    "currency_code": "USD",
+    "payee_email": "kevin@atlanticseafood.com",
+    "description": "Fish weekly invoice - Mar 2026",
+    "create_time": "2026-03-31T00:00:00Z"
+  },
+  {
+    "id": "ORDER-E42EE1D8B147357F96",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1355.81",
+    "currency_code": "USD",
+    "payee_email": "chef@ariel.wine",
+    "description": "Rare bottle allocation - Apr 2026",
+    "create_time": "2026-04-01T00:00:00Z"
+  },
+  {
+    "id": "ORDER-79F1495E5F14DE2614",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "463.66",
+    "currency_code": "USD",
+    "payee_email": "linens@astorialaundry.com",
+    "description": "Linen service monthly - Apr 2026",
+    "create_time": "2026-04-01T00:00:00Z"
+  },
+  {
+    "id": "ORDER-0F6D7FFB2CDD31C3D2",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1068.53",
+    "currency_code": "USD",
+    "payee_email": "hood@nychoodcleaning.com",
+    "description": "Hood cleaning quarterly - Apr 2026",
+    "create_time": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": "ORDER-379C58566352887151",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "218.87",
+    "currency_code": "USD",
+    "payee_email": "grease@bwytrap.com",
+    "description": "Grease trap service - Apr 2026",
+    "create_time": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": "ORDER-68B96D114F4F4859F4",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "230.29",
+    "currency_code": "USD",
+    "payee_email": "pest@astoriapc.com",
+    "description": "Pest control quarterly - Apr 2026",
+    "create_time": "2026-04-03T00:00:00Z"
+  },
+  {
+    "id": "ORDER-85623B69DBFFABA099",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1141.61",
+    "currency_code": "USD",
+    "payee_email": "staff-bonus-daniel@pp",
+    "description": "Daniel monthly bonus - Apr 2026",
+    "create_time": "2026-04-03T00:00:00Z"
+  },
+  {
+    "id": "ORDER-FA151DFC0ABF6F56D6",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "622.55",
+    "currency_code": "USD",
+    "payee_email": "staff-bonus-sophia@pp",
+    "description": "Sophia monthly bonus - Apr 2026",
+    "create_time": "2026-04-04T00:00:00Z"
+  },
+  {
+    "id": "ORDER-C2FD86E74CB0A35B93",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "153.88",
+    "currency_code": "USD",
+    "payee_email": "regular-refund@pp",
+    "description": "Regular's over-charge refund - Apr 2026",
+    "create_time": "2026-04-04T00:00:00Z"
+  },
+  {
+    "id": "ORDER-4B5ECEE6EA490FA48E",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1882.84",
+    "currency_code": "USD",
+    "payee_email": "claire@hvwineimports.com",
+    "description": "Wine restock - Apr 2026",
+    "create_time": "2026-04-05T00:00:00Z"
+  },
+  {
+    "id": "ORDER-D6F085F3A8FD221C71",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1863.02",
+    "currency_code": "USD",
+    "payee_email": "kevin@atlanticseafood.com",
+    "description": "Fish weekly invoice - Apr 2026",
+    "create_time": "2026-04-05T00:00:00Z"
+  },
+  {
+    "id": "ORDER-E01C9F906F896E5EDD",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1256.41",
+    "currency_code": "USD",
+    "payee_email": "chef@ariel.wine",
+    "description": "Rare bottle allocation - Apr 2026",
+    "create_time": "2026-04-06T00:00:00Z"
+  },
+  {
+    "id": "ORDER-48C84D061192A7F399",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "351.86",
+    "currency_code": "USD",
+    "payee_email": "linens@astorialaundry.com",
+    "description": "Linen service monthly - Apr 2026",
+    "create_time": "2026-04-06T00:00:00Z"
+  },
+  {
+    "id": "ORDER-E5C7BEB456EF913797",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1045.67",
+    "currency_code": "USD",
+    "payee_email": "hood@nychoodcleaning.com",
+    "description": "Hood cleaning quarterly - Apr 2026",
+    "create_time": "2026-04-07T00:00:00Z"
+  },
+  {
+    "id": "ORDER-1AE4028D6A4AB7630B",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "175.34",
+    "currency_code": "USD",
+    "payee_email": "grease@bwytrap.com",
+    "description": "Grease trap service - Apr 2026",
+    "create_time": "2026-04-07T00:00:00Z"
+  },
+  {
+    "id": "ORDER-B03184068A349CA399",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "182.09",
+    "currency_code": "USD",
+    "payee_email": "pest@astoriapc.com",
+    "description": "Pest control quarterly - Apr 2026",
+    "create_time": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "ORDER-17B9982B41E4CB5349",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "687.26",
+    "currency_code": "USD",
+    "payee_email": "staff-bonus-daniel@pp",
+    "description": "Daniel monthly bonus - Apr 2026",
+    "create_time": "2026-04-08T00:00:00Z"
+  },
+  {
+    "id": "ORDER-F71E8A52FC7CEE62DC",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "504.08",
+    "currency_code": "USD",
+    "payee_email": "staff-bonus-sophia@pp",
+    "description": "Sophia monthly bonus - Apr 2026",
+    "create_time": "2026-04-09T00:00:00Z"
+  },
+  {
+    "id": "ORDER-E827E3FE134A89768D",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "100.45",
+    "currency_code": "USD",
+    "payee_email": "regular-refund@pp",
+    "description": "Regular's over-charge refund - Apr 2026",
+    "create_time": "2026-04-09T00:00:00Z"
+  },
+  {
+    "id": "ORDER-F5AE88BE4D9C9F5A17",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "2232.86",
+    "currency_code": "USD",
+    "payee_email": "claire@hvwineimports.com",
+    "description": "Wine restock - Apr 2026",
+    "create_time": "2026-04-10T00:00:00Z"
+  },
+  {
+    "id": "ORDER-96115B5DB641340DBA",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "1692.06",
+    "currency_code": "USD",
+    "payee_email": "kevin@atlanticseafood.com",
+    "description": "Fish weekly invoice - Apr 2026",
+    "create_time": "2026-04-10T00:00:00Z"
+  },
+  {
+    "id": "ORDER-0709D140F466E8B4E0",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "608.47",
+    "currency_code": "USD",
+    "payee_email": "chef@ariel.wine",
+    "description": "Rare bottle allocation - Apr 2026",
+    "create_time": "2026-04-11T00:00:00Z"
+  }
+]

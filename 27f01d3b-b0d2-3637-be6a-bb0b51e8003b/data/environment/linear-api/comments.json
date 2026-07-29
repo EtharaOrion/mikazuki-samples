@@ -1,0 +1,154 @@
+[
+  {
+    "id": "cmt-201-1",
+    "body": "Booking confirmations stopped going out last week. Checked the logs \u2014 booking-api is CrashLoopBackOff with 7 restarts. Error: Mailgun API authentication failed (401). The key was rotated and MAILGUN_API_KEY in .env was never updated, so mg.crossroadsconservatory.com sends fail.",
+    "issueId": "WEB-201",
+    "userId": "user-marcus",
+    "createdAt": "2025-12-29T10:30:00",
+    "updatedAt": "2025-12-29T10:30:00"
+  },
+  {
+    "id": "cmt-201-2",
+    "body": "Thanks Marcus. This is a blocker \u2014 families can't finish a booking and we never see the deposit. Inquiry volume jumps right before fall enrollment, so I need the form working. Please prioritize.",
+    "issueId": "WEB-201",
+    "userId": "user-jessica",
+    "createdAt": "2025-12-29T11:00:00",
+    "updatedAt": "2025-12-29T11:00:00"
+  },
+  {
+    "id": "cmt-201-3",
+    "body": "Fix is straightforward: update the Kubernetes secret with the new Mailgun key, redeploy booking-api. I'll also document the rotation step so this doesn't break again after the next key change.",
+    "issueId": "WEB-201",
+    "userId": "user-marcus",
+    "createdAt": "2025-12-29T13:15:00",
+    "updatedAt": "2025-12-29T13:15:00"
+  },
+  {
+    "id": "cmt-202-1",
+    "body": "Reproduced on Safari 17.4. The calendar embed on /book never renders the time slots \u2014 the iframe loads blank. Chrome and Firefox are fine. Students on iPhones literally can't pick a lesson time.",
+    "issueId": "WEB-202",
+    "userId": "user-marcus",
+    "createdAt": "2025-12-29T12:00:00",
+    "updatedAt": "2025-12-29T12:00:00"
+  },
+  {
+    "id": "cmt-202-2",
+    "body": "Plan: pull the available slots from the booking-api directly and render them in a responsive list, keeping the iframe only as a desktop fallback. Should fix mobile without changing the booking flow.",
+    "issueId": "WEB-202",
+    "userId": "user-marcus",
+    "createdAt": "2025-12-30T10:00:00",
+    "updatedAt": "2025-12-30T10:00:00"
+  },
+  {
+    "id": "cmt-203-1",
+    "body": "Stripe deposit flow is live. Booking a lesson now collects a $40 deposit through Stripe Checkout, and the confirmation is sent by booking-api. Receipts route through the Stripe dashboard too.",
+    "issueId": "WEB-203",
+    "userId": "user-marcus",
+    "createdAt": "2026-01-08T16:00:00",
+    "updatedAt": "2026-01-08T16:00:00"
+  },
+  {
+    "id": "cmt-203-2",
+    "body": "Tested a booking end to end and the deposit landed in the account. Works great. Closing this one.",
+    "issueId": "WEB-203",
+    "userId": "user-jessica",
+    "createdAt": "2026-01-12T15:00:00",
+    "updatedAt": "2026-01-12T15:00:00"
+  },
+  {
+    "id": "cmt-206-1",
+    "body": "Bios for Ray and Claire are written and approved. Headshots uploaded to /assets/instructors/. Will get the rest of the part-time instructors in this week.",
+    "issueId": "WEB-206",
+    "userId": "user-jessica",
+    "createdAt": "2025-12-29T11:00:00",
+    "updatedAt": "2025-12-29T11:00:00"
+  },
+  {
+    "id": "cmt-207-1",
+    "body": "Store embed looks fine on desktop but overflows on mobile. May need a custom product grid instead of the default widget. Will put together both options before we build.",
+    "issueId": "WEB-207",
+    "userId": "user-marcus",
+    "createdAt": "2026-03-07T14:00:00",
+    "updatedAt": "2026-03-07T14:00:00"
+  },
+  {
+    "id": "cmt-208-1",
+    "body": "Moving this to a later cycle. Can't scope the student portal until the booking and payment flow is stable and we know how the student login will work.",
+    "issueId": "WEB-208",
+    "userId": "user-jessica",
+    "createdAt": "2026-03-08T10:00:00",
+    "updatedAt": "2026-03-08T10:00:00"
+  },
+  {
+    "id": "cmt-201-4",
+    "body": "Reviewed the summer camp roster \u2014 18 confirmed, 2 waitlist.",
+    "issueId": "WEB-201",
+    "userId": "user-jessica",
+    "createdAt": "2025-12-29T11:00:00",
+    "updatedAt": "2025-12-29T11:00:00"
+  },
+  {
+    "id": "cmt-201-6",
+    "body": "Second album pre-production: 6 tunes committed, 4 still under discussion.",
+    "issueId": "WEB-201",
+    "userId": "user-marcus",
+    "createdAt": "2025-12-29T13:15:00",
+    "updatedAt": "2025-12-29T13:15:00"
+  },
+  {
+    "id": "cmt-202-5",
+    "body": "5th Anniversary Showcase run-of-show draft complete.",
+    "issueId": "WEB-202",
+    "userId": "user-marcus",
+    "createdAt": "2025-12-29T12:00:00",
+    "updatedAt": "2025-12-29T12:00:00"
+  },
+  {
+    "id": "cmt-202-7",
+    "body": "Confirmed the lesson slot with the parent \u2014 Tuesday 4pm.",
+    "issueId": "WEB-202",
+    "userId": "user-marcus",
+    "createdAt": "2025-12-30T10:00:00",
+    "updatedAt": "2025-12-30T10:00:00"
+  },
+  {
+    "id": "cmt-203-7",
+    "body": "Ray suggested tightening the bridge on the fifth chart before the Spotlight Room date.",
+    "issueId": "WEB-203",
+    "userId": "user-marcus",
+    "createdAt": "2026-01-08T16:00:00",
+    "updatedAt": "2026-01-08T16:00:00"
+  },
+  {
+    "id": "cmt-203-9",
+    "body": "Claire flagged that we need a substitute for Thursday's ensemble.",
+    "issueId": "WEB-203",
+    "userId": "user-jessica",
+    "createdAt": "2026-01-12T15:00:00",
+    "updatedAt": "2026-01-12T15:00:00"
+  },
+  {
+    "id": "cmt-206-9",
+    "body": "Sofia asked about the winter choir concert \u2014 logistics locked in.",
+    "issueId": "WEB-206",
+    "userId": "user-jessica",
+    "createdAt": "2025-12-29T11:00:00",
+    "updatedAt": "2025-12-29T11:00:00"
+  },
+  {
+    "id": "cmt-207-10",
+    "body": "Frank sent notes on the Coltrane transcription \u2014 apply on Sunday.",
+    "issueId": "WEB-207",
+    "userId": "user-marcus",
+    "createdAt": "2026-03-07T14:00:00",
+    "updatedAt": "2026-03-07T14:00:00"
+  },
+  {
+    "id": "cmt-208-11",
+    "body": "Tomoko rescheduled the Tuesday rehearsal to 7:15.",
+    "issueId": "WEB-208",
+    "userId": "user-jessica",
+    "createdAt": "2026-03-08T10:00:00",
+    "updatedAt": "2026-03-08T10:00:00"
+  }
+]

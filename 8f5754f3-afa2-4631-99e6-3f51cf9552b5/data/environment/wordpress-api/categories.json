@@ -1,0 +1,162 @@
+[
+  {
+    "id": "10",
+    "name": "News",
+    "slug": "news",
+    "description": "Announcements and updates from Eleanor's Tavern.",
+    "parent": "0",
+    "count": "9"
+  },
+  {
+    "id": "11",
+    "name": "Events",
+    "slug": "events",
+    "description": "Wine tastings, private events, and tavern happenings.",
+    "parent": "0",
+    "count": "7"
+  },
+  {
+    "id": "12",
+    "name": "Menu",
+    "slug": "menu",
+    "description": "New dishes, seasonal menu changes, and chef's picks.",
+    "parent": "0",
+    "count": "6"
+  },
+  {
+    "id": "13",
+    "name": "Hours & Holidays",
+    "slug": "hours-holidays",
+    "description": "Holiday hours and schedule changes.",
+    "parent": "0",
+    "count": "4"
+  },
+  {
+    "id": "14",
+    "name": "Patio",
+    "slug": "patio",
+    "description": "News about our seasonal Broadway patio.",
+    "parent": "11",
+    "count": "3"
+  },
+  {
+    "id": "15",
+    "name": "Wine & Beer",
+    "slug": "wine-beer",
+    "description": "Our American wine list and craft beer selections.",
+    "parent": "0",
+    "count": "8"
+  },
+  {
+    "id": "16",
+    "name": "Chef's Corner",
+    "slug": "chefs-corner",
+    "description": "Notes and recipes from head chef Daniel McGee.",
+    "parent": "0",
+    "count": "5"
+  },
+  {
+    "id": "17",
+    "name": "Recipes",
+    "slug": "recipes",
+    "description": "House recipes you can try at home, from Eleanor's kitchen.",
+    "parent": "16",
+    "count": "4"
+  },
+  {
+    "id": "18",
+    "name": "Wine Tastings",
+    "slug": "wine-tastings",
+    "description": "Recaps and announcements for our wine tasting series.",
+    "parent": "11",
+    "count": "5"
+  },
+  {
+    "id": "19",
+    "name": "Private Events",
+    "slug": "private-events",
+    "description": "Booking your private party or celebration at the tavern.",
+    "parent": "11",
+    "count": "4"
+  },
+  {
+    "id": "20",
+    "name": "Specials",
+    "slug": "specials",
+    "description": "Daily and seasonal specials from the kitchen.",
+    "parent": "12",
+    "count": "7"
+  },
+  {
+    "id": "21",
+    "name": "Seafood",
+    "slug": "seafood",
+    "description": "Fresh fish dishes from Atlantic Seafood Supply.",
+    "parent": "12",
+    "count": "3"
+  },
+  {
+    "id": "22",
+    "name": "Desserts & Pies",
+    "slug": "desserts-pies",
+    "description": "House-made pies and dessert features.",
+    "parent": "12",
+    "count": "4"
+  },
+  {
+    "id": "23",
+    "name": "Jazz Sundays",
+    "slug": "jazz-sundays",
+    "description": "Live jazz brunch every Sunday at Eleanor's.",
+    "parent": "11",
+    "count": "6"
+  },
+  {
+    "id": "24",
+    "name": "Trivia Night",
+    "slug": "trivia-night",
+    "description": "Tuesday trivia recaps, winners, and signups.",
+    "parent": "11",
+    "count": "3"
+  },
+  {
+    "id": "25",
+    "name": "Community",
+    "slug": "community",
+    "description": "Eleanor's Tavern in the Astoria community.",
+    "parent": "0",
+    "count": "5"
+  },
+  {
+    "id": "26",
+    "name": "Game Days",
+    "slug": "game-days",
+    "description": "NYCFC, Celtics, and Red Sox watch parties.",
+    "parent": "25",
+    "count": "4"
+  },
+  {
+    "id": "27",
+    "name": "Gift Cards",
+    "slug": "gift-cards",
+    "description": "Gift card promotions and seasonal offers.",
+    "parent": "10",
+    "count": "2"
+  },
+  {
+    "id": "28",
+    "name": "Behind the Scenes",
+    "slug": "behind-the-scenes",
+    "description": "A look inside the kitchen and our team.",
+    "parent": "0",
+    "count": "3"
+  },
+  {
+    "id": "29",
+    "name": "Vendors & Sourcing",
+    "slug": "vendors-sourcing",
+    "description": "Where our seafood, produce, and meats come from.",
+    "parent": "28",
+    "count": "2"
+  }
+]

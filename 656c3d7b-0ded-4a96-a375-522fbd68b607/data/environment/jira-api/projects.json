@@ -1,0 +1,34 @@
+[
+  {
+    "description": "Core platform tracking.",
+    "id": "10000",
+    "key": "PLAT",
+    "lead": "Patricia Langston",
+    "name": "Platform",
+    "project_type_key": "software"
+  },
+  {
+    "description": "Internal operations + support.",
+    "id": "10001",
+    "key": "OPS",
+    "lead": "Patricia Langston",
+    "name": "Operations",
+    "project_type_key": "service_desk"
+  },
+  {
+    "description": "Bioinformatics core engineering group at Haverstone.",
+    "id": "proj-biox",
+    "key": "BIOX",
+    "lead": "Dorothy Langston",
+    "name": "Bioinformatics Core",
+    "project_type_key": "software"
+  },
+  {
+    "description": "Langston Lab pipeline projects.",
+    "id": "proj-lng",
+    "key": "LNG",
+    "lead": "Dorothy Langston",
+    "name": "Langston Lab Pipelines",
+    "project_type_key": "software"
+  }
+]

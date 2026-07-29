@@ -1,0 +1,101 @@
+[
+  {
+    "Id": "1",
+    "Name": "Advanced Ballet Class Instruction",
+    "Description": "Saturday 10 AM-12 PM advanced class at Thornfield Ballet Academy - monthly stipend basis.",
+    "Type": "Service",
+    "UnitPrice": 500.0,
+    "IncomeAccountRef_value": "3",
+    "IncomeAccountRef_name": "Ballet Teaching Stipend Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "2",
+    "Name": "Ballet Choreography Consulting",
+    "Description": "One-off choreography consulting for guest studios and school programs.",
+    "Type": "Service",
+    "UnitPrice": 150.0,
+    "IncomeAccountRef_value": "3",
+    "IncomeAccountRef_name": "Ballet Teaching Stipend Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "3",
+    "Name": "Guest Lecture / Invited Seminar",
+    "Description": "Guest lecture or invited seminar honorarium (per event).",
+    "Type": "Service",
+    "UnitPrice": 500.0,
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Guest Lecture Fees",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "4",
+    "Name": "Panel Session Speaker",
+    "Description": "Panel session speaker honorarium.",
+    "Type": "Service",
+    "UnitPrice": 300.0,
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Guest Lecture Fees",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "5",
+    "Name": "Textbook Royalty (Undergraduate CompBio)",
+    "Description": "Quarterly royalty on undergraduate computational biology textbook.",
+    "Type": "Service",
+    "UnitPrice": 0.0,
+    "IncomeAccountRef_value": "4",
+    "IncomeAccountRef_name": "Textbook Royalties Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "6",
+    "Name": "Conference Travel Reimbursement",
+    "Description": "Reimbursement of pre-approved conference travel via grant or host.",
+    "Type": "Service",
+    "UnitPrice": 0.0,
+    "IncomeAccountRef_value": "6",
+    "IncomeAccountRef_name": "Conference Reimbursements Received",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "7",
+    "Name": "Editorial Honorarium",
+    "Description": "Special-issue editorial honorarium.",
+    "Type": "Service",
+    "UnitPrice": 750.0,
+    "IncomeAccountRef_value": "5",
+    "IncomeAccountRef_name": "Guest Lecture Fees",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "8",
+    "Name": "Master Class Instruction (Ballet)",
+    "Description": "One-day master class fee for the Spring Break Master Class series.",
+    "Type": "Service",
+    "UnitPrice": 350.0,
+    "IncomeAccountRef_value": "3",
+    "IncomeAccountRef_name": "Ballet Teaching Stipend Income",
+    "Active": "true",
+    "Taxable": "false"
+  },
+  {
+    "Id": "9",
+    "Name": "Advanced Class Recital Coordination Fee",
+    "Description": "Coordination fee for the March showcase, invoiced to the academy.",
+    "Type": "Service",
+    "UnitPrice": 400.0,
+    "IncomeAccountRef_value": "3",
+    "IncomeAccountRef_name": "Ballet Teaching Stipend Income",
+    "Active": "true",
+    "Taxable": "false"
+  }
+]

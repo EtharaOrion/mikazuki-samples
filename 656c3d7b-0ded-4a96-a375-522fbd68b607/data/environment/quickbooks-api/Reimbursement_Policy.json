@@ -1,0 +1,43 @@
+{
+  "policy_name": "Haverstone University Faculty Reimbursement Policy (Summary)",
+  "version": "2026.Q3_Updated",
+  "context": "Summary of Haverstone University faculty reimbursement policy as applied to Dorothy Langston's grant-funded travel (Whitfield Foundation, National Genomics Consortium). Filed alongside personal QuickBooks tracking for Schedule C.",
+  "validation_rules": [
+    {
+      "rule": "Alcohol",
+      "requirement": "Alcohol charges on grant-reimbursed travel",
+      "action": "Manual Review",
+      "notes": "Not reimbursable through Whitfield or NGC grants. Personal expense only."
+    },
+    {
+      "rule": "Duplicates",
+      "requirement": "Duplicate receipt uploads",
+      "action": "Reject",
+      "notes": "Only one valid receipt per expense."
+    },
+    {
+      "rule": "Reprints",
+      "requirement": "Reprinted receipts",
+      "action": "Review",
+      "notes": "Require matching bank statement line for verification."
+    },
+    {
+      "rule": "Missing Total",
+      "requirement": "Receipts missing total or itemization",
+      "action": "Reject",
+      "notes": "Full itemized receipt required."
+    },
+    {
+      "rule": "Late Submission",
+      "requirement": "Reimbursement request submitted more than 60 days after travel",
+      "action": "Manual Review",
+      "notes": "Escalate to Office of Sponsored Research if delayed past 90 days."
+    },
+    {
+      "rule": "Non-Grant Travel",
+      "requirement": "Travel unrelated to Whitfield/NGC grant work",
+      "action": "Route to department",
+      "notes": "Departmental funding via Haverstone Biological Sciences."
+    }
+  ]
+}

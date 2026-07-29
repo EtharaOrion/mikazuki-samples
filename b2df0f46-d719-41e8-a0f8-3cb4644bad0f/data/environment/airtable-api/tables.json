@@ -1,0 +1,23 @@
+[
+  {
+    "baseId": "appBFLfirm0001",
+    "id": "tblBFLProjects00",
+    "name": "Projects",
+    "primaryFieldId": "fldBFLProjName01",
+    "records_csv": "records_projects.json"
+  },
+  {
+    "baseId": "appBFLfirm0001",
+    "id": "tblBFLTasks00001",
+    "name": "Tasks",
+    "primaryFieldId": "fldBFLTaskName01",
+    "records_csv": "records_tasks.json"
+  },
+  {
+    "baseId": "appBFLfirm0001",
+    "id": "tblBFLContacts01",
+    "name": "Contacts",
+    "primaryFieldId": "fldBFLContactNm1",
+    "records_csv": "records_contacts.json"
+  }
+]

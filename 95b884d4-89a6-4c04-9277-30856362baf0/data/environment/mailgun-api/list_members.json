@@ -1,0 +1,16 @@
+[
+  {
+    "list_address": "newsletter@sandbox.mailgun.org",
+    "address": "alice@example.com",
+    "name": "Alice Adams",
+    "subscribed": "true",
+    "vars": "{\"plan\":\"pro\"}"
+  },
+  {
+    "list_address": "developers@sandbox.mailgun.org",
+    "address": "erin@example.com",
+    "name": "Erin Evans",
+    "subscribed": "true",
+    "vars": "{\"team\":\"backend\"}"
+  }
+]

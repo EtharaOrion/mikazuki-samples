@@ -1,0 +1,20 @@
+[
+  {
+    "user_id": 100001,
+    "first_name": "Jessica",
+    "last_name": "Webb",
+    "email": "jessica.webb@finthesiss.ai",
+    "role": "owner",
+    "device_access": "all",
+    "shared_at": "2023-01-10T10:00:00.000Z"
+  },
+  {
+    "user_id": 100002,
+    "first_name": "Sofia",
+    "last_name": "Webb",
+    "email": "sofia.webb@gmail.com",
+    "role": "shared_user",
+    "device_access": "all",
+    "shared_at": "2023-02-01T09:00:00.000Z"
+  }
+]

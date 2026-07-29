@@ -1,0 +1,234 @@
+[
+  {
+    "id": "menu-clam-chowder",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Clam Chowder\", \"section\": \"Starters\", \"description\": \"New England-style, cup or bowl\", \"price\": 13.0, \"available\": true}"
+  },
+  {
+    "id": "menu-tavern-wings",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Tavern Wings\", \"section\": \"Starters\", \"description\": \"House-brined, tossed in our tavern sauce\", \"price\": 14.0, \"available\": true}"
+  },
+  {
+    "id": "menu-brussels-sprouts",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Crispy Brussels Sprouts\", \"section\": \"Starters\", \"description\": \"Crispy with a maple-bacon glaze\", \"price\": 12.0, \"available\": true}"
+  },
+  {
+    "id": "menu-charred-octopus",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Charred Octopus\", \"section\": \"Starters\", \"description\": \"Charred octopus with smoked paprika\", \"price\": 16.0, \"available\": true}"
+  },
+  {
+    "id": "menu-deviled-eggs",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Deviled Eggs\", \"section\": \"Starters\", \"description\": \"Classic deviled eggs, six halves\", \"price\": 10.0, \"available\": true}"
+  },
+  {
+    "id": "menu-soft-pretzel",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"House Soft Pretzel\", \"section\": \"Starters\", \"description\": \"Warm soft pretzel with beer mustard\", \"price\": 9.0, \"available\": true}"
+  },
+  {
+    "id": "menu-pot-roast",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Eleanor's Pot Roast\", \"section\": \"Mains\", \"description\": \"Our signature dish, grandmother Eleanor's recipe\", \"price\": 28.0, \"available\": true}"
+  },
+  {
+    "id": "menu-ny-strip",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Grilled NY Strip\", \"section\": \"Mains\", \"description\": \"12oz grilled New York strip\", \"price\": 38.0, \"available\": true}"
+  },
+  {
+    "id": "menu-steak-sandwich",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Steak Sandwich\", \"section\": \"Mains\", \"description\": \"Shaved steak on a toasted roll\", \"price\": 19.0, \"available\": true}"
+  },
+  {
+    "id": "menu-shepherds-pie",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Shepherd's Pie\", \"section\": \"Mains\", \"description\": \"Lamb and beef under mashed potato\", \"price\": 24.0, \"available\": true}"
+  },
+  {
+    "id": "menu-grilled-salmon",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Grilled Atlantic Salmon\", \"section\": \"Mains\", \"description\": \"Atlantic salmon, sourced fresh weekly\", \"price\": 29.0, \"available\": true}"
+  },
+  {
+    "id": "menu-pan-seared-cod",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Pan-Seared Cod\", \"section\": \"Mains\", \"description\": \"Pan-seared cod with brown butter\", \"price\": 27.0, \"available\": true}"
+  },
+  {
+    "id": "menu-clay-pot-chicken",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Clay-Pot Chicken\", \"section\": \"Mains\", \"description\": \"Slow-cooked clay-pot chicken\", \"price\": 26.0, \"available\": true}"
+  },
+  {
+    "id": "menu-tavern-burger",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Tavern Burger\", \"section\": \"Mains\", \"description\": \"House blend with aged cheddar\", \"price\": 18.0, \"available\": true}"
+  },
+  {
+    "id": "menu-meatloaf",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Meatloaf\", \"section\": \"Mains\", \"description\": \"Tavern meatloaf with gravy\", \"price\": 22.0, \"available\": true}"
+  },
+  {
+    "id": "menu-fish-and-chips",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Fish & Chips\", \"section\": \"Mains\", \"description\": \"Beer-battered cod and fries\", \"price\": 21.0, \"available\": true}"
+  },
+  {
+    "id": "menu-garlic-mashed",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Garlic Mashed Potatoes\", \"section\": \"Sides\", \"description\": \"Creamy garlic mashed potatoes\", \"price\": 8.0, \"available\": true}"
+  },
+  {
+    "id": "menu-maple-carrots",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Maple Roasted Carrots\", \"section\": \"Sides\", \"description\": \"Roasted carrots with maple glaze\", \"price\": 7.0, \"available\": true}"
+  },
+  {
+    "id": "menu-mac-and-cheese",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Mac & Cheese\", \"section\": \"Sides\", \"description\": \"Three-cheese baked macaroni\", \"price\": 9.0, \"available\": true}"
+  },
+  {
+    "id": "menu-apple-pie",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"House Apple Pie\", \"section\": \"Desserts\", \"description\": \"House-made apple pie\", \"price\": 10.0, \"available\": true}"
+  },
+  {
+    "id": "menu-bourbon-pecan-pie",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Bourbon Pecan Pie\", \"section\": \"Desserts\", \"description\": \"Pecan pie with a splash of bourbon\", \"price\": 11.0, \"available\": true}"
+  },
+  {
+    "id": "menu-seasonal-cobbler",
+    "content_type": "menuItem",
+    "created_at": "2025-01-12T10:00:00.000Z",
+    "updated_at": "2026-02-08T15:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"name\": \"Seasonal Cobbler\", \"section\": \"Desserts\", \"description\": \"Cobbler made with what's in season\", \"price\": 10.0, \"available\": true}"
+  },
+  {
+    "id": "event-wine-tasting-fall",
+    "content_type": "event",
+    "created_at": "2026-02-22T12:00:00.000Z",
+    "updated_at": "2026-03-01T10:00:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"title\": \"American Craft Wine Tasting \\u2014 Fall Release\", \"slug\": \"wine-tasting-fall\", \"date\": \"2026-10-22T19:00:00.000Z\", \"description\": \"Five American wines paired with five small plates from Chef Daniel, presented with Hudson Valley Wine Imports.\", \"published\": true}"
+  },
+  {
+    "id": "event-wine-tasting-winter",
+    "content_type": "event",
+    "created_at": "2026-02-22T12:00:00.000Z",
+    "updated_at": "2026-03-01T10:00:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"title\": \"American Craft Wine Tasting \\u2014 Winter Reds\", \"slug\": \"wine-tasting-winter\", \"date\": \"2026-12-03T19:00:00.000Z\", \"description\": \"A cozy evening of American red wines and warm tavern plates.\", \"published\": true}"
+  },
+  {
+    "id": "event-nye-prix-fixe",
+    "content_type": "event",
+    "created_at": "2026-02-22T12:00:00.000Z",
+    "updated_at": "2026-03-01T10:00:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"title\": \"New Year's Eve Prix Fixe\", \"slug\": \"nye-prix-fixe\", \"date\": \"2026-12-31T18:00:00.000Z\", \"description\": \"A four-course prix fixe to ring in 2027, including a glass of sparkling at midnight.\", \"published\": true}"
+  },
+  {
+    "id": "event-private-events",
+    "content_type": "event",
+    "created_at": "2026-02-22T12:00:00.000Z",
+    "updated_at": "2026-03-01T10:00:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"title\": \"Private Events at Eleanor's\", \"slug\": \"private-events\", \"date\": \"2026-01-01T00:00:00.000Z\", \"description\": \"Book the back room for up to 30 guests for rehearsal dinners, birthdays, and office parties.\", \"published\": true}"
+  },
+  {
+    "id": "page-menu",
+    "content_type": "page",
+    "created_at": "2025-01-10T10:00:00.000Z",
+    "updated_at": "2026-01-15T16:00:00.000Z",
+    "published_version": "4",
+    "fields_json": "{\"title\": \"Menu\", \"slug\": \"menu\", \"body\": \"The full Eleanor's Tavern menu of American tavern fare, American wine, and craft beer.\", \"published\": true}"
+  },
+  {
+    "id": "page-about",
+    "content_type": "page",
+    "created_at": "2025-01-10T10:00:00.000Z",
+    "updated_at": "2026-01-15T16:00:00.000Z",
+    "published_version": "4",
+    "fields_json": "{\"title\": \"About\", \"slug\": \"about\", \"body\": \"Eleanor's Tavern, named for Carlton McGee's grandmother Eleanor, has served Astoria since 2015.\", \"published\": true}"
+  },
+  {
+    "id": "page-hours-location",
+    "content_type": "page",
+    "created_at": "2025-01-10T10:00:00.000Z",
+    "updated_at": "2026-01-15T16:00:00.000Z",
+    "published_version": "4",
+    "fields_json": "{\"title\": \"Hours & Location\", \"slug\": \"hours-location\", \"body\": \"31-09 Broadway, Astoria, NY 11106. Closed Monday. Open Tuesday through Sunday.\", \"published\": true}"
+  }
+]

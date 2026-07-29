@@ -1,0 +1,74 @@
+[
+  {
+    "objectID": "prod-001",
+    "name": "Performance Assessment",
+    "description": "Full athletic performance screen with force-plate and movement analysis.",
+    "category": "assessment",
+    "brand": "Bridgeport Avenue Elementary (Hartford Public Schools)",
+    "price": "199.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-002",
+    "name": "Return-to-Sport Testing",
+    "description": "Objective testing battery to clear athletes for return to play.",
+    "category": "assessment",
+    "brand": "Bridgeport Avenue Elementary (Hartford Public Schools)",
+    "price": "175.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-003",
+    "name": "ACL Recovery Program",
+    "description": "12-week guided rehabilitation program after ACL reconstruction.",
+    "category": "program",
+    "brand": "Bridgeport Avenue Elementary (Hartford Public Schools)",
+    "price": "1200.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-004",
+    "name": "Single PT Session",
+    "description": "One-on-one physical therapy treatment session.",
+    "category": "session",
+    "brand": "Bridgeport Avenue Elementary (Hartford Public Schools)",
+    "price": "150.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-005",
+    "name": "Recovery Session",
+    "description": "AlterG treadmill and guided recovery session.",
+    "category": "session",
+    "brand": "Bridgeport Avenue Elementary (Hartford Public Schools)",
+    "price": "90.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-006",
+    "name": "Strength Block",
+    "description": "Six-week strength and conditioning training block.",
+    "category": "program",
+    "brand": "Bridgeport Avenue Elementary (Hartford Public Schools)",
+    "price": "600.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-007",
+    "name": "Movement Screen",
+    "description": "Functional movement screen with corrective plan.",
+    "category": "assessment",
+    "brand": "Bridgeport Avenue Elementary (Hartford Public Schools)",
+    "price": "120.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-008",
+    "name": "Team Screening Package",
+    "description": "Pre-season athlete screening for clubs and teams.",
+    "category": "program",
+    "brand": "Bridgeport Avenue Elementary (Hartford Public Schools)",
+    "price": "2500.00",
+    "in_stock": "true"
+  }
+]

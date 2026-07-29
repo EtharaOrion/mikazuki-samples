@@ -1,0 +1,202 @@
+[
+  {
+    "createdTime": "2026-03-16T00:00:00Z",
+    "dataEndTime": "2026-03-16T00:00:00Z",
+    "dataStartTime": "2026-02-17T00:00:00Z",
+    "processingEndTime": "2026-03-17T00:00:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.1bc4378f41d1ecc0",
+    "reportId": "REP-001",
+    "reportStatus": "DONE",
+    "reportType": "GET_FLAT_FILE_OPEN_LISTINGS_DATA"
+  },
+  {
+    "createdTime": "2026-03-15T00:00:00Z",
+    "dataEndTime": "2026-03-15T00:00:00Z",
+    "dataStartTime": "2026-02-16T00:00:00Z",
+    "processingEndTime": "2026-03-16T00:00:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.8c09fca51ef14fd1",
+    "reportId": "REP-002",
+    "reportStatus": "DONE",
+    "reportType": "GET_MERCHANT_LISTINGS_ALL_DATA"
+  },
+  {
+    "createdTime": "2026-03-14T00:00:00Z",
+    "dataEndTime": "2026-03-14T00:00:00Z",
+    "dataStartTime": "2026-02-15T00:00:00Z",
+    "processingEndTime": "2026-03-15T00:00:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.1da4d49330f37719",
+    "reportId": "REP-003",
+    "reportStatus": "DONE",
+    "reportType": "GET_FBA_FULFILLMENT_CURRENT_INVENTORY_DATA"
+  },
+  {
+    "createdTime": "2026-03-13T00:00:00Z",
+    "dataEndTime": "2026-03-13T00:00:00Z",
+    "dataStartTime": "2026-02-14T00:00:00Z",
+    "processingEndTime": "2026-03-14T00:00:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.486d4444212e9a2e",
+    "reportId": "REP-004",
+    "reportStatus": "DONE",
+    "reportType": "GET_FLAT_FILE_OPEN_LISTINGS_DATA"
+  },
+  {
+    "createdTime": "2026-03-12T00:00:00Z",
+    "dataEndTime": "2026-03-12T00:00:00Z",
+    "dataStartTime": "2026-02-13T00:00:00Z",
+    "processingEndTime": "2026-03-13T00:00:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.42ff6fd4c4f65b69",
+    "reportId": "REP-005",
+    "reportStatus": "DONE",
+    "reportType": "GET_MERCHANT_LISTINGS_ALL_DATA"
+  },
+  {
+    "createdTime": "2026-03-11T00:00:00Z",
+    "dataEndTime": "2026-03-11T00:00:00Z",
+    "dataStartTime": "2026-02-12T00:00:00Z",
+    "processingEndTime": "2026-03-12T00:00:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.89c2c4c4fcee5f58",
+    "reportId": "REP-006",
+    "reportStatus": "DONE",
+    "reportType": "GET_FBA_FULFILLMENT_CURRENT_INVENTORY_DATA"
+  },
+  {
+    "createdTime": "2026-03-10T00:00:00Z",
+    "dataEndTime": "2026-03-10T00:00:00Z",
+    "dataStartTime": "2026-02-11T00:00:00Z",
+    "processingEndTime": "2026-03-11T00:00:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.7c2bb523275dda31",
+    "reportId": "REP-007",
+    "reportStatus": "DONE",
+    "reportType": "GET_FLAT_FILE_OPEN_LISTINGS_DATA"
+  },
+  {
+    "createdTime": "2026-03-09T00:00:00Z",
+    "dataEndTime": "2026-03-09T00:00:00Z",
+    "dataStartTime": "2026-02-10T00:00:00Z",
+    "processingEndTime": "2026-03-10T00:00:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.15855dbad723333a",
+    "reportId": "REP-008",
+    "reportStatus": "DONE",
+    "reportType": "GET_MERCHANT_LISTINGS_ALL_DATA"
+  },
+  {
+    "createdTime": "2026-03-08T00:00:00Z",
+    "dataEndTime": "2026-03-08T00:00:00Z",
+    "dataStartTime": "2026-02-09T00:00:00Z",
+    "processingEndTime": "2026-03-08T02:05:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.337c3e48090fddbe",
+    "reportId": "REP-009",
+    "reportStatus": "IN_PROGRESS",
+    "reportType": "GET_FBA_FULFILLMENT_CURRENT_INVENTORY_DATA"
+  },
+  {
+    "createdTime": "2026-03-07T00:00:00Z",
+    "dataEndTime": "2026-03-07T00:00:00Z",
+    "dataStartTime": "2026-02-08T00:00:00Z",
+    "processingEndTime": "2026-03-07T02:05:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.c93d710132d5cdce",
+    "reportId": "REP-010",
+    "reportStatus": "IN_PROGRESS",
+    "reportType": "GET_FLAT_FILE_OPEN_LISTINGS_DATA"
+  },
+  {
+    "createdTime": "2026-02-07T06:30:00Z",
+    "dataEndTime": "2026-01-31T06:30:00Z",
+    "dataStartTime": "2026-02-08T06:30:00Z",
+    "processingEndTime": "2026-02-06T06:30:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.1bc4378f41d1ecc0",
+    "reportId": "REP-001-r10",
+    "reportStatus": "DONE",
+    "reportType": "GET_FLAT_FILE_OPEN_LISTINGS_DATA"
+  },
+  {
+    "createdTime": "2026-02-13T06:30:00Z",
+    "dataEndTime": "2026-02-05T06:30:00Z",
+    "dataStartTime": "2026-02-12T06:30:00Z",
+    "processingEndTime": "2026-02-07T06:30:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.8c09fca51ef14fd1",
+    "reportId": "REP-002-r11",
+    "reportStatus": "DONE",
+    "reportType": "GET_MERCHANT_LISTINGS_ALL_DATA"
+  },
+  {
+    "createdTime": "2026-02-08T06:30:00Z",
+    "dataEndTime": "2026-02-09T06:30:00Z",
+    "dataStartTime": "2026-01-31T06:30:00Z",
+    "processingEndTime": "2026-02-05T06:30:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.1da4d49330f37719",
+    "reportId": "REP-003-r12",
+    "reportStatus": "DONE",
+    "reportType": "GET_FBA_FULFILLMENT_CURRENT_INVENTORY_DATA"
+  },
+  {
+    "createdTime": "2026-02-20T06:30:00Z",
+    "dataEndTime": "2026-02-10T06:30:00Z",
+    "dataStartTime": "2026-02-17T06:30:00Z",
+    "processingEndTime": "2026-01-26T06:30:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.486d4444212e9a2e",
+    "reportId": "REP-004-r13",
+    "reportStatus": "DONE",
+    "reportType": "GET_FLAT_FILE_OPEN_LISTINGS_DATA"
+  },
+  {
+    "createdTime": "2026-02-19T06:30:00Z",
+    "dataEndTime": "2026-02-20T06:30:00Z",
+    "dataStartTime": "2026-02-15T06:30:00Z",
+    "processingEndTime": "2026-02-10T06:30:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.42ff6fd4c4f65b69",
+    "reportId": "REP-005-r14",
+    "reportStatus": "DONE",
+    "reportType": "GET_MERCHANT_LISTINGS_ALL_DATA"
+  },
+  {
+    "createdTime": "2026-01-28T06:30:00Z",
+    "dataEndTime": "2026-01-29T06:30:00Z",
+    "dataStartTime": "2026-02-06T06:30:00Z",
+    "processingEndTime": "2026-01-26T06:30:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.89c2c4c4fcee5f58",
+    "reportId": "REP-006-r15",
+    "reportStatus": "DONE",
+    "reportType": "GET_FBA_FULFILLMENT_CURRENT_INVENTORY_DATA"
+  },
+  {
+    "createdTime": "2026-02-02T06:30:00Z",
+    "dataEndTime": "2026-02-05T06:30:00Z",
+    "dataStartTime": "2026-02-14T06:30:00Z",
+    "processingEndTime": "2026-02-02T06:30:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.7c2bb523275dda31",
+    "reportId": "REP-007-r16",
+    "reportStatus": "DONE",
+    "reportType": "GET_FLAT_FILE_OPEN_LISTINGS_DATA"
+  },
+  {
+    "createdTime": "2026-02-21T06:30:00Z",
+    "dataEndTime": "2026-02-09T06:30:00Z",
+    "dataStartTime": "2026-02-17T06:30:00Z",
+    "processingEndTime": "2026-02-03T06:30:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.15855dbad723333a",
+    "reportId": "REP-008-r17",
+    "reportStatus": "DONE",
+    "reportType": "GET_MERCHANT_LISTINGS_ALL_DATA"
+  },
+  {
+    "createdTime": "2026-02-17T06:30:00Z",
+    "dataEndTime": "2026-02-21T06:30:00Z",
+    "dataStartTime": "2026-02-09T06:30:00Z",
+    "processingEndTime": "2026-02-21T06:30:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.ee68a6813da7961b",
+    "reportId": "REP-009-r18",
+    "reportStatus": "IN_PROGRESS",
+    "reportType": "GET_FBA_FULFILLMENT_CURRENT_INVENTORY_DATA"
+  },
+  {
+    "createdTime": "2026-02-01T06:30:00Z",
+    "dataEndTime": "2026-02-06T06:30:00Z",
+    "dataStartTime": "2026-02-16T06:30:00Z",
+    "processingEndTime": "2026-02-06T06:30:00Z",
+    "reportDocumentId": "amzn1.tortuga.3.95abc31635a05646",
+    "reportId": "REP-010-r19",
+    "reportStatus": "IN_PROGRESS",
+    "reportType": "GET_FLAT_FILE_OPEN_LISTINGS_DATA"
+  }
+]

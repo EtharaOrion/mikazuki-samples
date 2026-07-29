@@ -1,0 +1,38 @@
+[
+  {
+    "account_id": "acc-dorothy-langston-chk-001",
+    "name": "Personal Checking",
+    "official_name": "Dorothy Langston Personal Checking",
+    "mask": "9772",
+    "type": "depository",
+    "subtype": "checking",
+    "available": 8420.55,
+    "current": 8520.55,
+    "limit": "30",
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc-dorothy-langston-sav-001",
+    "name": "Wedding Fund Savings",
+    "official_name": "Dorothy Langston Wedding Fund High-Yield Savings",
+    "mask": "9674",
+    "type": "depository",
+    "subtype": "savings",
+    "available": 18050.0,
+    "current": 18050.0,
+    "limit": "30",
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc-dorothy-langston-biz-001",
+    "name": "Langston Hospitality Group Operating",
+    "official_name": "Langston Hospitality Group Business Operating",
+    "mask": "5188",
+    "type": "depository",
+    "subtype": "checking",
+    "available": 42180.1,
+    "current": 44210.1,
+    "limit": "30",
+    "iso_currency_code": "USD"
+  }
+]

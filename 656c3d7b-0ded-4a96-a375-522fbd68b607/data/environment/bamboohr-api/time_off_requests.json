@@ -1,0 +1,98 @@
+[
+  {
+    "amount": 1,
+    "created": "2025-12-20",
+    "employeeId": "e201",
+    "end": "2026-01-02",
+    "id": "tor-bbef3b4b",
+    "notes": "Got it - will follow up after the lab meeting.",
+    "start": "2026-01-02",
+    "status": "approved",
+    "type": "Vacation",
+    "unit": "days"
+  },
+  {
+    "amount": 2,
+    "created": "2025-12-23",
+    "employeeId": "e202",
+    "end": "2026-01-11",
+    "id": "tor-667e95a0",
+    "notes": "Got it, will follow up after the lab meeting.",
+    "start": "2026-01-10",
+    "status": "requested",
+    "type": "Sick",
+    "unit": "days"
+  },
+  {
+    "amount": 3,
+    "created": "2025-12-22",
+    "employeeId": "e203",
+    "end": "2026-01-21",
+    "id": "tor-755de91d",
+    "notes": "Got it. Will follow up after the lab meeting.",
+    "start": "2026-01-19",
+    "status": "denied",
+    "type": "Personal",
+    "unit": "days"
+  },
+  {
+    "amount": 1,
+    "created": "2025-12-20",
+    "employeeId": "e204",
+    "end": "2026-01-24",
+    "id": "tor-6c0779fe",
+    "notes": "Got it - will follow up after the lab meeting.",
+    "start": "2026-01-24",
+    "status": "approved",
+    "type": "Bereavement",
+    "unit": "days"
+  },
+  {
+    "amount": 2,
+    "created": "2025-12-20",
+    "employeeId": "e205",
+    "end": "2026-02-02",
+    "id": "tor-55f624f3",
+    "notes": "Got it, will follow up after the lab meeting.",
+    "start": "2026-02-01",
+    "status": "requested",
+    "type": "Parental",
+    "unit": "days"
+  },
+  {
+    "amount": 3,
+    "created": "2025-12-23",
+    "employeeId": "e206",
+    "end": "2026-02-10",
+    "id": "tor-9b36fef3",
+    "notes": "Got it. Will follow up after the lab meeting.",
+    "start": "2026-02-08",
+    "status": "denied",
+    "type": "Vacation",
+    "unit": "days"
+  },
+  {
+    "amount": 1,
+    "created": "2025-12-24",
+    "employeeId": "e207",
+    "end": "2026-02-12",
+    "id": "tor-c73c3693",
+    "notes": "Got it - will follow up after the lab meeting.",
+    "start": "2026-02-12",
+    "status": "approved",
+    "type": "Sick",
+    "unit": "days"
+  },
+  {
+    "amount": 2,
+    "created": "2025-12-24",
+    "employeeId": "e208",
+    "end": "2026-02-24",
+    "id": "tor-637f9bba",
+    "notes": "Got it, will follow up after the lab meeting.",
+    "start": "2026-02-23",
+    "status": "requested",
+    "type": "Personal",
+    "unit": "days"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "description": "Working space for Haverstone University",
+    "id": 1001,
+    "key": "HAVER",
+    "name": "Haverstone University",
+    "status": "current",
+    "type": "global"
+  },
+  {
+    "description": "Cross-functional ops docs",
+    "id": 1002,
+    "key": "OPS",
+    "name": "Operations",
+    "status": "current",
+    "type": "global"
+  },
+  {
+    "description": "Engineering team space",
+    "id": 1003,
+    "key": "ENG",
+    "name": "Engineering",
+    "status": "current",
+    "type": "global"
+  },
+  {
+    "description": "Personal notes and drafts",
+    "id": 1004,
+    "key": "~dorothy-la",
+    "name": "Dorothy Langston - personal",
+    "status": "current",
+    "type": "personal"
+  },
+  {
+    "description": "Home space for the Langston Lab wiki",
+    "id": 1005,
+    "key": "LANGSTON",
+    "name": "Langston Lab",
+    "status": "current",
+    "type": "global"
+  },
+  {
+    "description": "Home space for tenure dossier docs",
+    "id": 1006,
+    "key": "TENURE",
+    "name": "Tenure Dossier 2026-27",
+    "status": "current",
+    "type": "global"
+  }
+]

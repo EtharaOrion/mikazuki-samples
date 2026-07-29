@@ -1,0 +1,202 @@
+[
+  {
+    "id": "pr0001aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "*eleanorstavern.com/wp-content/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": "1",
+    "created_on": "2025-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "pr0002aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "www.eleanorstavern.com/*",
+    "setting": "forwarding_url",
+    "value": "https://eleanorstavern.com/$1",
+    "status": "active",
+    "priority": "2",
+    "created_on": "2025-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "pr0003aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "eleanorstavern.com/wp-admin/*",
+    "setting": "cache_level",
+    "value": "bypass",
+    "status": "active",
+    "priority": "3",
+    "created_on": "2025-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "pr0004aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "*eleanorstavern.com/menu*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": "4",
+    "created_on": "2025-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "pr0005aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "*eleanorstavern.com/reservations*",
+    "setting": "cache_level",
+    "value": "bypass",
+    "status": "active",
+    "priority": "5",
+    "created_on": "2025-02-03T09:15:00.000Z"
+  },
+  {
+    "id": "pr0006aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "*eleanorstavern.com/wp-login.php*",
+    "setting": "security_level",
+    "value": "high",
+    "status": "active",
+    "priority": "6",
+    "created_on": "2025-02-03T09:20:00.000Z"
+  },
+  {
+    "id": "pr0007aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "eleanorstavern.com/blog/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": "7",
+    "created_on": "2025-03-11T14:00:00.000Z"
+  },
+  {
+    "id": "pr0008aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "*eleanorstavern.com/images/*",
+    "setting": "browser_cache_ttl",
+    "value": "86400",
+    "status": "active",
+    "priority": "8",
+    "created_on": "2025-03-11T14:05:00.000Z"
+  },
+  {
+    "id": "pr0009aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "eleanorstavern.com/private-events/*",
+    "setting": "cache_level",
+    "value": "standard",
+    "status": "active",
+    "priority": "9",
+    "created_on": "2025-01-02T11:30:00.000Z"
+  },
+  {
+    "id": "pr0010aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "*eleanorstavern.com/gift-cards*",
+    "setting": "ssl",
+    "value": "full",
+    "status": "active",
+    "priority": "10",
+    "created_on": "2025-01-02T11:35:00.000Z"
+  },
+  {
+    "id": "pr0011aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "eleanorstavern.com/wp-json/*",
+    "setting": "cache_level",
+    "value": "bypass",
+    "status": "active",
+    "priority": "11",
+    "created_on": "2025-02-19T08:45:00.000Z"
+  },
+  {
+    "id": "pr0012aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "*eleanorstavern.com/hours*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": "12",
+    "created_on": "2025-02-19T08:50:00.000Z"
+  },
+  {
+    "id": "pr0013aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "eleanorstavern.com/catering/*",
+    "setting": "cache_level",
+    "value": "standard",
+    "status": "active",
+    "priority": "13",
+    "created_on": "2025-03-08T10:10:00.000Z"
+  },
+  {
+    "id": "pr0014aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "*eleanorstavern.com/contact*",
+    "setting": "security_level",
+    "value": "medium",
+    "status": "active",
+    "priority": "14",
+    "created_on": "2025-03-08T10:15:00.000Z"
+  },
+  {
+    "id": "pr0015aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "eleanorstavern.com/feed/*",
+    "setting": "cache_level",
+    "value": "bypass",
+    "status": "disabled",
+    "priority": "15",
+    "created_on": "2025-01-21T13:25:00.000Z"
+  },
+  {
+    "id": "pr0016aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "*eleanorstavern.com/css/*",
+    "setting": "browser_cache_ttl",
+    "value": "604800",
+    "status": "active",
+    "priority": "16",
+    "created_on": "2025-01-21T13:30:00.000Z"
+  },
+  {
+    "id": "pr0017aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "*eleanorstavern.com/js/*",
+    "setting": "browser_cache_ttl",
+    "value": "604800",
+    "status": "active",
+    "priority": "17",
+    "created_on": "2025-02-14T09:00:00.000Z"
+  },
+  {
+    "id": "pr0018aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "eleanorstavern.com/sitemap.xml",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": "18",
+    "created_on": "2025-02-14T09:05:00.000Z"
+  },
+  {
+    "id": "pr0019aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "*eleanorstavern.com/about*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": "19",
+    "created_on": "2025-03-28T15:40:00.000Z"
+  },
+  {
+    "id": "pr0020aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "target": "old.eleanorstavern.com/*",
+    "setting": "forwarding_url",
+    "value": "https://eleanorstavern.com/$1",
+    "status": "active",
+    "priority": "20",
+    "created_on": "2025-03-28T15:45:00.000Z"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "93bc2999-dab1-8a96-4ad8-7b8bf07dfce8",
+    "name": "Vanguard Value ETF",
+    "symbol": "VTV",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "cd4246b4-4849-cda6-41f9-8f3e12f0f7ba",
+    "name": "Vanguard Growth ETF",
+    "symbol": "VUG",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "6afeedc5-31af-ca94-410c-a8b8d863fde9",
+    "name": "Apple Inc.",
+    "symbol": "AAPL",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "f93cb52c-8dba-d299-4346-908e0c731dee",
+    "name": "Microsoft Corporation",
+    "symbol": "MSFT",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "4dd2e491-c5ef-7cb0-4185-1f0b36e37078",
+    "name": "Alphabet Inc. Class A",
+    "symbol": "GOOGL",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "5894eae4-5549-3c91-46a7-6b53eea9d3d3",
+    "name": "Alphabet Inc. Class C",
+    "symbol": "GOOG",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "f746dff8-1fec-a59e-4232-4fdc01c6a217",
+    "name": "Amazon.com Inc.",
+    "symbol": "AMZN",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "4f62565a-9187-9bb3-466a-a0c232054d14",
+    "name": "Meta Platforms Inc.",
+    "symbol": "META",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "5b00af66-b0fd-8d88-44ed-e908424420df",
+    "name": "NVIDIA Corporation",
+    "symbol": "NVDA",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "e310a0b7-76d8-7586-4f61-b26e513ba458",
+    "name": "Tesla Inc.",
+    "symbol": "TSLA",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NYSE",
+    "fractionable": true,
+    "id": "1fe78636-af70-9ab4-4568-7f608675e36f",
+    "name": "Berkshire Hathaway Inc. Class B",
+    "symbol": "BRK.B",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NYSE",
+    "fractionable": true,
+    "id": "2298beb9-014e-3589-44ff-6053a429945d",
+    "name": "JPMorgan Chase & Co.",
+    "symbol": "JPM",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NYSE",
+    "fractionable": true,
+    "id": "be9258d9-5cba-2593-4e27-f3e2a3578b29",
+    "name": "Visa Inc.",
+    "symbol": "V",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NYSE",
+    "fractionable": true,
+    "id": "f13be514-dbcc-adbd-4a53-0face43f7d17",
+    "name": "Mastercard Incorporated",
+    "symbol": "MA",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "d2d2cef1-7293-f582-4aac-c74720d6172b",
+    "name": "Bank of America Corporation",
+    "symbol": "BAC",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "a527dae6-cbe7-a887-4e28-5274389d1852",
+    "name": "Wells Fargo & Company",
+    "symbol": "WFC",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "f3d5c5c8-0444-1f91-4303-ea34e0a56651",
+    "name": "The Goldman Sachs Group, Inc.",
+    "symbol": "GS",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "155e297a-7afa-1c97-4d53-c9abb638c563",
+    "name": "Morgan Stanley",
+    "symbol": "MS",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "869954a0-64bb-39a6-4dd0-348b16352547",
+    "name": "Citigroup Inc.",
+    "symbol": "C",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "dd9360a1-5d2d-7a80-49dd-c78d3ddd9352",
+    "name": "American Express Company",
+    "symbol": "AXP",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "4e385a58-461e-7e93-46a7-5584e63933a5",
+    "name": "BlackRock, Inc.",
+    "symbol": "BLK",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "918e8812-b4f9-10bf-4633-7faef51ab7d3",
+    "name": "The Charles Schwab Corporation",
+    "symbol": "SCHW",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "e71941ff-a990-07ac-41c1-fa3de12e3d9b",
+    "name": "UnitedHealth Group Incorporated",
+    "symbol": "UNH",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NYSE",
+    "fractionable": true,
+    "id": "02fce191-06d8-1f99-4038-0f992d30f0ea",
+    "name": "Johnson & Johnson",
+    "symbol": "JNJ",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "50c071e2-d725-09b2-49ff-62d62b27ee06",
+    "name": "Eli Lilly and Company",
+    "symbol": "LLY",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "acfc8289-8747-59a0-4427-731ecfb48917",
+    "name": "Pfizer Inc.",
+    "symbol": "PFE",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "a33f9ef2-4ded-94b6-433a-f1f58d902ef5",
+    "name": "Merck & Co., Inc.",
+    "symbol": "MRK",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "9dec224e-63bb-03bd-444d-fa32323560f7",
+    "name": "AbbVie Inc.",
+    "symbol": "ABBV",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "6ce4ff4c-e52d-3fae-43dc-f36f810d8c31",
+    "name": "Thermo Fisher Scientific Inc.",
+    "symbol": "TMO",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "041eaf46-c5b2-c287-4b37-e0251edc7795",
+    "name": "Abbott Laboratories",
+    "symbol": "ABT",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "07119a53-73be-3783-4309-7393bb75f54b",
+    "name": "CVS Health Corporation",
+    "symbol": "CVS",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "0cff59de-1fcf-be98-4ccb-7c72048f979d",
+    "name": "Danaher Corporation",
+    "symbol": "DHR",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NYSE",
+    "fractionable": true,
+    "id": "20af48c1-985b-37b4-40cf-fc4561420080",
+    "name": "Walmart Inc.",
+    "symbol": "WMT",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NYSE",
+    "fractionable": true,
+    "id": "3ae72047-7d04-38b6-4003-27e5d4e557a9",
+    "name": "The Procter & Gamble Company",
+    "symbol": "PG",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "5637d1f7-59df-a4af-4de7-f780c143e607",
+    "name": "The Coca-Cola Company",
+    "symbol": "KO",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "96dc95f2-79a6-9999-4cc3-da475b259dd4",
+    "name": "PepsiCo, Inc.",
+    "symbol": "PEP",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "ed5eab4c-6897-06bc-4e5b-fb6b66cd415f",
+    "name": "Costco Wholesale Corporation",
+    "symbol": "COST",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "7a05317a-8f5b-a58f-44ba-961940a99ab5",
+    "name": "McDonald's Corporation",
+    "symbol": "MCD",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "afc8a01d-ada1-b78f-4e32-b4a6fb870210",
+    "name": "NIKE, Inc.",
+    "symbol": "NKE",
+    "tradable": true
+  },
+  {
+    "asset_class": "us_equity",
+    "exchange": "NASDAQ",
+    "fractionable": true,
+    "id": "32f3cb60-b6e9-d19c-424e-79c4a18a117c",
+    "name": "Starbucks Corporation",
+    "symbol": "SBUX",
+    "tradable": true
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "ae6e3292-e53d-b04b-e161-26123c4e2754",
+    "symbol": "VTI",
+    "name": "Vanguard Total Stock Market ETF",
+    "exchange": "ARCA",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "76c31bb1-7aa4-85c5-8620-656a77c13b11",
+    "symbol": "BND",
+    "name": "Vanguard Total Bond Market ETF",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "e97de790-7e95-f762-8917-c59fcab3735e",
+    "symbol": "SPY",
+    "name": "SPDR S&P 500 ETF Trust",
+    "exchange": "ARCA",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "51763995-7570-086d-806d-a25eca52c2b1",
+    "symbol": "SCHD",
+    "name": "Schwab U.S. Dividend Equity ETF",
+    "exchange": "ARCA",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "22bb70bd-8cb6-4888-3fe8-dfaab2c008e6",
+    "symbol": "VXUS",
+    "name": "Vanguard Total International Stock ETF",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "367519e5-61d9-5b17-1298-4635221f9752",
+    "symbol": "VOO",
+    "name": "Vanguard S&P 500 ETF",
+    "exchange": "ARCA",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "714d32d4-5f6c-b3bc-336a-765119cb3c4c",
+    "symbol": "QQQ",
+    "name": "Invesco QQQ Trust",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "025a7501-0342-df56-f3d4-85ae7d0c5565",
+    "symbol": "VYM",
+    "name": "Vanguard High Dividend Yield ETF",
+    "exchange": "ARCA",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "71b36b48-eb42-0229-6dad-60b4e81bae59",
+    "symbol": "VIG",
+    "name": "Vanguard Dividend Appreciation ETF",
+    "exchange": "ARCA",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "59e171cb-90da-42e2-e97c-c469ca1ea5c7",
+    "symbol": "VEA",
+    "name": "Vanguard FTSE Developed Markets ETF",
+    "exchange": "ARCA",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "8b10e4ae-9eeb-5684-921a-9ab27e4d87aa",
+    "symbol": "AAPL",
+    "name": "Apple Inc. Common Stock",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "b004b3ec-de24-c85e-32c1-923f10d3fb62",
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation Common Stock",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "73aa25b0-87c8-e616-2460-03cbef1b4753",
+    "symbol": "JNJ",
+    "name": "Johnson and Johnson Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "49f38fe0-3598-e4d6-3f4a-0a8791c9c8b9",
+    "symbol": "PG",
+    "name": "Procter and Gamble Company Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "5fed318f-9c85-9ad1-b311-20392472c25a",
+    "symbol": "KO",
+    "name": "Coca-Cola Company Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "bc753df4-b894-ae19-5c58-995ef66d8e67",
+    "symbol": "JPM",
+    "name": "JPMorgan Chase and Co. Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "5a2c1675-19de-545f-68c3-a61c958d64f1",
+    "symbol": "BRK.B",
+    "name": "Berkshire Hathaway Inc. Class B",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "27178471-f2c4-019c-872d-1545a0f154c7",
+    "symbol": "HD",
+    "name": "Home Depot Inc. Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "ab9e914f-db40-ef4b-8924-8140f0082aa4",
+    "symbol": "COST",
+    "name": "Costco Wholesale Corporation Common Stock",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "23d8bc2b-33aa-76cd-40f6-61c9e181ef67",
+    "symbol": "MCD",
+    "name": "McDonalds Corporation Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "06e446cd-76a5-8a81-26f5-7333bc200639",
+    "symbol": "PEP",
+    "name": "PepsiCo Inc. Common Stock",
+    "exchange": "NASDAQ",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  },
+  {
+    "id": "5206560a-306a-2e08-5a43-7fd258eb57ce",
+    "symbol": "V",
+    "name": "Visa Inc. Class A Common Stock",
+    "exchange": "NYSE",
+    "asset_class": "us_equity",
+    "tradable": "true",
+    "fractionable": "true"
+  }
+]

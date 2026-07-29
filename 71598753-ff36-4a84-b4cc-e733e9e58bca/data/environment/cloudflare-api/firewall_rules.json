@@ -1,0 +1,202 @@
+[
+  {
+    "action": "block",
+    "created_on": "2024-02-01T09:00:00.000000Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "fw-bfl-bots",
+    "paused": "false",
+    "priority": "1",
+    "zone_id": "zone-brooksfamilylaw"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2024-02-01T09:00:00.000000Z",
+    "description": "Challenge contact-form spam",
+    "expression": "(http.request.uri.path eq \"/wp-content/plugins/contact-form-7/submit\")",
+    "id": "fw-bfl-contact-form",
+    "paused": "false",
+    "priority": "2",
+    "zone_id": "zone-brooksfamilylaw"
+  },
+  {
+    "action": "block",
+    "created_on": "2026-02-02T06:30:00Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "fw-bfl-bots-p2",
+    "paused": "false",
+    "priority": "1",
+    "zone_id": "zone-brooksfamilylaw-p2"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2026-02-18T06:30:00Z",
+    "description": "Challenge contact-form spam",
+    "expression": "(http.request.uri.path eq \"/wp-content/plugins/contact-form-7/submit\")",
+    "id": "fw-bfl-contact-form-p3",
+    "paused": "false",
+    "priority": "2",
+    "zone_id": "zone-brooksfamilylaw-p3"
+  },
+  {
+    "action": "block",
+    "created_on": "2026-02-18T06:30:00Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "fw-bfl-bots-p4",
+    "paused": "false",
+    "priority": "1",
+    "zone_id": "zone-brooksfamilylaw-p4"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2026-02-06T06:30:00Z",
+    "description": "Challenge contact-form spam",
+    "expression": "(http.request.uri.path eq \"/wp-content/plugins/contact-form-7/submit\")",
+    "id": "fw-bfl-contact-form-p5",
+    "paused": "false",
+    "priority": "2",
+    "zone_id": "zone-brooksfamilylaw-p5"
+  },
+  {
+    "action": "block",
+    "created_on": "2026-02-03T06:30:00Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "fw-bfl-bots-p6",
+    "paused": "false",
+    "priority": "1",
+    "zone_id": "zone-brooksfamilylaw-p6"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2026-02-13T06:30:00Z",
+    "description": "Challenge contact-form spam",
+    "expression": "(http.request.uri.path eq \"/wp-content/plugins/contact-form-7/submit\")",
+    "id": "fw-bfl-contact-form-p7",
+    "paused": "false",
+    "priority": "2",
+    "zone_id": "zone-brooksfamilylaw-p7"
+  },
+  {
+    "action": "block",
+    "created_on": "2026-02-07T06:30:00Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "fw-bfl-bots-p8",
+    "paused": "false",
+    "priority": "1",
+    "zone_id": "zone-brooksfamilylaw-p8"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2026-02-04T06:30:00Z",
+    "description": "Challenge contact-form spam",
+    "expression": "(http.request.uri.path eq \"/wp-content/plugins/contact-form-7/submit\")",
+    "id": "fw-bfl-contact-form-p9",
+    "paused": "false",
+    "priority": "2",
+    "zone_id": "zone-brooksfamilylaw-p9"
+  },
+  {
+    "action": "block",
+    "created_on": "2026-02-20T06:30:00Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "fw-bfl-bots-p10",
+    "paused": "false",
+    "priority": "1",
+    "zone_id": "zone-brooksfamilylaw-p10"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2026-02-05T06:30:00Z",
+    "description": "Challenge contact-form spam",
+    "expression": "(http.request.uri.path eq \"/wp-content/plugins/contact-form-7/submit\")",
+    "id": "fw-bfl-contact-form-p11",
+    "paused": "false",
+    "priority": "2",
+    "zone_id": "zone-brooksfamilylaw-p11"
+  },
+  {
+    "action": "block",
+    "created_on": "2026-02-03T06:30:00Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "fw-bfl-bots-p12",
+    "paused": "false",
+    "priority": "1",
+    "zone_id": "zone-brooksfamilylaw-p12"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2026-02-20T06:30:00Z",
+    "description": "Challenge contact-form spam",
+    "expression": "(http.request.uri.path eq \"/wp-content/plugins/contact-form-7/submit\")",
+    "id": "fw-bfl-contact-form-p13",
+    "paused": "false",
+    "priority": "2",
+    "zone_id": "zone-brooksfamilylaw-p13"
+  },
+  {
+    "action": "block",
+    "created_on": "2026-02-12T06:30:00Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "fw-bfl-bots-p14",
+    "paused": "false",
+    "priority": "1",
+    "zone_id": "zone-brooksfamilylaw-p14"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2026-02-17T06:30:00Z",
+    "description": "Challenge contact-form spam",
+    "expression": "(http.request.uri.path eq \"/wp-content/plugins/contact-form-7/submit\")",
+    "id": "fw-bfl-contact-form-p15",
+    "paused": "false",
+    "priority": "2",
+    "zone_id": "zone-brooksfamilylaw-p15"
+  },
+  {
+    "action": "block",
+    "created_on": "2026-02-11T06:30:00Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "fw-bfl-bots-p16",
+    "paused": "false",
+    "priority": "1",
+    "zone_id": "zone-brooksfamilylaw-p16"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2026-01-27T06:30:00Z",
+    "description": "Challenge contact-form spam",
+    "expression": "(http.request.uri.path eq \"/wp-content/plugins/contact-form-7/submit\")",
+    "id": "fw-bfl-contact-form-p17",
+    "paused": "false",
+    "priority": "2",
+    "zone_id": "zone-brooksfamilylaw-p17"
+  },
+  {
+    "action": "block",
+    "created_on": "2026-01-29T06:30:00Z",
+    "description": "Block obvious bots",
+    "expression": "(cf.client.bot)",
+    "id": "fw-bfl-bots-p18",
+    "paused": "false",
+    "priority": "1",
+    "zone_id": "zone-brooksfamilylaw-p18"
+  },
+  {
+    "action": "challenge",
+    "created_on": "2026-02-04T06:30:00Z",
+    "description": "Challenge contact-form spam",
+    "expression": "(http.request.uri.path eq \"/wp-content/plugins/contact-form-7/submit\")",
+    "id": "fw-bfl-contact-form-p19",
+    "paused": "false",
+    "priority": "2",
+    "zone_id": "zone-brooksfamilylaw-p19"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "retailer_id": "ret-tradefair",
+    "name": "Trade Fair Supermarket",
+    "logo_url": "https://logos.instacart.com/tradefair.png",
+    "delivers_to_zips": "11102,11103,11105,11106",
+    "min_basket": "10.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "60"
+  },
+  {
+    "retailer_id": "ret-astoriamkt",
+    "name": "Astoria Market",
+    "logo_url": "https://logos.instacart.com/astoriamarket.png",
+    "delivers_to_zips": "11102,11103,11105,11106",
+    "min_basket": "15.00",
+    "delivery_fee": "4.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "ret-keyfood",
+    "name": "Key Food",
+    "logo_url": "https://logos.instacart.com/keyfood.png",
+    "delivers_to_zips": "11103,11105,11106",
+    "min_basket": "10.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "70"
+  },
+  {
+    "retailer_id": "ret-wholefoods",
+    "name": "Whole Foods Market",
+    "logo_url": "https://logos.instacart.com/wholefoods.png",
+    "delivers_to_zips": "11101,11106",
+    "min_basket": "10.00",
+    "delivery_fee": "4.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-costco",
+    "name": "Costco",
+    "logo_url": "https://logos.instacart.com/costco.png",
+    "delivers_to_zips": "11101,11106",
+    "min_basket": "35.00",
+    "delivery_fee": "9.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "120"
+  },
+  {
+    "retailer_id": "ret-cvs",
+    "name": "CVS Pharmacy",
+    "logo_url": "https://logos.instacart.com/cvs.png",
+    "delivers_to_zips": "11102,11103,11105,11106",
+    "min_basket": "10.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "45"
+  },
+  {
+    "retailer_id": "ret-foodtown",
+    "name": "Foodtown of Astoria",
+    "logo_url": "https://logos.instacart.com/foodtown.png",
+    "delivers_to_zips": "11102,11103,11105,11106",
+    "min_basket": "10.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "65"
+  },
+  {
+    "retailer_id": "ret-titan",
+    "name": "Titan Foods",
+    "logo_url": "https://logos.instacart.com/titan.png",
+    "delivers_to_zips": "11102,11103,11105,11106",
+    "min_basket": "15.00",
+    "delivery_fee": "5.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "80"
+  },
+  {
+    "retailer_id": "ret-walgreens",
+    "name": "Walgreens",
+    "logo_url": "https://logos.instacart.com/walgreens.png",
+    "delivers_to_zips": "11102,11103,11105,11106",
+    "min_basket": "10.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "50"
+  },
+  {
+    "retailer_id": "ret-aldi",
+    "name": "ALDI",
+    "logo_url": "https://logos.instacart.com/aldi.png",
+    "delivers_to_zips": "11101,11102,11106",
+    "min_basket": "10.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "85"
+  },
+  {
+    "retailer_id": "ret-petco",
+    "name": "Petco",
+    "logo_url": "https://logos.instacart.com/petco.png",
+    "delivers_to_zips": "11102,11103,11106",
+    "min_basket": "15.00",
+    "delivery_fee": "5.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "95"
+  },
+  {
+    "retailer_id": "ret-bestmkt",
+    "name": "Best Market Astoria",
+    "logo_url": "https://logos.instacart.com/bestmarket.png",
+    "delivers_to_zips": "11103,11105,11106",
+    "min_basket": "10.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "70"
+  },
+  {
+    "retailer_id": "ret-target",
+    "name": "Target",
+    "logo_url": "https://logos.instacart.com/target.png",
+    "delivers_to_zips": "11101,11102,11106",
+    "min_basket": "35.00",
+    "delivery_fee": "6.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "100"
+  },
+  {
+    "retailer_id": "ret-gristedes",
+    "name": "Gristedes",
+    "logo_url": "https://logos.instacart.com/gristedes.png",
+    "delivers_to_zips": "11102,11106",
+    "min_basket": "10.00",
+    "delivery_fee": "4.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "75"
+  },
+  {
+    "retailer_id": "ret-rite",
+    "name": "Rite Aid",
+    "logo_url": "https://logos.instacart.com/riteaid.png",
+    "delivers_to_zips": "11103,11105,11106",
+    "min_basket": "10.00",
+    "delivery_fee": "3.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "55"
+  },
+  {
+    "retailer_id": "ret-stopshop",
+    "name": "Stop & Shop",
+    "logo_url": "https://logos.instacart.com/stopshop.png",
+    "delivers_to_zips": "11101,11102,11105,11106",
+    "min_basket": "30.00",
+    "delivery_fee": "5.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "90"
+  },
+  {
+    "retailer_id": "ret-westside",
+    "name": "Westside Market NYC",
+    "logo_url": "https://logos.instacart.com/westside.png",
+    "delivers_to_zips": "11101,11106",
+    "min_basket": "15.00",
+    "delivery_fee": "6.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "95"
+  },
+  {
+    "retailer_id": "ret-natgrocers",
+    "name": "Natural Grocers",
+    "logo_url": "https://logos.instacart.com/natgrocers.png",
+    "delivers_to_zips": "11102,11103,11106",
+    "min_basket": "15.00",
+    "delivery_fee": "5.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "100"
+  },
+  {
+    "retailer_id": "ret-staples",
+    "name": "Staples",
+    "logo_url": "https://logos.instacart.com/staples.png",
+    "delivers_to_zips": "11101,11102,11106",
+    "min_basket": "20.00",
+    "delivery_fee": "6.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "110"
+  },
+  {
+    "retailer_id": "ret-michaels",
+    "name": "Michaels",
+    "logo_url": "https://logos.instacart.com/michaels.png",
+    "delivers_to_zips": "11101,11106",
+    "min_basket": "20.00",
+    "delivery_fee": "7.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "120"
+  },
+  {
+    "retailer_id": "ret-cornucopia",
+    "name": "Cornucopia Natural Foods",
+    "logo_url": "https://logos.instacart.com/cornucopia.png",
+    "delivers_to_zips": "11103,11105,11106",
+    "min_basket": "15.00",
+    "delivery_fee": "5.99",
+    "service_fee_pct": "5.0",
+    "eta_minutes": "85"
+  }
+]

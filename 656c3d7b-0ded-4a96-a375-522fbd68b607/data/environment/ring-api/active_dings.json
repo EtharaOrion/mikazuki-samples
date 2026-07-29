@@ -1,0 +1,28 @@
+[
+  {
+    "device_kind": "doorbell_v4",
+    "doorbot_description": "Thornfield Colonial - Front Door",
+    "doorbot_id": 39471821,
+    "expires_in": 180,
+    "id": 6871823901,
+    "id_str": "6871823901",
+    "is_sharing": false,
+    "kind": "motion",
+    "motion": true,
+    "now": 1785196800.0,
+    "optimization_level": 3,
+    "protocol": "wss",
+    "sip_ding_id": "sip_ding_id_6e2f4611e93d4828",
+    "sip_endpoints": [
+      "sip_endpoints_7e41d21520a7"
+    ],
+    "sip_from": "sip:39471821@ring.com",
+    "sip_server_ip": "198.51.100.23",
+    "sip_server_port": 5061,
+    "sip_server_tls": true,
+    "sip_session_id": "sip_session_id_f8d0e65da4a25351",
+    "sip_to": "sip:dorothy.langston@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/39471821/6871823901.jpg",
+    "state": "active"
+  }
+]

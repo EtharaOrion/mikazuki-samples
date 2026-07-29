@@ -1,0 +1,922 @@
+[
+  {
+    "id": "rev-0000000001",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Eleanor's Pot Roast is the best thing in Astoria. Grandmother's recipe, you can taste the love. The Eleanor cocktail pairs perfectly.",
+    "user_name": "Gloria F",
+    "time_created": "2026-03-14T19:40:00"
+  },
+  {
+    "id": "rev-0000000002",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Our anniversary table every month. Carlton always remembers us. The Grilled NY Strip was cooked exactly to temp.",
+    "user_name": "Bill O",
+    "time_created": "2026-03-07T20:15:00"
+  },
+  {
+    "id": "rev-0000000003",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Daniel in the kitchen is a genius. The Charred Octopus and Clay-Pot Chicken were unreal. Wonderful American wine list.",
+    "user_name": "Derek T",
+    "time_created": "2026-02-28T19:00:00"
+  },
+  {
+    "id": "rev-0000000004",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Great neighborhood tavern. Tavern Burger is solid, Brussels sprouts addictive. Got a touch loud on a Saturday but that's the vibe.",
+    "user_name": "Stephanie W",
+    "time_created": "2026-02-23T20:30:00"
+  },
+  {
+    "id": "rev-0000000005",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "The new winter menu made our week. Deviled eggs, clam chowder, and a bourbon flight. Astoria gem.",
+    "user_name": "Nadia H",
+    "time_created": "2026-02-09T18:45:00"
+  },
+  {
+    "id": "rev-0000000006",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Took the family for Sarah's birthday. Apple pie a la mode and the staff sang. Sophia runs a tight, warm room.",
+    "user_name": "Marie R",
+    "time_created": "2026-02-02T18:30:00"
+  },
+  {
+    "id": "rev-0000000007",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "3",
+    "text": "Food is genuinely good but we waited 40 minutes past our reservation on a Friday. Pot roast made up for it, mostly.",
+    "user_name": "Vincent C",
+    "time_created": "2026-01-25T20:00:00"
+  },
+  {
+    "id": "rev-0000000008",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Shepherd's Pie and the soft pretzel are comfort food perfection. American wines by the glass are well chosen.",
+    "user_name": "Priya N",
+    "time_created": "2026-01-18T19:20:00"
+  },
+  {
+    "id": "rev-0000000009",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Reliable, hearty, and the Meatloaf is a sleeper hit. Bourbon Pecan Pie is dangerous. Service a bit slow when packed.",
+    "user_name": "Greg L",
+    "time_created": "2026-01-04T19:50:00"
+  },
+  {
+    "id": "rev-0000000010",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Grilled Atlantic Salmon was perfect and the Maple Roasted Carrots were a surprise standout. Fish is always fresh here.",
+    "user_name": "Aileen M",
+    "time_created": "2026-03-21T18:55:00"
+  },
+  {
+    "id": "rev-0000000011",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "2",
+    "text": "Off night for us. Pan-Seared Cod came out lukewarm and the table was sticky. Manager comped dessert, appreciated that.",
+    "user_name": "Sal D",
+    "time_created": "2026-03-14T20:10:00"
+  },
+  {
+    "id": "rev-0000000012",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Best tavern in Queens, full stop. The Eleanor cocktail, Fish & Chips, and that fireplace in winter. We're regulars now.",
+    "user_name": "Janet O",
+    "time_created": "2026-02-28T19:30:00"
+  },
+  {
+    "id": "rev-0000000013",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Hosted a private dinner upstairs. Carlton and Sophia handled 22 of us flawlessly. Steak Sandwich for the table was a hit.",
+    "user_name": "Tony R",
+    "time_created": "2026-02-14T19:00:00"
+  },
+  {
+    "id": "rev-0000000014",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Cozy and consistent. Mac & Cheese and Garlic Mashed are great sides. Wish they had more vegetarian mains.",
+    "user_name": "Stephanie W",
+    "time_created": "2026-01-31T18:40:00"
+  },
+  {
+    "id": "rev-0000000015",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Holiday hours dinner was magical. Seasonal Cobbler and a glass of American red. Felt like family.",
+    "user_name": "Dr. Michael Anderson",
+    "time_created": "2026-01-10T19:15:00"
+  },
+  {
+    "id": "rev-0000000016",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Tavern Wings and a craft beer at the bar with Nina pouring. My after-work spot for years.",
+    "user_name": "Stuart M",
+    "time_created": "2025-12-20T17:30:00"
+  },
+  {
+    "id": "rev-0000000017",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Solid Sunday dinner. Pot Roast as good as everyone says. Loud kids' table near us but staff was gracious.",
+    "user_name": "Fr. Nicholas A",
+    "time_created": "2025-11-23T18:00:00"
+  },
+  {
+    "id": "rev-0000000018",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "The fall menu rollout nailed it. Clay-Pot Chicken and a bourbon flight. Daniel keeps getting better.",
+    "user_name": "Derek T",
+    "time_created": "2025-10-18T19:45:00"
+  },
+  {
+    "id": "rev-0000000019",
+    "business_id": "biz-trattoria-l-03",
+    "rating": "5",
+    "text": "Astoria institution. The portions are massive and the staff treat you like family.",
+    "user_name": "Carlton M",
+    "time_created": "2026-02-16T20:00:00"
+  },
+  {
+    "id": "rev-0000000020",
+    "business_id": "biz-bohemian-hall-2",
+    "rating": "4",
+    "text": "Great spot for a cold-weather afternoon pint. Goes way back, a true Astoria classic.",
+    "user_name": "Carlton M",
+    "time_created": "2026-03-01T15:30:00"
+  },
+  {
+    "id": "rev-0000000021",
+    "business_id": "biz-the-strand-06",
+    "rating": "4",
+    "text": "Good brisket and a fun bar. Gets crowded on weekends but worth it.",
+    "user_name": "Daniel C",
+    "time_created": "2026-01-12T19:00:00"
+  },
+  {
+    "id": "rev-0000000022",
+    "business_id": "biz-vesta-tratt-13",
+    "rating": "5",
+    "text": "Lovely wine bar with a thoughtful list. Great for a quiet date night in the neighborhood.",
+    "user_name": "Aileen M",
+    "time_created": "2026-03-08T19:30:00"
+  },
+  {
+    "id": "rev-0000000023",
+    "business_id": "biz-pomme-de-t-07",
+    "rating": "4",
+    "text": "Charming little French spot. Reservations a must, tiny room. Lovely cassoulet.",
+    "user_name": "Priya N",
+    "time_created": "2026-02-21T19:00:00"
+  },
+  {
+    "id": "rev-0000000300",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Eleanor's Pot Roast is the best thing in Astoria. Grandmother's recipe, you can taste the love.",
+    "user_name": "Nicole D",
+    "time_created": "2025-12-01T00:00:00"
+  },
+  {
+    "id": "rev-0000000301",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Fish and chips was crispy, the tartar sauce homemade. Local favorite for good reason.",
+    "user_name": "Brian E",
+    "time_created": "2025-12-01T00:00:00"
+  },
+  {
+    "id": "rev-0000000302",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Warm room, warm service, comfort food done right. Bourbon flight worth the trip.",
+    "user_name": "Melissa N",
+    "time_created": "2025-12-02T00:00:00"
+  },
+  {
+    "id": "rev-0000000303",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Wine tasting series was excellent. Small crowd, thoughtful pours, tavern hosted well.",
+    "user_name": "Justin R",
+    "time_created": "2025-12-02T00:00:00"
+  },
+  {
+    "id": "rev-0000000304",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Shepherd's pie brought me back to my grandmother's kitchen. Ordering it again.",
+    "user_name": "Danielle V",
+    "time_created": "2025-12-03T00:00:00"
+  },
+  {
+    "id": "rev-0000000305",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Duck confit special was the best thing I ate this month. Chef Daniel knows what he's doing.",
+    "user_name": "Timothy J",
+    "time_created": "2025-12-03T00:00:00"
+  },
+  {
+    "id": "rev-0000000306",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Clam chowder cup with the oyster crackers, New England as it should be.",
+    "user_name": "Gloria F",
+    "time_created": "2025-12-04T00:00:00"
+  },
+  {
+    "id": "rev-0000000307",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Steak sandwich on the brioche, one of the best bar snacks in Queens.",
+    "user_name": "Michael K",
+    "time_created": "2025-12-04T00:00:00"
+  },
+  {
+    "id": "rev-0000000308",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Apple pie warm with whipped cream, we shared it and fought over the last bite.",
+    "user_name": "Sarah T",
+    "time_created": "2025-12-05T00:00:00"
+  },
+  {
+    "id": "rev-0000000309",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Roast chicken half, herbs, drippings, mash. Dinner as it should be.",
+    "user_name": "David L",
+    "time_created": "2025-12-05T00:00:00"
+  },
+  {
+    "id": "rev-0000000310",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "The tavern room hits its sweet spot at 8 PM. Old-school Astoria vibe.",
+    "user_name": "Jennifer B",
+    "time_created": "2025-12-06T00:00:00"
+  },
+  {
+    "id": "rev-0000000311",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Private event Q4 wine tasting was fantastic. Small plates paired beautifully.",
+    "user_name": "Robert P",
+    "time_created": "2025-12-06T00:00:00"
+  },
+  {
+    "id": "rev-0000000312",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Eleanor's Pot Roast is the best thing in Astoria. Grandmother's recipe, you can taste the love.",
+    "user_name": "Amanda S",
+    "time_created": "2025-12-07T00:00:00"
+  },
+  {
+    "id": "rev-0000000313",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Fish and chips was crispy, the tartar sauce homemade. Local favorite for good reason.",
+    "user_name": "Christopher M",
+    "time_created": "2025-12-07T00:00:00"
+  },
+  {
+    "id": "rev-0000000314",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Warm room, warm service, comfort food done right. Bourbon flight worth the trip.",
+    "user_name": "Rachel W",
+    "time_created": "2025-12-08T00:00:00"
+  },
+  {
+    "id": "rev-0000000315",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Wine tasting series was excellent. Small crowd, thoughtful pours, tavern hosted well.",
+    "user_name": "Anthony G",
+    "time_created": "2025-12-08T00:00:00"
+  },
+  {
+    "id": "rev-0000000316",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Shepherd's pie brought me back to my grandmother's kitchen. Ordering it again.",
+    "user_name": "Jessica H",
+    "time_created": "2025-12-09T00:00:00"
+  },
+  {
+    "id": "rev-0000000317",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Duck confit special was the best thing I ate this month. Chef Daniel knows what he's doing.",
+    "user_name": "Kevin C",
+    "time_created": "2025-12-09T00:00:00"
+  },
+  {
+    "id": "rev-0000000318",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Clam chowder cup with the oyster crackers, New England as it should be.",
+    "user_name": "Nicole D",
+    "time_created": "2025-12-10T00:00:00"
+  },
+  {
+    "id": "rev-0000000319",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Steak sandwich on the brioche, one of the best bar snacks in Queens.",
+    "user_name": "Brian E",
+    "time_created": "2025-12-10T00:00:00"
+  },
+  {
+    "id": "rev-0000000320",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "3",
+    "text": "Apple pie warm with whipped cream, we shared it and fought over the last bite.",
+    "user_name": "Melissa N",
+    "time_created": "2025-12-11T00:00:00"
+  },
+  {
+    "id": "rev-0000000321",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Roast chicken half, herbs, drippings, mash. Dinner as it should be.",
+    "user_name": "Justin R",
+    "time_created": "2025-12-11T00:00:00"
+  },
+  {
+    "id": "rev-0000000322",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "The tavern room hits its sweet spot at 8 PM. Old-school Astoria vibe.",
+    "user_name": "Danielle V",
+    "time_created": "2025-12-12T00:00:00"
+  },
+  {
+    "id": "rev-0000000323",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Private event Q4 wine tasting was fantastic. Small plates paired beautifully.",
+    "user_name": "Timothy J",
+    "time_created": "2025-12-12T00:00:00"
+  },
+  {
+    "id": "rev-0000000324",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Eleanor's Pot Roast is the best thing in Astoria. Grandmother's recipe, you can taste the love.",
+    "user_name": "Gloria F",
+    "time_created": "2025-12-13T00:00:00"
+  },
+  {
+    "id": "rev-0000000325",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "3",
+    "text": "Fish and chips was crispy, the tartar sauce homemade. Local favorite for good reason.",
+    "user_name": "Michael K",
+    "time_created": "2025-12-13T00:00:00"
+  },
+  {
+    "id": "rev-0000000326",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Warm room, warm service, comfort food done right. Bourbon flight worth the trip.",
+    "user_name": "Sarah T",
+    "time_created": "2025-12-14T00:00:00"
+  },
+  {
+    "id": "rev-0000000327",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Wine tasting series was excellent. Small crowd, thoughtful pours, tavern hosted well.",
+    "user_name": "David L",
+    "time_created": "2025-12-14T00:00:00"
+  },
+  {
+    "id": "rev-0000000328",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Shepherd's pie brought me back to my grandmother's kitchen. Ordering it again.",
+    "user_name": "Jennifer B",
+    "time_created": "2025-12-15T00:00:00"
+  },
+  {
+    "id": "rev-0000000329",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Duck confit special was the best thing I ate this month. Chef Daniel knows what he's doing.",
+    "user_name": "Robert P",
+    "time_created": "2025-12-15T00:00:00"
+  },
+  {
+    "id": "rev-0000000330",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Clam chowder cup with the oyster crackers, New England as it should be.",
+    "user_name": "Amanda S",
+    "time_created": "2025-12-16T00:00:00"
+  },
+  {
+    "id": "rev-0000000331",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Steak sandwich on the brioche, one of the best bar snacks in Queens.",
+    "user_name": "Christopher M",
+    "time_created": "2025-12-16T00:00:00"
+  },
+  {
+    "id": "rev-0000000332",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Apple pie warm with whipped cream, we shared it and fought over the last bite.",
+    "user_name": "Rachel W",
+    "time_created": "2025-12-17T00:00:00"
+  },
+  {
+    "id": "rev-0000000333",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "3",
+    "text": "Roast chicken half, herbs, drippings, mash. Dinner as it should be.",
+    "user_name": "Anthony G",
+    "time_created": "2025-12-17T00:00:00"
+  },
+  {
+    "id": "rev-0000000334",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "The tavern room hits its sweet spot at 8 PM. Old-school Astoria vibe.",
+    "user_name": "Jessica H",
+    "time_created": "2025-12-18T00:00:00"
+  },
+  {
+    "id": "rev-0000000335",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Private event Q4 wine tasting was fantastic. Small plates paired beautifully.",
+    "user_name": "Kevin C",
+    "time_created": "2025-12-18T00:00:00"
+  },
+  {
+    "id": "rev-0000000336",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Eleanor's Pot Roast is the best thing in Astoria. Grandmother's recipe, you can taste the love.",
+    "user_name": "Nicole D",
+    "time_created": "2025-12-19T00:00:00"
+  },
+  {
+    "id": "rev-0000000337",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Fish and chips was crispy, the tartar sauce homemade. Local favorite for good reason.",
+    "user_name": "Brian E",
+    "time_created": "2025-12-19T00:00:00"
+  },
+  {
+    "id": "rev-0000000338",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Warm room, warm service, comfort food done right. Bourbon flight worth the trip.",
+    "user_name": "Melissa N",
+    "time_created": "2025-12-20T00:00:00"
+  },
+  {
+    "id": "rev-0000000339",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Wine tasting series was excellent. Small crowd, thoughtful pours, tavern hosted well.",
+    "user_name": "Justin R",
+    "time_created": "2025-12-20T00:00:00"
+  },
+  {
+    "id": "rev-0000000340",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Shepherd's pie brought me back to my grandmother's kitchen. Ordering it again.",
+    "user_name": "Danielle V",
+    "time_created": "2025-12-21T00:00:00"
+  },
+  {
+    "id": "rev-0000000341",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Duck confit special was the best thing I ate this month. Chef Daniel knows what he's doing.",
+    "user_name": "Timothy J",
+    "time_created": "2025-12-21T00:00:00"
+  },
+  {
+    "id": "rev-0000000342",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Clam chowder cup with the oyster crackers, New England as it should be.",
+    "user_name": "Gloria F",
+    "time_created": "2025-12-22T00:00:00"
+  },
+  {
+    "id": "rev-0000000343",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Steak sandwich on the brioche, one of the best bar snacks in Queens.",
+    "user_name": "Michael K",
+    "time_created": "2025-12-22T00:00:00"
+  },
+  {
+    "id": "rev-0000000344",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Apple pie warm with whipped cream, we shared it and fought over the last bite.",
+    "user_name": "Sarah T",
+    "time_created": "2025-12-23T00:00:00"
+  },
+  {
+    "id": "rev-0000000345",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Roast chicken half, herbs, drippings, mash. Dinner as it should be.",
+    "user_name": "David L",
+    "time_created": "2025-12-23T00:00:00"
+  },
+  {
+    "id": "rev-0000000346",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "The tavern room hits its sweet spot at 8 PM. Old-school Astoria vibe.",
+    "user_name": "Jennifer B",
+    "time_created": "2025-12-24T00:00:00"
+  },
+  {
+    "id": "rev-0000000347",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Private event Q4 wine tasting was fantastic. Small plates paired beautifully.",
+    "user_name": "Robert P",
+    "time_created": "2025-12-24T00:00:00"
+  },
+  {
+    "id": "rev-0000000348",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Eleanor's Pot Roast is the best thing in Astoria. Grandmother's recipe, you can taste the love.",
+    "user_name": "Amanda S",
+    "time_created": "2025-12-25T00:00:00"
+  },
+  {
+    "id": "rev-0000000349",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Fish and chips was crispy, the tartar sauce homemade. Local favorite for good reason.",
+    "user_name": "Christopher M",
+    "time_created": "2025-12-25T00:00:00"
+  },
+  {
+    "id": "rev-0000000350",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Warm room, warm service, comfort food done right. Bourbon flight worth the trip.",
+    "user_name": "Rachel W",
+    "time_created": "2025-12-26T00:00:00"
+  },
+  {
+    "id": "rev-0000000351",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "3",
+    "text": "Wine tasting series was excellent. Small crowd, thoughtful pours, tavern hosted well.",
+    "user_name": "Anthony G",
+    "time_created": "2025-12-26T00:00:00"
+  },
+  {
+    "id": "rev-0000000352",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Shepherd's pie brought me back to my grandmother's kitchen. Ordering it again.",
+    "user_name": "Jessica H",
+    "time_created": "2025-12-27T00:00:00"
+  },
+  {
+    "id": "rev-0000000353",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Duck confit special was the best thing I ate this month. Chef Daniel knows what he's doing.",
+    "user_name": "Kevin C",
+    "time_created": "2025-12-27T00:00:00"
+  },
+  {
+    "id": "rev-0000000354",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Clam chowder cup with the oyster crackers, New England as it should be.",
+    "user_name": "Nicole D",
+    "time_created": "2025-12-28T00:00:00"
+  },
+  {
+    "id": "rev-0000000355",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Steak sandwich on the brioche, one of the best bar snacks in Queens.",
+    "user_name": "Brian E",
+    "time_created": "2025-12-28T00:00:00"
+  },
+  {
+    "id": "rev-0000000356",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "3",
+    "text": "Apple pie warm with whipped cream, we shared it and fought over the last bite.",
+    "user_name": "Melissa N",
+    "time_created": "2025-12-29T00:00:00"
+  },
+  {
+    "id": "rev-0000000357",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Roast chicken half, herbs, drippings, mash. Dinner as it should be.",
+    "user_name": "Justin R",
+    "time_created": "2025-12-29T00:00:00"
+  },
+  {
+    "id": "rev-0000000358",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "The tavern room hits its sweet spot at 8 PM. Old-school Astoria vibe.",
+    "user_name": "Danielle V",
+    "time_created": "2025-12-30T00:00:00"
+  },
+  {
+    "id": "rev-0000000359",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Private event Q4 wine tasting was fantastic. Small plates paired beautifully.",
+    "user_name": "Timothy J",
+    "time_created": "2025-12-30T00:00:00"
+  },
+  {
+    "id": "rev-0000000360",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Eleanor's Pot Roast is the best thing in Astoria. Grandmother's recipe, you can taste the love.",
+    "user_name": "Gloria F",
+    "time_created": "2025-12-31T00:00:00"
+  },
+  {
+    "id": "rev-0000000361",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "3",
+    "text": "Fish and chips was crispy, the tartar sauce homemade. Local favorite for good reason.",
+    "user_name": "Michael K",
+    "time_created": "2025-12-31T00:00:00"
+  },
+  {
+    "id": "rev-0000000362",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Warm room, warm service, comfort food done right. Bourbon flight worth the trip.",
+    "user_name": "Sarah T",
+    "time_created": "2026-01-01T00:00:00"
+  },
+  {
+    "id": "rev-0000000363",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Wine tasting series was excellent. Small crowd, thoughtful pours, tavern hosted well.",
+    "user_name": "David L",
+    "time_created": "2026-01-01T00:00:00"
+  },
+  {
+    "id": "rev-0000000364",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Shepherd's pie brought me back to my grandmother's kitchen. Ordering it again.",
+    "user_name": "Jennifer B",
+    "time_created": "2026-01-02T00:00:00"
+  },
+  {
+    "id": "rev-0000000365",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "3",
+    "text": "Duck confit special was the best thing I ate this month. Chef Daniel knows what he's doing.",
+    "user_name": "Robert P",
+    "time_created": "2026-01-02T00:00:00"
+  },
+  {
+    "id": "rev-0000000366",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Clam chowder cup with the oyster crackers, New England as it should be.",
+    "user_name": "Amanda S",
+    "time_created": "2026-01-03T00:00:00"
+  },
+  {
+    "id": "rev-0000000367",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Steak sandwich on the brioche, one of the best bar snacks in Queens.",
+    "user_name": "Christopher M",
+    "time_created": "2026-01-03T00:00:00"
+  },
+  {
+    "id": "rev-0000000368",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Apple pie warm with whipped cream, we shared it and fought over the last bite.",
+    "user_name": "Rachel W",
+    "time_created": "2026-01-04T00:00:00"
+  },
+  {
+    "id": "rev-0000000369",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Roast chicken half, herbs, drippings, mash. Dinner as it should be.",
+    "user_name": "Anthony G",
+    "time_created": "2026-01-04T00:00:00"
+  },
+  {
+    "id": "rev-0000000370",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "The tavern room hits its sweet spot at 8 PM. Old-school Astoria vibe.",
+    "user_name": "Jessica H",
+    "time_created": "2026-01-05T00:00:00"
+  },
+  {
+    "id": "rev-0000000371",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Private event Q4 wine tasting was fantastic. Small plates paired beautifully.",
+    "user_name": "Kevin C",
+    "time_created": "2026-01-05T00:00:00"
+  },
+  {
+    "id": "rev-0000000372",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Eleanor's Pot Roast is the best thing in Astoria. Grandmother's recipe, you can taste the love.",
+    "user_name": "Nicole D",
+    "time_created": "2026-01-06T00:00:00"
+  },
+  {
+    "id": "rev-0000000373",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Fish and chips was crispy, the tartar sauce homemade. Local favorite for good reason.",
+    "user_name": "Brian E",
+    "time_created": "2026-01-06T00:00:00"
+  },
+  {
+    "id": "rev-0000000374",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Warm room, warm service, comfort food done right. Bourbon flight worth the trip.",
+    "user_name": "Melissa N",
+    "time_created": "2026-01-07T00:00:00"
+  },
+  {
+    "id": "rev-0000000375",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Wine tasting series was excellent. Small crowd, thoughtful pours, tavern hosted well.",
+    "user_name": "Justin R",
+    "time_created": "2026-01-07T00:00:00"
+  },
+  {
+    "id": "rev-0000000376",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Shepherd's pie brought me back to my grandmother's kitchen. Ordering it again.",
+    "user_name": "Danielle V",
+    "time_created": "2026-01-08T00:00:00"
+  },
+  {
+    "id": "rev-0000000377",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Duck confit special was the best thing I ate this month. Chef Daniel knows what he's doing.",
+    "user_name": "Timothy J",
+    "time_created": "2026-01-08T00:00:00"
+  },
+  {
+    "id": "rev-0000000378",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Clam chowder cup with the oyster crackers, New England as it should be.",
+    "user_name": "Gloria F",
+    "time_created": "2026-01-09T00:00:00"
+  },
+  {
+    "id": "rev-0000000379",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Steak sandwich on the brioche, one of the best bar snacks in Queens.",
+    "user_name": "Michael K",
+    "time_created": "2026-01-09T00:00:00"
+  },
+  {
+    "id": "rev-0000000380",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Apple pie warm with whipped cream, we shared it and fought over the last bite.",
+    "user_name": "Sarah T",
+    "time_created": "2026-01-10T00:00:00"
+  },
+  {
+    "id": "rev-0000000381",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Roast chicken half, herbs, drippings, mash. Dinner as it should be.",
+    "user_name": "David L",
+    "time_created": "2026-01-10T00:00:00"
+  },
+  {
+    "id": "rev-0000000382",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "The tavern room hits its sweet spot at 8 PM. Old-school Astoria vibe.",
+    "user_name": "Jennifer B",
+    "time_created": "2026-01-11T00:00:00"
+  },
+  {
+    "id": "rev-0000000383",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Private event Q4 wine tasting was fantastic. Small plates paired beautifully.",
+    "user_name": "Robert P",
+    "time_created": "2026-01-11T00:00:00"
+  },
+  {
+    "id": "rev-0000000384",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "3",
+    "text": "Eleanor's Pot Roast is the best thing in Astoria. Grandmother's recipe, you can taste the love.",
+    "user_name": "Amanda S",
+    "time_created": "2026-01-12T00:00:00"
+  },
+  {
+    "id": "rev-0000000385",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Fish and chips was crispy, the tartar sauce homemade. Local favorite for good reason.",
+    "user_name": "Christopher M",
+    "time_created": "2026-01-12T00:00:00"
+  },
+  {
+    "id": "rev-0000000386",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Warm room, warm service, comfort food done right. Bourbon flight worth the trip.",
+    "user_name": "Rachel W",
+    "time_created": "2026-01-13T00:00:00"
+  },
+  {
+    "id": "rev-0000000387",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Wine tasting series was excellent. Small crowd, thoughtful pours, tavern hosted well.",
+    "user_name": "Anthony G",
+    "time_created": "2026-01-13T00:00:00"
+  },
+  {
+    "id": "rev-0000000388",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "3",
+    "text": "Shepherd's pie brought me back to my grandmother's kitchen. Ordering it again.",
+    "user_name": "Jessica H",
+    "time_created": "2026-01-14T00:00:00"
+  },
+  {
+    "id": "rev-0000000389",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Duck confit special was the best thing I ate this month. Chef Daniel knows what he's doing.",
+    "user_name": "Kevin C",
+    "time_created": "2026-01-14T00:00:00"
+  },
+  {
+    "id": "rev-0000000390",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "5",
+    "text": "Clam chowder cup with the oyster crackers, New England as it should be.",
+    "user_name": "Nicole D",
+    "time_created": "2026-01-15T00:00:00"
+  },
+  {
+    "id": "rev-0000000391",
+    "business_id": "biz-eleanors-tav-01",
+    "rating": "4",
+    "text": "Steak sandwich on the brioche, one of the best bar snacks in Queens.",
+    "user_name": "Brian E",
+    "time_created": "2026-01-15T00:00:00"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "web service",
+    "escalation_policy_id": "PPOL001",
+    "name": "web",
+    "service_id": "PSVC001",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "api service",
+    "escalation_policy_id": "PPOL001",
+    "name": "api",
+    "service_id": "PSVC002",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "worker service",
+    "escalation_policy_id": "PPOL001",
+    "name": "worker",
+    "service_id": "PSVC003",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "scheduler service",
+    "escalation_policy_id": "PPOL001",
+    "name": "scheduler",
+    "service_id": "PSVC004",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "billing service",
+    "escalation_policy_id": "PPOL001",
+    "name": "billing",
+    "service_id": "PSVC005",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "search service",
+    "escalation_policy_id": "PPOL001",
+    "name": "search",
+    "service_id": "PSVC006",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "web service",
+    "escalation_policy_id": "PPOL001",
+    "name": "web",
+    "service_id": "PSVC001-2",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "api service",
+    "escalation_policy_id": "PPOL001",
+    "name": "api",
+    "service_id": "PSVC001-3",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "worker service",
+    "escalation_policy_id": "PPOL001",
+    "name": "worker",
+    "service_id": "PSVC001-4",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "scheduler service",
+    "escalation_policy_id": "PPOL001",
+    "name": "scheduler",
+    "service_id": "PSVC001-5",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "billing service",
+    "escalation_policy_id": "PPOL001",
+    "name": "billing",
+    "service_id": "PSVC001-6",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "search service",
+    "escalation_policy_id": "PPOL001",
+    "name": "search",
+    "service_id": "PSVC001-7",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "web service",
+    "escalation_policy_id": "PPOL001",
+    "name": "notifications",
+    "service_id": "PSVC001-8",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "api service",
+    "escalation_policy_id": "PPOL001",
+    "name": "auth",
+    "service_id": "PSVC001-9",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "worker service",
+    "escalation_policy_id": "PPOL001",
+    "name": "ingest",
+    "service_id": "PSVC001-10",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "scheduler service",
+    "escalation_policy_id": "PPOL001",
+    "name": "iiif-tiler",
+    "service_id": "PSVC001-11",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "billing service",
+    "escalation_policy_id": "PPOL001",
+    "name": "metadata-sync",
+    "service_id": "PSVC001-12",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "search service",
+    "escalation_policy_id": "PPOL001",
+    "name": "catalogue",
+    "service_id": "PSVC001-13",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "web service",
+    "escalation_policy_id": "PPOL001",
+    "name": "ticketing",
+    "service_id": "PSVC001-14",
+    "status": "active"
+  },
+  {
+    "auto_resolve_timeout": "14400",
+    "description": "api service",
+    "escalation_policy_id": "PPOL001",
+    "name": "storage",
+    "service_id": "PSVC001-15",
+    "status": "active"
+  }
+]

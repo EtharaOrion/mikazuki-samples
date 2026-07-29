@@ -1,0 +1,182 @@
+[
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "appointmentscheduled",
+    "stage_label": "Appointment Scheduled",
+    "display_order": 0,
+    "probability": 0.2,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "qualifiedtobuy",
+    "stage_label": "Qualified To Buy",
+    "display_order": 1,
+    "probability": 0.4,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "presentationscheduled",
+    "stage_label": "Presentation Scheduled",
+    "display_order": 2,
+    "probability": 0.6,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "decisionmakerboughtin",
+    "stage_label": "Decision Maker Bought-In",
+    "display_order": 3,
+    "probability": 0.8,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedwon",
+    "stage_label": "Closed Won",
+    "display_order": 4,
+    "probability": 1.0,
+    "closed": true
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sales Pipeline",
+    "stage_id": "closedlost",
+    "stage_label": "Closed Lost",
+    "display_order": 5,
+    "probability": 0.0,
+    "closed": true
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Student progress review",
+    "stage_id": "appointmentscheduled",
+    "stage_label": "Appointment Scheduled",
+    "display_order": 0,
+    "probability": 0.2,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Enrollment inquiry follow-up",
+    "stage_id": "qualifiedtobuy",
+    "stage_label": "Qualified To Buy",
+    "display_order": 1,
+    "probability": 0.4,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Monthly payroll processing",
+    "stage_id": "presentationscheduled",
+    "stage_label": "Presentation Scheduled",
+    "display_order": 2,
+    "probability": 0.6,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "5th Anniversary Showcase planning",
+    "stage_id": "decisionmakerboughtin",
+    "stage_label": "Decision Maker Bought-In",
+    "display_order": 3,
+    "probability": 0.8,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Summer camp registration",
+    "stage_id": "closedwon",
+    "stage_label": "Closed Won",
+    "display_order": 4,
+    "probability": 1.0,
+    "closed": true
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Substitute coverage",
+    "stage_id": "closedlost",
+    "stage_label": "Closed Lost",
+    "display_order": 5,
+    "probability": 0.0,
+    "closed": true
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Sheet music library update",
+    "stage_id": "appointmentscheduled",
+    "stage_label": "Appointment Scheduled",
+    "display_order": 0,
+    "probability": 0.2,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Parent meeting slot",
+    "stage_id": "qualifiedtobuy",
+    "stage_label": "Qualified To Buy",
+    "display_order": 1,
+    "probability": 0.4,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Ensemble arrangement rewrite",
+    "stage_id": "presentationscheduled",
+    "stage_label": "Presentation Scheduled",
+    "display_order": 2,
+    "probability": 0.6,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Recital program layout",
+    "stage_id": "decisionmakerboughtin",
+    "stage_label": "Decision Maker Bought-In",
+    "display_order": 3,
+    "probability": 0.8,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Quartet setlist review",
+    "stage_id": "closedwon",
+    "stage_label": "Closed Won",
+    "display_order": 4,
+    "probability": 1.0,
+    "closed": true
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Rehearsal recording listen-back",
+    "stage_id": "closedlost",
+    "stage_label": "Closed Lost",
+    "display_order": 5,
+    "probability": 0.0,
+    "closed": true
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Second album pre-production notes",
+    "stage_id": "appointmentscheduled",
+    "stage_label": "Appointment Scheduled",
+    "display_order": 0,
+    "probability": 0.2,
+    "closed": false
+  },
+  {
+    "pipeline_id": "default",
+    "pipeline_label": "Venue confirmation thread",
+    "stage_id": "qualifiedtobuy",
+    "stage_label": "Qualified To Buy",
+    "display_order": 1,
+    "probability": 0.4,
+    "closed": false
+  }
+]

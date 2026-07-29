@@ -1,0 +1,1236 @@
+[
+  {
+    "departureDate": "2026-11-22",
+    "destinationLocationCode": "BOS",
+    "id": "1001",
+    "itineraries": [
+      {
+        "duration": "PT3H30M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "738"
+            },
+            "arrival": {
+              "at": "2026-11-22T11:30:00",
+              "iataCode": "BOS",
+              "terminal": "B"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-11-22T08:00:00",
+              "iataCode": "MIA",
+              "terminal": "D"
+            },
+            "duration": "PT3H30M",
+            "number": "1424",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "MIA",
+    "price": {
+      "currency": "USD",
+      "total": "312.40",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-11-22",
+    "destinationLocationCode": "BDL",
+    "id": "1002",
+    "itineraries": [
+      {
+        "duration": "PT4H05M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "739"
+            },
+            "arrival": {
+              "at": "2026-11-22T13:05:00",
+              "iataCode": "BDL",
+              "terminal": "N"
+            },
+            "carrierCode": "B6",
+            "departure": {
+              "at": "2026-11-22T09:00:00",
+              "iataCode": "FLL",
+              "terminal": "3"
+            },
+            "duration": "PT4H05M",
+            "number": "910",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "FLL",
+    "price": {
+      "currency": "USD",
+      "total": "278.90",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-11-23",
+    "destinationLocationCode": "ALB",
+    "id": "1003",
+    "itineraries": [
+      {
+        "duration": "PT5H45M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "738"
+            },
+            "arrival": {
+              "at": "2026-11-23T13:00:00",
+              "iataCode": "JFK",
+              "terminal": "8"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-11-23T07:15:00",
+              "iataCode": "MIA",
+              "terminal": "D"
+            },
+            "duration": "PT2H45M",
+            "number": "1188",
+            "numberOfStops": 0
+          },
+          {
+            "aircraft": {
+              "code": "E75"
+            },
+            "arrival": {
+              "at": "2026-11-23T15:00:00",
+              "iataCode": "ALB",
+              "terminal": "C"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-11-23T13:45:00",
+              "iataCode": "JFK",
+              "terminal": "8"
+            },
+            "duration": "PT1H15M",
+            "number": "4456",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "MIA",
+    "price": {
+      "currency": "USD",
+      "total": "415.20",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-02-19",
+    "destinationLocationCode": "BOS",
+    "id": "1104",
+    "itineraries": [
+      {
+        "duration": "PT3H30M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "738"
+            },
+            "arrival": {
+              "at": "2026-02-19T11:30:00",
+              "iataCode": "BOS",
+              "terminal": "B"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-02-19T08:00:00",
+              "iataCode": "MIA",
+              "terminal": "D"
+            },
+            "duration": "PT3H30M",
+            "number": "1424",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "MIA",
+    "price": {
+      "currency": "USD",
+      "total": "312.40",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-02-19",
+    "destinationLocationCode": "BDL",
+    "id": "1106",
+    "itineraries": [
+      {
+        "duration": "PT4H05M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "739"
+            },
+            "arrival": {
+              "at": "2026-02-19T13:05:00",
+              "iataCode": "BDL",
+              "terminal": "S"
+            },
+            "carrierCode": "B6",
+            "departure": {
+              "at": "2026-02-19T09:00:00",
+              "iataCode": "FLL",
+              "terminal": "3"
+            },
+            "duration": "PT4H05M",
+            "number": "910",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "FLL",
+    "price": {
+      "currency": "USD",
+      "total": "278.90",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-02-06",
+    "destinationLocationCode": "ALB",
+    "id": "1108",
+    "itineraries": [
+      {
+        "duration": "PT5H45M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "738"
+            },
+            "arrival": {
+              "at": "2026-02-06T13:00:00",
+              "iataCode": "JFK",
+              "terminal": "8"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-02-06T07:15:00",
+              "iataCode": "MIA",
+              "terminal": "D"
+            },
+            "duration": "PT2H45M",
+            "number": "1188",
+            "numberOfStops": 0
+          },
+          {
+            "aircraft": {
+              "code": "E75"
+            },
+            "arrival": {
+              "at": "2026-02-06T15:00:00",
+              "iataCode": "ALB",
+              "terminal": "A"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-02-06T13:45:00",
+              "iataCode": "JFK",
+              "terminal": "8"
+            },
+            "duration": "PT1H15M",
+            "number": "4456",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "MIA",
+    "price": {
+      "currency": "USD",
+      "total": "415.20",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-02-07",
+    "destinationLocationCode": "BOS",
+    "id": "1107",
+    "itineraries": [
+      {
+        "duration": "PT3H30M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "738"
+            },
+            "arrival": {
+              "at": "2026-02-07T11:30:00",
+              "iataCode": "BOS",
+              "terminal": "B"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-02-07T08:00:00",
+              "iataCode": "MIA",
+              "terminal": "D"
+            },
+            "duration": "PT3H30M",
+            "number": "1424",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "MIA",
+    "price": {
+      "currency": "USD",
+      "total": "312.40",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-02-12",
+    "destinationLocationCode": "BDL",
+    "id": "1109",
+    "itineraries": [
+      {
+        "duration": "PT4H05M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "739"
+            },
+            "arrival": {
+              "at": "2026-02-12T13:05:00",
+              "iataCode": "BDL",
+              "terminal": "D"
+            },
+            "carrierCode": "B6",
+            "departure": {
+              "at": "2026-02-12T09:00:00",
+              "iataCode": "FLL",
+              "terminal": "3"
+            },
+            "duration": "PT4H05M",
+            "number": "910",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "FLL",
+    "price": {
+      "currency": "USD",
+      "total": "278.90",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-01-30",
+    "destinationLocationCode": "ALB",
+    "id": "1111",
+    "itineraries": [
+      {
+        "duration": "PT5H45M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "738"
+            },
+            "arrival": {
+              "at": "2026-01-30T13:00:00",
+              "iataCode": "JFK",
+              "terminal": "8"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-01-30T07:15:00",
+              "iataCode": "MIA",
+              "terminal": "D"
+            },
+            "duration": "PT2H45M",
+            "number": "1188",
+            "numberOfStops": 0
+          },
+          {
+            "aircraft": {
+              "code": "E75"
+            },
+            "arrival": {
+              "at": "2026-01-30T15:00:00",
+              "iataCode": "ALB",
+              "terminal": "D"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-01-30T13:45:00",
+              "iataCode": "JFK",
+              "terminal": "8"
+            },
+            "duration": "PT1H15M",
+            "number": "4456",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "MIA",
+    "price": {
+      "currency": "USD",
+      "total": "415.20",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-02-01",
+    "destinationLocationCode": "BOS",
+    "id": "1110",
+    "itineraries": [
+      {
+        "duration": "PT3H30M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "738"
+            },
+            "arrival": {
+              "at": "2026-02-01T11:30:00",
+              "iataCode": "BOS",
+              "terminal": "B"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-02-01T08:00:00",
+              "iataCode": "MIA",
+              "terminal": "D"
+            },
+            "duration": "PT3H30M",
+            "number": "1424",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "MIA",
+    "price": {
+      "currency": "USD",
+      "total": "312.40",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-01-29",
+    "destinationLocationCode": "BDL",
+    "id": "1112",
+    "itineraries": [
+      {
+        "duration": "PT4H05M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "739"
+            },
+            "arrival": {
+              "at": "2026-01-29T13:05:00",
+              "iataCode": "BDL",
+              "terminal": "C"
+            },
+            "carrierCode": "B6",
+            "departure": {
+              "at": "2026-01-29T09:00:00",
+              "iataCode": "FLL",
+              "terminal": "3"
+            },
+            "duration": "PT4H05M",
+            "number": "910",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "FLL",
+    "price": {
+      "currency": "USD",
+      "total": "278.90",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-02-21",
+    "destinationLocationCode": "ALB",
+    "id": "1114",
+    "itineraries": [
+      {
+        "duration": "PT5H45M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "738"
+            },
+            "arrival": {
+              "at": "2026-02-21T13:00:00",
+              "iataCode": "JFK",
+              "terminal": "8"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-02-21T07:15:00",
+              "iataCode": "MIA",
+              "terminal": "D"
+            },
+            "duration": "PT2H45M",
+            "number": "1188",
+            "numberOfStops": 0
+          },
+          {
+            "aircraft": {
+              "code": "E75"
+            },
+            "arrival": {
+              "at": "2026-02-21T15:00:00",
+              "iataCode": "ALB",
+              "terminal": "2"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-02-21T13:45:00",
+              "iataCode": "JFK",
+              "terminal": "8"
+            },
+            "duration": "PT1H15M",
+            "number": "4456",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "MIA",
+    "price": {
+      "currency": "USD",
+      "total": "415.20",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-02-04",
+    "destinationLocationCode": "BOS",
+    "id": "1113",
+    "itineraries": [
+      {
+        "duration": "PT3H30M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "738"
+            },
+            "arrival": {
+              "at": "2026-02-04T11:30:00",
+              "iataCode": "BOS",
+              "terminal": "B"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-02-04T08:00:00",
+              "iataCode": "MIA",
+              "terminal": "D"
+            },
+            "duration": "PT3H30M",
+            "number": "1424",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "MIA",
+    "price": {
+      "currency": "USD",
+      "total": "312.40",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-01-30",
+    "destinationLocationCode": "BDL",
+    "id": "1115",
+    "itineraries": [
+      {
+        "duration": "PT4H05M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "739"
+            },
+            "arrival": {
+              "at": "2026-01-30T13:05:00",
+              "iataCode": "BDL",
+              "terminal": "D"
+            },
+            "carrierCode": "B6",
+            "departure": {
+              "at": "2026-01-30T09:00:00",
+              "iataCode": "FLL",
+              "terminal": "3"
+            },
+            "duration": "PT4H05M",
+            "number": "910",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "FLL",
+    "price": {
+      "currency": "USD",
+      "total": "278.90",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-02-11",
+    "destinationLocationCode": "ALB",
+    "id": "1117",
+    "itineraries": [
+      {
+        "duration": "PT5H45M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "738"
+            },
+            "arrival": {
+              "at": "2026-02-11T13:00:00",
+              "iataCode": "JFK",
+              "terminal": "8"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-02-11T07:15:00",
+              "iataCode": "MIA",
+              "terminal": "D"
+            },
+            "duration": "PT2H45M",
+            "number": "1188",
+            "numberOfStops": 0
+          },
+          {
+            "aircraft": {
+              "code": "E75"
+            },
+            "arrival": {
+              "at": "2026-02-11T15:00:00",
+              "iataCode": "ALB",
+              "terminal": "E"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-02-11T13:45:00",
+              "iataCode": "JFK",
+              "terminal": "8"
+            },
+            "duration": "PT1H15M",
+            "number": "4456",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "MIA",
+    "price": {
+      "currency": "USD",
+      "total": "415.20",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-02-07",
+    "destinationLocationCode": "BOS",
+    "id": "1116",
+    "itineraries": [
+      {
+        "duration": "PT3H30M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "738"
+            },
+            "arrival": {
+              "at": "2026-02-07T11:30:00",
+              "iataCode": "BOS",
+              "terminal": "B"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-02-07T08:00:00",
+              "iataCode": "MIA",
+              "terminal": "D"
+            },
+            "duration": "PT3H30M",
+            "number": "1424",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "MIA",
+    "price": {
+      "currency": "USD",
+      "total": "312.40",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-01-31",
+    "destinationLocationCode": "BDL",
+    "id": "1118",
+    "itineraries": [
+      {
+        "duration": "PT4H05M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "739"
+            },
+            "arrival": {
+              "at": "2026-01-31T13:05:00",
+              "iataCode": "BDL",
+              "terminal": "1"
+            },
+            "carrierCode": "B6",
+            "departure": {
+              "at": "2026-01-31T09:00:00",
+              "iataCode": "FLL",
+              "terminal": "3"
+            },
+            "duration": "PT4H05M",
+            "number": "910",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "FLL",
+    "price": {
+      "currency": "USD",
+      "total": "278.90",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-02-11",
+    "destinationLocationCode": "ALB",
+    "id": "1120",
+    "itineraries": [
+      {
+        "duration": "PT5H45M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "738"
+            },
+            "arrival": {
+              "at": "2026-02-11T13:00:00",
+              "iataCode": "JFK",
+              "terminal": "8"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-02-11T07:15:00",
+              "iataCode": "MIA",
+              "terminal": "D"
+            },
+            "duration": "PT2H45M",
+            "number": "1188",
+            "numberOfStops": 0
+          },
+          {
+            "aircraft": {
+              "code": "E75"
+            },
+            "arrival": {
+              "at": "2026-02-11T15:00:00",
+              "iataCode": "ALB",
+              "terminal": "1"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-02-11T13:45:00",
+              "iataCode": "JFK",
+              "terminal": "8"
+            },
+            "duration": "PT1H15M",
+            "number": "4456",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "MIA",
+    "price": {
+      "currency": "USD",
+      "total": "415.20",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-02-12",
+    "destinationLocationCode": "BOS",
+    "id": "1119",
+    "itineraries": [
+      {
+        "duration": "PT3H30M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "738"
+            },
+            "arrival": {
+              "at": "2026-02-12T11:30:00",
+              "iataCode": "BOS",
+              "terminal": "B"
+            },
+            "carrierCode": "AA",
+            "departure": {
+              "at": "2026-02-12T08:00:00",
+              "iataCode": "MIA",
+              "terminal": "D"
+            },
+            "duration": "PT3H30M",
+            "number": "1424",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "MIA",
+    "price": {
+      "currency": "USD",
+      "total": "312.40",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  },
+  {
+    "departureDate": "2026-01-26",
+    "destinationLocationCode": "BDL",
+    "id": "1121",
+    "itineraries": [
+      {
+        "duration": "PT4H05M",
+        "segments": [
+          {
+            "aircraft": {
+              "code": "739"
+            },
+            "arrival": {
+              "at": "2026-01-26T13:05:00",
+              "iataCode": "BDL",
+              "terminal": "A"
+            },
+            "carrierCode": "B6",
+            "departure": {
+              "at": "2026-01-26T09:00:00",
+              "iataCode": "FLL",
+              "terminal": "3"
+            },
+            "duration": "PT4H05M",
+            "number": "910",
+            "numberOfStops": 0
+          }
+        ]
+      }
+    ],
+    "originLocationCode": "FLL",
+    "price": {
+      "currency": "USD",
+      "total": "278.90",
+      "base": "248.00",
+      "grandTotal": "312.40"
+    },
+    "type": "flight-offer",
+    "source": "GDS",
+    "oneWay": false,
+    "numberOfBookableSeats": 7,
+    "validatingAirlineCodes": [
+      "AA"
+    ],
+    "travelerPricings": [
+      {
+        "travelerId": "1",
+        "fareOption": "STANDARD",
+        "travelerType": "ADULT",
+        "price": {
+          "currency": "USD",
+          "total": "312.40"
+        }
+      }
+    ]
+  }
+]

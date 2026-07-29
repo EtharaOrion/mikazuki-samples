@@ -1,0 +1,640 @@
+[
+  {
+    "id": "8000000",
+    "id_str": "8000000",
+    "doorbot_id": "50000",
+    "doorbot_description": "Front Door",
+    "device_kind": "lpd_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-10-05T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a1200",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50000@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_718fe4e87200",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000000.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000001",
+    "id_str": "8000001",
+    "doorbot_id": "50001",
+    "doorbot_description": "Driveway",
+    "device_kind": "stickup_cam_v3",
+    "kind": "ding",
+    "motion": false,
+    "now": "2026-10-07T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a1201",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50001@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_7190831febb1",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000001.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000002",
+    "id_str": "8000002",
+    "doorbot_id": "50002",
+    "doorbot_description": "Backyard",
+    "device_kind": "stickup_cam_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-10-09T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a1202",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50002@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_719121576562",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000002.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000003",
+    "id_str": "8000003",
+    "doorbot_id": "50000",
+    "doorbot_description": "Front Door",
+    "device_kind": "lpd_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-10-12T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a1203",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50000@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_7191bf8edf13",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000003.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000004",
+    "id_str": "8000004",
+    "doorbot_id": "50001",
+    "doorbot_description": "Driveway",
+    "device_kind": "stickup_cam_v3",
+    "kind": "ding",
+    "motion": false,
+    "now": "2026-10-14T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a1204",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50001@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_71925dc658c4",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000004.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000005",
+    "id_str": "8000005",
+    "doorbot_id": "50002",
+    "doorbot_description": "Backyard",
+    "device_kind": "stickup_cam_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-10-16T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a1205",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50002@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_7192fbfdd275",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000005.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000006",
+    "id_str": "8000006",
+    "doorbot_id": "50000",
+    "doorbot_description": "Front Door",
+    "device_kind": "lpd_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-10-19T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a1206",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50000@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_71939a354c26",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000006.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000007",
+    "id_str": "8000007",
+    "doorbot_id": "50001",
+    "doorbot_description": "Driveway",
+    "device_kind": "stickup_cam_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-10-21T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a1207",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50001@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_7194386cc5d7",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000007.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000008",
+    "id_str": "8000008",
+    "doorbot_id": "50002",
+    "doorbot_description": "Backyard",
+    "device_kind": "stickup_cam_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-10-23T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a1208",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50002@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_7194d6a43f88",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000008.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000009",
+    "id_str": "8000009",
+    "doorbot_id": "50000",
+    "doorbot_description": "Front Door",
+    "device_kind": "lpd_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-10-26T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a1209",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50000@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_719574dbb939",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000009.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000010",
+    "id_str": "8000010",
+    "doorbot_id": "50001",
+    "doorbot_description": "Driveway",
+    "device_kind": "stickup_cam_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-10-28T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a120a",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50001@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_7196131332ea",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000010.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000011",
+    "id_str": "8000011",
+    "doorbot_id": "50002",
+    "doorbot_description": "Backyard",
+    "device_kind": "stickup_cam_v3",
+    "kind": "ding",
+    "motion": false,
+    "now": "2026-10-30T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a120b",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50002@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_7196b14aac9b",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000011.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000012",
+    "id_str": "8000012",
+    "doorbot_id": "50000",
+    "doorbot_description": "Front Door",
+    "device_kind": "lpd_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-11-02T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a120c",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50000@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_71974f82264c",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000012.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000013",
+    "id_str": "8000013",
+    "doorbot_id": "50001",
+    "doorbot_description": "Driveway",
+    "device_kind": "stickup_cam_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-11-04T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a120d",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50001@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_7197edb99ffd",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000013.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000014",
+    "id_str": "8000014",
+    "doorbot_id": "50002",
+    "doorbot_description": "Backyard",
+    "device_kind": "stickup_cam_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-11-06T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a120e",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50002@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_71988bf119ae",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000014.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000015",
+    "id_str": "8000015",
+    "doorbot_id": "50000",
+    "doorbot_description": "Front Door",
+    "device_kind": "lpd_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-11-09T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a120f",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50000@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_71992a28935f",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000015.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000016",
+    "id_str": "8000016",
+    "doorbot_id": "50001",
+    "doorbot_description": "Driveway",
+    "device_kind": "stickup_cam_v3",
+    "kind": "ding",
+    "motion": false,
+    "now": "2026-11-11T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a1210",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50001@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_7199c8600d10",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000016.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000017",
+    "id_str": "8000017",
+    "doorbot_id": "50002",
+    "doorbot_description": "Backyard",
+    "device_kind": "stickup_cam_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-11-13T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a1211",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50002@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_719a669786c1",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000017.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000018",
+    "id_str": "8000018",
+    "doorbot_id": "50000",
+    "doorbot_description": "Front Door",
+    "device_kind": "lpd_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-11-16T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a1212",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50000@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_719b04cf0072",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000018.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000019",
+    "id_str": "8000019",
+    "doorbot_id": "50001",
+    "doorbot_description": "Driveway",
+    "device_kind": "stickup_cam_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-11-18T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a1213",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50001@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_719ba3067a23",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000019.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000020",
+    "id_str": "8000020",
+    "doorbot_id": "50002",
+    "doorbot_description": "Backyard",
+    "device_kind": "stickup_cam_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-11-20T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a1214",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50002@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_719c413df3d4",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000020.jpg",
+    "is_sharing": false
+  },
+  {
+    "id": "8000021",
+    "id_str": "8000021",
+    "doorbot_id": "50000",
+    "doorbot_description": "Front Door",
+    "device_kind": "lpd_v3",
+    "kind": "motion",
+    "motion": true,
+    "now": "2026-11-23T18:30:00-05:00",
+    "expires_in": "180",
+    "state": "ringing",
+    "protocol": "sip",
+    "optimization_level": "2",
+    "sip_ding_id": "sip_007a1215",
+    "sip_endpoints": [
+      {
+        "endpoint": "sip.ring.com",
+        "port": "5061"
+      }
+    ],
+    "sip_from": "sip:doorbot-50000@ring.com",
+    "sip_server_ip": "203.0.113.10",
+    "sip_server_port": "5061",
+    "sip_server_tls": true,
+    "sip_session_id": "sess_719cdf756d85",
+    "sip_to": "sip:4001001@ring.com",
+    "snapshot_url": "https://ring.com/snapshots/8000021.jpg",
+    "is_sharing": false
+  }
+]

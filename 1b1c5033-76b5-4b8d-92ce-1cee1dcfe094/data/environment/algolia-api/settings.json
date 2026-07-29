@@ -1,0 +1,23 @@
+[
+  {
+    "attributesForFaceting": "section",
+    "hitsPerPage": "20",
+    "index": "docs",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "title,section"
+  },
+  {
+    "attributesForFaceting": "in_stock,price",
+    "hitsPerPage": "12",
+    "index": "products",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "name"
+  },
+  {
+    "attributesForFaceting": "author,published_year",
+    "hitsPerPage": "20",
+    "index": "blog_posts",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "title,author"
+  }
+]

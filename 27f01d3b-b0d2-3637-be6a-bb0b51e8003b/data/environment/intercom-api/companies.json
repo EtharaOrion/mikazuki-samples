@@ -1,0 +1,202 @@
+[
+  {
+    "id": "company-crossroads",
+    "company_id": "CRC-001",
+    "name": "Crossroads Conservatory of Music",
+    "plan": "Pro",
+    "monthly_spend": 99.0,
+    "user_count": 9,
+    "industry": "Performing Arts",
+    "created_at": "2024-11-15T08:00:00.000Z"
+  },
+  {
+    "id": "company-youtharts",
+    "company_id": "YA-002",
+    "name": "KC Youth Arts Collective",
+    "plan": "Starter",
+    "monthly_spend": 49.0,
+    "user_count": 1,
+    "industry": "Non-Profit",
+    "created_at": "2025-01-10T08:00:00.000Z"
+  },
+  {
+    "id": "company-ridgeway",
+    "company_id": "RHS-003",
+    "name": "Ridgeway High",
+    "plan": "Starter",
+    "monthly_spend": 49.0,
+    "user_count": 1,
+    "industry": "Education",
+    "created_at": "2025-02-20T08:00:00.000Z"
+  },
+  {
+    "id": "company-westport",
+    "company_id": "WMS-004",
+    "name": "Westport Middle School",
+    "plan": "Starter",
+    "monthly_spend": 49.0,
+    "user_count": 1,
+    "industry": "Education",
+    "created_at": "2025-03-05T08:00:00.000Z"
+  },
+  {
+    "id": "company-crossroads_p001",
+    "company_id": "CRC-002",
+    "name": "Instructor coordination meeting",
+    "plan": "Pro",
+    "monthly_spend": 99.0,
+    "user_count": 9,
+    "industry": "Performing Arts",
+    "created_at": "2024-11-15T08:00:00.000Z"
+  },
+  {
+    "id": "company-youtharts_p002",
+    "company_id": "YA-004",
+    "name": "Winter recital rehearsal",
+    "plan": "Starter",
+    "monthly_spend": 49.0,
+    "user_count": 1,
+    "industry": "Non-Profit",
+    "created_at": "2025-01-10T08:00:00.000Z"
+  },
+  {
+    "id": "company-ridgeway_p003",
+    "company_id": "RHS-006",
+    "name": "Student progress review",
+    "plan": "Starter",
+    "monthly_spend": 49.0,
+    "user_count": 1,
+    "industry": "Education",
+    "created_at": "2025-02-20T08:00:00.000Z"
+  },
+  {
+    "id": "company-westport_p004",
+    "company_id": "WMS-008",
+    "name": "Enrollment inquiry follow-up",
+    "plan": "Starter",
+    "monthly_spend": 49.0,
+    "user_count": 1,
+    "industry": "Education",
+    "created_at": "2025-03-05T08:00:00.000Z"
+  },
+  {
+    "id": "company-crossroads_p005",
+    "company_id": "CRC-006",
+    "name": "Monthly payroll processing",
+    "plan": "Pro",
+    "monthly_spend": 99.0,
+    "user_count": 9,
+    "industry": "Performing Arts",
+    "created_at": "2024-11-15T08:00:00.000Z"
+  },
+  {
+    "id": "company-youtharts_p006",
+    "company_id": "YA-008",
+    "name": "5th Anniversary Showcase planning",
+    "plan": "Starter",
+    "monthly_spend": 49.0,
+    "user_count": 1,
+    "industry": "Non-Profit",
+    "created_at": "2025-01-10T08:00:00.000Z"
+  },
+  {
+    "id": "company-ridgeway_p007",
+    "company_id": "RHS-010",
+    "name": "Summer camp registration",
+    "plan": "Starter",
+    "monthly_spend": 49.0,
+    "user_count": 1,
+    "industry": "Education",
+    "created_at": "2025-02-20T08:00:00.000Z"
+  },
+  {
+    "id": "company-westport_p008",
+    "company_id": "WMS-012",
+    "name": "Substitute coverage",
+    "plan": "Starter",
+    "monthly_spend": 49.0,
+    "user_count": 1,
+    "industry": "Education",
+    "created_at": "2025-03-05T08:00:00.000Z"
+  },
+  {
+    "id": "company-crossroads_p009",
+    "company_id": "CRC-010",
+    "name": "Sheet music library update",
+    "plan": "Pro",
+    "monthly_spend": 99.0,
+    "user_count": 9,
+    "industry": "Performing Arts",
+    "created_at": "2024-11-15T08:00:00.000Z"
+  },
+  {
+    "id": "company-youtharts_p010",
+    "company_id": "YA-012",
+    "name": "Parent meeting slot",
+    "plan": "Starter",
+    "monthly_spend": 49.0,
+    "user_count": 1,
+    "industry": "Non-Profit",
+    "created_at": "2025-01-10T08:00:00.000Z"
+  },
+  {
+    "id": "company-ridgeway_p011",
+    "company_id": "RHS-014",
+    "name": "Ensemble arrangement rewrite",
+    "plan": "Starter",
+    "monthly_spend": 49.0,
+    "user_count": 1,
+    "industry": "Education",
+    "created_at": "2025-02-20T08:00:00.000Z"
+  },
+  {
+    "id": "company-westport_p012",
+    "company_id": "WMS-016",
+    "name": "Recital program layout",
+    "plan": "Starter",
+    "monthly_spend": 49.0,
+    "user_count": 1,
+    "industry": "Education",
+    "created_at": "2025-03-05T08:00:00.000Z"
+  },
+  {
+    "id": "company-crossroads_p013",
+    "company_id": "CRC-014",
+    "name": "Quartet setlist review",
+    "plan": "Pro",
+    "monthly_spend": 99.0,
+    "user_count": 9,
+    "industry": "Performing Arts",
+    "created_at": "2024-11-15T08:00:00.000Z"
+  },
+  {
+    "id": "company-youtharts_p014",
+    "company_id": "YA-016",
+    "name": "Rehearsal recording listen-back",
+    "plan": "Starter",
+    "monthly_spend": 49.0,
+    "user_count": 1,
+    "industry": "Non-Profit",
+    "created_at": "2025-01-10T08:00:00.000Z"
+  },
+  {
+    "id": "company-ridgeway_p015",
+    "company_id": "RHS-018",
+    "name": "Second album pre-production notes",
+    "plan": "Starter",
+    "monthly_spend": 49.0,
+    "user_count": 1,
+    "industry": "Education",
+    "created_at": "2025-02-20T08:00:00.000Z"
+  },
+  {
+    "id": "company-westport_p016",
+    "company_id": "WMS-020",
+    "name": "Venue confirmation thread",
+    "plan": "Starter",
+    "monthly_spend": 49.0,
+    "user_count": 1,
+    "industry": "Education",
+    "created_at": "2025-03-05T08:00:00.000Z"
+  }
+]

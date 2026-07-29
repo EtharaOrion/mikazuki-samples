@@ -1,0 +1,162 @@
+[
+  {
+    "id": "class-beginner",
+    "content_type": "classPage",
+    "created_at": "2024-11-01T10:00:00.000Z",
+    "updated_at": "2026-01-15T14:00:00.000Z",
+    "published_version": 8,
+    "fields_json": "{\"title\":\"Beginner Saxophone\",\"slug\":\"beginner\",\"level\":\"Beginner\",\"description\":\"Start playing. No experience needed. Learn embouchure, tone, and your first tunes in a supportive group setting.\",\"schedule\":\"Mondays 6pm and Saturdays 10am\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-class-beginner\"}}}"
+  },
+  {
+    "id": "class-intermediate",
+    "content_type": "classPage",
+    "created_at": "2024-11-01T10:05:00.000Z",
+    "updated_at": "2026-03-10T09:00:00.000Z",
+    "published_version": 6,
+    "fields_json": "{\"title\":\"Intermediate Saxophone\",\"slug\":\"intermediate\",\"level\":\"Intermediate\",\"description\":\"Build your sound. Work on scales, improvisation over standards, and ensemble listening. Prerequisite: one year of study.\",\"schedule\":\"Wednesdays 6pm\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-class-intermediate\"}}}"
+  },
+  {
+    "id": "class-children",
+    "content_type": "classPage",
+    "created_at": "2024-11-01T10:10:00.000Z",
+    "updated_at": "2026-03-20T10:00:00.000Z",
+    "published_version": 5,
+    "fields_json": "{\"title\":\"Youth Jazz Combo (Ages 8-14)\",\"slug\":\"children\",\"level\":\"Youth\",\"description\":\"A fun, energetic combo for young players. Focus on rhythm, listening, and playing together. Recital each December.\",\"schedule\":\"Saturdays 11:30am\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-class-children\"}}}"
+  },
+  {
+    "id": "class-advanced",
+    "content_type": "classPage",
+    "created_at": "2024-11-01T10:15:00.000Z",
+    "updated_at": "2026-03-25T09:00:00.000Z",
+    "published_version": 4,
+    "fields_json": "{\"title\":\"Adult Jazz Ensemble\",\"slug\":\"advanced\",\"level\":\"Advanced\",\"description\":\"By placement. Intensive small-group work on repertoire, soloing, and arranging. Audition or instructor approval required.\",\"schedule\":\"Thursdays 7pm\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-class-advanced\"}}}"
+  },
+  {
+    "id": "event-showcase-2026",
+    "content_type": "event",
+    "created_at": "2026-01-20T10:00:00.000Z",
+    "updated_at": "2026-03-15T14:00:00.000Z",
+    "published_version": 5,
+    "fields_json": "{\"title\":\"Crossroads 5th Anniversary Showcase\",\"slug\":\"showcase-2026\",\"date\":\"October 10, 2026\",\"description\":\"An evening of student and faculty performances celebrating five years of Crossroads Conservatory. Live at The Phoenix, Kansas City. Doors 6pm.\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-festival-hero\"}}}"
+  },
+  {
+    "id": "event-recital-2026",
+    "content_type": "event",
+    "created_at": "2026-03-01T10:00:00.000Z",
+    "updated_at": "2026-03-05T09:00:00.000Z",
+    "published_version": 3,
+    "fields_json": "{\"title\":\"Annual Holiday Recital 2026\",\"slug\":\"recital-2026\",\"date\":\"December 19, 2026\",\"description\":\"Crossroads Conservatory annual holiday recital. All levels perform. Doors open 6pm.\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-recital-hero\"}}}"
+  },
+  {
+    "id": "post-why-learn-instrument",
+    "content_type": "blogPost",
+    "created_at": "2025-01-10T08:00:00.000Z",
+    "updated_at": "2025-01-12T14:00:00.000Z",
+    "published_version": 4,
+    "fields_json": "{\"title\":\"Why Every Kid Should Learn an Instrument\",\"slug\":\"why-learn-an-instrument\",\"body\":\"Music teaches patience, focus, and the joy of making something with other people. At Crossroads we believe every kid has a sound in them. Lessons just help them find it.\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-blog-music\"}},\"published\":true}"
+  },
+  {
+    "id": "post-draft-two-roads-ii",
+    "content_type": "blogPost",
+    "created_at": "2026-03-22T08:00:00.000Z",
+    "updated_at": "2026-03-22T08:00:00.000Z",
+    "published_version": 0,
+    "fields_json": "{\"title\":\"Recording Two Roads II: Behind the Sessions\",\"slug\":\"two-roads-ii-sessions\",\"body\":\"Draft. Will publish after the fall recording sessions at Riverstone Audio.\",\"published\":false}"
+  },
+  {
+    "id": "class-beginner_p001",
+    "content_type": "Enrollment inquiry from a parent for beginner alto \u2014 offer trial slot.",
+    "created_at": "2024-11-01T10:00:00.000Z",
+    "updated_at": "2026-01-15T14:00:00.000Z",
+    "published_version": 8,
+    "fields_json": "{\"title\":\"Beginner Saxophone\",\"slug\":\"beginner\",\"level\":\"Beginner\",\"description\":\"Start playing. No experience needed. Learn embouchure, tone, and your first tunes in a supportive group setting.\",\"schedule\":\"Mondays 6pm and Saturdays 10am\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-class-beginner\"}}}"
+  },
+  {
+    "id": "class-intermediate_p002",
+    "content_type": "Dante's drum kit needs new heads before the recital.",
+    "created_at": "2024-11-01T10:05:00.000Z",
+    "updated_at": "2026-03-10T09:00:00.000Z",
+    "published_version": 6,
+    "fields_json": "{\"title\":\"Intermediate Saxophone\",\"slug\":\"intermediate\",\"level\":\"Intermediate\",\"description\":\"Build your sound. Work on scales, improvisation over standards, and ensemble listening. Prerequisite: one year of study.\",\"schedule\":\"Wednesdays 6pm\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-class-intermediate\"}}}"
+  },
+  {
+    "id": "class-children_p003",
+    "content_type": "Recorded a rough take of the ballad \u2014 needs another pass on the head-out.",
+    "created_at": "2024-11-01T10:10:00.000Z",
+    "updated_at": "2026-03-20T10:00:00.000Z",
+    "published_version": 5,
+    "fields_json": "{\"title\":\"Youth Jazz Combo (Ages 8-14)\",\"slug\":\"children\",\"level\":\"Youth\",\"description\":\"A fun, energetic combo for young players. Focus on rhythm, listening, and playing together. Recital each December.\",\"schedule\":\"Saturdays 11:30am\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-class-children\"}}}"
+  },
+  {
+    "id": "class-advanced_p004",
+    "content_type": "Reviewed the summer camp roster \u2014 18 confirmed, 2 waitlist.",
+    "created_at": "2024-11-01T10:15:00.000Z",
+    "updated_at": "2026-03-25T09:00:00.000Z",
+    "published_version": 4,
+    "fields_json": "{\"title\":\"Adult Jazz Ensemble\",\"slug\":\"advanced\",\"level\":\"Advanced\",\"description\":\"By placement. Intensive small-group work on repertoire, soloing, and arranging. Audition or instructor approval required.\",\"schedule\":\"Thursdays 7pm\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-class-advanced\"}}}"
+  },
+  {
+    "id": "event-showcase-2031",
+    "content_type": "Second album pre-production: 6 tunes committed, 4 still under discussion.",
+    "created_at": "2026-01-20T10:00:00.000Z",
+    "updated_at": "2026-03-15T14:00:00.000Z",
+    "published_version": 5,
+    "fields_json": "{\"title\":\"Crossroads 5th Anniversary Showcase\",\"slug\":\"showcase-2026\",\"date\":\"October 10, 2026\",\"description\":\"An evening of student and faculty performances celebrating five years of Crossroads Conservatory. Live at The Phoenix, Kansas City. Doors 6pm.\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-festival-hero\"}}}"
+  },
+  {
+    "id": "event-recital-2032",
+    "content_type": "5th Anniversary Showcase run-of-show draft complete.",
+    "created_at": "2026-03-01T10:00:00.000Z",
+    "updated_at": "2026-03-05T09:00:00.000Z",
+    "published_version": 3,
+    "fields_json": "{\"title\":\"Annual Holiday Recital 2026\",\"slug\":\"recital-2026\",\"date\":\"December 19, 2026\",\"description\":\"Crossroads Conservatory annual holiday recital. All levels perform. Doors open 6pm.\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-recital-hero\"}}}"
+  },
+  {
+    "id": "post-why-learn-instrument_p007",
+    "content_type": "Confirmed the lesson slot with the parent \u2014 Tuesday 4pm.",
+    "created_at": "2025-01-10T08:00:00.000Z",
+    "updated_at": "2025-01-12T14:00:00.000Z",
+    "published_version": 4,
+    "fields_json": "{\"title\":\"Why Every Kid Should Learn an Instrument\",\"slug\":\"why-learn-an-instrument\",\"body\":\"Music teaches patience, focus, and the joy of making something with other people. At Crossroads we believe every kid has a sound in them. Lessons just help them find it.\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-blog-music\"}},\"published\":true}"
+  },
+  {
+    "id": "post-draft-two-roads-ii_p008",
+    "content_type": "Ray suggested tightening the bridge on the fifth chart before the Spotlight Room date.",
+    "created_at": "2026-03-22T08:00:00.000Z",
+    "updated_at": "2026-03-22T08:00:00.000Z",
+    "published_version": 0,
+    "fields_json": "{\"title\":\"Recording Two Roads II: Behind the Sessions\",\"slug\":\"two-roads-ii-sessions\",\"body\":\"Draft. Will publish after the fall recording sessions at Riverstone Audio.\",\"published\":false}"
+  },
+  {
+    "id": "class-beginner_p009",
+    "content_type": "Claire flagged that we need a substitute for Thursday's ensemble.",
+    "created_at": "2024-11-01T10:00:00.000Z",
+    "updated_at": "2026-01-15T14:00:00.000Z",
+    "published_version": 8,
+    "fields_json": "{\"title\":\"Beginner Saxophone\",\"slug\":\"beginner\",\"level\":\"Beginner\",\"description\":\"Start playing. No experience needed. Learn embouchure, tone, and your first tunes in a supportive group setting.\",\"schedule\":\"Mondays 6pm and Saturdays 10am\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-class-beginner\"}}}"
+  },
+  {
+    "id": "class-intermediate_p010",
+    "content_type": "Sofia asked about the winter choir concert \u2014 logistics locked in.",
+    "created_at": "2024-11-01T10:05:00.000Z",
+    "updated_at": "2026-03-10T09:00:00.000Z",
+    "published_version": 6,
+    "fields_json": "{\"title\":\"Intermediate Saxophone\",\"slug\":\"intermediate\",\"level\":\"Intermediate\",\"description\":\"Build your sound. Work on scales, improvisation over standards, and ensemble listening. Prerequisite: one year of study.\",\"schedule\":\"Wednesdays 6pm\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-class-intermediate\"}}}"
+  },
+  {
+    "id": "class-children_p011",
+    "content_type": "Frank sent notes on the Coltrane transcription \u2014 apply on Sunday.",
+    "created_at": "2024-11-01T10:10:00.000Z",
+    "updated_at": "2026-03-20T10:00:00.000Z",
+    "published_version": 5,
+    "fields_json": "{\"title\":\"Youth Jazz Combo (Ages 8-14)\",\"slug\":\"children\",\"level\":\"Youth\",\"description\":\"A fun, energetic combo for young players. Focus on rhythm, listening, and playing together. Recital each December.\",\"schedule\":\"Saturdays 11:30am\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-class-children\"}}}"
+  },
+  {
+    "id": "class-advanced_p012",
+    "content_type": "Tomoko rescheduled the Tuesday rehearsal to 7:15.",
+    "created_at": "2024-11-01T10:15:00.000Z",
+    "updated_at": "2026-03-25T09:00:00.000Z",
+    "published_version": 4,
+    "fields_json": "{\"title\":\"Adult Jazz Ensemble\",\"slug\":\"advanced\",\"level\":\"Advanced\",\"description\":\"By placement. Intensive small-group work on repertoire, soloing, and arranging. Audition or instructor approval required.\",\"schedule\":\"Thursdays 7pm\",\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-class-advanced\"}}}"
+  }
+]

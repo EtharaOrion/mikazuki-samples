@@ -1,0 +1,222 @@
+[
+  {
+    "id": "etw-overview-1",
+    "title": "Eleanor's Tavern Site Overview",
+    "description": "Uptime and response time for eleanorstavern.com",
+    "layout_type": "ordered",
+    "author": "priya-desai",
+    "widget_count": "6",
+    "is_read_only": "false",
+    "created": "2025-03-10T10:00:00+00:00",
+    "modified": "2026-02-01T09:00:00+00:00"
+  },
+  {
+    "id": "etw-uptime-2",
+    "title": "Reservations Uptime",
+    "description": "Synthetic checks for the reservation page",
+    "layout_type": "ordered",
+    "author": "priya-desai",
+    "widget_count": "4",
+    "is_read_only": "false",
+    "created": "2025-01-01T10:00:00+00:00",
+    "modified": "2026-01-20T12:00:00+00:00"
+  },
+  {
+    "id": "etw-hosts-3",
+    "title": "Site Hosts",
+    "description": "CPU and memory for the tavern site pods",
+    "layout_type": "free",
+    "author": "priya-desai",
+    "widget_count": "5",
+    "is_read_only": "true",
+    "created": "2025-02-01T10:00:00+00:00",
+    "modified": "2026-03-15T12:00:00+00:00"
+  },
+  {
+    "id": "etw-reservations-4",
+    "title": "Reservation Funnel",
+    "description": "Booking page conversions and drop-offs",
+    "layout_type": "ordered",
+    "author": "priya-desai",
+    "widget_count": "7",
+    "is_read_only": "false",
+    "created": "2025-02-15T10:00:00+00:00",
+    "modified": "2026-02-12T09:30:00+00:00"
+  },
+  {
+    "id": "etw-menu-5",
+    "title": "Menu Page Performance",
+    "description": "Load time and views for the online menu",
+    "layout_type": "ordered",
+    "author": "priya-desai",
+    "widget_count": "5",
+    "is_read_only": "false",
+    "created": "2025-03-01T10:00:00+00:00",
+    "modified": "2026-01-28T11:15:00+00:00"
+  },
+  {
+    "id": "etw-errors-6",
+    "title": "Site Error Tracking",
+    "description": "4xx and 5xx errors across eleanorstavern.com",
+    "layout_type": "free",
+    "author": "priya-desai",
+    "widget_count": "8",
+    "is_read_only": "true",
+    "created": "2025-03-15T10:00:00+00:00",
+    "modified": "2026-02-28T08:45:00+00:00"
+  },
+  {
+    "id": "etw-traffic-7",
+    "title": "Web Traffic Overview",
+    "description": "Sessions and referrers for the tavern site",
+    "layout_type": "ordered",
+    "author": "priya-desai",
+    "widget_count": "6",
+    "is_read_only": "false",
+    "created": "2025-10-01T10:00:00+00:00",
+    "modified": "2026-03-01T10:00:00+00:00"
+  },
+  {
+    "id": "etw-ssl-8",
+    "title": "SSL & Certificate Monitor",
+    "description": "Certificate expiry and TLS checks",
+    "layout_type": "free",
+    "author": "priya-desai",
+    "widget_count": "3",
+    "is_read_only": "true",
+    "created": "2025-10-15T10:00:00+00:00",
+    "modified": "2026-03-22T14:00:00+00:00"
+  },
+  {
+    "id": "etw-mobile-9",
+    "title": "Mobile Experience",
+    "description": "Mobile load time and Core Web Vitals",
+    "layout_type": "ordered",
+    "author": "priya-desai",
+    "widget_count": "6",
+    "is_read_only": "false",
+    "created": "2025-11-01T10:00:00+00:00",
+    "modified": "2026-02-18T09:00:00+00:00"
+  },
+  {
+    "id": "etw-checkout-10",
+    "title": "Gift Card Checkout",
+    "description": "Gift card purchase flow latency and errors",
+    "layout_type": "ordered",
+    "author": "priya-desai",
+    "widget_count": "5",
+    "is_read_only": "false",
+    "created": "2025-11-15T10:00:00+00:00",
+    "modified": "2026-01-10T13:30:00+00:00"
+  },
+  {
+    "id": "etw-api-11",
+    "title": "Booking API Health",
+    "description": "Third-party reservation API response times",
+    "layout_type": "free",
+    "author": "priya-desai",
+    "widget_count": "4",
+    "is_read_only": "true",
+    "created": "2025-12-01T10:00:00+00:00",
+    "modified": "2026-03-05T11:20:00+00:00"
+  },
+  {
+    "id": "etw-cdn-12",
+    "title": "CDN & Image Delivery",
+    "description": "Image cache hit rate and edge latency",
+    "layout_type": "ordered",
+    "author": "priya-desai",
+    "widget_count": "5",
+    "is_read_only": "false",
+    "created": "2025-12-15T10:00:00+00:00",
+    "modified": "2026-02-25T10:10:00+00:00"
+  },
+  {
+    "id": "etw-db-13",
+    "title": "Database Performance",
+    "description": "Query latency for the booking database",
+    "layout_type": "free",
+    "author": "priya-desai",
+    "widget_count": "6",
+    "is_read_only": "true",
+    "created": "2026-01-05T10:00:00+00:00",
+    "modified": "2026-03-10T09:40:00+00:00"
+  },
+  {
+    "id": "etw-seo-14",
+    "title": "SEO & Search Visibility",
+    "description": "Organic impressions and crawl errors",
+    "layout_type": "ordered",
+    "author": "priya-desai",
+    "widget_count": "4",
+    "is_read_only": "false",
+    "created": "2026-01-20T10:00:00+00:00",
+    "modified": "2026-02-08T12:00:00+00:00"
+  },
+  {
+    "id": "etw-forms-15",
+    "title": "Contact Form Submissions",
+    "description": "Private event and inquiry form metrics",
+    "layout_type": "ordered",
+    "author": "priya-desai",
+    "widget_count": "5",
+    "is_read_only": "false",
+    "created": "2026-02-01T10:00:00+00:00",
+    "modified": "2026-03-12T08:30:00+00:00"
+  },
+  {
+    "id": "etw-newsletter-16",
+    "title": "Newsletter Signups",
+    "description": "Email capture rate and source breakdown",
+    "layout_type": "ordered",
+    "author": "priya-desai",
+    "widget_count": "4",
+    "is_read_only": "false",
+    "created": "2026-02-15T10:00:00+00:00",
+    "modified": "2026-02-20T14:15:00+00:00"
+  },
+  {
+    "id": "etw-alerts-17",
+    "title": "Site Alert History",
+    "description": "Triggered monitors and incident timeline",
+    "layout_type": "free",
+    "author": "priya-desai",
+    "widget_count": "7",
+    "is_read_only": "true",
+    "created": "2026-03-01T10:00:00+00:00",
+    "modified": "2026-03-14T10:50:00+00:00"
+  },
+  {
+    "id": "etw-geo-18",
+    "title": "Visitor Geography",
+    "description": "Astoria and NYC metro visitor distribution",
+    "layout_type": "ordered",
+    "author": "priya-desai",
+    "widget_count": "3",
+    "is_read_only": "false",
+    "created": "2026-03-15T10:00:00+00:00",
+    "modified": "2026-03-15T10:00:00+00:00"
+  },
+  {
+    "id": "etw-backup-19",
+    "title": "Backup & Recovery",
+    "description": "Nightly backup status for the tavern site",
+    "layout_type": "free",
+    "author": "priya-desai",
+    "widget_count": "3",
+    "is_read_only": "true",
+    "created": "2026-01-01T10:00:00+00:00",
+    "modified": "2026-03-08T09:25:00+00:00"
+  },
+  {
+    "id": "etw-summary-20",
+    "title": "Weekly Site Summary",
+    "description": "Rolled-up uptime and traffic for owner review",
+    "layout_type": "ordered",
+    "author": "priya-desai",
+    "widget_count": "9",
+    "is_read_only": "false",
+    "created": "2026-01-20T10:00:00+00:00",
+    "modified": "2026-03-20T08:00:00+00:00"
+  }
+]

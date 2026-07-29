@@ -1,0 +1,162 @@
+[
+  {
+    "id": "flag_4001",
+    "project_id": 1,
+    "key": "new-onboarding",
+    "name": "New Onboarding Flow",
+    "active": true,
+    "rollout_percentage": 100
+  },
+  {
+    "id": "flag_4002",
+    "project_id": 1,
+    "key": "beta-dashboard",
+    "name": "Beta Dashboard",
+    "active": true,
+    "rollout_percentage": 50
+  },
+  {
+    "id": "flag_4003",
+    "project_id": 1,
+    "key": "dark-mode",
+    "name": "Dark Mode",
+    "active": false,
+    "rollout_percentage": 0
+  },
+  {
+    "id": "flag_4004",
+    "project_id": 1,
+    "key": "fast-checkout",
+    "name": "Fast Checkout",
+    "active": true,
+    "rollout_percentage": 25
+  },
+  {
+    "id": "flag_4005",
+    "project_id": 2,
+    "key": "referral-program",
+    "name": "Referral Program",
+    "active": true,
+    "rollout_percentage": 100
+  },
+  {
+    "id": "flag_4001-0005",
+    "project_id": 0,
+    "key": "new-onboarding",
+    "name": "New Onboarding Flow",
+    "active": true,
+    "rollout_percentage": 100
+  },
+  {
+    "id": "flag_4002-0006",
+    "project_id": 0,
+    "key": "beta-dashboard",
+    "name": "Beta Dashboard",
+    "active": true,
+    "rollout_percentage": 50
+  },
+  {
+    "id": "flag_4003-0007",
+    "project_id": 0,
+    "key": "dark-mode",
+    "name": "Dark Mode",
+    "active": false,
+    "rollout_percentage": 0
+  },
+  {
+    "id": "flag_4004-0008",
+    "project_id": 0,
+    "key": "fast-checkout",
+    "name": "Fast Checkout",
+    "active": true,
+    "rollout_percentage": 25
+  },
+  {
+    "id": "flag_4005-0009",
+    "project_id": 0,
+    "key": "referral-program",
+    "name": "Referral Program",
+    "active": true,
+    "rollout_percentage": 100
+  },
+  {
+    "id": "flag_4001-0010",
+    "project_id": 0,
+    "key": "new-onboarding",
+    "name": "New Onboarding Flow",
+    "active": true,
+    "rollout_percentage": 100
+  },
+  {
+    "id": "flag_4002-0011",
+    "project_id": 0,
+    "key": "beta-dashboard",
+    "name": "Beta Dashboard",
+    "active": true,
+    "rollout_percentage": 50
+  },
+  {
+    "id": "flag_4003-0012",
+    "project_id": 0,
+    "key": "dark-mode",
+    "name": "Dark Mode",
+    "active": false,
+    "rollout_percentage": 0
+  },
+  {
+    "id": "flag_4004-0013",
+    "project_id": 0,
+    "key": "fast-checkout",
+    "name": "Fast Checkout",
+    "active": true,
+    "rollout_percentage": 25
+  },
+  {
+    "id": "flag_4005-0014",
+    "project_id": 0,
+    "key": "referral-program",
+    "name": "Referral Program",
+    "active": true,
+    "rollout_percentage": 100
+  },
+  {
+    "id": "flag_4001-0015",
+    "project_id": 0,
+    "key": "new-onboarding",
+    "name": "New Onboarding Flow",
+    "active": true,
+    "rollout_percentage": 100
+  },
+  {
+    "id": "flag_4002-0016",
+    "project_id": 0,
+    "key": "beta-dashboard",
+    "name": "Beta Dashboard",
+    "active": true,
+    "rollout_percentage": 50
+  },
+  {
+    "id": "flag_4003-0017",
+    "project_id": 0,
+    "key": "dark-mode",
+    "name": "Dark Mode",
+    "active": false,
+    "rollout_percentage": 0
+  },
+  {
+    "id": "flag_4004-0018",
+    "project_id": 0,
+    "key": "fast-checkout",
+    "name": "Fast Checkout",
+    "active": true,
+    "rollout_percentage": 25
+  },
+  {
+    "id": "flag_4005-0019",
+    "project_id": 0,
+    "key": "referral-program",
+    "name": "Referral Program",
+    "active": true,
+    "rollout_percentage": 100
+  }
+]

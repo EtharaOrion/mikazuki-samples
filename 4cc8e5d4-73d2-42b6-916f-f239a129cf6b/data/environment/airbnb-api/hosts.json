@@ -1,0 +1,42 @@
+[
+  {
+    "host_id": "host-karen-01",
+    "name": "Karen Giles",
+    "superhost": "true",
+    "joined_year": "2017",
+    "response_rate": "98",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-anthony-02",
+    "name": "Anthony Giles",
+    "superhost": "true",
+    "joined_year": "2019",
+    "response_rate": "97",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-patricia-03",
+    "name": "Patricia Nguyen",
+    "superhost": "true",
+    "joined_year": "2021",
+    "response_rate": "96",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-diane-04",
+    "name": "Diane Coleman",
+    "superhost": "false",
+    "joined_year": "2023",
+    "response_rate": "95",
+    "languages": "English"
+  },
+  {
+    "host_id": "host-rachel-05",
+    "name": "Rachel Adams",
+    "superhost": "false",
+    "joined_year": "2025",
+    "response_rate": "94",
+    "languages": "English"
+  }
+]

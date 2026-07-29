@@ -1,0 +1,46 @@
+[
+  {
+    "author": "dorothy.langston@finthesiss.ai",
+    "created": "2024-01-15T09:00:00Z",
+    "description": "Dashboard: Web overview.",
+    "id": "dash-cfcd20849",
+    "is_read_only": false,
+    "layout_type": "list",
+    "modified": "2026-06-30T00:00:00+00:00",
+    "title": "Web overview",
+    "widget_count": 11
+  },
+  {
+    "author": "dorothy.langston@finthesiss.ai",
+    "created": "2024-01-15T09:00:00Z",
+    "description": "Dashboard: API latency.",
+    "id": "dash-c4ca4238a",
+    "is_read_only": false,
+    "layout_type": "list",
+    "modified": "2026-06-30T00:00:00+00:00",
+    "title": "API latency",
+    "widget_count": 10
+  },
+  {
+    "author": "dorothy.langston@finthesiss.ai",
+    "created": "2024-01-15T09:00:00Z",
+    "description": "Dashboard: Worker health.",
+    "id": "dash-c81e728d9",
+    "is_read_only": false,
+    "layout_type": "list",
+    "modified": "2026-06-30T00:00:00+00:00",
+    "title": "Worker health",
+    "widget_count": 7
+  },
+  {
+    "author": "dorothy.langston@finthesiss.ai",
+    "created": "2024-01-15T09:00:00Z",
+    "description": "Dashboard: Costs.",
+    "id": "dash-eccbc87e4",
+    "is_read_only": false,
+    "layout_type": "list",
+    "modified": "2026-06-30T00:00:00+00:00",
+    "title": "Costs",
+    "widget_count": 8
+  }
+]

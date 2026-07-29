@@ -1,0 +1,77 @@
+{
+  "BreakEvenAnalysis": {
+    "PreparedBy": "Michelle Brooks",
+    "PreparedDate": "2026-02-15",
+    "Context": "Quick analysis before Q1 reserve review. Pre-Sterling CPA quarterly meeting.",
+    "CurrentState": {
+      "MonthlyRevenue": {
+        "MembershipDues": {
+          "Members": 18,
+          "Rate": 350,
+          "Total": 6300
+        },
+        "DropIns": {
+          "AvgMonthly": 4200
+        },
+        "EquipmentSales": {
+          "AvgMonthly": 850
+        },
+        "TotalMonthlyRevenue": 11350
+      },
+      "MonthlyExpenses": {
+        "Rent": 1850,
+        "Utilities": {
+          "Electric": 195,
+          "Water": 65,
+          "Total": 260
+        },
+        "Insurance": {
+          "Quarterly": 2550,
+          "Monthly": 850
+        },
+        "InstructorPay_Raj": 4800,
+        "Cleaning": {
+          "BiWeekly": 125,
+          "Monthly": 250
+        },
+        "Supplies": {
+          "AvgMonthly": 180
+        },
+        "Marketing": {
+          "AvgMonthly": 95
+        },
+        "TotalMonthlyExpenses": 8285
+      },
+      "MonthlyNetIncome": 3065,
+      "AaronDrawFromNet": 1500,
+      "RetainedForReserves": 1565,
+      "Note": "Rough estimate. Need to revisit after Sterling CPA Q1 review and once 2025 actuals close."
+    },
+    "Scenarios": {
+      "Scenario_A_RentTo750": {
+        "Label": "Rent increases to $2,000/mo if landlord passes through CAM",
+        "NewRent": 2000,
+        "RentIncrease": 150,
+        "NewTotalExpenses": 8435,
+        "NewNetIncome": 2915,
+        "BreakEvenMembers": 24,
+        "BreakEvenCalculation": "Fixed costs $8,285 + $150 increase = $8,435. At $350/retainer, $8,435/$350 = 24.1 -> need ~24 client equivalents.",
+        "Impact": "Minimal. Well within reserve buffer."
+      },
+      "Scenario_B_RentTo850": {
+        "Label": "Worst case: rent to $2,300/mo (unlikely per Ponce Office Suites lease)",
+        "NewRent": 2300,
+        "RentIncrease": 450,
+        "NewTotalExpenses": 8735,
+        "NewNetIncome": 2615,
+        "BreakEvenMembers": 25,
+        "Impact": "Still manageable. Would dip into reserves Dec-Jan but recover in spring."
+      }
+    },
+    "KeyInsight": "Break-even is ~24-25 retainer clients at current cost structure. At 18 retainers + flat-fee work we have headroom. Main concern is seasonal Dec dip.",
+    "ActionItems": [
+      "Wait for Sterling CPA Q1 review confirmation",
+      "Revisit after year-end with full 2025 actuals"
+    ]
+  }
+}

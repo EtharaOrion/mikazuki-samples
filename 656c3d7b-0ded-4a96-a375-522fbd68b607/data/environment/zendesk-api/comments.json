@@ -1,0 +1,290 @@
+[
+  {
+    "author_id": 3000,
+    "body": "Stephen,\n\nFollowing up on ticket #7741, which I submitted four days ago regarding the wake-up scheduling feature in the app.\n\nThe issue persists: the alarm does not trigger at the configured time on weekday profiles. This is not intermittent - it has failed every morning this week. My mornings run on a fixed sequence (yoga, breakfast, school drop-off at Westbrook Academy before 8:15), and a reliable wake-up prompt is not optional infrastructure. I've already tried the three steps listed in your auto-reply, clearing cache, toggling the profile off and on, reinstalling. None resolved it.\n\nCould you confirm whether this is a known bug on the current build, and if so, what the remediation timeline looks like? A workaround would also be acceptable in the interim.\n\nDorothy Langston\nAssociate Professor, Computational Biology\nHaverstone University",
+    "created_at": "2026-06-12T03:39:09+00:00",
+    "id": 5000,
+    "public": true,
+    "ticket_id": 4000
+  },
+  {
+    "author_id": 3002,
+    "body": "Professor Langston,\n\nThank you for the follow-up, and I apologize that ticket #7741 wasn't resolved on first contact.\n\nYou are correct that this is a known issue - build 4.2.1 introduced a regression in weekday profile scheduling that affects a subset of users. The engineering team has a patch in QA as of yesterday; expected release is within 48–72 hours.\n\nIn the meantime, the most reliable workaround is:\n- Switch from a named weekday profile to a manual recurring alarm set directly in the main alarm view\n- Set it to repeat Mon–Fri; this path bypasses the broken scheduling logic entirely\n\nI've also escalated your ticket to priority status and will send a confirmation email the moment build 4.2.2 is live. Again, I recognize a consistent morning schedule isn't something you should have to work around.\n\nBest,\nStephen\nCustomer Support, Wakeflow",
+    "created_at": "2026-06-20T14:34:57+00:00",
+    "id": 5001,
+    "public": false,
+    "ticket_id": 4000
+  },
+  {
+    "author_id": 3001,
+    "body": "Stephen,\n\nI submitted a support ticket three days ago regarding a session-logging issue with YogaFlow Pro and have not received a substantive response. My 30-minute morning sessions are consistently being recorded as 18–22 minutes despite full completion, I confirmed this against an independent timer on four consecutive mornings.\n\nThe practical impact is that my weekly completion data is inaccurate, which undermines the purpose of tracking it. I have a fixed morning window before dropping my daughter at Westbrook Academy and moving into a research block, so repeating sessions to compensate is not an option.\n\nPlease confirm whether this is a known defect, the expected resolution timeline, and whether affected session records can be corrected retroactively.\n\nDorothy Langston\nAssociate Professor, Computational Biology\nHaverstone University",
+    "created_at": "2026-06-14T05:52:08+00:00",
+    "id": 5002,
+    "public": true,
+    "ticket_id": 4001
+  },
+  {
+    "author_id": 3002,
+    "body": "Dear Dr. Langston,\n\nThank you for following up. I have reviewed your account and can confirm this is a documented bug affecting users on iOS 17.4 and later when Bluetooth audio is active during a session. The app's internal timer briefly pauses during audio handshake resets, producing the truncated durations you observed.\n\nA patch (v3.2.1) was released yesterday that resolves the underlying issue. Steps to apply: update the app, sign out, and sign back in. Regarding retroactive corrections. Yes, this is possible. Please provide the specific session dates and I will manually adjust the durations within 24 hours of receiving them.\n\nI apologize for the delay in the initial response.\n\nBest regards,\nStephen\nYogaFlow Customer Support",
+    "created_at": "2026-06-13T04:54:57+00:00",
+    "id": 5003,
+    "public": true,
+    "ticket_id": 4001
+  },
+  {
+    "author_id": 3001,
+    "body": "Stephen,\n\nThe affected dates are June 23, 25, 26, and 28 - all 30-minute sessions logged between 6:10 and 6:55 a.m. local time. I have updated to v3.2.1 and completed a test session this morning; it logged correctly at 30 minutes. The Bluetooth handshake explanation is consistent with what I observed, since I use wireless earbuds for all sessions.\n\nPlease apply the corrections to those four dates at your convenience. I will flag if the issue recurs post-patch, but I have no reason to expect it will.\n\nDorothy Langston\nAssociate Professor, Computational Biology\nHaverstone University",
+    "created_at": "2026-06-25T05:55:03+00:00",
+    "id": 5004,
+    "public": false,
+    "ticket_id": 4001
+  },
+  {
+    "author_id": 3002,
+    "body": "Dear Support Team,\n\nThis is a follow-up to the inquiry I submitted on June 24th regarding order #BRW-48821. I have not received a response in six days, which falls outside the 3–5 business day window stated on your website.\n\nThe issue is straightforward: my June Morning Reserve shipment arrived ground at a drip setting. I have selected whole bean at every order since March. My mornings run on a fixed schedule, approximately 20 minutes between grinding coffee and leaving to drop my daughter at Westbrook Academy. So receiving product I cannot use is not a trivial matter. My grinder is manual and calibrated; pre-ground coffee at the wrong coarseness defeats the purpose entirely.\n\nPlease confirm the status of a replacement shipment and whether my account preference has been permanently corrected.\n\nDorothy Langston\nAssociate Professor, Haverstone University",
+    "created_at": "2026-06-18T07:31:05+00:00",
+    "id": 5005,
+    "public": true,
+    "ticket_id": 4002
+  },
+  {
+    "author_id": 3002,
+    "body": "Dear Ms. Langston,\n\nThank you for following up, and I apologize both for the delayed reply and for the fulfillment error on order #BRW-48821.\n\nI have reviewed your account. Your whole bean preference is correctly recorded, but a processing flag error in our June fulfillment batch overrode stored preferences for a subset of subscribers in your tier. The error was not account-specific, which unfortunately does not make it less inconvenient for you.\n\nI would like to dispatch a replacement shipment of the Ethiopian blend in whole bean immediately at no charge, and apply a $10 credit to your next billing cycle. Could you confirm that your shipping address on file - 14 Ashford Lane, Thornfield, is current?\n\nStephen Langston\nCustomer Support, Morning Reserve",
+    "created_at": "2026-06-27T14:53:38+00:00",
+    "id": 5006,
+    "public": true,
+    "ticket_id": 4002
+  },
+  {
+    "author_id": 3002,
+    "body": "Stephen,\n\nThe address is correct. No changes needed.\n\nBefore I consider this resolved, three points:\n\n- Has the fulfillment flag been corrected in my account profile specifically, or will this require monitoring on my end each cycle?\n- Is the replacement sourced from current stock or the same June batch? I would strongly prefer current stock. Roast date matters.\n- What is the expected dispatch and delivery timeline?\n\nThe credit is noted. I would, naturally, have preferred the error not occur. I do not make a habit of auditing my subscriptions for basic accuracy, and I would prefer not to start.\n\nDorothy Langston",
+    "created_at": "2026-06-21T20:29:05+00:00",
+    "id": 5007,
+    "public": true,
+    "ticket_id": 4002
+  },
+  {
+    "author_id": 3002,
+    "body": "Dear Ms. Langston,\n\nTo answer each point directly:\n\n- The fulfillment flag has been corrected at the account level. No manual oversight on your end will be necessary for future shipments.\n- The replacement will ship from current stock, roast date June 28th. Estimated delivery to Thornfield is July 3rd. Tracking will be emailed once the label is generated, likely tomorrow morning.\n- Dispatch is scheduled for July 1st.\n\nI have also added a permanent note to your account flagging the whole bean preference for manual review before each fulfillment cycle as a secondary check. Please reference case #CS-90412 in any future correspondence for faster handling. I hope the rest of your week is more cooperative than this order was.\n\nStephen Langston\nCustomer Support, Morning Reserve",
+    "created_at": "2026-06-22T10:10:16+00:00",
+    "id": 5008,
+    "public": false,
+    "ticket_id": 4002
+  },
+  {
+    "author_id": 3003,
+    "body": "Stephen,\n\nFollowing up on the drop-off situation from this morning. When I arrived at the Westbrook Academy main entrance at approximately 7:55 a.m., the east gate was locked and the intercom was unresponsive. Anna and I waited roughly twelve minutes before a staff member noticed us from inside and manually released the latch - not an acceptable resolution when I have a fixed research block that begins immediately after drop-off.\n\nI would like to know: (1) whether the gate malfunction was a one-off equipment failure or a known recurring issue, (2) what the documented contingency procedure is, and (3) whether parent access cards are being reissued following the system reset referenced in last week's newsletter. A brief written response with specifics would be sufficient, no need to call.\n\nDorothy Langston\nAssociate Professor, Computational Biology\nHaverstone University",
+    "created_at": "2026-06-14T12:05:50+00:00",
+    "id": 5009,
+    "public": true,
+    "ticket_id": 4003
+  },
+  {
+    "author_id": 3002,
+    "body": "Dr. Langston,\n\nThank you for the detailed account. I apologize for the disruption to your morning. The east gate malfunction was caused by a firmware update applied overnight that did not complete correctly; our facilities team corrected it by 8:30 a.m. and confirmed it is functioning normally now. This was not a recurring fault, though I understand that is of limited comfort given what happened.\n\nTo your specific points: the contingency procedure is to use the call box at the west entrance on Birchwood Lane, which remained operational throughout. We will add clearer signage to that effect by end of week. Regarding access cards - yes, reissuance is underway. Cards linked to the Westbrook parent portal will be mailed by July 7th; you should receive yours at the address on file.\n\nPlease let me know if anything further requires clarification.\n\nStephen Langston\nFamily Support Services, Westbrook Academy",
+    "created_at": "2026-06-17T03:31:39+00:00",
+    "id": 5010,
+    "public": false,
+    "ticket_id": 4003
+  },
+  {
+    "author_id": 3004,
+    "body": "Stephen,\n\nFollowing up on my ticket from last Thursday regarding Gmail API access for the Haverstone computational biology lab account. The OAuth 2.0 credentials were issued, but I am still receiving a 403 insufficient permissions error when attempting to call the messages.list endpoint, specifically under the scope https://www.googleapis.com/auth/gmail.readonly.\n\nFor context, I am building a lightweight pipeline that parses collaboration request emails and routes them to the appropriate lab member. The current error suggests the scope was not properly verified during provisioning, though I cannot confirm that without access to the admin console on your end.\n\nCould you confirm: (1) whether the readonly scope was actually enabled on the project, and (2) whether domain-wide delegation is required given this is a university Google Workspace account? I would prefer to avoid unnecessary permission escalation if the readonly scope is sufficient.\n\nDorothy Langston\nAssociate Professor, Computational Biology\nHaverstone University",
+    "created_at": "2026-06-23T11:48:51+00:00",
+    "id": 5011,
+    "public": true,
+    "ticket_id": 4004
+  },
+  {
+    "author_id": 3002,
+    "body": "Professor Langston,\n\nThank you for the detailed follow-up. That level of specificity makes this straightforward to diagnose. After reviewing the project configuration, I can confirm that the gmail.readonly scope was added to the OAuth consent screen but was not included in the list of approved scopes submitted for verification. That is the source of the 403.\n\nI have corrected the scope configuration on the project. You should be able to re-authorize the application using your existing client credentials - no new client ID is required. Regarding domain-wide delegation: because you are authenticating as your own university account rather than impersonating other users, delegation is not necessary here. Standard user-level OAuth with the corrected scope will be sufficient.\n\nPlease allow up to 15 minutes for the change to propagate, then retry the authorization flow. If the 403 persists after that window, reply here and I will escalate to Workspace admin review.\n\nStephen Langston\nAPI Support, Google Workspace\nTicket #GW-884021",
+    "created_at": "2026-06-25T03:21:41+00:00",
+    "id": 5012,
+    "public": true,
+    "ticket_id": 4004
+  },
+  {
+    "author_id": 3004,
+    "body": "Stephen,\n\nThe corrected scope propagated without issue. I re-ran the authorization flow approximately 20 minutes after your update and messages.list is now returning results as expected. The 403 is resolved.\n\nOne follow-on question before I close this out: my pipeline runs during a fixed morning block. Roughly 07:30–12:00 on weekdays - and will issue batched requests at the start of that window. Should I be mindful of any rate limits specific to Workspace accounts under the Gmail API, or does the standard 250 quota units per second per user apply here as well?\n\nAssuming the rate limit question can be addressed asynchronously, you can consider the original issue resolved on my end.\n\nDorothy Langston\nAssociate Professor, Computational Biology\nHaverstone University",
+    "created_at": "2026-06-26T21:32:03+00:00",
+    "id": 5013,
+    "public": false,
+    "ticket_id": 4004
+  },
+  {
+    "author_id": 3005,
+    "body": "Stephen,\n\nFollowing up on ticket #4812, which I submitted last Thursday regarding the Google Calendar API push notification failure. The issue persists: events created via the API appear correctly in the calendar, but the webhook endpoint is receiving no push notifications. I've verified the channel is active, the expiration timestamp is valid, and the receiver is reachable.\n\nThis matters practically because I use the integration to propagate time-blocked segments, including my morning research focus window. To a shared departmental calendar. When push events fail silently, those blocks are invisible to colleagues booking over them.\n\nPlease advise on the next diagnostic step, or confirm whether there is a known service-side issue in the current window.\n\nDorothy Langston\nAssociate Professor, Computational Biology\nHaverstone University, Thornfield",
+    "created_at": "2026-06-15T14:43:16+00:00",
+    "id": 5014,
+    "public": true,
+    "ticket_id": 4005
+  },
+  {
+    "author_id": 3002,
+    "body": "Dear Professor Langston,\n\nThank you for the follow-up on ticket #4812. I've reviewed the logs associated with your project and can see no channel terminations or expired tokens on our side within the reported timeframe.\n\nTo narrow this down, I'd ask you to confirm two things: (1) when the channel was originally registered via watch(), since channels expire silently after seven days if not renewed, and (2) the channelId and resourceId from your original watch response. With those values I can cross-reference our dispatch logs and determine whether notifications are being sent but dropped before reaching your endpoint.\n\nI'll keep this ticket prioritised.\n\nBest regards,\nStephen\nGoogle Workspace Support",
+    "created_at": "2026-06-19T08:28:53+00:00",
+    "id": 5015,
+    "public": true,
+    "ticket_id": 4005
+  },
+  {
+    "author_id": 3005,
+    "body": "Stephen,\n\nExpiry is not the issue - I set an explicit 30-day TTL. Relevant details:\n\n- channelId: dbl-haverstone-cal-sync-01\n- resourceId: o3hF9kLmQ2s\n- Registered: 2026-06-22T07:14:03Z\n- Expiration: 2026-07-22T07:14:03Z\n\nPush events functioned correctly through June 26th. The failure began June 27th. I made no changes on that date, no credential rotation, no scope modifications, no alterations to the receiver. The receiver endpoint is logging inbound requests from other services normally, so the break appears to be upstream of my infrastructure.\n\nDorothy Langston",
+    "created_at": "2026-06-28T19:21:36+00:00",
+    "id": 5016,
+    "public": true,
+    "ticket_id": 4005
+  },
+  {
+    "author_id": 3002,
+    "body": "Dear Professor Langston,\n\nThe June 27th date is the diagnostic I needed. That aligns with a routing-layer change on our push notification infrastructure that was rolled back by June 28th, but left a subset of active channels in a degraded state that does not self-recover. They require manual re-registration.\n\nThe resolution is as follows: call channels.stop() with your current channelId and resourceId, then issue a fresh watch() to register a new channel. No credential or scope changes are needed. I'd suggest doing this outside your peak working hours to avoid any brief notification gap during the switchover.\n\nI've flagged your project ID for internal monitoring against recurrence. Please confirm once re-registration is complete and I'll close the ticket.\n\nBest regards,\nStephen\nGoogle Workspace Support",
+    "created_at": "2026-06-19T08:22:40+00:00",
+    "id": 5017,
+    "public": false,
+    "ticket_id": 4005
+  },
+  {
+    "author_id": 3006,
+    "body": "Stephen,\n\nFollowing up on my ticket from last week regarding the Slack API webhook integration for our lab workspace at Haverstone. The 429 rate-limiting errors have continued - specifically during the 9–11 a.m. window, which is my primary deep-focus research block and the period when our automated pipeline notifications are most operationally critical.\n\nThe errors occur when our genomic processing pipeline pushes status updates to the #lab-alerts channel. I have verified that our payload volume sits well within the documented per-minute limits, so I do not believe this is a throughput problem on our end. The bursts are deterministic and tied to job completion events, not random traffic spikes.\n\nTwo specific questions: (1) Does our current workspace tier impose per-channel rate limits that differ from the standard API documentation? (2) Is there a known conflict between the Events API v2 endpoint and concurrent webhook delivery to the same channel?\n\nI would appreciate a direct answer rather than a link to the general rate-limits page, which I have already read.\n\nDr. Dorothy Langston\nAssociate Professor, Computational Biology\nHaverstone University, Thornfield",
+    "created_at": "2026-06-17T08:09:27+00:00",
+    "id": 5018,
+    "public": true,
+    "ticket_id": 4006
+  },
+  {
+    "author_id": 3002,
+    "body": "Dr. Langston,\n\nThank you for the precise detail, it made diagnosis straightforward. I reviewed the webhook delivery logs for your workspace and the issue is burst concurrency, not sustained volume. Your pipeline is dispatching multiple requests to the same endpoint within sub-second windows at job completion, which triggers the burst threshold regardless of per-minute totals.\n\nTo address your two questions directly: (1) Your workspace tier applies standard API rate limits with no per-channel variance, so tier is not a factor here. (2) There is no known bug with the Events API v2 endpoint itself. The behavior you're seeing is expected under concurrent delivery conditions.\n\nThe fix is to implement a queuing layer on the bot's outbound requests with exponential backoff and jitter. I've attached a code snippet demonstrating the recommended retry pattern for your stack. If you are using Bolt for Python, the built-in retry handler covers most of this automatically with a single configuration flag.\n\nIf the errors persist after implementing the backoff strategy, reply to this thread and I will escalate to Tier 2 with the log timestamps already flagged.\n\nBest regards,\nStephen\nSlack Developer Support",
+    "created_at": "2026-06-19T23:15:34+00:00",
+    "id": 5019,
+    "public": false,
+    "ticket_id": 4006
+  },
+  {
+    "author_id": 3007,
+    "body": "Stephen,\n\nFollowing up on my ticket from last week regarding the Google Drive API OAuth 2.0 issue. The problem persists: my service account authenticates successfully but returns a 403 on any attempt to list files within my lab's shared drive.\n\nRelevant specifics:\n- Project ID: haverstone-compbio-lab\n- Error: 403 Forbidden - \"The caller does not have permission\"\n- Scope requested: https://www.googleapis.com/auth/drive.readonly\n- Shared drive: Thornfield Lab Data Repository\n\nThe service account has been added as Content Manager on the shared drive, and domain-wide delegation is enabled. The issue appeared directly after our Workspace admin made configuration changes on June 18th. I have a fairly rigid morning schedule, so email is the most efficient channel, I will respond promptly, just not between 7 and 9 a.m.\n\nDorothy Langston\nAssociate Professor, Computational Biology\nHaverstone University",
+    "created_at": "2026-06-20T06:18:08+00:00",
+    "id": 5020,
+    "public": true,
+    "ticket_id": 4007
+  },
+  {
+    "author_id": 3002,
+    "body": "Dr. Langston,\n\nThank you for the precise detail. It narrows the diagnostic considerably.\n\nThe timing relative to the June 18th admin change points toward a Workspace-level restriction rather than a shared drive permission problem. Please ask your admin to check Admin Console > Apps > Google Workspace > Drive and Docs > Features and Applications and confirm that Drive SDK access has not been restricted for service accounts.\n\nAlso verify the following before we escalate:\n- The service account's client ID appears under Security > API Controls > Domain-wide Delegation\n- The scopes listed in the delegation entry match exactly what your application requests - a trailing slash or scope variant produces a silent mismatch that presents identically to your current error\n\nIf both check out and the issue remains, reply with the full JSON error response body and I will route this to our Drive API specialist team.\n\nStephen Langston\nGoogle Workspace Support",
+    "created_at": "2026-06-24T23:04:29+00:00",
+    "id": 5021,
+    "public": true,
+    "ticket_id": 4007
+  },
+  {
+    "author_id": 3007,
+    "body": "Stephen,\n\nBoth items confirmed. The Drive SDK restriction was the issue, our admin located it disabled for external apps at exactly the path you described. Re-enabling it resolved the 403 immediately.\n\nOne residual issue worth flagging before this ticket closes: file listing now works at the top level of the shared drive, but the API is not returning items from subfolders even with includeItemsFromAllDrives set to true and corpora set to drive with the correct driveId supplied. Given that this appeared in the same configuration window, I suspect it is related rather than coincidental.\n\nThe project ID and service account details from my previous message are still current if escalation is needed.\n\nDorothy Langston\nAssociate Professor, Computational Biology\nHaverstone University",
+    "created_at": "2026-06-28T01:54:15+00:00",
+    "id": 5022,
+    "public": false,
+    "ticket_id": 4007
+  },
+  {
+    "author_id": 3008,
+    "body": "Stephen,\n\nI submitted a support ticket three days ago regarding the wake-up scheduling feature, and the issue remains unresolved. This morning the alarm triggered at 6:47 rather than 6:15. A 32-minute offset that is not trivial when the morning operates on a fixed sequence. I have a hard departure at 7:50 to drop my daughter at Westbrook Academy, and a compressed start pushed my research block back by nearly an hour.\n\nThe configuration is unchanged from the original report: firmware is current, timezone is correctly set to EST, and no manual edits have been made since I first wrote in. Could you confirm the ticket is still active and provide an estimated resolution window?\n\nDorothy Langston\nAssociate Professor, Computational Biology\nHaverstone University",
+    "created_at": "2026-06-23T08:13:35+00:00",
+    "id": 5023,
+    "public": true,
+    "ticket_id": 4008
+  },
+  {
+    "author_id": 3002,
+    "body": "Dear Dr. Langston,\n\nThank you for following up - I've located your original ticket and can confirm it remains open. I apologize that this has persisted into a second week without resolution.\n\nTo help our team isolate the cause, I have two questions:\n- Is the alarm configured as a fixed time or a smart/adaptive wake window?\n- Does the device activity log show any background sync, update, or connectivity event between 6:00 and 6:50 AM on the affected mornings?\n\nOnce I have those details I can route this to the appropriate specialist and set a realistic timeline for you.\n\nBest,\nStephen\nCustomer Support",
+    "created_at": "2026-06-20T04:51:30+00:00",
+    "id": 5024,
+    "public": true,
+    "ticket_id": 4008
+  },
+  {
+    "author_id": 3008,
+    "body": "Stephen,\n\nThe alarm is fixed, 6:15 AM, smart wake disabled. I reviewed the device log for both affected mornings (Tuesday and Wednesday of this week) and there are no flagged update or sync events in that window. Monday functioned normally; the schedule itself has not been edited between any of these days.\n\nTwo additional data points that may be relevant:\n- The misfire has occurred on exactly two consecutive weekdays; the weekend schedule is disabled entirely.\n- On both mornings, the offset was approximately 32 minutes. Consistent, not random.\n\nA consistent offset rather than a random one suggests a systematic error, not a transient glitch. I can export the full activity logs from Tuesday and Wednesday if that would accelerate diagnosis.\n\nDorothy Langston",
+    "created_at": "2026-06-27T23:35:11+00:00",
+    "id": 5025,
+    "public": true,
+    "ticket_id": 4008
+  },
+  {
+    "author_id": 3002,
+    "body": "Dear Dr. Langston,\n\nYes - please do attach those logs. You can upload them directly to the original ticket or reply here and I will link them manually on my end.\n\nThe pattern you have described, a consistent ~32-minute offset on weekdays with the weekend schedule excluded, is consistent with a known edge case in our scheduling engine involving certain DST-adjacent timezone configurations. The device clock reads correctly while the internal scheduler carries a residual offset. We have a patch currently in testing that addresses this specifically.\n\nI am escalating your ticket to Tier 2 effective now. A specialist will review the logs and confirm whether your case matches the known defect. You should receive a substantive update within one business day.\n\nStephen\nCustomer Support",
+    "created_at": "2026-06-22T08:23:58+00:00",
+    "id": 5026,
+    "public": false,
+    "ticket_id": 4008
+  },
+  {
+    "author_id": 3009,
+    "body": "Stephen,\n\nFollowing up on my inquiry from last week regarding the 30-minute morning flow sequences on your platform. I have not received confirmation of whether the updated library includes sessions filterable by exact duration, my morning schedule is fixed, and I need to drop my daughter at Westbrook Academy by 8:15 a.m., which leaves me a non-negotiable 30-minute window after coffee.\n\nTo be specific, I am looking for:\n- Sessions sortable by exact runtime, not approximate ranges\n- Intermediate difficulty with emphasis on flexibility and balance\n- Offline playback capability, as my home connection is unreliable before 7 a.m.\n\nIf the platform does not currently support these features, I would prefer to know that directly rather than discover it after subscribing.\n\nDorothy Langston\nAssociate Professor, Haverstone University",
+    "created_at": "2026-06-23T04:40:21+00:00",
+    "id": 5027,
+    "public": true,
+    "ticket_id": 4009
+  },
+  {
+    "author_id": 3002,
+    "body": "Dr. Langston,\n\nThank you for the follow-up. I can confirm that the library update released last Thursday addresses each of your points directly:\n- Duration filtering: sessions are now tagged by exact runtime; 30-minute is a selectable filter under Browse → Duration\n- Difficulty and focus: 11 sessions currently meet the intermediate/flexibility criteria within that window\n- Offline access: available on iOS and Android; sessions require a one-time Wi-Fi download before use\n\nI have applied a 14-day trial extension to your account so you have adequate time to evaluate the content before committing to a subscription. You should see the updated expiry reflected in your account settings now.\n\nPlease do not hesitate to write back with any additional questions.\n\nStephen Langston\nCustomer Support",
+    "created_at": "2026-06-25T13:48:54+00:00",
+    "id": 5028,
+    "public": false,
+    "ticket_id": 4009
+  },
+  {
+    "author_id": 3010,
+    "body": "Stephen,\n\nI am following up on ticket #4821, submitted three days ago regarding my standing order of Ethiopian Yirgacheffe whole beans. The 500g monthly bag. The most recent shipment, due the 26th, has not arrived, and tracking has shown 'in transit' without movement since the 24th.\n\nMy morning routine runs on a fixed schedule before my first research block begins, and this particular delivery sits in the critical path of that window. I would appreciate either a status update with a concrete estimated delivery date or confirmation that a replacement shipment has been initiated.\n\nDorothy Langston",
+    "created_at": "2026-06-20T09:23:52+00:00",
+    "id": 5029,
+    "public": true,
+    "ticket_id": 4010
+  },
+  {
+    "author_id": 3002,
+    "body": "Dear Dr. Langston,\n\nThank you for following up on ticket #4821. I have located your shipment - it was held at the regional distribution hub due to a carrier backlog on the 25th. It has since been flagged for priority routing, and you should see tracking movement within the next 24 hours.\n\nTo apologize for the disruption, I have arranged for a complimentary 250g bag of our Colombia Huila single-origin to be appended to your next monthly order at no charge. Please do not hesitate to reach out if anything further comes up.\n\nBest regards,\nStephen Langston\nCustomer Support",
+    "created_at": "2026-06-25T06:01:01+00:00",
+    "id": 5030,
+    "public": true,
+    "ticket_id": 4010
+  },
+  {
+    "author_id": 3010,
+    "body": "Stephen,\n\nThe shipment arrived this morning, tracking updated overnight, consistent with what you described. The beans are in good condition.\n\nRegarding the Colombia Huila: I would prefer it be included in this delivery cycle rather than the next, if your fulfillment system allows a manual addition. The Yirgacheffe serves my morning routine reliably, but I have no philosophical objection to variety.\n\nThank you for the prompt resolution.\n\nDorothy Langston",
+    "created_at": "2026-06-25T04:38:01+00:00",
+    "id": 5031,
+    "public": false,
+    "ticket_id": 4010
+  },
+  {
+    "author_id": 3011,
+    "body": "Hi Stephen,\n\nThanks for the note. Tomorrow afternoon works. Does 3pm fit?\n\nBest,\nDorothy",
+    "created_at": "2026-06-27T10:19:46+00:00",
+    "id": 5032,
+    "public": true,
+    "ticket_id": 4011
+  },
+  {
+    "author_id": 3002,
+    "body": "3pm is great. Sending the calendar invite now.\n\nStephen",
+    "created_at": "2026-06-25T16:12:31+00:00",
+    "id": 5033,
+    "public": true,
+    "ticket_id": 4011
+  },
+  {
+    "author_id": 3011,
+    "body": "Got it, see you then.\n\nDorothy",
+    "created_at": "2026-06-25T04:55:52+00:00",
+    "id": 5034,
+    "public": true,
+    "ticket_id": 4011
+  },
+  {
+    "author_id": 3002,
+    "body": "Quick reminder for our chat in 30 min.\n\nStephen",
+    "created_at": "2026-06-29T17:56:12+00:00",
+    "id": 5035,
+    "public": false,
+    "ticket_id": 4011
+  }
+]

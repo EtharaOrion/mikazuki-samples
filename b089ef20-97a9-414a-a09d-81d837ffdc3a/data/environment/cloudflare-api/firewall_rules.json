@@ -1,0 +1,202 @@
+[
+  {
+    "id": "fw0001aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Block known bad bots",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": "false",
+    "priority": "1",
+    "created_on": "2025-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "fw0002aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Challenge non-US traffic on the reservations endpoint",
+    "action": "managed_challenge",
+    "expression": "(http.request.uri.path contains \"/reservations\" and ip.geoip.country ne \"US\")",
+    "paused": "false",
+    "priority": "2",
+    "created_on": "2025-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "fw0003aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Rate-limit the contact form",
+    "action": "block",
+    "expression": "(http.request.uri.path eq \"/contact\" and http.request.method eq \"POST\")",
+    "paused": "false",
+    "priority": "3",
+    "created_on": "2025-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "fw0004aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Block WordPress xmlrpc abuse",
+    "action": "block",
+    "expression": "(http.request.uri.path eq \"/xmlrpc.php\")",
+    "paused": "false",
+    "priority": "4",
+    "created_on": "2025-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "fw0005aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Skip WAF for Algolia search webhook",
+    "action": "skip",
+    "expression": "(http.request.uri.path contains \"/algolia-webhook\")",
+    "paused": "false",
+    "priority": "5",
+    "created_on": "2025-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "fw0006aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Block SQL injection attempts on the menu API",
+    "action": "block",
+    "expression": "(http.request.uri.path contains \"/api/menu\" and http.request.uri.query contains \"union select\")",
+    "paused": "false",
+    "priority": "6",
+    "created_on": "2025-01-22T11:15:00.000Z"
+  },
+  {
+    "id": "fw0007aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Managed challenge on the gift card checkout",
+    "action": "managed_challenge",
+    "expression": "(http.request.uri.path eq \"/gift-cards/checkout\" and cf.threat_score gt 10)",
+    "paused": "false",
+    "priority": "7",
+    "created_on": "2025-02-03T09:40:00.000Z"
+  },
+  {
+    "id": "fw0008aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Allow Square POS webhook IP range",
+    "action": "skip",
+    "expression": "(ip.src in {198.51.100.0/24} and http.request.uri.path contains \"/square-webhook\")",
+    "paused": "false",
+    "priority": "8",
+    "created_on": "2025-02-14T14:05:00.000Z"
+  },
+  {
+    "id": "fw0009aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Challenge rapid form posts to the catering inquiry",
+    "action": "managed_challenge",
+    "expression": "(http.request.uri.path eq \"/catering\" and http.request.method eq \"POST\")",
+    "paused": "false",
+    "priority": "9",
+    "created_on": "2025-03-01T08:20:00.000Z"
+  },
+  {
+    "id": "fw0010aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Block requests to legacy admin path",
+    "action": "block",
+    "expression": "(http.request.uri.path contains \"/wp-admin\")",
+    "paused": "false",
+    "priority": "10",
+    "created_on": "2025-03-12T13:10:00.000Z"
+  },
+  {
+    "id": "fw0011aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Rate-limit newsletter signup endpoint",
+    "action": "block",
+    "expression": "(http.request.uri.path eq \"/newsletter/subscribe\" and http.request.method eq \"POST\")",
+    "paused": "true",
+    "priority": "11",
+    "created_on": "2025-03-25T10:55:00.000Z"
+  },
+  {
+    "id": "fw0012aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Challenge traffic from anonymizer ASNs",
+    "action": "managed_challenge",
+    "expression": "(ip.geoip.asnum in {16276 14061} and not http.request.uri.path contains \"/menu\")",
+    "paused": "false",
+    "priority": "12",
+    "created_on": "2025-01-08T16:30:00.000Z"
+  },
+  {
+    "id": "fw0013aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Block scrapers hitting the events calendar",
+    "action": "block",
+    "expression": "(http.request.uri.path contains \"/events\" and http.user_agent contains \"python-requests\")",
+    "paused": "false",
+    "priority": "13",
+    "created_on": "2025-01-19T12:00:00.000Z"
+  },
+  {
+    "id": "fw0014aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Skip WAF for Klaviyo tracking pixel",
+    "action": "skip",
+    "expression": "(http.request.uri.path contains \"/klaviyo-track\")",
+    "paused": "false",
+    "priority": "14",
+    "created_on": "2025-02-02T09:15:00.000Z"
+  },
+  {
+    "id": "fw0015aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Block known malicious referrer spam",
+    "action": "block",
+    "expression": "(http.referer contains \"buy-cheap-meds\")",
+    "paused": "false",
+    "priority": "15",
+    "created_on": "2025-02-16T11:45:00.000Z"
+  },
+  {
+    "id": "fw0016aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Challenge non-US logins to the staff portal",
+    "action": "managed_challenge",
+    "expression": "(http.request.uri.path eq \"/staff/login\" and ip.geoip.country ne \"US\")",
+    "paused": "false",
+    "priority": "16",
+    "created_on": "2025-03-01T08:05:00.000Z"
+  },
+  {
+    "id": "fw0017aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Block oversized file uploads on the careers form",
+    "action": "block",
+    "expression": "(http.request.uri.path eq \"/careers/apply\" and http.request.body.size gt 10485760)",
+    "paused": "false",
+    "priority": "17",
+    "created_on": "2025-03-10T14:25:00.000Z"
+  },
+  {
+    "id": "fw0018aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Skip security for UptimeRobot monitor",
+    "action": "skip",
+    "expression": "(http.user_agent contains \"UptimeRobot\")",
+    "paused": "false",
+    "priority": "18",
+    "created_on": "2025-01-04T07:30:00.000Z"
+  },
+  {
+    "id": "fw0019aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Block path traversal attempts",
+    "action": "block",
+    "expression": "(http.request.uri.path contains \"../\")",
+    "paused": "false",
+    "priority": "19",
+    "created_on": "2025-02-15T10:10:00.000Z"
+  },
+  {
+    "id": "fw0020aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Challenge high-threat traffic to reservations confirm",
+    "action": "managed_challenge",
+    "expression": "(http.request.uri.path eq \"/reservations/confirm\" and cf.threat_score gt 20)",
+    "paused": "false",
+    "priority": "20",
+    "created_on": "2025-03-09T13:50:00.000Z"
+  }
+]

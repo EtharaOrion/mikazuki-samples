@@ -1,0 +1,182 @@
+[
+  {
+    "id": "price_LessonPkg",
+    "product": "prod_LessonPkg",
+    "unit_amount": 32000,
+    "currency": "usd",
+    "recurring_interval": "Jessica Webb",
+    "active": true,
+    "nickname": "Private Lesson Package \u2014 8 lessons"
+  },
+  {
+    "id": "price_Ensemble",
+    "product": "prod_Ensemble",
+    "unit_amount": 48000,
+    "currency": "usd",
+    "recurring_interval": "Jessica Webb",
+    "active": true,
+    "nickname": "Youth Ensemble Tuition \u2014 Spring 2026"
+  },
+  {
+    "id": "price_CampDeposit",
+    "product": "prod_CampDeposit",
+    "unit_amount": 35000,
+    "currency": "usd",
+    "recurring_interval": "Jessica Webb",
+    "active": true,
+    "nickname": "Summer Jazz Camp Deposit"
+  },
+  {
+    "id": "price_ShowcaseTix",
+    "product": "prod_ShowcaseTix",
+    "unit_amount": 2500,
+    "currency": "usd",
+    "recurring_interval": "Jessica Webb",
+    "active": true,
+    "nickname": "Anniversary Showcase Ticket"
+  },
+  {
+    "id": "price_TwoRoadsCD",
+    "product": "prod_TwoRoadsCD",
+    "unit_amount": 1500,
+    "currency": "usd",
+    "recurring_interval": "Jessica Webb",
+    "active": true,
+    "nickname": "Two Roads \u2014 Quartet CD"
+  },
+  {
+    "id": "price_LessonPkg_Monthly",
+    "product": "prod_LessonPkg",
+    "unit_amount": 32000,
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": true,
+    "nickname": "Private Lesson Package \u2014 Monthly Auto-Renew"
+  },
+  {
+    "id": "price_Unlimited_Monthly",
+    "product": "prod_LessonPkg",
+    "unit_amount": 50000,
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": true,
+    "nickname": "Unlimited Private Lessons \u2014 Monthly"
+  },
+  {
+    "id": "price_YouthEnsemble_Monthly",
+    "product": "prod_Ensemble",
+    "unit_amount": 18000,
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": true,
+    "nickname": "Youth Jazz Ensemble \u2014 Monthly Tuition"
+  },
+  {
+    "id": "price_LessonPkg_p001",
+    "product": "prod_LessonPkg",
+    "unit_amount": 32008,
+    "currency": "usd",
+    "recurring_interval": "Jessica Webb",
+    "active": true,
+    "nickname": "Monthly payroll processing"
+  },
+  {
+    "id": "price_Ensemble_p002",
+    "product": "prod_Ensemble",
+    "unit_amount": 48009,
+    "currency": "usd",
+    "recurring_interval": "Jessica Webb",
+    "active": true,
+    "nickname": "5th Anniversary Showcase planning"
+  },
+  {
+    "id": "price_CampDeposit_p003",
+    "product": "prod_CampDeposit",
+    "unit_amount": 35010,
+    "currency": "usd",
+    "recurring_interval": "Jessica Webb",
+    "active": true,
+    "nickname": "Summer camp registration"
+  },
+  {
+    "id": "price_ShowcaseTix_p004",
+    "product": "prod_ShowcaseTix",
+    "unit_amount": 2511,
+    "currency": "usd",
+    "recurring_interval": "Jessica Webb",
+    "active": true,
+    "nickname": "Substitute coverage"
+  },
+  {
+    "id": "price_TwoRoadsCD_p005",
+    "product": "prod_TwoRoadsCD",
+    "unit_amount": 1512,
+    "currency": "usd",
+    "recurring_interval": "Jessica Webb",
+    "active": true,
+    "nickname": "Sheet music library update"
+  },
+  {
+    "id": "price_LessonPkg_Monthly_p006",
+    "product": "prod_LessonPkg",
+    "unit_amount": 32013,
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": true,
+    "nickname": "Parent meeting slot"
+  },
+  {
+    "id": "price_Unlimited_Monthly_p007",
+    "product": "prod_LessonPkg",
+    "unit_amount": 50014,
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": true,
+    "nickname": "Ensemble arrangement rewrite"
+  },
+  {
+    "id": "price_YouthEnsemble_Monthly_p008",
+    "product": "prod_Ensemble",
+    "unit_amount": 18015,
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": true,
+    "nickname": "Recital program layout"
+  },
+  {
+    "id": "price_LessonPkg_p009",
+    "product": "prod_LessonPkg",
+    "unit_amount": 32016,
+    "currency": "usd",
+    "recurring_interval": "Jessica Webb",
+    "active": true,
+    "nickname": "Quartet setlist review"
+  },
+  {
+    "id": "price_Ensemble_p010",
+    "product": "prod_Ensemble",
+    "unit_amount": 48017,
+    "currency": "usd",
+    "recurring_interval": "Jessica Webb",
+    "active": true,
+    "nickname": "Rehearsal recording listen-back"
+  },
+  {
+    "id": "price_CampDeposit_p011",
+    "product": "prod_CampDeposit",
+    "unit_amount": 35018,
+    "currency": "usd",
+    "recurring_interval": "Jessica Webb",
+    "active": true,
+    "nickname": "Second album pre-production notes"
+  },
+  {
+    "id": "price_ShowcaseTix_p012",
+    "product": "prod_ShowcaseTix",
+    "unit_amount": 2519,
+    "currency": "usd",
+    "recurring_interval": "Jessica Webb",
+    "active": true,
+    "nickname": "Venue confirmation thread"
+  }
+]

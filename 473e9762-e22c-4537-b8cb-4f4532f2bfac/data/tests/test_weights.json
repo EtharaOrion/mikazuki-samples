@@ -1,0 +1,12 @@
+{
+  "test_desktop_png_output_present": 5,
+  "test_desktop_png_signature_valid": 3,
+  "test_new_material_filed_on_target_course_and_topic": 5,
+  "test_announcements_collection_size_unchanged": 5,
+  "test_coursework_collection_size_unchanged": 3,
+  "test_no_orphan_material_records": 3,
+  "test_audit_shows_material_write_on_target_course": 3,
+  "test_audit_shows_no_announcement_writes": 3,
+  "test_audit_shows_no_coursework_writes": 3,
+  "test_material_filed_on_wrong_topic_detected": -3
+}

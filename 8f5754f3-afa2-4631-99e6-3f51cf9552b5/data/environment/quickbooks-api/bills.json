@@ -1,0 +1,3602 @@
+[
+  {
+    "Id": "3001",
+    "DocNumber": "RENT-2026-04",
+    "VendorRef": {
+      "value": "9",
+      "name": "Broadway Astoria Realty LLC"
+    },
+    "TxnDate": "2026-01-01",
+    "DueDate": "2026-01-05",
+    "Line": [
+      {
+        "Amount": 12000.0,
+        "Description": "Monthly tavern lease - April 2026. 31-09 Broadway.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Rent Expense",
+            "value": "16"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12000.0,
+    "Balance": 0,
+    "PrivateNote": "Paid on time.",
+    "MetaData": {
+      "CreateTime": "2026-01-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-01T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3002",
+    "DocNumber": "RENT-2026-05",
+    "VendorRef": {
+      "value": "9",
+      "name": "Broadway Astoria Realty LLC"
+    },
+    "TxnDate": "2026-02-01",
+    "DueDate": "2026-02-05",
+    "Line": [
+      {
+        "Amount": 12000.0,
+        "Description": "Monthly tavern lease - May 2026. 31-09 Broadway.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Rent Expense",
+            "value": "16"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12000.0,
+    "Balance": 0,
+    "PrivateNote": "Paid 2/4.",
+    "MetaData": {
+      "CreateTime": "2026-02-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-01T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3003",
+    "DocNumber": "RENT-2026-06",
+    "VendorRef": {
+      "value": "9",
+      "name": "Broadway Astoria Realty LLC"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 12000.0,
+        "Description": "Monthly tavern lease - June 2026. 31-09 Broadway.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Rent Expense",
+            "value": "16"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12000.0,
+    "Balance": 12000.0,
+    "PrivateNote": "Due 3/5 - not yet paid as of report date.",
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-01T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3004",
+    "DocNumber": "ASF-2026-0418",
+    "VendorRef": {
+      "value": "1",
+      "name": "Atlantic Seafood Supply"
+    },
+    "TxnDate": "2026-01-18",
+    "DueDate": "2026-01-25",
+    "Line": [
+      {
+        "Amount": 2840.5,
+        "Description": "Weekly seafood order - cod, salmon, oysters, octopus.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Food Cost - Seafood",
+            "value": "11"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2840.5,
+    "Balance": 0,
+    "PrivateNote": "none",
+    "MetaData": {
+      "CreateTime": "2026-01-18T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-18T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3005",
+    "DocNumber": "ASF-2026-0509",
+    "VendorRef": {
+      "value": "1",
+      "name": "Atlantic Seafood Supply"
+    },
+    "TxnDate": "2026-02-09",
+    "DueDate": "2026-02-16",
+    "Line": [
+      {
+        "Amount": 3120.0,
+        "Description": "Weekly seafood order - cod, salmon, clams for chowder.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Food Cost - Seafood",
+            "value": "11"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3120.0,
+    "Balance": 0,
+    "PrivateNote": "none",
+    "MetaData": {
+      "CreateTime": "2026-02-09T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-09T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3006",
+    "DocNumber": "ASF-2026-0606",
+    "VendorRef": {
+      "value": "1",
+      "name": "Atlantic Seafood Supply"
+    },
+    "TxnDate": "2026-03-06",
+    "DueDate": "2026-03-13",
+    "Line": [
+      {
+        "Amount": 3400.0,
+        "Description": "Weekly seafood order - salmon, cod, oysters.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Food Cost - Seafood",
+            "value": "11"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3400.0,
+    "Balance": 3400.0,
+    "PrivateNote": "Net-7, due 3/13.",
+    "MetaData": {
+      "CreateTime": "2026-03-06T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-06T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3007",
+    "DocNumber": "GMP-2026-0421",
+    "VendorRef": {
+      "value": "2",
+      "name": "Greenmarket Produce Partners"
+    },
+    "TxnDate": "2026-01-21",
+    "DueDate": "2026-01-28",
+    "Line": [
+      {
+        "Amount": 1685.4,
+        "Description": "Produce & dairy - brussels, carrots, potatoes, herbs.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Food Cost - Produce",
+            "value": "9"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1685.4,
+    "Balance": 0,
+    "PrivateNote": "none",
+    "MetaData": {
+      "CreateTime": "2026-01-21T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-21T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3008",
+    "DocNumber": "GMP-2026-0519",
+    "VendorRef": {
+      "value": "2",
+      "name": "Greenmarket Produce Partners"
+    },
+    "TxnDate": "2026-02-19",
+    "DueDate": "2026-02-26",
+    "Line": [
+      {
+        "Amount": 1820.75,
+        "Description": "Produce & dairy weekly delivery.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Food Cost - Produce",
+            "value": "9"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1820.75,
+    "Balance": 0,
+    "PrivateNote": "none",
+    "MetaData": {
+      "CreateTime": "2026-02-19T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-19T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3009",
+    "DocNumber": "GMP-2026-0616",
+    "VendorRef": {
+      "value": "2",
+      "name": "Greenmarket Produce Partners"
+    },
+    "TxnDate": "2026-03-16",
+    "DueDate": "2026-03-23",
+    "Line": [
+      {
+        "Amount": 2185.4,
+        "Description": "Produce & dairy weekly delivery.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Food Cost - Produce",
+            "value": "9"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2185.4,
+    "Balance": 2185.4,
+    "PrivateNote": "Open.",
+    "MetaData": {
+      "CreateTime": "2026-03-16T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-16T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3010",
+    "DocNumber": "EMP-2026-0415",
+    "VendorRef": {
+      "value": "3",
+      "name": "Empire Meat Purveyors"
+    },
+    "TxnDate": "2026-01-15",
+    "DueDate": "2026-01-28",
+    "Line": [
+      {
+        "Amount": 3960.0,
+        "Description": "NY strip, ground beef/lamb, chicken, pork.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Food Cost - Meat & Poultry",
+            "value": "10"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3960.0,
+    "Balance": 0,
+    "PrivateNote": "none",
+    "MetaData": {
+      "CreateTime": "2026-01-15T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-15T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3011",
+    "DocNumber": "EMP-2026-0520",
+    "VendorRef": {
+      "value": "3",
+      "name": "Empire Meat Purveyors"
+    },
+    "TxnDate": "2026-02-20",
+    "DueDate": "2026-03-03",
+    "Line": [
+      {
+        "Amount": 4310.0,
+        "Description": "NY strip, pot roast cuts, chicken for clay-pot.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Food Cost - Meat & Poultry",
+            "value": "10"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 4310.0,
+    "Balance": 0,
+    "PrivateNote": "none",
+    "MetaData": {
+      "CreateTime": "2026-02-20T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-20T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3012",
+    "DocNumber": "EMP-2026-0617",
+    "VendorRef": {
+      "value": "3",
+      "name": "Empire Meat Purveyors"
+    },
+    "TxnDate": "2026-03-17",
+    "DueDate": "2026-03-31",
+    "Line": [
+      {
+        "Amount": 4760.0,
+        "Description": "NY strip, ground meat for meatloaf, chicken.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Food Cost - Meat & Poultry",
+            "value": "10"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 4760.0,
+    "Balance": 4760.0,
+    "PrivateNote": "Net-14.",
+    "MetaData": {
+      "CreateTime": "2026-03-17T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-17T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3013",
+    "DocNumber": "HVW-2026-0410",
+    "VendorRef": {
+      "value": "4",
+      "name": "Hudson Valley Wine Imports"
+    },
+    "TxnDate": "2026-01-10",
+    "DueDate": "2026-02-10",
+    "Line": [
+      {
+        "Amount": 3120.75,
+        "Description": "Hudson Valley reds & whites - by-the-glass program.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Beverage Cost - Liquor & Wine",
+            "value": "12"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3120.75,
+    "Balance": 0,
+    "PrivateNote": "Net-30.",
+    "MetaData": {
+      "CreateTime": "2026-01-10T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-10T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3014",
+    "DocNumber": "HVW-2026-0608",
+    "VendorRef": {
+      "value": "4",
+      "name": "Hudson Valley Wine Imports"
+    },
+    "TxnDate": "2026-02-06",
+    "DueDate": "2026-03-08",
+    "Line": [
+      {
+        "Amount": 2890.0,
+        "Description": "Wine restock + The Eleanor bourbon.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Beverage Cost - Liquor & Wine",
+            "value": "12"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2890.0,
+    "Balance": 2890.0,
+    "PrivateNote": "Net-30, due 3/8.",
+    "MetaData": {
+      "CreateTime": "2026-02-06T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-06T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3015",
+    "DocNumber": "FBB-2026-0512",
+    "VendorRef": {
+      "value": "5",
+      "name": "Five Boroughs Beverage"
+    },
+    "TxnDate": "2026-02-12",
+    "DueDate": "2026-02-26",
+    "Line": [
+      {
+        "Amount": 1890.0,
+        "Description": "Craft beer kegs and bar mixers.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Beverage Cost - Liquor & Wine",
+            "value": "12"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1890.0,
+    "Balance": 0,
+    "PrivateNote": "none",
+    "MetaData": {
+      "CreateTime": "2026-02-12T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-12T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3016",
+    "DocNumber": "ABD-2026-0601",
+    "VendorRef": {
+      "value": "6",
+      "name": "Astoria Bakery & Dairy"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-08",
+    "Line": [
+      {
+        "Amount": 640.25,
+        "Description": "Pie shells, bread, butter and dairy.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Food Cost - Produce",
+            "value": "9"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 640.25,
+    "Balance": 640.25,
+    "PrivateNote": "Open.",
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-01T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3017",
+    "DocNumber": "CONED-2026-05",
+    "VendorRef": {
+      "value": "10",
+      "name": "Con Edison"
+    },
+    "TxnDate": "2026-02-15",
+    "DueDate": "2026-03-01",
+    "Line": [
+      {
+        "Amount": 1845.6,
+        "Description": "Electric service Jan 14 - Feb 13. Acct 31-09-BWY.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "17"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1845.6,
+    "Balance": 0,
+    "PrivateNote": "Auto-pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-15T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-15T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3018",
+    "DocNumber": "NATGRID-2026-05",
+    "VendorRef": {
+      "value": "11",
+      "name": "National Grid"
+    },
+    "TxnDate": "2026-02-18",
+    "DueDate": "2026-03-04",
+    "Line": [
+      {
+        "Amount": 720.3,
+        "Description": "Natural gas service - May. Acct AST-4471.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "17"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 720.3,
+    "Balance": 0,
+    "PrivateNote": "Auto-pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-18T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-18T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3019",
+    "DocNumber": "WATER-2026-Q2",
+    "VendorRef": {
+      "value": "13",
+      "name": "NYC Water Board"
+    },
+    "TxnDate": "2026-02-01",
+    "DueDate": "2026-02-28",
+    "Line": [
+      {
+        "Amount": 312.0,
+        "Description": "Water & sewer - Q2 2026.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "17"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 312.0,
+    "Balance": 0,
+    "PrivateNote": "none",
+    "MetaData": {
+      "CreateTime": "2026-02-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-01T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3020",
+    "DocNumber": "WASTE-2026-05",
+    "VendorRef": {
+      "value": "19",
+      "name": "Boroughs Waste & Sanitation"
+    },
+    "TxnDate": "2026-02-05",
+    "DueDate": "2026-02-20",
+    "Line": [
+      {
+        "Amount": 485.0,
+        "Description": "Commercial waste & grease trap service - May.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Utilities",
+            "value": "17"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 485.0,
+    "Balance": 0,
+    "PrivateNote": "none",
+    "MetaData": {
+      "CreateTime": "2026-02-05T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-05T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3021",
+    "DocNumber": "ERI-2026-Q2",
+    "VendorRef": {
+      "value": "20",
+      "name": "Empire Restaurant Insurance Group"
+    },
+    "TxnDate": "2026-01-01",
+    "DueDate": "2026-01-15",
+    "Line": [
+      {
+        "Amount": 6000.0,
+        "Description": "Q2 premium - GL, liquor liability, workers comp. Policy ERI-2026-31109.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Insurance",
+            "value": "18"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 6000.0,
+    "Balance": 0,
+    "PrivateNote": "Quarterly.",
+    "MetaData": {
+      "CreateTime": "2026-01-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-01T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3022",
+    "DocNumber": "PLS-2026-0601",
+    "VendorRef": {
+      "value": "8",
+      "name": "Pristine Linen Service"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-08",
+    "Line": [
+      {
+        "Amount": 420.0,
+        "Description": "Weekly linen, apron and kitchen towel service.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Linen & Laundry",
+            "value": "21"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 420.0,
+    "Balance": 420.0,
+    "PrivateNote": "Open.",
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-01T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3023",
+    "DocNumber": "MRS-2026-0428",
+    "VendorRef": {
+      "value": "7",
+      "name": "Metro Restaurant Supply"
+    },
+    "TxnDate": "2026-01-28",
+    "DueDate": "2026-02-28",
+    "Line": [
+      {
+        "Amount": 980.0,
+        "Description": "Smallwares restock - sheet pans, ramekins, gloves.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Supplies - Kitchen & Smallwares",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 980.0,
+    "Balance": 0,
+    "PrivateNote": "Net-30.",
+    "MetaData": {
+      "CreateTime": "2026-01-28T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-28T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3024",
+    "DocNumber": "KIMCPA-2026-Q1",
+    "VendorRef": {
+      "value": "15",
+      "name": "Kim CPA & Associates"
+    },
+    "TxnDate": "2026-01-10",
+    "DueDate": "2026-01-24",
+    "Line": [
+      {
+        "Amount": 850.0,
+        "Description": "Q1 2026 bookkeeping review & sales-tax filing.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Professional Fees",
+            "value": "24"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 850.0,
+    "Balance": 0,
+    "PrivateNote": "none",
+    "MetaData": {
+      "CreateTime": "2026-01-10T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-10T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3025",
+    "DocNumber": "TOAST-2026-05",
+    "VendorRef": {
+      "value": "16",
+      "name": "Toast POS"
+    },
+    "TxnDate": "2026-02-01",
+    "DueDate": "2026-02-15",
+    "Line": [
+      {
+        "Amount": 329.0,
+        "Description": "Toast POS monthly subscription - May.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Merchant & POS Fees",
+            "value": "23"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 329.0,
+    "Balance": 0,
+    "PrivateNote": "Auto-pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-01T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3026",
+    "DocNumber": "MAILCHIMP-2026-05",
+    "VendorRef": {
+      "value": "18",
+      "name": "Mailchimp"
+    },
+    "TxnDate": "2026-02-01",
+    "DueDate": "2026-02-15",
+    "Line": [
+      {
+        "Amount": 75.0,
+        "Description": "Email marketing - May newsletter.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Marketing & Advertising",
+            "value": "22"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 75.0,
+    "Balance": 0,
+    "PrivateNote": "none",
+    "MetaData": {
+      "CreateTime": "2026-02-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-01T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3027",
+    "DocNumber": "HVAC-2026-0522",
+    "VendorRef": {
+      "value": "21",
+      "name": "Steinway Gas & HVAC Service"
+    },
+    "TxnDate": "2026-02-22",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 640.0,
+        "Description": "Walk-in cooler repair and HVAC tune-up.",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Repairs & Maintenance",
+            "value": "19"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 640.0,
+    "Balance": 0,
+    "PrivateNote": "none",
+    "MetaData": {
+      "CreateTime": "2026-02-22T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-22T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "3028",
+    "DocNumber": "ASF-INV-8821",
+    "VendorRef": {
+      "value": "1",
+      "name": "Atlantic Seafood Supply"
+    },
+    "TxnDate": "2026-03-11",
+    "DueDate": "2026-03-18",
+    "Line": [
+      {
+        "Amount": 797.5,
+        "Description": "Atlantic Salmon (invoice says 55lb, Maria counted 50lb)",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "value": "11",
+            "name": "Food Cost - Seafood"
+          }
+        },
+        "Quantity": 55,
+        "UnitPrice": 14.5,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      },
+      {
+        "Amount": 216.0,
+        "Description": "Blue Point Oysters (12 doz) - TEMP 45F ON ARRIVAL",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "value": "11",
+            "name": "Food Cost - Seafood"
+          }
+        },
+        "Quantity": 12,
+        "UnitPrice": 18.0,
+        "Id": "2",
+        "LineNum": 2,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      },
+      {
+        "Amount": 285.0,
+        "Description": "Cod (10lb) - MISSING FROM DELIVERY",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "value": "11",
+            "name": "Food Cost - Seafood"
+          }
+        },
+        "Quantity": 10,
+        "UnitPrice": 28.5,
+        "Id": "3",
+        "LineNum": 3,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 1298.5,
+    "Balance": 1298.5,
+    "PrivateNote": "Morning delivery check by Carlton. Multiple discrepancies - called Kevin Walsh re: short salmon and missing cod.",
+    "Status": "Open",
+    "MetaData": {
+      "CreateTime": "2026-03-11T08:30:00-04:00",
+      "LastUpdatedTime": "2026-03-11T10:15:00-04:00"
+    },
+    "SyncToken": "0"
+  },
+  {
+    "Id": "4000",
+    "DocNumber": "BILL-08-W01",
+    "VendorRef": {
+      "value": "8",
+      "name": "Atlantic Seafood Supply"
+    },
+    "TxnDate": "2026-01-16",
+    "DueDate": "2026-01-31",
+    "Line": [
+      {
+        "Amount": 2915.21,
+        "Description": "Atlantic Seafood Supply week 1 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2915.21,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-16T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-16T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4001",
+    "DocNumber": "BILL-09-W01",
+    "VendorRef": {
+      "value": "9",
+      "name": "Broadway Astoria Realty LLC"
+    },
+    "TxnDate": "2026-01-17",
+    "DueDate": "2026-02-01",
+    "Line": [
+      {
+        "Amount": 7834.59,
+        "Description": "Broadway Astoria Realty LLC week 1 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 7834.59,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-17T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-17T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4002",
+    "DocNumber": "BILL-10-W01",
+    "VendorRef": {
+      "value": "10",
+      "name": "Con Edison"
+    },
+    "TxnDate": "2026-01-18",
+    "DueDate": "2026-02-02",
+    "Line": [
+      {
+        "Amount": 681.56,
+        "Description": "Con Edison week 1 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 681.56,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-18T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-18T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4003",
+    "DocNumber": "BILL-11-W01",
+    "VendorRef": {
+      "value": "11",
+      "name": "Ariel Wine Imports"
+    },
+    "TxnDate": "2026-01-19",
+    "DueDate": "2026-02-03",
+    "Line": [
+      {
+        "Amount": 8446.11,
+        "Description": "Ariel Wine Imports week 1 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 8446.11,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-19T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-19T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4004",
+    "DocNumber": "BILL-12-W01",
+    "VendorRef": {
+      "value": "12",
+      "name": "Bell & Evans"
+    },
+    "TxnDate": "2026-01-20",
+    "DueDate": "2026-02-04",
+    "Line": [
+      {
+        "Amount": 6450.64,
+        "Description": "Bell & Evans week 1 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 6450.64,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-20T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-20T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4005",
+    "DocNumber": "BILL-13-W01",
+    "VendorRef": {
+      "value": "13",
+      "name": "Restaurant Depot"
+    },
+    "TxnDate": "2026-01-21",
+    "DueDate": "2026-02-05",
+    "Line": [
+      {
+        "Amount": 3552.91,
+        "Description": "Restaurant Depot week 1 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3552.91,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-21T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-21T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4006",
+    "DocNumber": "BILL-14-W01",
+    "VendorRef": {
+      "value": "14",
+      "name": "Linen Service Inc"
+    },
+    "TxnDate": "2026-01-22",
+    "DueDate": "2026-02-06",
+    "Line": [
+      {
+        "Amount": 11937.75,
+        "Description": "Linen Service Inc week 1 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11937.75,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-22T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-22T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4007",
+    "DocNumber": "BILL-15-W01",
+    "VendorRef": {
+      "value": "15",
+      "name": "NYC Hood Cleaning"
+    },
+    "TxnDate": "2026-01-23",
+    "DueDate": "2026-02-07",
+    "Line": [
+      {
+        "Amount": 11586.68,
+        "Description": "NYC Hood Cleaning week 1 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11586.68,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-23T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-23T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4008",
+    "DocNumber": "BILL-16-W01",
+    "VendorRef": {
+      "value": "16",
+      "name": "Astoria Pest Control"
+    },
+    "TxnDate": "2026-01-24",
+    "DueDate": "2026-02-08",
+    "Line": [
+      {
+        "Amount": 6513.16,
+        "Description": "Astoria Pest Control week 1 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 6513.16,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-24T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-24T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4009",
+    "DocNumber": "BILL-17-W01",
+    "VendorRef": {
+      "value": "17",
+      "name": "Broadway Grease Trap"
+    },
+    "TxnDate": "2026-01-25",
+    "DueDate": "2026-02-09",
+    "Line": [
+      {
+        "Amount": 3494.07,
+        "Description": "Broadway Grease Trap week 1 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3494.07,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-25T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-25T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4010",
+    "DocNumber": "BILL-08-W02",
+    "VendorRef": {
+      "value": "8",
+      "name": "Atlantic Seafood Supply"
+    },
+    "TxnDate": "2026-01-23",
+    "DueDate": "2026-02-07",
+    "Line": [
+      {
+        "Amount": 3931.31,
+        "Description": "Atlantic Seafood Supply week 2 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3931.31,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-23T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-23T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4011",
+    "DocNumber": "BILL-09-W02",
+    "VendorRef": {
+      "value": "9",
+      "name": "Broadway Astoria Realty LLC"
+    },
+    "TxnDate": "2026-01-24",
+    "DueDate": "2026-02-08",
+    "Line": [
+      {
+        "Amount": 10256.92,
+        "Description": "Broadway Astoria Realty LLC week 2 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 10256.92,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-24T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-24T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4012",
+    "DocNumber": "BILL-10-W02",
+    "VendorRef": {
+      "value": "10",
+      "name": "Con Edison"
+    },
+    "TxnDate": "2026-01-25",
+    "DueDate": "2026-02-09",
+    "Line": [
+      {
+        "Amount": 12100.53,
+        "Description": "Con Edison week 2 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12100.53,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-25T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-25T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4013",
+    "DocNumber": "BILL-11-W02",
+    "VendorRef": {
+      "value": "11",
+      "name": "Ariel Wine Imports"
+    },
+    "TxnDate": "2026-01-26",
+    "DueDate": "2026-02-10",
+    "Line": [
+      {
+        "Amount": 1640.29,
+        "Description": "Ariel Wine Imports week 2 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1640.29,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-26T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-26T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4014",
+    "DocNumber": "BILL-12-W02",
+    "VendorRef": {
+      "value": "12",
+      "name": "Bell & Evans"
+    },
+    "TxnDate": "2026-01-27",
+    "DueDate": "2026-02-11",
+    "Line": [
+      {
+        "Amount": 6162.7,
+        "Description": "Bell & Evans week 2 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 6162.7,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-27T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-27T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4015",
+    "DocNumber": "BILL-13-W02",
+    "VendorRef": {
+      "value": "13",
+      "name": "Restaurant Depot"
+    },
+    "TxnDate": "2026-01-28",
+    "DueDate": "2026-02-12",
+    "Line": [
+      {
+        "Amount": 7609.38,
+        "Description": "Restaurant Depot week 2 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 7609.38,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-28T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-28T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4016",
+    "DocNumber": "BILL-14-W02",
+    "VendorRef": {
+      "value": "14",
+      "name": "Linen Service Inc"
+    },
+    "TxnDate": "2026-01-29",
+    "DueDate": "2026-02-13",
+    "Line": [
+      {
+        "Amount": 5822.75,
+        "Description": "Linen Service Inc week 2 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 5822.75,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-29T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-29T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4017",
+    "DocNumber": "BILL-15-W02",
+    "VendorRef": {
+      "value": "15",
+      "name": "NYC Hood Cleaning"
+    },
+    "TxnDate": "2026-01-30",
+    "DueDate": "2026-02-14",
+    "Line": [
+      {
+        "Amount": 5853.61,
+        "Description": "NYC Hood Cleaning week 2 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 5853.61,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-30T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-30T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4018",
+    "DocNumber": "BILL-16-W02",
+    "VendorRef": {
+      "value": "16",
+      "name": "Astoria Pest Control"
+    },
+    "TxnDate": "2026-01-31",
+    "DueDate": "2026-02-15",
+    "Line": [
+      {
+        "Amount": 4238.76,
+        "Description": "Astoria Pest Control week 2 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 4238.76,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-31T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-31T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4019",
+    "DocNumber": "BILL-17-W02",
+    "VendorRef": {
+      "value": "17",
+      "name": "Broadway Grease Trap"
+    },
+    "TxnDate": "2026-02-01",
+    "DueDate": "2026-02-16",
+    "Line": [
+      {
+        "Amount": 3127.41,
+        "Description": "Broadway Grease Trap week 2 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3127.41,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-01T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4020",
+    "DocNumber": "BILL-08-W03",
+    "VendorRef": {
+      "value": "8",
+      "name": "Atlantic Seafood Supply"
+    },
+    "TxnDate": "2026-01-30",
+    "DueDate": "2026-02-14",
+    "Line": [
+      {
+        "Amount": 807.83,
+        "Description": "Atlantic Seafood Supply week 3 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 807.83,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-30T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-30T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4021",
+    "DocNumber": "BILL-09-W03",
+    "VendorRef": {
+      "value": "9",
+      "name": "Broadway Astoria Realty LLC"
+    },
+    "TxnDate": "2026-01-31",
+    "DueDate": "2026-02-15",
+    "Line": [
+      {
+        "Amount": 7060.75,
+        "Description": "Broadway Astoria Realty LLC week 3 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 7060.75,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-01-31T09:00:00-05:00",
+      "LastUpdatedTime": "2026-01-31T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4022",
+    "DocNumber": "BILL-10-W03",
+    "VendorRef": {
+      "value": "10",
+      "name": "Con Edison"
+    },
+    "TxnDate": "2026-02-01",
+    "DueDate": "2026-02-16",
+    "Line": [
+      {
+        "Amount": 7755.11,
+        "Description": "Con Edison week 3 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 7755.11,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-01T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4023",
+    "DocNumber": "BILL-11-W03",
+    "VendorRef": {
+      "value": "11",
+      "name": "Ariel Wine Imports"
+    },
+    "TxnDate": "2026-02-02",
+    "DueDate": "2026-02-17",
+    "Line": [
+      {
+        "Amount": 3323.63,
+        "Description": "Ariel Wine Imports week 3 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3323.63,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-02T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-02T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4024",
+    "DocNumber": "BILL-12-W03",
+    "VendorRef": {
+      "value": "12",
+      "name": "Bell & Evans"
+    },
+    "TxnDate": "2026-02-03",
+    "DueDate": "2026-02-18",
+    "Line": [
+      {
+        "Amount": 11544.38,
+        "Description": "Bell & Evans week 3 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11544.38,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-03T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-03T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4025",
+    "DocNumber": "BILL-13-W03",
+    "VendorRef": {
+      "value": "13",
+      "name": "Restaurant Depot"
+    },
+    "TxnDate": "2026-02-04",
+    "DueDate": "2026-02-19",
+    "Line": [
+      {
+        "Amount": 4141.18,
+        "Description": "Restaurant Depot week 3 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 4141.18,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-04T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-04T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4026",
+    "DocNumber": "BILL-14-W03",
+    "VendorRef": {
+      "value": "14",
+      "name": "Linen Service Inc"
+    },
+    "TxnDate": "2026-02-05",
+    "DueDate": "2026-02-20",
+    "Line": [
+      {
+        "Amount": 8839.73,
+        "Description": "Linen Service Inc week 3 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 8839.73,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-05T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-05T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4027",
+    "DocNumber": "BILL-15-W03",
+    "VendorRef": {
+      "value": "15",
+      "name": "NYC Hood Cleaning"
+    },
+    "TxnDate": "2026-02-06",
+    "DueDate": "2026-02-21",
+    "Line": [
+      {
+        "Amount": 5587.51,
+        "Description": "NYC Hood Cleaning week 3 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 5587.51,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-06T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-06T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4028",
+    "DocNumber": "BILL-16-W03",
+    "VendorRef": {
+      "value": "16",
+      "name": "Astoria Pest Control"
+    },
+    "TxnDate": "2026-02-07",
+    "DueDate": "2026-02-22",
+    "Line": [
+      {
+        "Amount": 1217.49,
+        "Description": "Astoria Pest Control week 3 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1217.49,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-07T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-07T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4029",
+    "DocNumber": "BILL-17-W03",
+    "VendorRef": {
+      "value": "17",
+      "name": "Broadway Grease Trap"
+    },
+    "TxnDate": "2026-02-08",
+    "DueDate": "2026-02-23",
+    "Line": [
+      {
+        "Amount": 6578.38,
+        "Description": "Broadway Grease Trap week 3 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 6578.38,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-08T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-08T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4030",
+    "DocNumber": "BILL-08-W04",
+    "VendorRef": {
+      "value": "8",
+      "name": "Atlantic Seafood Supply"
+    },
+    "TxnDate": "2026-02-06",
+    "DueDate": "2026-02-21",
+    "Line": [
+      {
+        "Amount": 9453.9,
+        "Description": "Atlantic Seafood Supply week 4 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 9453.9,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-06T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-06T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4031",
+    "DocNumber": "BILL-09-W04",
+    "VendorRef": {
+      "value": "9",
+      "name": "Broadway Astoria Realty LLC"
+    },
+    "TxnDate": "2026-02-07",
+    "DueDate": "2026-02-22",
+    "Line": [
+      {
+        "Amount": 8268.69,
+        "Description": "Broadway Astoria Realty LLC week 4 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 8268.69,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-07T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-07T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4032",
+    "DocNumber": "BILL-10-W04",
+    "VendorRef": {
+      "value": "10",
+      "name": "Con Edison"
+    },
+    "TxnDate": "2026-02-08",
+    "DueDate": "2026-02-23",
+    "Line": [
+      {
+        "Amount": 11700.91,
+        "Description": "Con Edison week 4 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11700.91,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-08T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-08T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4033",
+    "DocNumber": "BILL-11-W04",
+    "VendorRef": {
+      "value": "11",
+      "name": "Ariel Wine Imports"
+    },
+    "TxnDate": "2026-02-09",
+    "DueDate": "2026-02-24",
+    "Line": [
+      {
+        "Amount": 12121.94,
+        "Description": "Ariel Wine Imports week 4 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 12121.94,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-09T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-09T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4034",
+    "DocNumber": "BILL-12-W04",
+    "VendorRef": {
+      "value": "12",
+      "name": "Bell & Evans"
+    },
+    "TxnDate": "2026-02-10",
+    "DueDate": "2026-02-25",
+    "Line": [
+      {
+        "Amount": 5088.68,
+        "Description": "Bell & Evans week 4 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 5088.68,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-10T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-10T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4035",
+    "DocNumber": "BILL-13-W04",
+    "VendorRef": {
+      "value": "13",
+      "name": "Restaurant Depot"
+    },
+    "TxnDate": "2026-02-11",
+    "DueDate": "2026-02-26",
+    "Line": [
+      {
+        "Amount": 7521.86,
+        "Description": "Restaurant Depot week 4 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 7521.86,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-11T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-11T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4036",
+    "DocNumber": "BILL-14-W04",
+    "VendorRef": {
+      "value": "14",
+      "name": "Linen Service Inc"
+    },
+    "TxnDate": "2026-02-12",
+    "DueDate": "2026-02-27",
+    "Line": [
+      {
+        "Amount": 9716.82,
+        "Description": "Linen Service Inc week 4 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 9716.82,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-12T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-12T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4037",
+    "DocNumber": "BILL-15-W04",
+    "VendorRef": {
+      "value": "15",
+      "name": "NYC Hood Cleaning"
+    },
+    "TxnDate": "2026-02-13",
+    "DueDate": "2026-02-28",
+    "Line": [
+      {
+        "Amount": 11582.81,
+        "Description": "NYC Hood Cleaning week 4 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11582.81,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-13T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-13T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4038",
+    "DocNumber": "BILL-16-W04",
+    "VendorRef": {
+      "value": "16",
+      "name": "Astoria Pest Control"
+    },
+    "TxnDate": "2026-02-14",
+    "DueDate": "2026-03-01",
+    "Line": [
+      {
+        "Amount": 11420.88,
+        "Description": "Astoria Pest Control week 4 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11420.88,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-14T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-14T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4039",
+    "DocNumber": "BILL-17-W04",
+    "VendorRef": {
+      "value": "17",
+      "name": "Broadway Grease Trap"
+    },
+    "TxnDate": "2026-02-15",
+    "DueDate": "2026-03-02",
+    "Line": [
+      {
+        "Amount": 7334.75,
+        "Description": "Broadway Grease Trap week 4 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 7334.75,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-15T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-15T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4040",
+    "DocNumber": "BILL-08-W05",
+    "VendorRef": {
+      "value": "8",
+      "name": "Atlantic Seafood Supply"
+    },
+    "TxnDate": "2026-02-13",
+    "DueDate": "2026-02-28",
+    "Line": [
+      {
+        "Amount": 4261.41,
+        "Description": "Atlantic Seafood Supply week 5 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 4261.41,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-13T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-13T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4041",
+    "DocNumber": "BILL-09-W05",
+    "VendorRef": {
+      "value": "9",
+      "name": "Broadway Astoria Realty LLC"
+    },
+    "TxnDate": "2026-02-14",
+    "DueDate": "2026-03-01",
+    "Line": [
+      {
+        "Amount": 9813.75,
+        "Description": "Broadway Astoria Realty LLC week 5 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 9813.75,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-14T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-14T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4042",
+    "DocNumber": "BILL-10-W05",
+    "VendorRef": {
+      "value": "10",
+      "name": "Con Edison"
+    },
+    "TxnDate": "2026-02-15",
+    "DueDate": "2026-03-02",
+    "Line": [
+      {
+        "Amount": 5852.58,
+        "Description": "Con Edison week 5 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 5852.58,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-15T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-15T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4043",
+    "DocNumber": "BILL-11-W05",
+    "VendorRef": {
+      "value": "11",
+      "name": "Ariel Wine Imports"
+    },
+    "TxnDate": "2026-02-16",
+    "DueDate": "2026-03-03",
+    "Line": [
+      {
+        "Amount": 1783.82,
+        "Description": "Ariel Wine Imports week 5 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1783.82,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-16T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-16T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4044",
+    "DocNumber": "BILL-12-W05",
+    "VendorRef": {
+      "value": "12",
+      "name": "Bell & Evans"
+    },
+    "TxnDate": "2026-02-17",
+    "DueDate": "2026-03-04",
+    "Line": [
+      {
+        "Amount": 8623.0,
+        "Description": "Bell & Evans week 5 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 8623.0,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-17T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-17T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4045",
+    "DocNumber": "BILL-13-W05",
+    "VendorRef": {
+      "value": "13",
+      "name": "Restaurant Depot"
+    },
+    "TxnDate": "2026-02-18",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 10179.2,
+        "Description": "Restaurant Depot week 5 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 10179.2,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-18T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-18T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4046",
+    "DocNumber": "BILL-14-W05",
+    "VendorRef": {
+      "value": "14",
+      "name": "Linen Service Inc"
+    },
+    "TxnDate": "2026-02-19",
+    "DueDate": "2026-03-06",
+    "Line": [
+      {
+        "Amount": 11786.75,
+        "Description": "Linen Service Inc week 5 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11786.75,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-19T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-19T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4047",
+    "DocNumber": "BILL-15-W05",
+    "VendorRef": {
+      "value": "15",
+      "name": "NYC Hood Cleaning"
+    },
+    "TxnDate": "2026-02-20",
+    "DueDate": "2026-03-07",
+    "Line": [
+      {
+        "Amount": 3887.58,
+        "Description": "NYC Hood Cleaning week 5 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3887.58,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-20T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-20T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4048",
+    "DocNumber": "BILL-16-W05",
+    "VendorRef": {
+      "value": "16",
+      "name": "Astoria Pest Control"
+    },
+    "TxnDate": "2026-02-21",
+    "DueDate": "2026-03-08",
+    "Line": [
+      {
+        "Amount": 3586.6,
+        "Description": "Astoria Pest Control week 5 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3586.6,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-21T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-21T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4049",
+    "DocNumber": "BILL-17-W05",
+    "VendorRef": {
+      "value": "17",
+      "name": "Broadway Grease Trap"
+    },
+    "TxnDate": "2026-02-22",
+    "DueDate": "2026-03-09",
+    "Line": [
+      {
+        "Amount": 8057.18,
+        "Description": "Broadway Grease Trap week 5 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 8057.18,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-22T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-22T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4050",
+    "DocNumber": "BILL-08-W06",
+    "VendorRef": {
+      "value": "8",
+      "name": "Atlantic Seafood Supply"
+    },
+    "TxnDate": "2026-02-20",
+    "DueDate": "2026-03-07",
+    "Line": [
+      {
+        "Amount": 10875.9,
+        "Description": "Atlantic Seafood Supply week 6 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 10875.9,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-20T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-20T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4051",
+    "DocNumber": "BILL-09-W06",
+    "VendorRef": {
+      "value": "9",
+      "name": "Broadway Astoria Realty LLC"
+    },
+    "TxnDate": "2026-02-21",
+    "DueDate": "2026-03-08",
+    "Line": [
+      {
+        "Amount": 6632.63,
+        "Description": "Broadway Astoria Realty LLC week 6 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 6632.63,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-21T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-21T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4052",
+    "DocNumber": "BILL-10-W06",
+    "VendorRef": {
+      "value": "10",
+      "name": "Con Edison"
+    },
+    "TxnDate": "2026-02-22",
+    "DueDate": "2026-03-09",
+    "Line": [
+      {
+        "Amount": 7397.75,
+        "Description": "Con Edison week 6 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 7397.75,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-22T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-22T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4053",
+    "DocNumber": "BILL-11-W06",
+    "VendorRef": {
+      "value": "11",
+      "name": "Ariel Wine Imports"
+    },
+    "TxnDate": "2026-02-23",
+    "DueDate": "2026-03-10",
+    "Line": [
+      {
+        "Amount": 1219.68,
+        "Description": "Ariel Wine Imports week 6 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1219.68,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-23T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-23T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4054",
+    "DocNumber": "BILL-12-W06",
+    "VendorRef": {
+      "value": "12",
+      "name": "Bell & Evans"
+    },
+    "TxnDate": "2026-02-24",
+    "DueDate": "2026-03-11",
+    "Line": [
+      {
+        "Amount": 9033.71,
+        "Description": "Bell & Evans week 6 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 9033.71,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-24T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-24T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4055",
+    "DocNumber": "BILL-13-W06",
+    "VendorRef": {
+      "value": "13",
+      "name": "Restaurant Depot"
+    },
+    "TxnDate": "2026-02-25",
+    "DueDate": "2026-03-12",
+    "Line": [
+      {
+        "Amount": 8083.34,
+        "Description": "Restaurant Depot week 6 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 8083.34,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-25T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-25T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4056",
+    "DocNumber": "BILL-14-W06",
+    "VendorRef": {
+      "value": "14",
+      "name": "Linen Service Inc"
+    },
+    "TxnDate": "2026-02-26",
+    "DueDate": "2026-03-13",
+    "Line": [
+      {
+        "Amount": 11686.2,
+        "Description": "Linen Service Inc week 6 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11686.2,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-26T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-26T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4057",
+    "DocNumber": "BILL-15-W06",
+    "VendorRef": {
+      "value": "15",
+      "name": "NYC Hood Cleaning"
+    },
+    "TxnDate": "2026-02-27",
+    "DueDate": "2026-03-14",
+    "Line": [
+      {
+        "Amount": 10198.34,
+        "Description": "NYC Hood Cleaning week 6 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 10198.34,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-27T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-27T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4058",
+    "DocNumber": "BILL-16-W06",
+    "VendorRef": {
+      "value": "16",
+      "name": "Astoria Pest Control"
+    },
+    "TxnDate": "2026-02-28",
+    "DueDate": "2026-03-15",
+    "Line": [
+      {
+        "Amount": 7235.65,
+        "Description": "Astoria Pest Control week 6 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 7235.65,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-28T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-28T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4059",
+    "DocNumber": "BILL-17-W06",
+    "VendorRef": {
+      "value": "17",
+      "name": "Broadway Grease Trap"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-16",
+    "Line": [
+      {
+        "Amount": 8671.55,
+        "Description": "Broadway Grease Trap week 6 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 8671.55,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-01T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4060",
+    "DocNumber": "BILL-08-W07",
+    "VendorRef": {
+      "value": "8",
+      "name": "Atlantic Seafood Supply"
+    },
+    "TxnDate": "2026-02-27",
+    "DueDate": "2026-03-14",
+    "Line": [
+      {
+        "Amount": 1448.51,
+        "Description": "Atlantic Seafood Supply week 7 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1448.51,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-27T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-27T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4061",
+    "DocNumber": "BILL-09-W07",
+    "VendorRef": {
+      "value": "9",
+      "name": "Broadway Astoria Realty LLC"
+    },
+    "TxnDate": "2026-02-28",
+    "DueDate": "2026-03-15",
+    "Line": [
+      {
+        "Amount": 4887.35,
+        "Description": "Broadway Astoria Realty LLC week 7 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 4887.35,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-02-28T09:00:00-05:00",
+      "LastUpdatedTime": "2026-02-28T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4062",
+    "DocNumber": "BILL-10-W07",
+    "VendorRef": {
+      "value": "10",
+      "name": "Con Edison"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-16",
+    "Line": [
+      {
+        "Amount": 2006.48,
+        "Description": "Con Edison week 7 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2006.48,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-01T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4063",
+    "DocNumber": "BILL-11-W07",
+    "VendorRef": {
+      "value": "11",
+      "name": "Ariel Wine Imports"
+    },
+    "TxnDate": "2026-03-02",
+    "DueDate": "2026-03-17",
+    "Line": [
+      {
+        "Amount": 7748.36,
+        "Description": "Ariel Wine Imports week 7 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 7748.36,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-02T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-02T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4064",
+    "DocNumber": "BILL-12-W07",
+    "VendorRef": {
+      "value": "12",
+      "name": "Bell & Evans"
+    },
+    "TxnDate": "2026-03-03",
+    "DueDate": "2026-03-18",
+    "Line": [
+      {
+        "Amount": 10000.15,
+        "Description": "Bell & Evans week 7 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 10000.15,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-03T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-03T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4065",
+    "DocNumber": "BILL-13-W07",
+    "VendorRef": {
+      "value": "13",
+      "name": "Restaurant Depot"
+    },
+    "TxnDate": "2026-03-04",
+    "DueDate": "2026-03-19",
+    "Line": [
+      {
+        "Amount": 2949.15,
+        "Description": "Restaurant Depot week 7 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2949.15,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-04T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-04T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4066",
+    "DocNumber": "BILL-14-W07",
+    "VendorRef": {
+      "value": "14",
+      "name": "Linen Service Inc"
+    },
+    "TxnDate": "2026-03-05",
+    "DueDate": "2026-03-20",
+    "Line": [
+      {
+        "Amount": 11294.1,
+        "Description": "Linen Service Inc week 7 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11294.1,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-05T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-05T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4067",
+    "DocNumber": "BILL-15-W07",
+    "VendorRef": {
+      "value": "15",
+      "name": "NYC Hood Cleaning"
+    },
+    "TxnDate": "2026-03-06",
+    "DueDate": "2026-03-21",
+    "Line": [
+      {
+        "Amount": 3610.66,
+        "Description": "NYC Hood Cleaning week 7 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3610.66,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-06T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-06T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4068",
+    "DocNumber": "BILL-16-W07",
+    "VendorRef": {
+      "value": "16",
+      "name": "Astoria Pest Control"
+    },
+    "TxnDate": "2026-03-07",
+    "DueDate": "2026-03-22",
+    "Line": [
+      {
+        "Amount": 3128.83,
+        "Description": "Astoria Pest Control week 7 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3128.83,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-07T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-07T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4069",
+    "DocNumber": "BILL-17-W07",
+    "VendorRef": {
+      "value": "17",
+      "name": "Broadway Grease Trap"
+    },
+    "TxnDate": "2026-03-08",
+    "DueDate": "2026-03-23",
+    "Line": [
+      {
+        "Amount": 1198.37,
+        "Description": "Broadway Grease Trap week 7 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1198.37,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-08T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-08T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4070",
+    "DocNumber": "BILL-08-W08",
+    "VendorRef": {
+      "value": "8",
+      "name": "Atlantic Seafood Supply"
+    },
+    "TxnDate": "2026-03-06",
+    "DueDate": "2026-03-21",
+    "Line": [
+      {
+        "Amount": 1827.08,
+        "Description": "Atlantic Seafood Supply week 8 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 1827.08,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-06T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-06T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4071",
+    "DocNumber": "BILL-09-W08",
+    "VendorRef": {
+      "value": "9",
+      "name": "Broadway Astoria Realty LLC"
+    },
+    "TxnDate": "2026-03-07",
+    "DueDate": "2026-03-22",
+    "Line": [
+      {
+        "Amount": 9588.02,
+        "Description": "Broadway Astoria Realty LLC week 8 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 9588.02,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-07T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-07T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4072",
+    "DocNumber": "BILL-10-W08",
+    "VendorRef": {
+      "value": "10",
+      "name": "Con Edison"
+    },
+    "TxnDate": "2026-03-08",
+    "DueDate": "2026-03-23",
+    "Line": [
+      {
+        "Amount": 3371.23,
+        "Description": "Con Edison week 8 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3371.23,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-08T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-08T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4073",
+    "DocNumber": "BILL-11-W08",
+    "VendorRef": {
+      "value": "11",
+      "name": "Ariel Wine Imports"
+    },
+    "TxnDate": "2026-03-09",
+    "DueDate": "2026-03-24",
+    "Line": [
+      {
+        "Amount": 10914.47,
+        "Description": "Ariel Wine Imports week 8 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 10914.47,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-09T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-09T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4074",
+    "DocNumber": "BILL-12-W08",
+    "VendorRef": {
+      "value": "12",
+      "name": "Bell & Evans"
+    },
+    "TxnDate": "2026-03-10",
+    "DueDate": "2026-03-25",
+    "Line": [
+      {
+        "Amount": 4223.5,
+        "Description": "Bell & Evans week 8 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 4223.5,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-10T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-10T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4075",
+    "DocNumber": "BILL-13-W08",
+    "VendorRef": {
+      "value": "13",
+      "name": "Restaurant Depot"
+    },
+    "TxnDate": "2026-03-11",
+    "DueDate": "2026-03-26",
+    "Line": [
+      {
+        "Amount": 7584.08,
+        "Description": "Restaurant Depot week 8 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 7584.08,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-11T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-11T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4076",
+    "DocNumber": "BILL-14-W08",
+    "VendorRef": {
+      "value": "14",
+      "name": "Linen Service Inc"
+    },
+    "TxnDate": "2026-03-12",
+    "DueDate": "2026-03-27",
+    "Line": [
+      {
+        "Amount": 203.99,
+        "Description": "Linen Service Inc week 8 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 203.99,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-12T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-12T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4077",
+    "DocNumber": "BILL-15-W08",
+    "VendorRef": {
+      "value": "15",
+      "name": "NYC Hood Cleaning"
+    },
+    "TxnDate": "2026-03-13",
+    "DueDate": "2026-03-28",
+    "Line": [
+      {
+        "Amount": 7339.84,
+        "Description": "NYC Hood Cleaning week 8 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 7339.84,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-13T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-13T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4078",
+    "DocNumber": "BILL-16-W08",
+    "VendorRef": {
+      "value": "16",
+      "name": "Astoria Pest Control"
+    },
+    "TxnDate": "2026-03-14",
+    "DueDate": "2026-03-29",
+    "Line": [
+      {
+        "Amount": 6062.59,
+        "Description": "Astoria Pest Control week 8 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 6062.59,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-14T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-14T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4079",
+    "DocNumber": "BILL-17-W08",
+    "VendorRef": {
+      "value": "17",
+      "name": "Broadway Grease Trap"
+    },
+    "TxnDate": "2026-03-15",
+    "DueDate": "2026-03-30",
+    "Line": [
+      {
+        "Amount": 2146.12,
+        "Description": "Broadway Grease Trap week 8 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2146.12,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-15T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-15T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4080",
+    "DocNumber": "BILL-08-W09",
+    "VendorRef": {
+      "value": "8",
+      "name": "Atlantic Seafood Supply"
+    },
+    "TxnDate": "2026-03-13",
+    "DueDate": "2026-03-28",
+    "Line": [
+      {
+        "Amount": 8687.84,
+        "Description": "Atlantic Seafood Supply week 9 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 8687.84,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-13T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-13T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4081",
+    "DocNumber": "BILL-09-W09",
+    "VendorRef": {
+      "value": "9",
+      "name": "Broadway Astoria Realty LLC"
+    },
+    "TxnDate": "2026-03-14",
+    "DueDate": "2026-03-29",
+    "Line": [
+      {
+        "Amount": 11644.48,
+        "Description": "Broadway Astoria Realty LLC week 9 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 11644.48,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-14T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-14T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4082",
+    "DocNumber": "BILL-10-W09",
+    "VendorRef": {
+      "value": "10",
+      "name": "Con Edison"
+    },
+    "TxnDate": "2026-03-15",
+    "DueDate": "2026-03-30",
+    "Line": [
+      {
+        "Amount": 3565.69,
+        "Description": "Con Edison week 9 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3565.69,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-15T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-15T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4083",
+    "DocNumber": "BILL-11-W09",
+    "VendorRef": {
+      "value": "11",
+      "name": "Ariel Wine Imports"
+    },
+    "TxnDate": "2026-03-16",
+    "DueDate": "2026-03-31",
+    "Line": [
+      {
+        "Amount": 4647.42,
+        "Description": "Ariel Wine Imports week 9 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 4647.42,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-16T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-16T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4084",
+    "DocNumber": "BILL-12-W09",
+    "VendorRef": {
+      "value": "12",
+      "name": "Bell & Evans"
+    },
+    "TxnDate": "2026-03-17",
+    "DueDate": "2026-04-01",
+    "Line": [
+      {
+        "Amount": 7616.47,
+        "Description": "Bell & Evans week 9 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 7616.47,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-17T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-17T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4085",
+    "DocNumber": "BILL-13-W09",
+    "VendorRef": {
+      "value": "13",
+      "name": "Restaurant Depot"
+    },
+    "TxnDate": "2026-03-18",
+    "DueDate": "2026-04-02",
+    "Line": [
+      {
+        "Amount": 9337.25,
+        "Description": "Restaurant Depot week 9 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 9337.25,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-18T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-18T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  },
+  {
+    "Id": "4086",
+    "DocNumber": "BILL-14-W09",
+    "VendorRef": {
+      "value": "14",
+      "name": "Linen Service Inc"
+    },
+    "TxnDate": "2026-03-19",
+    "DueDate": "2026-04-03",
+    "Line": [
+      {
+        "Amount": 6349.45,
+        "Description": "Linen Service Inc week 9 invoice",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "COGS",
+            "value": "20"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 6349.45,
+    "Balance": 0.0,
+    "PrivateNote": "Paid via QB bill pay.",
+    "MetaData": {
+      "CreateTime": "2026-03-19T09:00:00-05:00",
+      "LastUpdatedTime": "2026-03-19T09:00:00-05:00"
+    },
+    "Status": "none",
+    "SyncToken": "none"
+  }
+]

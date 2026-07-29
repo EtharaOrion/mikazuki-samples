@@ -1,0 +1,49 @@
+[
+  {
+    "attributesForFaceting": [
+      "category",
+      "brand",
+      "in_stock"
+    ],
+    "hitsPerPage": 20,
+    "index": "products",
+    "ranking": [
+      "typo",
+      "geo",
+      "words",
+      "proximity",
+      "attribute",
+      "exact",
+      "custom"
+    ],
+    "searchableAttributes": [
+      "name",
+      "description",
+      "brand",
+      "category"
+    ]
+  },
+  {
+    "attributesForFaceting": [
+      "section",
+      "tags"
+    ],
+    "hitsPerPage": 20,
+    "index": "docs",
+    "ranking": [
+      "typo",
+      "geo",
+      "words",
+      "proximity",
+      "attribute",
+      "exact",
+      "custom"
+    ],
+    "searchableAttributes": [
+      "title",
+      "body",
+      "section",
+      "tags"
+    ]
+  }
+]

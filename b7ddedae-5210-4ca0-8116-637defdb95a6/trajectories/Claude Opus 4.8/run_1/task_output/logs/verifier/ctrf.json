@@ -1,0 +1,75 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 11,
+      "passed": 2,
+      "failed": 9,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.186,
+      "weighted_percentage": 18.6
+    },
+    "tests": [
+      {
+        "name": "test_audit_shows_bigcommerce_catalog_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_audit_shows_gmail_messages_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_audit_shows_no_bigcommerce_writes",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_audit_shows_no_gmail_send",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_desktop_hero_jpg_present",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_desktop_hero_jpg_signature_valid",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_desktop_specs_txt_present",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_gmail_messages_collection_size_unchanged",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_products_collection_size_unchanged",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_target_product_price_unchanged",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_target_product_visibility_unchanged",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

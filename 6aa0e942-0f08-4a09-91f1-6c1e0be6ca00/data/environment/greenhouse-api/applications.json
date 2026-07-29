@@ -1,0 +1,182 @@
+[
+  {
+    "applied_at": "2025-07-23T00:00:00Z",
+    "candidate_id": "cand-f079887a",
+    "current_stage": "Application Review",
+    "id": "app-36a0fa07",
+    "job_id": "job-7ec8db86",
+    "last_activity_at": "2025-07-28T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2025-08-04T00:00:00Z",
+    "candidate_id": "cand-1b52ef48",
+    "current_stage": "Interview",
+    "id": "app-6faa85d2",
+    "job_id": "job-328ef02f",
+    "last_activity_at": "2025-08-09T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2025-08-15T00:00:00Z",
+    "candidate_id": "cand-7c0c91ef",
+    "current_stage": "Offer",
+    "id": "app-9584e93d",
+    "job_id": "job-e9d16cfb",
+    "last_activity_at": "2025-08-20T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2025-08-26T00:00:00Z",
+    "candidate_id": "cand-4ea04e26",
+    "current_stage": "Hired",
+    "id": "app-6b46dbc7",
+    "job_id": "job-a96dbef5",
+    "last_activity_at": "2025-08-31T00:00:00Z",
+    "status": "hired"
+  },
+  {
+    "applied_at": "2025-09-06T00:00:00Z",
+    "candidate_id": "cand-570f6859",
+    "current_stage": "Application Review",
+    "id": "app-347103ec",
+    "job_id": "job-862c9625",
+    "last_activity_at": "2025-09-11T00:00:00Z",
+    "status": "rejected"
+  },
+  {
+    "applied_at": "2025-09-17T00:00:00Z",
+    "candidate_id": "cand-97dc1222",
+    "current_stage": "Interview",
+    "id": "app-f7e68e1b",
+    "job_id": "job-7ec8db86-2",
+    "last_activity_at": "2025-09-22T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2025-09-28T00:00:00Z",
+    "candidate_id": "cand-da5729b8",
+    "current_stage": "Offer",
+    "id": "app-9f9c072c",
+    "job_id": "job-328ef02f",
+    "last_activity_at": "2025-10-03T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2025-10-09T00:00:00Z",
+    "candidate_id": "cand-1b84d191",
+    "current_stage": "Hired",
+    "id": "app-ed227f1d",
+    "job_id": "job-e9d16cfb",
+    "last_activity_at": "2025-10-14T00:00:00Z",
+    "status": "hired"
+  },
+  {
+    "applied_at": "2025-10-20T00:00:00Z",
+    "candidate_id": "cand-c2f8f930",
+    "current_stage": "Application Review",
+    "id": "app-dee1db42",
+    "job_id": "job-a96dbef5",
+    "last_activity_at": "2025-10-25T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2025-10-31T00:00:00Z",
+    "candidate_id": "cand-e74e9247",
+    "current_stage": "Interview",
+    "id": "app-41f9de36",
+    "job_id": "job-862c9625",
+    "last_activity_at": "2025-11-05T00:00:00Z",
+    "status": "rejected"
+  },
+  {
+    "applied_at": "2025-11-11T00:00:00Z",
+    "candidate_id": "cand-d8f530a7",
+    "current_stage": "Offer",
+    "id": "app-fa7c1b12",
+    "job_id": "job-7ec8db86",
+    "last_activity_at": "2025-11-16T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2025-11-22T00:00:00Z",
+    "candidate_id": "cand-ecabe56b",
+    "current_stage": "Hired",
+    "id": "app-a9ffa2c4",
+    "job_id": "job-328ef02f",
+    "last_activity_at": "2025-11-27T00:00:00Z",
+    "status": "hired"
+  },
+  {
+    "applied_at": "2025-12-03T00:00:00Z",
+    "candidate_id": "cand-97dc1222",
+    "current_stage": "Application Review",
+    "id": "app-36a0fa07-2",
+    "job_id": "job-7ec8db86-2",
+    "last_activity_at": "2025-12-08T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2025-12-14T00:00:00Z",
+    "candidate_id": "cand-da5729b8",
+    "current_stage": "Interview",
+    "id": "app-36a0fa07-3",
+    "job_id": "job-7ec8db86-3",
+    "last_activity_at": "2025-12-19T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2025-12-25T00:00:00Z",
+    "candidate_id": "cand-1b84d191",
+    "current_stage": "Offer",
+    "id": "app-36a0fa07-4",
+    "job_id": "job-7ec8db86-4",
+    "last_activity_at": "2025-12-30T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-01-06T00:00:00Z",
+    "candidate_id": "cand-c2f8f930",
+    "current_stage": "Hired",
+    "id": "app-36a0fa07-5",
+    "job_id": "job-7ec8db86-5",
+    "last_activity_at": "2026-01-11T00:00:00Z",
+    "status": "hired"
+  },
+  {
+    "applied_at": "2026-01-17T00:00:00Z",
+    "candidate_id": "cand-e74e9247",
+    "current_stage": "Application Review",
+    "id": "app-36a0fa07-6",
+    "job_id": "job-7ec8db86-6",
+    "last_activity_at": "2026-01-22T00:00:00Z",
+    "status": "rejected"
+  },
+  {
+    "applied_at": "2026-01-28T00:00:00Z",
+    "candidate_id": "cand-d8f530a7",
+    "current_stage": "Interview",
+    "id": "app-36a0fa07-7",
+    "job_id": "job-7ec8db86-7",
+    "last_activity_at": "2026-02-02T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-02-08T00:00:00Z",
+    "candidate_id": "cand-ecabe56b",
+    "current_stage": "Offer",
+    "id": "app-36a0fa07-8",
+    "job_id": "job-7ec8db86-8",
+    "last_activity_at": "2026-02-13T00:00:00Z",
+    "status": "active"
+  },
+  {
+    "applied_at": "2026-02-19T00:00:00Z",
+    "candidate_id": "cand-ecabe56b-f012",
+    "current_stage": "Hired",
+    "id": "app-36a0fa07-9",
+    "job_id": "job-7ec8db86-9",
+    "last_activity_at": "2026-02-24T00:00:00Z",
+    "status": "hired"
+  }
+]

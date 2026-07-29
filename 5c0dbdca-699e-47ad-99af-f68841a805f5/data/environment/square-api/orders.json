@@ -1,0 +1,202 @@
+[
+  {
+    "id": "ORD_MARCUS01",
+    "customer_id": "CUST_MARCUS01",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_VINYL x1",
+    "total_amount": "3000",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-10-25T20:42:00Z"
+  },
+  {
+    "id": "ORD_DANA02",
+    "customer_id": "CUST_DANA02",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_CD x1",
+    "total_amount": "1500",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-11-08T21:18:00Z"
+  },
+  {
+    "id": "ORD_GREG03",
+    "customer_id": "CUST_GREG04",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_TICKET_GA x2",
+    "total_amount": "4000",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-01-17T20:12:00Z"
+  },
+  {
+    "id": "ORD_TASHA04",
+    "customer_id": "CUST_TASHA05",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_TSHIRT_M x1",
+    "total_amount": "2500",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-02-09T21:07:00Z"
+  },
+  {
+    "id": "ORD_HELEN05",
+    "customer_id": "CUST_HELEN07",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_CD x1, VAR_STICKER x1",
+    "total_amount": "2000",
+    "currency": "USD",
+    "state": "OPEN",
+    "created_at": "2026-03-14T20:32:00Z"
+  },
+  {
+    "id": "ORD_MARCUS02",
+    "customer_id": "CUST_MARCUS01",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_VINYL x1",
+    "total_amount": "3000",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-10-25T20:42:00Z"
+  },
+  {
+    "id": "ORD_DANA04",
+    "customer_id": "CUST_DANA02",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_CD x1",
+    "total_amount": "1500",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-11-08T21:18:00Z"
+  },
+  {
+    "id": "ORD_GREG06",
+    "customer_id": "CUST_GREG04",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_TICKET_GA x2",
+    "total_amount": "4000",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-01-17T20:12:00Z"
+  },
+  {
+    "id": "ORD_TASHA08",
+    "customer_id": "CUST_TASHA05",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_TSHIRT_M x1",
+    "total_amount": "2500",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-02-09T21:07:00Z"
+  },
+  {
+    "id": "ORD_HELEN10",
+    "customer_id": "CUST_HELEN07",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_CD x1, VAR_STICKER x1",
+    "total_amount": "2000",
+    "currency": "USD",
+    "state": "OPEN",
+    "created_at": "2026-03-14T20:32:00Z"
+  },
+  {
+    "id": "ORD_MARCUS07",
+    "customer_id": "CUST_MARCUS01",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_VINYL x1",
+    "total_amount": "3000",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-10-25T20:42:00Z"
+  },
+  {
+    "id": "ORD_DANA09",
+    "customer_id": "CUST_DANA02",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_CD x1",
+    "total_amount": "1500",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-11-08T21:18:00Z"
+  },
+  {
+    "id": "ORD_GREG11",
+    "customer_id": "CUST_GREG04",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_TICKET_GA x2",
+    "total_amount": "4000",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-01-17T20:12:00Z"
+  },
+  {
+    "id": "ORD_TASHA13",
+    "customer_id": "CUST_TASHA05",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_TSHIRT_M x1",
+    "total_amount": "2500",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-02-09T21:07:00Z"
+  },
+  {
+    "id": "ORD_HELEN15",
+    "customer_id": "CUST_HELEN07",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_CD x1, VAR_STICKER x1",
+    "total_amount": "2000",
+    "currency": "USD",
+    "state": "OPEN",
+    "created_at": "2026-03-14T20:32:00Z"
+  },
+  {
+    "id": "ORD_MARCUS12",
+    "customer_id": "CUST_MARCUS01",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_VINYL x1",
+    "total_amount": "3000",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-10-25T20:42:00Z"
+  },
+  {
+    "id": "ORD_DANA14",
+    "customer_id": "CUST_DANA02",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_CD x1",
+    "total_amount": "1500",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2025-11-08T21:18:00Z"
+  },
+  {
+    "id": "ORD_GREG16",
+    "customer_id": "CUST_GREG04",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_TICKET_GA x2",
+    "total_amount": "4000",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-01-17T20:12:00Z"
+  },
+  {
+    "id": "ORD_TASHA18",
+    "customer_id": "CUST_TASHA05",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_TSHIRT_M x1",
+    "total_amount": "2500",
+    "currency": "USD",
+    "state": "COMPLETED",
+    "created_at": "2026-02-09T21:07:00Z"
+  },
+  {
+    "id": "ORD_HELEN20",
+    "customer_id": "CUST_HELEN07",
+    "location_id": "LOC_KC_MERCH",
+    "line_items": "VAR_CD x1, VAR_STICKER x1",
+    "total_amount": "2000",
+    "currency": "USD",
+    "state": "OPEN",
+    "created_at": "2026-03-14T20:32:00Z"
+  }
+]

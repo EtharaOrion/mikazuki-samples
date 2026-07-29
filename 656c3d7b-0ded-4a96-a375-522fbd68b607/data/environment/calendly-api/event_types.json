@@ -1,0 +1,93 @@
+[
+  {
+    "uuid": "et-dorothy-langston-intro-15",
+    "owner": "user-dorothy-langston",
+    "name": "Intro Call",
+    "slug": "dorothy-langston-intro-15",
+    "duration": 15,
+    "kind": "solo",
+    "color": "#0069ff",
+    "active": true,
+    "description": "15-minute intro call with Dorothy Langston",
+    "scheduling_url": "https://calendly.com/dorothy-langston/intro-15",
+    "created_at": "2025-09-02T10:00:00.000000Z"
+  },
+  {
+    "uuid": "et-dorothy-langston-meeting-30",
+    "owner": "user-dorothy-langston",
+    "name": "Working Session",
+    "slug": "dorothy-langston-meeting-30",
+    "duration": 30,
+    "kind": "solo",
+    "color": "#1aa763",
+    "active": true,
+    "description": "30-minute working session with Dorothy Langston",
+    "scheduling_url": "https://calendly.com/dorothy-langston/meeting-30",
+    "created_at": "2025-09-02T10:05:00.000000Z"
+  },
+  {
+    "uuid": "et-dorothy-langston-deep-dive-60",
+    "owner": "user-dorothy-langston",
+    "name": "Deep Dive",
+    "slug": "dorothy-langston-deep-dive-60",
+    "duration": 60,
+    "kind": "solo",
+    "color": "#f1684e",
+    "active": true,
+    "description": "60-minute deep dive with Dorothy Langston",
+    "scheduling_url": "https://calendly.com/dorothy-langston/deep-dive-60",
+    "created_at": "2025-09-02T10:10:00.000000Z"
+  },
+  {
+    "uuid": "et-lab-visit-30",
+    "owner": "user-dorothy-langston",
+    "name": "Lab Visit Intro",
+    "slug": "lab-visit-30",
+    "duration": 30,
+    "kind": "solo",
+    "color": "#3f51b5",
+    "active": true,
+    "description": "External lab visit intro call.",
+    "scheduling_url": "https://calendly.com/dorothy-langston/lab-visit-30",
+    "created_at": "2026-06-01T00:00:00.000000Z"
+  },
+  {
+    "uuid": "et-postdoc-intake-30",
+    "owner": "user-dorothy-langston",
+    "name": "Postdoc Intake",
+    "slug": "postdoc-intake-30",
+    "duration": 30,
+    "kind": "solo",
+    "color": "#3f51b5",
+    "active": true,
+    "description": "Prospective postdoc intake call.",
+    "scheduling_url": "https://calendly.com/dorothy-langston/postdoc-intake-30",
+    "created_at": "2026-06-01T00:00:00.000000Z"
+  },
+  {
+    "uuid": "et-phd-intake-30",
+    "owner": "user-dorothy-langston",
+    "name": "PhD Intake",
+    "slug": "phd-intake-30",
+    "duration": 30,
+    "kind": "solo",
+    "color": "#3f51b5",
+    "active": true,
+    "description": "Prospective PhD intake call.",
+    "scheduling_url": "https://calendly.com/dorothy-langston/phd-intake-30",
+    "created_at": "2026-06-01T00:00:00.000000Z"
+  },
+  {
+    "uuid": "et-journalist-15",
+    "owner": "user-dorothy-langston",
+    "name": "Journalist quick",
+    "slug": "journalist-15",
+    "duration": 15,
+    "kind": "solo",
+    "color": "#3f51b5",
+    "active": true,
+    "description": "Quick media intro call.",
+    "scheduling_url": "https://calendly.com/dorothy-langston/journalist-15",
+    "created_at": "2026-06-01T00:00:00.000000Z"
+  }
+]

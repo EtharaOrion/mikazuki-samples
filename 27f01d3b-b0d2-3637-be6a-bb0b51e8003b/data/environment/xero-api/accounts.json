@@ -1,0 +1,202 @@
+[
+  {
+    "account_id": "a0000001-0000-0000-0000-000000000001",
+    "code": "200",
+    "name": "Tuition Revenue",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Tuition income from enrolled students \u2014 saxophone, piano, guitar, drums, voice, theory",
+    "enable_payments_to_account": false
+  },
+  {
+    "account_id": "a0000002-0000-0000-0000-000000000002",
+    "code": "202",
+    "name": "Workshop Revenue",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Weekend masterclass and ensemble workshop ticket income",
+    "enable_payments_to_account": false
+  },
+  {
+    "account_id": "a0000003-0000-0000-0000-000000000003",
+    "code": "204",
+    "name": "Recital & Showcase Revenue",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Ticket sales and sponsorship income from recitals and the Anniversary Showcase",
+    "enable_payments_to_account": false
+  },
+  {
+    "account_id": "a0000004-0000-0000-0000-000000000004",
+    "code": "260",
+    "name": "Merchandise Revenue",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Sales of Crossroads Conservatory merchandise: t-shirts, sheet music, reeds",
+    "enable_payments_to_account": false
+  },
+  {
+    "account_id": "a0000005-0000-0000-0000-000000000005",
+    "code": "400",
+    "name": "Marketing & Advertising",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Social media ads, print materials, showcase promotion",
+    "enable_payments_to_account": false
+  },
+  {
+    "account_id": "a0000006-0000-0000-0000-000000000006",
+    "code": "404",
+    "name": "Bank Fees",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Stripe processing fees and bank charges",
+    "enable_payments_to_account": false
+  },
+  {
+    "account_id": "a0000007-0000-0000-0000-000000000007",
+    "code": "090",
+    "name": "Business Bank Account",
+    "type": "BANK",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Crossroads Conservatory of Music LLC primary operating account",
+    "enable_payments_to_account": true
+  },
+  {
+    "account_id": "a0000008-0000-0000-0000-000000000008",
+    "code": "477",
+    "name": "Artist & Instructor Fees",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Payments to part-time instructors, guest musicians, and performing artists",
+    "enable_payments_to_account": false
+  },
+  {
+    "account_id": "a0000001-0000-0000-0000-000000000002",
+    "code": "200",
+    "name": "Monthly payroll processing",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Tuition income from enrolled students \u2014 saxophone, piano, guitar, drums, voice, theory",
+    "enable_payments_to_account": false
+  },
+  {
+    "account_id": "a0000002-0000-0000-0000-000000000004",
+    "code": "202",
+    "name": "5th Anniversary Showcase planning",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Weekend masterclass and ensemble workshop ticket income",
+    "enable_payments_to_account": false
+  },
+  {
+    "account_id": "a0000003-0000-0000-0000-000000000006",
+    "code": "204",
+    "name": "Summer camp registration",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Ticket sales and sponsorship income from recitals and the Anniversary Showcase",
+    "enable_payments_to_account": false
+  },
+  {
+    "account_id": "a0000004-0000-0000-0000-000000000008",
+    "code": "260",
+    "name": "Substitute coverage",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Sales of Crossroads Conservatory merchandise: t-shirts, sheet music, reeds",
+    "enable_payments_to_account": false
+  },
+  {
+    "account_id": "a0000005-0000-0000-0000-000000000010",
+    "code": "400",
+    "name": "Sheet music library update",
+    "type": "EXPENSE",
+    "tax_type": "INPUT",
+    "status": "ACTIVE",
+    "description": "Social media ads, print materials, showcase promotion",
+    "enable_payments_to_account": false
+  },
+  {
+    "account_id": "a0000006-0000-0000-0000-000000000012",
+    "code": "404",
+    "name": "Parent meeting slot",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Stripe processing fees and bank charges",
+    "enable_payments_to_account": false
+  },
+  {
+    "account_id": "a0000007-0000-0000-0000-000000000014",
+    "code": "090",
+    "name": "Ensemble arrangement rewrite",
+    "type": "BANK",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Crossroads Conservatory of Music LLC primary operating account",
+    "enable_payments_to_account": true
+  },
+  {
+    "account_id": "a0000008-0000-0000-0000-000000000016",
+    "code": "477",
+    "name": "Recital program layout",
+    "type": "EXPENSE",
+    "tax_type": "NONE",
+    "status": "ACTIVE",
+    "description": "Payments to part-time instructors, guest musicians, and performing artists",
+    "enable_payments_to_account": false
+  },
+  {
+    "account_id": "a0000001-0000-0000-0000-000000000010",
+    "code": "200",
+    "name": "Quartet setlist review",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Tuition income from enrolled students \u2014 saxophone, piano, guitar, drums, voice, theory",
+    "enable_payments_to_account": false
+  },
+  {
+    "account_id": "a0000002-0000-0000-0000-000000000012",
+    "code": "202",
+    "name": "Rehearsal recording listen-back",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Weekend masterclass and ensemble workshop ticket income",
+    "enable_payments_to_account": false
+  },
+  {
+    "account_id": "a0000003-0000-0000-0000-000000000014",
+    "code": "204",
+    "name": "Second album pre-production notes",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Ticket sales and sponsorship income from recitals and the Anniversary Showcase",
+    "enable_payments_to_account": false
+  },
+  {
+    "account_id": "a0000004-0000-0000-0000-000000000016",
+    "code": "260",
+    "name": "Venue confirmation thread",
+    "type": "REVENUE",
+    "tax_type": "OUTPUT",
+    "status": "ACTIVE",
+    "description": "Sales of Crossroads Conservatory merchandise: t-shirts, sheet music, reeds",
+    "enable_payments_to_account": false
+  }
+]

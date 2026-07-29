@@ -1,0 +1,65 @@
+{
+  "accountHealth": {
+    "accountStatus": "NORMAL",
+    "customerServiceDissatisfactionRate": 1.2,
+    "customerServiceDissatisfactionRateTarget": 25,
+    "lateShipmentRate": 1.8,
+    "lateShipmentRateTarget": 4,
+    "onTimeDeliveryRate": 95.5,
+    "onTimeDeliveryRateTarget": 90,
+    "orderDefectRate": 0.6,
+    "orderDefectRateTarget": 1,
+    "policyViolations": 0,
+    "preFulfillmentCancelRate": 0.4,
+    "preFulfillmentCancelRateTarget": 2.5,
+    "returnDissatisfactionRate": 2.4,
+    "returnDissatisfactionRateTarget": 10,
+    "validTrackingRate": 97.2,
+    "validTrackingRateTarget": 95
+  },
+  "businessAddress": {
+    "AddressLine1": "Josefstädter Straße 22",
+    "AddressLine2": "n/a",
+    "City": "Wien",
+    "CountryCode": "AT",
+    "Name": "Vienna Workshop e.U.",
+    "PostalCode": "1080",
+    "StateOrRegion": "Wien"
+  },
+  "businessName": "Vienna Workshop e.U.",
+  "marketplaceId": "A1PA6795UKMFR9",
+  "performanceNotifications": [
+    {
+      "notificationId": "NOTIF-001",
+      "type": "INFO",
+      "title": "FBA Restock Recommendation — Vienna Workshop",
+      "message": "Based on recent sales velocity on amazon.at, we recommend restocking SKU-1000 (LED Desk Lamp – Dimmable) and SKU-1004 (Stainless Steel Water Bottle) within the next 14 days to avoid stockouts.",
+      "severity": "INFO",
+      "createdDate": "2026-04-18T09:20:00Z",
+      "isRead": true
+    },
+    {
+      "notificationId": "NOTIF-002",
+      "type": "PERFORMANCE_WARNING",
+      "title": "Long-Term Storage — Inventory Aging",
+      "message": "SKU-1002 (Bamboo Cutting Board Set) is approaching 180 days in FBA storage. Consider a removal order or a price adjustment to reduce long-term storage fees on the amazon.at marketplace.",
+      "severity": "WARNING",
+      "createdDate": "2026-04-24T11:45:00Z",
+      "isRead": true
+    },
+    {
+      "notificationId": "NOTIF-003",
+      "type": "INFO",
+      "title": "Account Health in Good Standing",
+      "message": "Your order defect rate of 0.6% remains below the 1% target and your account status is NORMAL with no policy violations. No action is required for the ViennaWorkshop store.",
+      "severity": "INFO",
+      "createdDate": "2026-04-29T08:05:00Z",
+      "isRead": false
+    }
+  ],
+  "primaryContactEmail": "joyce.padilla@Finthesiss.ai",
+  "registrationDate": "2023-12-31T00:00:00Z",
+  "sellerId": "A8FD250F462D3",
+  "storeName": "ViennaWorkshop",
+  "storeUrl": "https://www.amazon.at/sp?seller=A8FD250F462D3"
+}

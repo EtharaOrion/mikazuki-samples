@@ -1,0 +1,602 @@
+[
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5001",
+    "DueDate": "2025-06-27",
+    "Id": "5001",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 452.31,
+        "Description": "Software Subscriptions - Stripe Atlas, 2026-02-27",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 452.31
+      }
+    ],
+    "PrivateNote": "Cleared.",
+    "TotalAmt": 452.31,
+    "TxnDate": "2026-02-27",
+    "VendorRef": {
+      "name": "Stripe Atlas",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5002",
+    "DueDate": "2026-02-21",
+    "Id": "5002",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 923.05,
+        "Description": "Software Subscriptions - Slack Technologies, 2025-10-25",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 923.05
+      }
+    ],
+    "PrivateNote": "Approved by M. Brooks.",
+    "TotalAmt": 923.05,
+    "TxnDate": "2025-10-25",
+    "VendorRef": {
+      "name": "Slack Technologies",
+      "value": "2002"
+    }
+  },
+  {
+    "Balance": 1355.81,
+    "DocNumber": "BILL-5003",
+    "DueDate": "2026-03-16",
+    "Id": "5003",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 1355.81,
+        "Description": "Software Subscriptions - Notion Labs, 2026-02-17",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 1355.81
+      }
+    ],
+    "PrivateNote": "Recurring monthly charge.",
+    "TotalAmt": 1355.81,
+    "TxnDate": "2026-02-17",
+    "VendorRef": {
+      "name": "Notion Labs",
+      "value": "2003"
+    }
+  },
+  {
+    "Balance": 444.02,
+    "DocNumber": "BILL-5004",
+    "DueDate": "2026-03-11",
+    "Id": "5004",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 444.02,
+        "Description": "Software Subscriptions - Adobe Creative Cloud, 2026-02-12",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 444.02
+      }
+    ],
+    "PrivateNote": "Approved by M. Brooks.",
+    "TotalAmt": 444.02,
+    "TxnDate": "2026-02-12",
+    "VendorRef": {
+      "name": "Adobe Creative Cloud",
+      "value": "2004"
+    }
+  },
+  {
+    "Balance": 720.63,
+    "DocNumber": "BILL-5005",
+    "DueDate": "2026-03-06",
+    "Id": "5005",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 720.63,
+        "Description": "Software Subscriptions - AWS, 2026-02-07",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 720.63
+      }
+    ],
+    "PrivateNote": "Reconciled with bank statement.",
+    "TotalAmt": 720.63,
+    "TxnDate": "2026-02-07",
+    "VendorRef": {
+      "name": "AWS",
+      "value": "2005"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5001",
+    "DueDate": "2026-02-19",
+    "Id": "5106",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 452.31,
+        "Description": "Software Subscriptions - Margaret Stevens, 2026-02-02",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 452.31
+      }
+    ],
+    "PrivateNote": "Paid on time.",
+    "TotalAmt": 452.31,
+    "TxnDate": "2026-02-02",
+    "VendorRef": {
+      "name": "Margaret Stevens",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5002",
+    "DueDate": "2026-02-15",
+    "Id": "5108",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 923.05,
+        "Description": "Software Subscriptions - Linda Brooks, 2026-02-15",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 923.05
+      }
+    ],
+    "PrivateNote": "Paid on time.",
+    "TotalAmt": 923.05,
+    "TxnDate": "2026-02-15",
+    "VendorRef": {
+      "name": "Linda Brooks",
+      "value": "2002"
+    }
+  },
+  {
+    "Balance": 1355.81,
+    "DocNumber": "BILL-5003",
+    "DueDate": "2026-02-04",
+    "Id": "5110",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 1355.81,
+        "Description": "Software Subscriptions - Adrian Foster, 2026-01-29",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 1355.81
+      }
+    ],
+    "PrivateNote": "Reconciled with bank statement.",
+    "TotalAmt": 1355.81,
+    "TxnDate": "2026-01-29",
+    "VendorRef": {
+      "name": "Adrian Foster",
+      "value": "2003"
+    }
+  },
+  {
+    "Balance": 444.02,
+    "DocNumber": "BILL-5004",
+    "DueDate": "2026-01-27",
+    "Id": "5112",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 444.02,
+        "Description": "Software Subscriptions - Linda Brooks, 2026-01-27",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 444.02
+      }
+    ],
+    "PrivateNote": "Recurring monthly charge.",
+    "TotalAmt": 444.02,
+    "TxnDate": "2026-01-27",
+    "VendorRef": {
+      "name": "Linda Brooks",
+      "value": "2004"
+    }
+  },
+  {
+    "Balance": 720.63,
+    "DocNumber": "BILL-5005",
+    "DueDate": "2026-02-19",
+    "Id": "5114",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 720.63,
+        "Description": "Software Subscriptions - AWS, 2026-02-16",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 720.63
+      }
+    ],
+    "PrivateNote": "Cleared.",
+    "TotalAmt": 720.63,
+    "TxnDate": "2026-02-16",
+    "VendorRef": {
+      "name": "AWS",
+      "value": "2005"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5001",
+    "DueDate": "2026-02-21",
+    "Id": "5111",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 452.31,
+        "Description": "Software Subscriptions - Dr. Lillian Reynolds, 2026-02-21",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 452.31
+      }
+    ],
+    "PrivateNote": "Approved by M. Brooks.",
+    "TotalAmt": 452.31,
+    "TxnDate": "2026-02-21",
+    "VendorRef": {
+      "name": "Dr. Lillian Reynolds",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5002",
+    "DueDate": "2026-02-02",
+    "Id": "5113",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 923.05,
+        "Description": "Software Subscriptions - Catherine Mercer, 2026-02-02",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 923.05
+      }
+    ],
+    "PrivateNote": "Cleared.",
+    "TotalAmt": 923.05,
+    "TxnDate": "2026-02-02",
+    "VendorRef": {
+      "name": "Catherine Mercer",
+      "value": "2002"
+    }
+  },
+  {
+    "Balance": 1355.81,
+    "DocNumber": "BILL-5003",
+    "DueDate": "2026-02-15",
+    "Id": "5115",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 1355.81,
+        "Description": "Software Subscriptions - Margaret Stevens, 2026-01-31",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 1355.81
+      }
+    ],
+    "PrivateNote": "Reconciled with bank statement.",
+    "TotalAmt": 1355.81,
+    "TxnDate": "2026-01-31",
+    "VendorRef": {
+      "name": "Margaret Stevens",
+      "value": "2003"
+    }
+  },
+  {
+    "Balance": 444.02,
+    "DocNumber": "BILL-5004",
+    "DueDate": "2026-02-18",
+    "Id": "5117",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 444.02,
+        "Description": "Software Subscriptions - Coach Ramsey, 2026-02-16",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 444.02
+      }
+    ],
+    "PrivateNote": "Approved by M. Brooks.",
+    "TotalAmt": 444.02,
+    "TxnDate": "2026-02-16",
+    "VendorRef": {
+      "name": "Coach Ramsey",
+      "value": "2004"
+    }
+  },
+  {
+    "Balance": 720.63,
+    "DocNumber": "BILL-5005",
+    "DueDate": "2026-02-21",
+    "Id": "5119",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 720.63,
+        "Description": "Software Subscriptions - AWS, 2026-02-21",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 720.63
+      }
+    ],
+    "PrivateNote": "Recurring monthly charge.",
+    "TotalAmt": 720.63,
+    "TxnDate": "2026-02-21",
+    "VendorRef": {
+      "name": "AWS",
+      "value": "2005"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5001",
+    "DueDate": "2026-02-06",
+    "Id": "5116",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 452.31,
+        "Description": "Software Subscriptions - Victoria Brooks-Mitchell, 2026-02-06",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 452.31
+      }
+    ],
+    "PrivateNote": "Recurring monthly charge.",
+    "TotalAmt": 452.31,
+    "TxnDate": "2026-02-06",
+    "VendorRef": {
+      "name": "Victoria Brooks-Mitchell",
+      "value": "2001"
+    }
+  },
+  {
+    "Balance": 0,
+    "DocNumber": "BILL-5002",
+    "DueDate": "2026-02-13",
+    "Id": "5118",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 923.05,
+        "Description": "Software Subscriptions - Gregory Nolan, 2026-02-06",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 923.05
+      }
+    ],
+    "PrivateNote": "Reconciled with bank statement.",
+    "TotalAmt": 923.05,
+    "TxnDate": "2026-02-06",
+    "VendorRef": {
+      "name": "Gregory Nolan",
+      "value": "2002"
+    }
+  },
+  {
+    "Balance": 1355.81,
+    "DocNumber": "BILL-5003",
+    "DueDate": "2026-02-16",
+    "Id": "5120",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 1355.81,
+        "Description": "Software Subscriptions - Dr. Lillian Reynolds, 2026-02-04",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 1355.81
+      }
+    ],
+    "PrivateNote": "Cleared.",
+    "TotalAmt": 1355.81,
+    "TxnDate": "2026-02-04",
+    "VendorRef": {
+      "name": "Dr. Lillian Reynolds",
+      "value": "2003"
+    }
+  },
+  {
+    "Balance": 444.02,
+    "DocNumber": "BILL-5004",
+    "DueDate": "2026-02-11",
+    "Id": "5122",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 444.02,
+        "Description": "Software Subscriptions - Linda Brooks, 2026-02-10",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 444.02
+      }
+    ],
+    "PrivateNote": "Reconciled with bank statement.",
+    "TotalAmt": 444.02,
+    "TxnDate": "2026-02-10",
+    "VendorRef": {
+      "name": "Linda Brooks",
+      "value": "2004"
+    }
+  },
+  {
+    "Balance": 720.63,
+    "DocNumber": "BILL-5005",
+    "DueDate": "2026-02-11",
+    "Id": "5124",
+    "Line": [
+      {
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Software Subscriptions",
+            "value": "7"
+          }
+        },
+        "Amount": 720.63,
+        "Description": "Software Subscriptions - AWS, 2026-02-11",
+        "DetailType": "AccountBasedExpenseLineDetail",
+        "Id": "1",
+        "LineNum": 0,
+        "Quantity": 1,
+        "UnitPrice": 720.63
+      }
+    ],
+    "PrivateNote": "Reconciled with bank statement.",
+    "TotalAmt": 720.63,
+    "TxnDate": "2026-02-11",
+    "VendorRef": {
+      "name": "AWS",
+      "value": "2005"
+    }
+  }
+]

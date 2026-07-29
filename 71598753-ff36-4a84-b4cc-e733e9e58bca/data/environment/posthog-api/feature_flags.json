@@ -1,0 +1,178 @@
+[
+  {
+    "id": "flag_0000",
+    "key": "client-portal-v2",
+    "active": "false",
+    "project_id": "101",
+    "rollout_percentage": "0",
+    "name": "new-intake-form"
+  },
+  {
+    "id": "flag_0001",
+    "key": "new-intake-form",
+    "active": "true",
+    "project_id": "101",
+    "rollout_percentage": "25",
+    "name": "blog-redesign"
+  },
+  {
+    "id": "flag_0002",
+    "key": "experimental-billing",
+    "active": "true",
+    "project_id": "101",
+    "rollout_percentage": "50",
+    "name": "chat-widget"
+  },
+  {
+    "id": "flag_0003",
+    "key": "probono-fast-track",
+    "active": "false",
+    "project_id": "101",
+    "rollout_percentage": "75",
+    "name": "appointment-booking"
+  },
+  {
+    "id": "flag_0004",
+    "key": "custom-dashboard",
+    "active": "true",
+    "project_id": "101",
+    "rollout_percentage": "100",
+    "name": "spanish-toggle"
+  },
+  {
+    "id": "flag_0005",
+    "key": "newsletter-segmentation",
+    "active": "true",
+    "project_id": "101",
+    "rollout_percentage": "0",
+    "name": "client-portal-beta"
+  },
+  {
+    "id": "flag_0006",
+    "key": "mediation-workflow-v2",
+    "active": "false",
+    "project_id": "101",
+    "rollout_percentage": "25",
+    "name": "fee-calculator"
+  },
+  {
+    "id": "flag_0007",
+    "key": "calendar-sync-v3",
+    "active": "true",
+    "project_id": "101",
+    "rollout_percentage": "50",
+    "name": "testimonials-v2"
+  },
+  {
+    "id": "flag_0008",
+    "key": "docs-portal-beta",
+    "active": "true",
+    "project_id": "101",
+    "rollout_percentage": "75",
+    "name": "contact-form-v3"
+  },
+  {
+    "id": "flag_0009",
+    "key": "time-tracker-redesign",
+    "active": "false",
+    "project_id": "101",
+    "rollout_percentage": "100",
+    "name": "faq-search"
+  },
+  {
+    "id": "flag_0010",
+    "key": "invoice-pdf-v2",
+    "active": "true",
+    "project_id": "101",
+    "rollout_percentage": "0",
+    "name": "practice-area-filter"
+  },
+  {
+    "id": "flag_0011",
+    "key": "esign-integration",
+    "active": "true",
+    "project_id": "101",
+    "rollout_percentage": "25",
+    "name": "resource-library-v2"
+  },
+  {
+    "id": "flag_0012",
+    "key": "ai-summary-disabled",
+    "active": "false",
+    "project_id": "101",
+    "rollout_percentage": "50",
+    "name": "newsletter-popup"
+  },
+  {
+    "id": "flag_0013",
+    "key": "mobile-portal",
+    "active": "true",
+    "project_id": "101",
+    "rollout_percentage": "75",
+    "name": "exit-intent"
+  },
+  {
+    "id": "flag_0014",
+    "key": "retainer-alerts",
+    "active": "true",
+    "project_id": "101",
+    "rollout_percentage": "100",
+    "name": "mobile-menu-v2"
+  },
+  {
+    "id": "flag_0015",
+    "key": "cle-tracker",
+    "active": "false",
+    "project_id": "101",
+    "rollout_percentage": "0",
+    "name": "sticky-cta"
+  },
+  {
+    "id": "flag_0016",
+    "key": "tax-doc-upload",
+    "active": "true",
+    "project_id": "101",
+    "rollout_percentage": "25",
+    "name": "appointment-reminder"
+  },
+  {
+    "id": "flag_0017",
+    "key": "case-templates",
+    "active": "true",
+    "project_id": "101",
+    "rollout_percentage": "50",
+    "name": "scheduler-v2"
+  },
+  {
+    "id": "flag_0018",
+    "key": "client-chat",
+    "active": "false",
+    "project_id": "101",
+    "rollout_percentage": "75",
+    "name": "mediation-quiz"
+  },
+  {
+    "id": "flag_0019",
+    "key": "appointment-reminders",
+    "active": "true",
+    "project_id": "101",
+    "rollout_percentage": "100",
+    "name": "custody-calculator"
+  },
+  {
+    "id": "flag_0020",
+    "key": "quarterly-review-flow",
+    "active": "true",
+    "project_id": "101",
+    "rollout_percentage": "0",
+    "name": "divorce-checklist"
+  },
+  {
+    "id": "flag_0021",
+    "key": "mass-email-pause",
+    "active": "false",
+    "project_id": "101",
+    "rollout_percentage": "25",
+    "name": "timeline-visualizer"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "metric": "synthetics.http.response.time",
+    "scope": "url:eleanorstavern.com",
+    "base_value": "0.62",
+    "amplitude": "0.20",
+    "unit": "second"
+  },
+  {
+    "metric": "trace.http.request.errors",
+    "scope": "service:reservations",
+    "base_value": "0.5",
+    "amplitude": "1.5",
+    "unit": "error"
+  },
+  {
+    "metric": "system.cpu.user",
+    "scope": "pod_name:cms",
+    "base_value": "18.0",
+    "amplitude": "10.0",
+    "unit": "percent"
+  },
+  {
+    "metric": "system.mem.used",
+    "scope": "host:etw-web-1",
+    "base_value": "0.38",
+    "amplitude": "0.08",
+    "unit": "fraction"
+  },
+  {
+    "metric": "ssl.days_left",
+    "scope": "url:eleanorstavern.com",
+    "base_value": "68.0",
+    "amplitude": "2.0",
+    "unit": "day"
+  },
+  {
+    "metric": "synthetics.tcp.response.time",
+    "scope": "url:eleanorstavern.com/menu",
+    "base_value": "0.48",
+    "amplitude": "0.15",
+    "unit": "second"
+  },
+  {
+    "metric": "synthetics.ssl.handshake.time",
+    "scope": "url:eleanorstavern.com/reservations",
+    "base_value": "0.74",
+    "amplitude": "0.25",
+    "unit": "second"
+  },
+  {
+    "metric": "trace.http.request.hits",
+    "scope": "service:reservations",
+    "base_value": "120.0",
+    "amplitude": "60.0",
+    "unit": "request"
+  },
+  {
+    "metric": "trace.http.request.duration",
+    "scope": "service:gift-cards",
+    "base_value": "0.31",
+    "amplitude": "0.12",
+    "unit": "second"
+  },
+  {
+    "metric": "trace.sql.query.errors",
+    "scope": "service:gift-cards",
+    "base_value": "0.2",
+    "amplitude": "0.8",
+    "unit": "error"
+  },
+  {
+    "metric": "system.cpu.idle",
+    "scope": "pod_name:reservations",
+    "base_value": "22.0",
+    "amplitude": "14.0",
+    "unit": "percent"
+  },
+  {
+    "metric": "system.cpu.system",
+    "scope": "host:etw-web-1",
+    "base_value": "8.0",
+    "amplitude": "4.0",
+    "unit": "percent"
+  },
+  {
+    "metric": "system.mem.free",
+    "scope": "host:etw-web-2",
+    "base_value": "0.42",
+    "amplitude": "0.09",
+    "unit": "fraction"
+  },
+  {
+    "metric": "system.disk.in_use",
+    "scope": "host:etw-db-1",
+    "base_value": "0.56",
+    "amplitude": "0.05",
+    "unit": "fraction"
+  },
+  {
+    "metric": "system.load.1",
+    "scope": "host:etw-web-1",
+    "base_value": "0.85",
+    "amplitude": "0.40",
+    "unit": "load"
+  },
+  {
+    "metric": "postgresql.connections",
+    "scope": "host:etw-db-1",
+    "base_value": "24.0",
+    "amplitude": "12.0",
+    "unit": "connection"
+  },
+  {
+    "metric": "redis.mem.used",
+    "scope": "host:etw-cache-1",
+    "base_value": "0.30",
+    "amplitude": "0.06",
+    "unit": "fraction"
+  },
+  {
+    "metric": "nginx.net.request_per_s",
+    "scope": "host:etw-web-1",
+    "base_value": "14.0",
+    "amplitude": "9.0",
+    "unit": "request"
+  },
+  {
+    "metric": "cloudflare.requests.cached",
+    "scope": "url:eleanorstavern.com",
+    "base_value": "0.78",
+    "amplitude": "0.10",
+    "unit": "fraction"
+  },
+  {
+    "metric": "ssl.cert.valid_days",
+    "scope": "url:menu.eleanorstavern.com",
+    "base_value": "54.0",
+    "amplitude": "2.0",
+    "unit": "day"
+  },
+  {
+    "metric": "synthetics.uptime",
+    "scope": "url:eleanorstavern.com",
+    "base_value": "99.95",
+    "amplitude": "0.05",
+    "unit": "percent"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "id": "0oa1google",
+    "name": "google_workspace",
+    "label": "Google Workspace",
+    "status": "ACTIVE",
+    "sign_on_mode": "OPENID_CONNECT",
+    "created": "2024-02-18T10:00:00.000Z"
+  },
+  {
+    "id": "0oa2square",
+    "name": "square",
+    "label": "Square POS",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-02-20T10:00:00.000Z"
+  },
+  {
+    "id": "0oa3stripe",
+    "name": "stripe",
+    "label": "Stripe",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-02-22T10:00:00.000Z"
+  },
+  {
+    "id": "0oa4slack",
+    "name": "slack",
+    "label": "Slack",
+    "status": "ACTIVE",
+    "sign_on_mode": "OPENID_CONNECT",
+    "created": "2024-03-01T10:00:00.000Z"
+  },
+  {
+    "id": "0oa5mailchimp",
+    "name": "mailchimp",
+    "label": "Mailchimp",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-03-05T10:00:00.000Z"
+  },
+  {
+    "id": "0oa6quickbooks",
+    "name": "quickbooks",
+    "label": "QuickBooks Online",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-03-10T10:00:00.000Z"
+  },
+  {
+    "id": "0oa7gusto",
+    "name": "gusto",
+    "label": "Gusto",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-01-01T10:00:00.000Z"
+  },
+  {
+    "id": "0oa8wordpress",
+    "name": "wordpress",
+    "label": "WordPress (eleanorstavern.com)",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-01-10T10:00:00.000Z"
+  },
+  {
+    "id": "0oa9doordash",
+    "name": "doordash",
+    "label": "DoorDash for Merchants",
+    "status": "INACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-02-01T10:00:00.000Z"
+  },
+  {
+    "id": "0oa10toast",
+    "name": "toast",
+    "label": "Toast POS",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-02-08T10:00:00.000Z"
+  },
+  {
+    "id": "0oa11opentable",
+    "name": "opentable",
+    "label": "OpenTable",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-02-15T10:00:00.000Z"
+  },
+  {
+    "id": "0oa12resy",
+    "name": "resy",
+    "label": "Resy",
+    "status": "ACTIVE",
+    "sign_on_mode": "OPENID_CONNECT",
+    "created": "2024-02-22T10:00:00.000Z"
+  },
+  {
+    "id": "0oa13gmail",
+    "name": "gmail",
+    "label": "Gmail",
+    "status": "ACTIVE",
+    "sign_on_mode": "OPENID_CONNECT",
+    "created": "2024-03-01T10:00:00.000Z"
+  },
+  {
+    "id": "0oa14dropbox",
+    "name": "dropbox",
+    "label": "Dropbox Business",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-03-10T10:00:00.000Z"
+  },
+  {
+    "id": "0oa15docusign",
+    "name": "docusign",
+    "label": "DocuSign",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-03-18T10:00:00.000Z"
+  },
+  {
+    "id": "0oa16grubhub",
+    "name": "grubhub",
+    "label": "Grubhub for Restaurants",
+    "status": "INACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-01-01T10:00:00.000Z"
+  },
+  {
+    "id": "0oa17ubereats",
+    "name": "ubereats",
+    "label": "Uber Eats Manager",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-01-09T10:00:00.000Z"
+  },
+  {
+    "id": "0oa18sevenshifts",
+    "name": "sevenshifts",
+    "label": "7shifts Scheduling",
+    "status": "ACTIVE",
+    "sign_on_mode": "OPENID_CONNECT",
+    "created": "2024-01-20T10:00:00.000Z"
+  },
+  {
+    "id": "0oa19yelp",
+    "name": "yelp",
+    "label": "Yelp for Business",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-02-02T10:00:00.000Z"
+  },
+  {
+    "id": "0oa20canva",
+    "name": "canva",
+    "label": "Canva",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-02-14T10:00:00.000Z"
+  },
+  {
+    "id": "0oa21cloudflare",
+    "name": "cloudflare",
+    "label": "Cloudflare",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-02-25T10:00:00.000Z"
+  },
+  {
+    "id": "0oa22twilio",
+    "name": "twilio",
+    "label": "Twilio",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-03-05T10:00:00.000Z"
+  },
+  {
+    "id": "0oa23zoom",
+    "name": "zoom",
+    "label": "Zoom",
+    "status": "ACTIVE",
+    "sign_on_mode": "SAML_2_0",
+    "created": "2024-03-16T10:00:00.000Z"
+  }
+]

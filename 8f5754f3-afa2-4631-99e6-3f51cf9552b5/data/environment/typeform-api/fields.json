@@ -1,0 +1,272 @@
+[
+  {
+    "field_id": "fld-pe-name",
+    "form_id": "frm-private-01",
+    "title": "Your name",
+    "field_type": "short_text",
+    "ref": "name",
+    "required": "true",
+    "choices": "Sunday roast at Ellen's parents' - Bayside, 5 PM.",
+    "order": "1"
+  },
+  {
+    "field_id": "fld-pe-email",
+    "form_id": "frm-private-01",
+    "title": "Email address",
+    "field_type": "email",
+    "ref": "email",
+    "required": "true",
+    "choices": "Kevin's Tuesday call - order the halibut for Friday special.",
+    "order": "2"
+  },
+  {
+    "field_id": "fld-pe-phone",
+    "form_id": "frm-private-01",
+    "title": "Phone number",
+    "field_type": "phone_number",
+    "ref": "phone",
+    "required": "true",
+    "choices": "Alex soccer game Saturday 11 AM - leave the tavern to Sophia.",
+    "order": "3"
+  },
+  {
+    "field_id": "fld-pe-type",
+    "form_id": "frm-private-01",
+    "title": "What type of event?",
+    "field_type": "multiple_choice",
+    "ref": "event_type",
+    "required": "true",
+    "choices": "Birthday|Anniversary|Corporate|Engagement|Reunion|Other",
+    "order": "4"
+  },
+  {
+    "field_id": "fld-pe-date",
+    "form_id": "frm-private-01",
+    "title": "Preferred date",
+    "field_type": "date",
+    "ref": "event_date",
+    "required": "true",
+    "choices": "Sunday roast at Ellen's parents' - Bayside, 5 PM.",
+    "order": "5"
+  },
+  {
+    "field_id": "fld-pe-guests",
+    "form_id": "frm-private-01",
+    "title": "Estimated guest count",
+    "field_type": "number",
+    "ref": "guest_count",
+    "required": "true",
+    "choices": "Sunday roast at Ellen's parents' - Bayside, 5 PM.",
+    "order": "6"
+  },
+  {
+    "field_id": "fld-pe-space",
+    "form_id": "frm-private-01",
+    "title": "Which space?",
+    "field_type": "multiple_choice",
+    "ref": "space",
+    "required": "true",
+    "choices": "Private Dining Room|Patio|Full Buyout|No preference",
+    "order": "7"
+  },
+  {
+    "field_id": "fld-pe-notes",
+    "form_id": "frm-private-01",
+    "title": "Anything else we should know?",
+    "field_type": "long_text",
+    "ref": "notes",
+    "required": "false",
+    "choices": "Daniel menu meeting Wednesday - argue about the special, again.",
+    "order": "8"
+  },
+  {
+    "field_id": "fld-wt-name",
+    "form_id": "frm-wine-02",
+    "title": "Your name",
+    "field_type": "short_text",
+    "ref": "name",
+    "required": "true",
+    "choices": "Ellen quarterly books review Sunday morning - bring the shift schedules.",
+    "order": "1"
+  },
+  {
+    "field_id": "fld-wt-email",
+    "form_id": "frm-wine-02",
+    "title": "Email address",
+    "field_type": "email",
+    "ref": "email",
+    "required": "true",
+    "choices": "Sunday roast at Ellen's parents' - Bayside, 5 PM.",
+    "order": "2"
+  },
+  {
+    "field_id": "fld-wt-session",
+    "form_id": "frm-wine-02",
+    "title": "Which tasting session?",
+    "field_type": "multiple_choice",
+    "ref": "session",
+    "required": "true",
+    "choices": "Harvest Bourbon & Wine (Oct)|Holiday Sparkling (Dec)|Finger Lakes Whites|California Reds",
+    "order": "3"
+  },
+  {
+    "field_id": "fld-wt-seats",
+    "form_id": "frm-wine-02",
+    "title": "Number of seats",
+    "field_type": "number",
+    "ref": "seats",
+    "required": "true",
+    "choices": "Sarah asthma inhaler refill - pharmacy Tuesday.",
+    "order": "4"
+  },
+  {
+    "field_id": "fld-wt-ticket",
+    "form_id": "frm-wine-02",
+    "title": "Ticket type",
+    "field_type": "multiple_choice",
+    "ref": "ticket",
+    "required": "true",
+    "choices": "General Admission|Wine Flight + Pairing",
+    "order": "5"
+  },
+  {
+    "field_id": "fld-wt-diet",
+    "form_id": "frm-wine-02",
+    "title": "Any dietary restrictions?",
+    "field_type": "short_text",
+    "ref": "dietary",
+    "required": "false",
+    "choices": "Daniel menu meeting Wednesday - argue about the special, again.",
+    "order": "6"
+  },
+  {
+    "field_id": "fld-sp-role",
+    "form_id": "frm-staff-03",
+    "title": "Your role",
+    "field_type": "multiple_choice",
+    "ref": "role",
+    "required": "true",
+    "choices": "Server|Line Cook|Prep Cook|Busser|Bartender|Host|Dishwasher|Manager",
+    "order": "1"
+  },
+  {
+    "field_id": "fld-sp-morale",
+    "form_id": "frm-staff-03",
+    "title": "How are you feeling about work lately?",
+    "field_type": "rating",
+    "ref": "morale",
+    "required": "true",
+    "choices": "Daniel menu meeting Wednesday - argue about the special, again.",
+    "order": "2"
+  },
+  {
+    "field_id": "fld-sp-workload",
+    "form_id": "frm-staff-03",
+    "title": "Is your workload manageable?",
+    "field_type": "multiple_choice",
+    "ref": "workload",
+    "required": "true",
+    "choices": "Always|Usually|Sometimes|Rarely",
+    "order": "3"
+  },
+  {
+    "field_id": "fld-sp-comms",
+    "form_id": "frm-staff-03",
+    "title": "Do you feel heard by management?",
+    "field_type": "rating",
+    "ref": "heard",
+    "required": "true",
+    "choices": "Sarah asthma inhaler refill - pharmacy Tuesday.",
+    "order": "4"
+  },
+  {
+    "field_id": "fld-sp-improve",
+    "form_id": "frm-staff-03",
+    "title": "What is one thing we could improve?",
+    "field_type": "long_text",
+    "ref": "improve",
+    "required": "false",
+    "choices": "Daniel menu meeting Wednesday - argue about the special, again.",
+    "order": "5"
+  },
+  {
+    "field_id": "fld-fb-name",
+    "form_id": "frm-feedback-04",
+    "title": "Your name (optional)",
+    "field_type": "short_text",
+    "ref": "name",
+    "required": "false",
+    "choices": "Daniel menu meeting Wednesday - argue about the special, again.",
+    "order": "1"
+  },
+  {
+    "field_id": "fld-fb-visit",
+    "form_id": "frm-feedback-04",
+    "title": "When did you dine with us?",
+    "field_type": "date",
+    "ref": "visit_date",
+    "required": "false",
+    "choices": "Kevin's Tuesday call - order the halibut for Friday special.",
+    "order": "2"
+  },
+  {
+    "field_id": "fld-fb-food",
+    "form_id": "frm-feedback-04",
+    "title": "How would you rate the food?",
+    "field_type": "rating",
+    "ref": "food_rating",
+    "required": "true",
+    "choices": "Alex soccer game Saturday 11 AM - leave the tavern to Sophia.",
+    "order": "3"
+  },
+  {
+    "field_id": "fld-fb-service",
+    "form_id": "frm-feedback-04",
+    "title": "How would you rate the service?",
+    "field_type": "rating",
+    "ref": "service_rating",
+    "required": "true",
+    "choices": "Sarah asthma inhaler refill - pharmacy Tuesday.",
+    "order": "4"
+  },
+  {
+    "field_id": "fld-fb-dish",
+    "form_id": "frm-feedback-04",
+    "title": "What was your favorite dish?",
+    "field_type": "multiple_choice",
+    "ref": "favorite_dish",
+    "required": "false",
+    "choices": "Grilled Branzino|Pot Roast|Shepherd's Pie|Clam Chowder|House-made Apple Pie|Steak Sandwich|Other",
+    "order": "5"
+  },
+  {
+    "field_id": "fld-fb-return",
+    "form_id": "frm-feedback-04",
+    "title": "How likely are you to return?",
+    "field_type": "rating",
+    "ref": "return_likelihood",
+    "required": "true",
+    "choices": "Ellen quarterly books review Sunday morning - bring the shift schedules.",
+    "order": "6"
+  },
+  {
+    "field_id": "fld-fb-comments",
+    "form_id": "frm-feedback-04",
+    "title": "Any additional comments?",
+    "field_type": "long_text",
+    "ref": "comments",
+    "required": "false",
+    "choices": "Ellen quarterly books review Sunday morning - bring the shift schedules.",
+    "order": "7"
+  },
+  {
+    "field_id": "fld-fb-email",
+    "form_id": "frm-feedback-04",
+    "title": "Email for our newsletter (optional)",
+    "field_type": "email",
+    "ref": "email",
+    "required": "false",
+    "choices": "Alex soccer game Saturday 11 AM - leave the tavern to Sophia.",
+    "order": "8"
+  }
+]

@@ -1,0 +1,127 @@
+{
+  "context": "Rules used to validate staff expense and reimbursement receipts at Brooks Family Law.",
+  "policy_name": "Brooks Family Law Reimbursement Policy",
+  "validation_rules": [
+    {
+      "action": "Manual Review",
+      "notes": "Attach matter reference",
+      "requirement": "Meals with clients",
+      "rule": "Client Meals"
+    },
+    {
+      "action": "Reject",
+      "notes": "Not reimbursable",
+      "requirement": "Alcohol-heavy charges",
+      "rule": "Alcohol"
+    },
+    {
+      "action": "Reject",
+      "notes": "Only one valid receipt allowed",
+      "requirement": "Duplicate uploads",
+      "rule": "Duplicates"
+    },
+    {
+      "action": "Reject",
+      "notes": "Low OCR confidence",
+      "requirement": "Unreadable totals",
+      "rule": "Missing Total"
+    },
+    {
+      "action": "Reject",
+      "notes": "Policy violation",
+      "requirement": "After 30 days",
+      "rule": "Late Submission"
+    },
+    {
+      "action": "Approve",
+      "notes": "IRS standard rate",
+      "requirement": "Court travel mileage",
+      "rule": "Mileage"
+    },
+    {
+      "action": "Approve",
+      "notes": "Attach certificate",
+      "requirement": "Continuing legal education fees",
+      "rule": "CLE Registration"
+    },
+    {
+      "action": "Approve",
+      "notes": "Attach filed stamp",
+      "requirement": "Clerk of court fees",
+      "rule": "Court Filing Fees"
+    },
+    {
+      "action": "Approve",
+      "notes": "Attach receipt",
+      "requirement": "Certified mail / postage",
+      "rule": "Postage"
+    },
+    {
+      "action": "Review",
+      "notes": "Under $100 auto-approve",
+      "requirement": "General office supplies",
+      "rule": "Office Supplies"
+    },
+    {
+      "action": "Review",
+      "notes": "Firm-approved vendors only",
+      "requirement": "Subscription software",
+      "rule": "Software"
+    },
+    {
+      "action": "Approve",
+      "notes": "Under $25",
+      "requirement": "Courthouse parking",
+      "rule": "Parking"
+    },
+    {
+      "action": "Reject",
+      "notes": "Not reimbursable unless traveling",
+      "requirement": "Individual meals",
+      "rule": "Meals (Solo)"
+    },
+    {
+      "action": "Manual Review",
+      "notes": "Cap $100 per client",
+      "requirement": "Client gifts",
+      "rule": "Gifts"
+    },
+    {
+      "action": "Manual Review",
+      "notes": "Pre-approval required",
+      "requirement": "Out-of-county travel",
+      "rule": "Travel"
+    },
+    {
+      "action": "Review",
+      "notes": "Need bank match",
+      "requirement": "Reprint receipts",
+      "rule": "Reprints"
+    },
+    {
+      "action": "Manual Review",
+      "notes": "Require corroborating record",
+      "requirement": "Cash payments",
+      "rule": "Cash"
+    },
+    {
+      "action": "Manual Review",
+      "notes": "Convert at posting date",
+      "requirement": "Non-USD charges",
+      "rule": "Foreign Currency"
+    },
+    {
+      "action": "Review",
+      "notes": "Excess not reimbursed",
+      "requirement": "Gratuities over 20%",
+      "rule": "Tips"
+    },
+    {
+      "action": "Manual Review",
+      "notes": "Requires description",
+      "requirement": "Uncategorized",
+      "rule": "Miscellaneous"
+    }
+  ],
+  "version": "2026.Q1"
+}

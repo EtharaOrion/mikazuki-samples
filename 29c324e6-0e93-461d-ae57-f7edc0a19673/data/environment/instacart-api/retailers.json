@@ -1,0 +1,202 @@
+[
+  {
+    "retailer_id": "ret-mfm-001",
+    "name": "Midtown Fresh Market",
+    "logo_url": "https://www.instacart.com/image-server/logo/midtown-fresh-market.png",
+    "delivers_to_zips": "64111,64108,64112",
+    "min_basket": 10.0,
+    "delivery_fee": 3.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 55
+  },
+  {
+    "retailer_id": "ret-cm-002",
+    "name": "Corner Market",
+    "logo_url": "https://www.instacart.com/image-server/logo/corner-market.png",
+    "delivers_to_zips": "64111,64108,64110",
+    "min_basket": 10.0,
+    "delivery_fee": 3.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 40
+  },
+  {
+    "retailer_id": "ret-csm-003",
+    "name": "Cosentino's Market",
+    "logo_url": "https://www.instacart.com/image-server/logo/cosentinos-market.png",
+    "delivers_to_zips": "64111,64112",
+    "min_basket": 15.0,
+    "delivery_fee": 4.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 50
+  },
+  {
+    "retailer_id": "ret-mfm-002",
+    "name": "Theory class discussion",
+    "logo_url": "https://www.instacart.com/image-server/logo/midtown-fresh-market.png",
+    "delivers_to_zips": "64111,64108,64112",
+    "min_basket": 10.0,
+    "delivery_fee": 3.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 55
+  },
+  {
+    "retailer_id": "ret-cm-004",
+    "name": "Instructor coordination meeting",
+    "logo_url": "https://www.instacart.com/image-server/logo/corner-market.png",
+    "delivers_to_zips": "64111,64108,64110",
+    "min_basket": 10.0,
+    "delivery_fee": 3.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 40
+  },
+  {
+    "retailer_id": "ret-csm-006",
+    "name": "Winter recital rehearsal",
+    "logo_url": "https://www.instacart.com/image-server/logo/cosentinos-market.png",
+    "delivers_to_zips": "64111,64112",
+    "min_basket": 15.0,
+    "delivery_fee": 4.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 50
+  },
+  {
+    "retailer_id": "ret-mfm-005",
+    "name": "Student progress review",
+    "logo_url": "https://www.instacart.com/image-server/logo/midtown-fresh-market.png",
+    "delivers_to_zips": "64111,64108,64112",
+    "min_basket": 10.0,
+    "delivery_fee": 3.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 55
+  },
+  {
+    "retailer_id": "ret-cm-007",
+    "name": "Enrollment inquiry follow-up",
+    "logo_url": "https://www.instacart.com/image-server/logo/corner-market.png",
+    "delivers_to_zips": "64111,64108,64110",
+    "min_basket": 10.0,
+    "delivery_fee": 3.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 40
+  },
+  {
+    "retailer_id": "ret-csm-009",
+    "name": "Monthly payroll processing",
+    "logo_url": "https://www.instacart.com/image-server/logo/cosentinos-market.png",
+    "delivers_to_zips": "64111,64112",
+    "min_basket": 15.0,
+    "delivery_fee": 4.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 50
+  },
+  {
+    "retailer_id": "ret-mfm-008",
+    "name": "5th Anniversary Showcase planning",
+    "logo_url": "https://www.instacart.com/image-server/logo/midtown-fresh-market.png",
+    "delivers_to_zips": "64111,64108,64112",
+    "min_basket": 10.0,
+    "delivery_fee": 3.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 55
+  },
+  {
+    "retailer_id": "ret-cm-010",
+    "name": "Summer camp registration",
+    "logo_url": "https://www.instacart.com/image-server/logo/corner-market.png",
+    "delivers_to_zips": "64111,64108,64110",
+    "min_basket": 10.0,
+    "delivery_fee": 3.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 40
+  },
+  {
+    "retailer_id": "ret-csm-012",
+    "name": "Substitute coverage",
+    "logo_url": "https://www.instacart.com/image-server/logo/cosentinos-market.png",
+    "delivers_to_zips": "64111,64112",
+    "min_basket": 15.0,
+    "delivery_fee": 4.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 50
+  },
+  {
+    "retailer_id": "ret-mfm-011",
+    "name": "Sheet music library update",
+    "logo_url": "https://www.instacart.com/image-server/logo/midtown-fresh-market.png",
+    "delivers_to_zips": "64111,64108,64112",
+    "min_basket": 10.0,
+    "delivery_fee": 3.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 55
+  },
+  {
+    "retailer_id": "ret-cm-013",
+    "name": "Parent meeting slot",
+    "logo_url": "https://www.instacart.com/image-server/logo/corner-market.png",
+    "delivers_to_zips": "64111,64108,64110",
+    "min_basket": 10.0,
+    "delivery_fee": 3.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 40
+  },
+  {
+    "retailer_id": "ret-csm-015",
+    "name": "Ensemble arrangement rewrite",
+    "logo_url": "https://www.instacart.com/image-server/logo/cosentinos-market.png",
+    "delivers_to_zips": "64111,64112",
+    "min_basket": 15.0,
+    "delivery_fee": 4.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 50
+  },
+  {
+    "retailer_id": "ret-mfm-014",
+    "name": "Recital program layout",
+    "logo_url": "https://www.instacart.com/image-server/logo/midtown-fresh-market.png",
+    "delivers_to_zips": "64111,64108,64112",
+    "min_basket": 10.0,
+    "delivery_fee": 3.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 55
+  },
+  {
+    "retailer_id": "ret-cm-016",
+    "name": "Quartet setlist review",
+    "logo_url": "https://www.instacart.com/image-server/logo/corner-market.png",
+    "delivers_to_zips": "64111,64108,64110",
+    "min_basket": 10.0,
+    "delivery_fee": 3.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 40
+  },
+  {
+    "retailer_id": "ret-csm-018",
+    "name": "Rehearsal recording listen-back",
+    "logo_url": "https://www.instacart.com/image-server/logo/cosentinos-market.png",
+    "delivers_to_zips": "64111,64112",
+    "min_basket": 15.0,
+    "delivery_fee": 4.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 50
+  },
+  {
+    "retailer_id": "ret-mfm-017",
+    "name": "Second album pre-production notes",
+    "logo_url": "https://www.instacart.com/image-server/logo/midtown-fresh-market.png",
+    "delivers_to_zips": "64111,64108,64112",
+    "min_basket": 10.0,
+    "delivery_fee": 3.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 55
+  },
+  {
+    "retailer_id": "ret-cm-019",
+    "name": "Venue confirmation thread",
+    "logo_url": "https://www.instacart.com/image-server/logo/corner-market.png",
+    "delivers_to_zips": "64111,64108,64110",
+    "min_basket": 10.0,
+    "delivery_fee": 3.99,
+    "service_fee_pct": 5.0,
+    "eta_minutes": 40
+  }
+]

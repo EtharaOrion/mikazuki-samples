@@ -1,0 +1,26 @@
+[
+  {
+    "tracking_number": "1Z5055001023456784",
+    "status_type": "D",
+    "status_code": "011",
+    "status_description": "Delivered",
+    "service_name": "UPS Ground",
+    "ship_date": "2026-02-10",
+    "scheduled_delivery": "2026-02-14",
+    "latest_activity": "Delivered",
+    "latest_activity_location": "Kansas City, MO, US",
+    "latest_activity_time": "2026-02-14T14:22:00Z"
+  },
+  {
+    "tracking_number": "1Z5055001023456795",
+    "status_type": "I",
+    "status_code": "005",
+    "status_description": "In Transit",
+    "service_name": "UPS 2nd Day Air",
+    "ship_date": "2026-03-23",
+    "scheduled_delivery": "2026-03-25",
+    "latest_activity": "Arrived at Facility",
+    "latest_activity_location": "Kansas City, MO, US",
+    "latest_activity_time": "2026-03-24T07:18:00Z"
+  }
+]

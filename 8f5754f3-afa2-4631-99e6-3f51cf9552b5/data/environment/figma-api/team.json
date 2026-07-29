@@ -1,0 +1,32 @@
+{
+  "team": {
+    "id": "team-501",
+    "name": "Eleanor's Tavern Design"
+  },
+  "me": {
+    "id": "user-1002",
+    "handle": "Carlton McGee",
+    "email": "carlton.mcgee@eleanorstavern.com",
+    "img_url": "https://figma-avatars.s3.amazonaws.com/user-1002.png"
+  },
+  "users": [
+    {
+      "id": "user-1001",
+      "handle": "Sophia Kastner",
+      "email": "sophia.k@eleanorstavern.com",
+      "img_url": "https://figma-avatars.s3.amazonaws.com/user-1001.png"
+    },
+    {
+      "id": "user-1002",
+      "handle": "Carlton McGee",
+      "email": "carlton.mcgee@eleanorstavern.com",
+      "img_url": "https://figma-avatars.s3.amazonaws.com/user-1002.png"
+    },
+    {
+      "id": "user-1003",
+      "handle": "Tessa Moreau",
+      "email": "tessa@moreaudesign.com",
+      "img_url": "https://figma-avatars.s3.amazonaws.com/user-1003.png"
+    }
+  ]
+}

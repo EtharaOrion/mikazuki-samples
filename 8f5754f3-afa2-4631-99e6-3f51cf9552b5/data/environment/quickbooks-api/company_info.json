@@ -1,0 +1,37 @@
+{
+  "CompanyName": "Eleanor's Tavern",
+  "LegalName": "Eleanor's Tavern LLC",
+  "CompanyAddr": {
+    "Line1": "31-09 Broadway",
+    "City": "Astoria",
+    "CountrySubDivisionCode": "NY",
+    "PostalCode": "11106"
+  },
+  "Email": {
+    "Address": "carlton@eleanorstavern.com"
+  },
+  "PrimaryPhone": {
+    "FreeFormNumber": "(718) 555-0110"
+  },
+  "FiscalYearStartMonth": "January",
+  "Country": "US",
+  "IndustryType": "Restaurant, Bar & Tavern",
+  "NameValue": [
+    {
+      "Name": "OwnerName",
+      "Value": "Carlton McGee"
+    },
+    {
+      "Name": "BookkeeperName",
+      "Value": "Ellen McGee"
+    },
+    {
+      "Name": "CPAName",
+      "Value": "Harold Kim, CPA"
+    }
+  ],
+  "MetaData": {
+    "CreateTime": "2015-01-12T09:00:00-04:00",
+    "LastUpdatedTime": "2026-03-22T17:40:00-04:00"
+  }
+}

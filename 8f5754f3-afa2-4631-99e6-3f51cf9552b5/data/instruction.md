@@ -1,0 +1,6 @@
+Alright, the merch shop. We've got the holiday run coming and I don't trust what's up there. Sophia shot the new pieces Saturday, they're in my pictures, and I think some of them are junk but I'm not the one with the camera so I'm not going to be the one who says so. Go through them against the shop's own photo standard, that's in my documents, and tell me which ones we can put up and which ones she has to shoot again, and say which check each bad one failed, because if I just tell her they're bad she'll shoot me the same thing back. Then the four already live. I pulled their photos down into that same folder. Look at what's actually in the picture against what the copy says is in the box. Sophia already went through them, her note's in there, but I want your eyes on it not hers. Mark up the worst one so she can see what I mean without me standing over her. Write it up on a page in my Notion, marked shot in the Drive. Nothing comes off the shop and no copy gets touched, that's me.
+
+
+---
+Workspace inputs (already staged on disk at `/root/workspace/home` or `/root/workspace/Home`):
+Save EVERY output artifact you produce under `/root/workspace/`. Files written anywhere else (including `/tmp/` and elsewhere under `/root/`) will NOT be collected as deliverables.

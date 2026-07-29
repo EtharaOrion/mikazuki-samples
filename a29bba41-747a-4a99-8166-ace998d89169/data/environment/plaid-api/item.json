@@ -1,0 +1,37 @@
+{
+  "institution": {
+    "country_codes": [
+      "US"
+    ],
+    "institution_id": "ins_bbfcu",
+    "name": "Biscayne Bay Federal Credit Union",
+    "primary_color": "#1a4a8a",
+    "products": [
+      "transactions",
+      "auth",
+      "balance",
+      "identity"
+    ],
+    "routing_numbers": [
+      "267078513"
+    ],
+    "url": "https://biscaynebayfcu.org"
+  },
+  "item": {
+    "available_products": [
+      "transactions",
+      "auth",
+      "balance",
+      "identity"
+    ],
+    "billed_products": [
+      "transactions",
+      "identity"
+    ],
+    "consent_expiration_time": null,
+    "institution_id": "ins_bbfcu",
+    "item_id": "item_66033602bb9cd317",
+    "update_type": "background",
+    "webhook": "https://brooksfamilylaw.com/plaid/webhook"
+  }
+}

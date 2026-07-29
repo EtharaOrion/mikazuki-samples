@@ -1,0 +1,49 @@
+{
+  "title": "FW2026 Merch Buying Notes \u2013 Jessica Webb Quartet Tour & Crossroads Collection",
+  "updated": "2026-03-05",
+  "submitted_by": "Jessica Webb, Owner",
+  "pricing_limits": {
+    "max_retail_cap_per_unit": 85,
+    "max_category_budget_percent": 40,
+    "opening_price_point_min": 18
+  },
+  "category_restrictions": {
+    "knitwear_max_skus": 0,
+    "outerwear_max_skus": 0,
+    "blazers_max_skus": 0,
+    "no_leather_outerwear": true
+  },
+  "fabrication_exclusions": {
+    "max_acrylic_percent": 10,
+    "no_fur": true,
+    "no_faux_fur": true,
+    "max_mohair_percent": 0
+  },
+  "color_exclusions": {
+    "no_neon_or_fluorescent": true,
+    "max_black_percent_of_assortment": 50,
+    "preferred_tones": [
+      "black",
+      "red",
+      "ivory"
+    ]
+  },
+  "delivery_and_timeline": {
+    "final_submission_date": "2026-01-15",
+    "vendor_delivery_deadline": "2026-10-15",
+    "max_lead_time_months_without_vp_approval": 3,
+    "priority_reorder_brands": [
+      "Midwest Merch Co",
+      "Crossroads Press",
+      "Bandwear Collective"
+    ]
+  },
+  "notes": {
+    "korean_designers_premium_positioning": [
+      "Riverstone Goods",
+      "Bandwear Collective"
+    ],
+    "mijeong_park_max_skus_without_sizing_confirmation": 0,
+    "total_sku_budget": 18
+  }
+}

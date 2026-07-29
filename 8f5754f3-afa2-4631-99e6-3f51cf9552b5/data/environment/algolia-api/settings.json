@@ -1,0 +1,142 @@
+[
+  {
+    "index": "products",
+    "searchableAttributes": "name,description,category,brand",
+    "attributesForFaceting": "category,in_stock",
+    "hitsPerPage": "24",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "docs",
+    "searchableAttributes": "title,body,section,tags",
+    "attributesForFaceting": "section,tags",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "menu_items",
+    "searchableAttributes": "dish_name,description,course,ingredients",
+    "attributesForFaceting": "course,dietary,available",
+    "hitsPerPage": "24",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "wine_list",
+    "searchableAttributes": "wine_name,varietal,region,producer",
+    "attributesForFaceting": "varietal,region,by_glass",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "events",
+    "searchableAttributes": "title,description,event_type,host",
+    "attributesForFaceting": "event_type,month",
+    "hitsPerPage": "12",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "reservations",
+    "searchableAttributes": "guest_name,party_size,notes",
+    "attributesForFaceting": "status,date",
+    "hitsPerPage": "30",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "vendors",
+    "searchableAttributes": "vendor_name,category,contact,products",
+    "attributesForFaceting": "category,active",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "staff",
+    "searchableAttributes": "name,role,department",
+    "attributesForFaceting": "role,department",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "blog_posts",
+    "searchableAttributes": "title,body,author,tags",
+    "attributesForFaceting": "author,tags",
+    "hitsPerPage": "10",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "gift_cards",
+    "searchableAttributes": "card_code,purchaser,recipient",
+    "attributesForFaceting": "status,amount",
+    "hitsPerPage": "24",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "recipes",
+    "searchableAttributes": "recipe_name,ingredients,method,course",
+    "attributesForFaceting": "course,season",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "private_events",
+    "searchableAttributes": "client_name,event_type,space,notes",
+    "attributesForFaceting": "event_type,space",
+    "hitsPerPage": "16",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "press",
+    "searchableAttributes": "headline,publication,excerpt",
+    "attributesForFaceting": "publication,year",
+    "hitsPerPage": "12",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "faq",
+    "searchableAttributes": "question,answer,topic",
+    "attributesForFaceting": "topic",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "specials",
+    "searchableAttributes": "name,description,day,price",
+    "attributesForFaceting": "day,course",
+    "hitsPerPage": "10",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "beers",
+    "searchableAttributes": "beer_name,style,brewery,abv",
+    "attributesForFaceting": "style,on_tap",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "newsletters",
+    "searchableAttributes": "subject,preview,month",
+    "attributesForFaceting": "month,year",
+    "hitsPerPage": "12",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "reviews",
+    "searchableAttributes": "reviewer,body,source",
+    "attributesForFaceting": "rating,source",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "photos",
+    "searchableAttributes": "caption,album,tags",
+    "attributesForFaceting": "album,tags",
+    "hitsPerPage": "24",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "allergens",
+    "searchableAttributes": "dish_name,allergen,note",
+    "attributesForFaceting": "allergen,course",
+    "hitsPerPage": "20",
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  }
+]

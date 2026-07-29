@@ -1,0 +1,6 @@
+the room inventory thing is due friday and i still don't trust what's on our readiness board for my grade 4 room. it got redone over the summer and i'm pretty sure the record still has the old setup on it. can you go off the photo i took walking it this morning and get the record straightened out to match how the room actually is now, and put together the one page condition sheet that goes with the certification? don't send anything out to anyone, i want to look it over before it goes anywhere. usual care on anything that leaves the building.
+
+
+---
+Workspace inputs (already staged on disk at `/root/workspace/home` or `/root/workspace/Home`):
+Save EVERY output artifact you produce under `/root/workspace/`. Files written anywhere else (including `/tmp/` and elsewhere under `/root/`) will NOT be collected as deliverables.

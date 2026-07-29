@@ -1,0 +1,62 @@
+[
+  {
+    "tracking_number": "794653210001",
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "ship_date": "2025-11-05",
+    "origin_zip": "64108",
+    "dest_zip": "90048",
+    "weight_lb": 0.15,
+    "currency": "USD",
+    "net_charge": 8.2,
+    "label_url": "https://www.fedex.com/shipping/shipmentConfirmation.do?method=dspShipConfirm&trackingNumber=794653210001"
+  },
+  {
+    "tracking_number": "794653210002",
+    "service_type": "FEDEX_2_DAY",
+    "service_name": "FedEx 2Day",
+    "ship_date": "2025-11-18",
+    "origin_zip": "64108",
+    "dest_zip": "60614",
+    "weight_lb": 0.65,
+    "currency": "USD",
+    "net_charge": 17.3,
+    "label_url": "https://www.fedex.com/shipping/shipmentConfirmation.do?method=dspShipConfirm&trackingNumber=794653210002"
+  },
+  {
+    "tracking_number": "794653210003",
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "ship_date": "2025-12-03",
+    "origin_zip": "64108",
+    "dest_zip": "60614",
+    "weight_lb": 0.25,
+    "currency": "USD",
+    "net_charge": 8.85,
+    "label_url": "https://www.fedex.com/shipping/shipmentConfirmation.do?method=dspShipConfirm&trackingNumber=794653210003"
+  },
+  {
+    "tracking_number": "794653210004",
+    "service_type": "PRIORITY_OVERNIGHT",
+    "service_name": "FedEx Priority Overnight",
+    "ship_date": "2025-12-15",
+    "origin_zip": "64108",
+    "dest_zip": "10014",
+    "weight_lb": 0.18,
+    "currency": "USD",
+    "net_charge": 48.75,
+    "label_url": "https://www.fedex.com/shipping/shipmentConfirmation.do?method=dspShipConfirm&trackingNumber=794653210004"
+  },
+  {
+    "tracking_number": "794653210005",
+    "service_type": "FEDEX_GROUND",
+    "service_name": "FedEx Ground",
+    "ship_date": "2026-03-23",
+    "origin_zip": "64108",
+    "dest_zip": "37203",
+    "weight_lb": 0.15,
+    "currency": "USD",
+    "net_charge": 9.4,
+    "label_url": "https://www.fedex.com/shipping/shipmentConfirmation.do?method=dspShipConfirm&trackingNumber=794653210005"
+  }
+]

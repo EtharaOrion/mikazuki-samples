@@ -1,0 +1,162 @@
+[
+  {
+    "active": "true",
+    "id": "flag_4001",
+    "key": "new-onboarding",
+    "name": "New Onboarding Flow",
+    "project_id": "1",
+    "rollout_percentage": "100"
+  },
+  {
+    "active": "true",
+    "id": "flag_4002",
+    "key": "beta-dashboard",
+    "name": "Beta Dashboard",
+    "project_id": "1",
+    "rollout_percentage": "50"
+  },
+  {
+    "active": "false",
+    "id": "flag_4003",
+    "key": "dark-mode",
+    "name": "Dark Mode",
+    "project_id": "1",
+    "rollout_percentage": "0"
+  },
+  {
+    "active": "true",
+    "id": "flag_4004",
+    "key": "ai-suggestions",
+    "name": "AI Suggestions",
+    "project_id": "1",
+    "rollout_percentage": "25"
+  },
+  {
+    "active": "true",
+    "id": "flag_4005",
+    "key": "export-csv",
+    "name": "Export CSV",
+    "project_id": "1",
+    "rollout_percentage": "75"
+  },
+  {
+    "active": "true",
+    "id": "flag_4001-2",
+    "key": "new-onboarding",
+    "name": "New Catalogue UI",
+    "project_id": "1",
+    "rollout_percentage": "100"
+  },
+  {
+    "active": "true",
+    "id": "flag_4001-3",
+    "key": "beta-dashboard",
+    "name": "Online Ticketing v2",
+    "project_id": "1",
+    "rollout_percentage": "100"
+  },
+  {
+    "active": "false",
+    "id": "flag_4001-4",
+    "key": "dark-mode",
+    "name": "IIIF Viewer",
+    "project_id": "1",
+    "rollout_percentage": "100"
+  },
+  {
+    "active": "true",
+    "id": "flag_4001-5",
+    "key": "ai-suggestions",
+    "name": "Members Portal",
+    "project_id": "1",
+    "rollout_percentage": "100"
+  },
+  {
+    "active": "true",
+    "id": "flag_4001-6",
+    "key": "export-csv",
+    "name": "Digitisation Dashboard",
+    "project_id": "1",
+    "rollout_percentage": "100"
+  },
+  {
+    "active": "true",
+    "id": "flag_4001-7",
+    "key": "new-onboarding",
+    "name": "Exhibition Microsite",
+    "project_id": "1",
+    "rollout_percentage": "100"
+  },
+  {
+    "active": "true",
+    "id": "flag_4001-8",
+    "key": "beta-dashboard",
+    "name": "Collection Search",
+    "project_id": "1",
+    "rollout_percentage": "100"
+  },
+  {
+    "active": "false",
+    "id": "flag_4001-9",
+    "key": "dark-mode",
+    "name": "Audio Guide Beta",
+    "project_id": "1",
+    "rollout_percentage": "100"
+  },
+  {
+    "active": "true",
+    "id": "flag_4001-10",
+    "key": "ai-suggestions",
+    "name": "Loan Tracker",
+    "project_id": "1",
+    "rollout_percentage": "100"
+  },
+  {
+    "active": "true",
+    "id": "flag_4001-11",
+    "key": "export-csv",
+    "name": "Donor Portal",
+    "project_id": "1",
+    "rollout_percentage": "100"
+  },
+  {
+    "active": "true",
+    "id": "flag_4001-12",
+    "key": "new-onboarding",
+    "name": "Event Booking",
+    "project_id": "1",
+    "rollout_percentage": "100"
+  },
+  {
+    "active": "true",
+    "id": "flag_4001-13",
+    "key": "beta-dashboard",
+    "name": "Multilingual Labels",
+    "project_id": "1",
+    "rollout_percentage": "100"
+  },
+  {
+    "active": "false",
+    "id": "flag_4001-14",
+    "key": "dark-mode",
+    "name": "Virtual Tour",
+    "project_id": "1",
+    "rollout_percentage": "100"
+  },
+  {
+    "active": "true",
+    "id": "flag_4001-15",
+    "key": "ai-suggestions",
+    "name": "Newsletter Signup",
+    "project_id": "1",
+    "rollout_percentage": "100"
+  },
+  {
+    "active": "true",
+    "id": "flag_4001-16",
+    "key": "export-csv",
+    "name": "Accessibility Mode",
+    "project_id": "1",
+    "rollout_percentage": "100"
+  }
+]

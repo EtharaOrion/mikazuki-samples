@@ -1,0 +1,202 @@
+[
+  {
+    "id": "landing-fall-sessions",
+    "content_type": "landingSection",
+    "created_at": "2026-05-30T09:05:00.000Z",
+    "updated_at": "2026-05-30T09:05:00.000Z",
+    "published_version": "6",
+    "fields_json": "{\"heading\": \"Fall Individual Sessions\", \"priceId\": \"price_ind60_spr26\", \"priceCents\": \"16000\", \"startDate\": \"2026-10-12\", \"regDeadline\": \"2026-10-09\", \"openHouse\": \"2026-10-11\", \"body\": \"Now enrolling for the fall individual session block at the Park Slope studio.\"}"
+  },
+  {
+    "id": "landing-spring-sessions",
+    "content_type": "landingSection",
+    "created_at": "2026-01-10T09:00:00.000Z",
+    "updated_at": "2026-01-10T09:00:00.000Z",
+    "published_version": "9",
+    "fields_json": "{\"heading\": \"Spring Individual Sessions\", \"priceId\": \"price_ind60_spr26\", \"priceCents\": \"16000\", \"startDate\": \"2026-03-16\", \"regDeadline\": \"2026-03-06\", \"openHouse\": \"2026-03-15\", \"body\": \"Spring block, now closed.\"}"
+  },
+  {
+    "id": "landing-group-program",
+    "content_type": "landingSection",
+    "created_at": "2026-08-22T14:00:00.000Z",
+    "updated_at": "2026-08-22T14:00:00.000Z",
+    "published_version": "3",
+    "fields_json": "{\"heading\": \"Adult Group Program\", \"priceId\": \"price_group8wk_fall26\", \"priceCents\": \"42000\", \"startDate\": \"2026-10-20\", \"regDeadline\": \"2026-10-13\", \"openHouse\": \"2026-10-25\", \"body\": \"Eight week adult mental health group.\"}"
+  },
+  {
+    "id": "author-mara",
+    "content_type": "author",
+    "created_at": "2025-09-01T10:00:00.000Z",
+    "updated_at": "2025-09-01T10:00:00.000Z",
+    "published_version": "3",
+    "fields_json": "{\"name\":\"Mara Lindgren\",\"bio\":\"Product writer covering headless CMS workflows.\",\"twitter\":\"@maralind\"}"
+  },
+  {
+    "id": "author-tomas",
+    "content_type": "author",
+    "created_at": "2025-09-02T11:00:00.000Z",
+    "updated_at": "2025-09-02T11:00:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"name\":\"Tomas Vega\",\"bio\":\"Engineer and occasional technical blogger.\",\"twitter\":\"@tvega\"}"
+  },
+  {
+    "id": "cat-engineering",
+    "content_type": "category",
+    "created_at": "2025-09-01T09:00:00.000Z",
+    "updated_at": "2025-09-01T09:00:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"title\":\"Engineering\",\"slug\":\"engineering\"}"
+  },
+  {
+    "id": "cat-product",
+    "content_type": "category",
+    "created_at": "2025-09-01T09:05:00.000Z",
+    "updated_at": "2025-09-01T09:05:00.000Z",
+    "published_version": "1",
+    "fields_json": "{\"title\":\"Product\",\"slug\":\"product\"}"
+  },
+  {
+    "id": "post-getting-started",
+    "content_type": "blogPost",
+    "created_at": "2025-09-10T08:00:00.000Z",
+    "updated_at": "2025-09-12T14:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"title\":\"Getting Started with Headless CMS\",\"slug\":\"getting-started\",\"body\":\"Headless CMS decouples content from presentation.\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"author-mara\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-hero-1\"}},\"published\":true}"
+  },
+  {
+    "id": "post-content-modeling",
+    "content_type": "blogPost",
+    "created_at": "2025-10-01T08:00:00.000Z",
+    "updated_at": "2025-10-03T09:30:00.000Z",
+    "published_version": "4",
+    "fields_json": "{\"title\":\"Content Modeling Best Practices\",\"slug\":\"content-modeling\",\"body\":\"Model your content around reuse and relationships.\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"author-tomas\"}},\"heroImage\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Asset\",\"id\":\"asset-hero-2\"}},\"published\":true}"
+  },
+  {
+    "id": "post-draft-webhooks",
+    "content_type": "blogPost",
+    "created_at": "2025-11-05T08:00:00.000Z",
+    "updated_at": "2025-11-05T08:00:00.000Z",
+    "published_version": "0",
+    "fields_json": "{\"title\":\"Using Webhooks Effectively\",\"slug\":\"using-webhooks\",\"body\":\"Draft post about webhook patterns.\",\"author\":{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"author-mara\"}},\"published\":false}"
+  },
+  {
+    "id": "section-01",
+    "content_type": "landingSection",
+    "created_at": "2026-01-10T10:00:00.000Z",
+    "updated_at": "2026-01-10T10:00:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"heading\": \"Studio Policies\", \"body\": \"Content block for studio policies on the practice site.\"}"
+  },
+  {
+    "id": "section-02",
+    "content_type": "landingSection",
+    "created_at": "2026-02-11T10:00:00.000Z",
+    "updated_at": "2026-02-11T10:00:00.000Z",
+    "published_version": "3",
+    "fields_json": "{\"heading\": \"Telehealth Info\", \"body\": \"Content block for telehealth info on the practice site.\"}"
+  },
+  {
+    "id": "section-03",
+    "content_type": "landingSection",
+    "created_at": "2026-03-12T10:00:00.000Z",
+    "updated_at": "2026-03-12T10:00:00.000Z",
+    "published_version": "4",
+    "fields_json": "{\"heading\": \"Insurance and Billing\", \"body\": \"Content block for insurance and billing on the practice site.\"}"
+  },
+  {
+    "id": "section-04",
+    "content_type": "landingSection",
+    "created_at": "2026-04-13T10:00:00.000Z",
+    "updated_at": "2026-04-13T10:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"heading\": \"Meet the Therapist\", \"body\": \"Content block for meet the therapist on the practice site.\"}"
+  },
+  {
+    "id": "section-05",
+    "content_type": "landingSection",
+    "created_at": "2026-05-14T10:00:00.000Z",
+    "updated_at": "2026-05-14T10:00:00.000Z",
+    "published_version": "6",
+    "fields_json": "{\"heading\": \"Parent Resources\", \"body\": \"Content block for parent resources on the practice site.\"}"
+  },
+  {
+    "id": "section-06",
+    "content_type": "landingSection",
+    "created_at": "2026-06-15T10:00:00.000Z",
+    "updated_at": "2026-06-15T10:00:00.000Z",
+    "published_version": "7",
+    "fields_json": "{\"heading\": \"Practice FAQ\", \"body\": \"Content block for practice faq on the practice site.\"}"
+  },
+  {
+    "id": "section-07",
+    "content_type": "landingSection",
+    "created_at": "2026-07-16T10:00:00.000Z",
+    "updated_at": "2026-07-16T10:00:00.000Z",
+    "published_version": "8",
+    "fields_json": "{\"heading\": \"Cancellation Policy\", \"body\": \"Content block for cancellation policy on the practice site.\"}"
+  },
+  {
+    "id": "section-08",
+    "content_type": "landingSection",
+    "created_at": "2026-08-17T10:00:00.000Z",
+    "updated_at": "2026-08-17T10:00:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"heading\": \"Directions to Park Slope Studio\", \"body\": \"Content block for directions to park slope studio on the practice site.\"}"
+  },
+  {
+    "id": "section-09",
+    "content_type": "landingSection",
+    "created_at": "2026-01-18T10:00:00.000Z",
+    "updated_at": "2026-01-18T10:00:00.000Z",
+    "published_version": "3",
+    "fields_json": "{\"heading\": \"Trio Recital News\", \"body\": \"Content block for trio recital news on the practice site.\"}"
+  },
+  {
+    "id": "section-10",
+    "content_type": "landingSection",
+    "created_at": "2026-02-10T10:00:00.000Z",
+    "updated_at": "2026-02-10T10:00:00.000Z",
+    "published_version": "4",
+    "fields_json": "{\"heading\": \"Reading List\", \"body\": \"Content block for reading list on the practice site.\"}"
+  },
+  {
+    "id": "section-11",
+    "content_type": "landingSection",
+    "created_at": "2026-03-11T10:00:00.000Z",
+    "updated_at": "2026-03-11T10:00:00.000Z",
+    "published_version": "5",
+    "fields_json": "{\"heading\": \"Referral Form Copy\", \"body\": \"Content block for referral form copy on the practice site.\"}"
+  },
+  {
+    "id": "section-12",
+    "content_type": "landingSection",
+    "created_at": "2026-04-12T10:00:00.000Z",
+    "updated_at": "2026-04-12T10:00:00.000Z",
+    "published_version": "6",
+    "fields_json": "{\"heading\": \"Newsletter Archive\", \"body\": \"Content block for newsletter archive on the practice site.\"}"
+  },
+  {
+    "id": "section-13",
+    "content_type": "landingSection",
+    "created_at": "2026-05-13T10:00:00.000Z",
+    "updated_at": "2026-05-13T10:00:00.000Z",
+    "published_version": "7",
+    "fields_json": "{\"heading\": \"Testimonials Placeholder\", \"body\": \"Content block for testimonials placeholder on the practice site.\"}"
+  },
+  {
+    "id": "section-14",
+    "content_type": "landingSection",
+    "created_at": "2026-06-14T10:00:00.000Z",
+    "updated_at": "2026-06-14T10:00:00.000Z",
+    "published_version": "8",
+    "fields_json": "{\"heading\": \"Accessibility Statement\", \"body\": \"Content block for accessibility statement on the practice site.\"}"
+  },
+  {
+    "id": "section-15",
+    "content_type": "landingSection",
+    "created_at": "2026-07-15T10:00:00.000Z",
+    "updated_at": "2026-07-15T10:00:00.000Z",
+    "published_version": "2",
+    "fields_json": "{\"heading\": \"Contact Block\", \"body\": \"Content block for contact block on the practice site.\"}"
+  }
+]

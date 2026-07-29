@@ -1,0 +1,156 @@
+[
+  {
+    "created": "2026-01-05T08:00:00-05:00",
+    "description": "Default group",
+    "id": "00gf9ae5e5c44e59f9468",
+    "name": "Everyone",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-01-07T08:00:00-05:00",
+    "description": "Founding attorney + co-counsel",
+    "id": "00gd758b2a87a8e6fded6",
+    "name": "BFL Attorneys",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-01-09T08:00:00-05:00",
+    "description": "Paralegal team",
+    "id": "00g6688ba59b2d7b89532",
+    "name": "BFL Paralegals",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-01-12T08:00:00-05:00",
+    "description": "Administrative staff",
+    "id": "00g19ab21b9ab4669f29b",
+    "name": "BFL Admin",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-01-14T08:00:00-05:00",
+    "description": "Pro bono coordinators",
+    "id": "00g96210a5c5e63c01445",
+    "name": "BFL Probono",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-01-16T08:00:00-05:00",
+    "description": "Bookkeeper, CPA",
+    "id": "00gca6a1a92b23733e250",
+    "name": "BFL External Vendors",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-01-19T08:00:00-05:00",
+    "description": "Co-counsel access",
+    "id": "00g0572df86681ee971b2",
+    "name": "BFL Co-Counsel",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-01-21T08:00:00-05:00",
+    "description": "Mediator referral",
+    "id": "00g571467e00f8cf14837",
+    "name": "BFL Mediators",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-01-23T08:00:00-05:00",
+    "description": "Active client portal users",
+    "id": "00g667ba50ee4cd0d8153",
+    "name": "BFL Clients Portal",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-01-26T08:00:00-05:00",
+    "description": "Newsletter recipients",
+    "id": "00g643ab93bef33abe980",
+    "name": "BFL Newsletter Subscribers",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-01-28T08:00:00-05:00",
+    "description": "Bar liaison",
+    "id": "00gcae8e6237d4a2d81f5",
+    "name": "BFL Bar Association",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-01-30T08:00:00-05:00",
+    "description": "AAML chapter",
+    "id": "00ge5c6871230edf0d3a2",
+    "name": "BFL AAML",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-02-02T08:00:00-05:00",
+    "description": "CLE notification list",
+    "id": "00g0e84fa8f19903e7fb8",
+    "name": "BFL CLE Recipients",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-02-04T08:00:00-05:00",
+    "description": "Janitorial, IT, etc.",
+    "id": "00g7346493cf948696bc0",
+    "name": "BFL Office Vendors",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-02-06T08:00:00-05:00",
+    "description": "Coastal IT Partners",
+    "id": "00g7b947747a6b4e4c2a6",
+    "name": "BFL IT Partners",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-02-09T08:00:00-05:00",
+    "description": "Hiscox malpractice",
+    "id": "00gd28bc532a556529e51",
+    "name": "BFL Insurance",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-02-11T08:00:00-05:00",
+    "description": "Biscayne Bay FCU",
+    "id": "00g2f063a3a110f756314",
+    "name": "BFL Banking",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-02-13T08:00:00-05:00",
+    "description": "Future use",
+    "id": "00g802f739d26fcda6e49",
+    "name": "BFL Reserved 1",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-02-16T08:00:00-05:00",
+    "description": "Future use",
+    "id": "00g390c1f9a1a6b10b9b8",
+    "name": "BFL Reserved 2",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-02-18T08:00:00-05:00",
+    "description": "Future use",
+    "id": "00g9cc4b017dd36b2879c",
+    "name": "BFL Reserved 3",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-02-20T08:00:00-05:00",
+    "description": "Future use",
+    "id": "00g71f5aa8f10fea5bacc",
+    "name": "BFL Reserved 4",
+    "type": "OKTA_GROUP"
+  },
+  {
+    "created": "2026-02-23T08:00:00-05:00",
+    "description": "Future use",
+    "id": "00g3386b0a262006acc66",
+    "name": "BFL Reserved 5",
+    "type": "OKTA_GROUP"
+  }
+]

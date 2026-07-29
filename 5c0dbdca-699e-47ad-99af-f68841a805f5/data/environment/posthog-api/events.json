@@ -1,0 +1,114 @@
+[
+  {
+    "id": "evt_30001",
+    "project_id": 1,
+    "distinct_id": "visitor-meghan",
+    "event": "$pageview",
+    "timestamp": "2026-01-14T09:00:00Z",
+    "properties": "$current_url=/lessons"
+  },
+  {
+    "id": "evt_30002",
+    "project_id": 1,
+    "distinct_id": "visitor-meghan",
+    "event": "button_clicked",
+    "timestamp": "2026-01-14T09:02:11Z",
+    "properties": "name=enroll_now;page=/lessons"
+  },
+  {
+    "id": "evt_30003",
+    "project_id": 1,
+    "distinct_id": "visitor-tony",
+    "event": "$pageview",
+    "timestamp": "2026-01-14T12:14:40Z",
+    "properties": "$current_url=/showcase"
+  },
+  {
+    "id": "evt_30004",
+    "project_id": 1,
+    "distinct_id": "visitor-tony",
+    "event": "button_clicked",
+    "timestamp": "2026-01-14T12:15:55Z",
+    "properties": "name=buy_tickets;page=/showcase"
+  },
+  {
+    "id": "evt_30005",
+    "project_id": 1,
+    "distinct_id": "anon-0045",
+    "event": "$pageview",
+    "timestamp": "2026-01-14T14:30:00Z",
+    "properties": "$current_url=/trial"
+  },
+  {
+    "id": "evt_30006",
+    "project_id": 1,
+    "distinct_id": "anon-0045",
+    "event": "form_start",
+    "timestamp": "2026-01-14T14:31:20Z",
+    "properties": "form_id=trial_form;page=/trial"
+  },
+  {
+    "id": "evt_30007",
+    "project_id": 1,
+    "distinct_id": "anon-0045",
+    "event": "form_submit_failed",
+    "timestamp": "2026-01-14T14:32:10Z",
+    "properties": "form_id=trial_form;error=500;page=/trial"
+  },
+  {
+    "id": "evt_30008",
+    "project_id": 1,
+    "distinct_id": "visitor-denise",
+    "event": "$pageview",
+    "timestamp": "2026-01-15T08:40:00Z",
+    "properties": "$current_url=/"
+  },
+  {
+    "id": "evt_30009",
+    "project_id": 1,
+    "distinct_id": "visitor-denise",
+    "event": "$pageview",
+    "timestamp": "2026-01-15T08:41:30Z",
+    "properties": "$current_url=/lessons"
+  },
+  {
+    "id": "evt_30010",
+    "project_id": 1,
+    "distinct_id": "visitor-aaron",
+    "event": "$pageview",
+    "timestamp": "2026-01-15T10:05:00Z",
+    "properties": "$current_url=/showcase"
+  },
+  {
+    "id": "evt_30011",
+    "project_id": 1,
+    "distinct_id": "visitor-aaron",
+    "event": "form_start",
+    "timestamp": "2026-01-15T10:06:45Z",
+    "properties": "form_id=trial_form;page=/trial"
+  },
+  {
+    "id": "evt_30012",
+    "project_id": 1,
+    "distinct_id": "visitor-aaron",
+    "event": "form_submit_failed",
+    "timestamp": "2026-01-15T10:07:30Z",
+    "properties": "form_id=trial_form;error=500;page=/trial"
+  },
+  {
+    "id": "evt_30014",
+    "project_id": 1,
+    "distinct_id": "anon-0045",
+    "event": "form_submit_failed",
+    "timestamp": "2026-01-14T14:32:10Z",
+    "properties": "form_id=trial_form;error=500;page=/trial"
+  },
+  {
+    "id": "evt_30016",
+    "project_id": 1,
+    "distinct_id": "visitor-denise",
+    "event": "$pageview",
+    "timestamp": "2026-01-15T08:40:00Z",
+    "properties": "$current_url=/"
+  }
+]

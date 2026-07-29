@@ -1,0 +1,110 @@
+[
+  {
+    "color": "#777777",
+    "description": "Backlog workflow state",
+    "id": "state-platform-backlog",
+    "name": "Backlog",
+    "position": 0,
+    "teamId": "team-platform",
+    "type": "backlog"
+  },
+  {
+    "color": "#777777",
+    "description": "Backlog workflow state",
+    "id": "state-ops-backlog",
+    "name": "Backlog",
+    "position": 0,
+    "teamId": "team-ops",
+    "type": "backlog"
+  },
+  {
+    "color": "#777777",
+    "description": "Todo workflow state",
+    "id": "state-platform-todo",
+    "name": "Canceled",
+    "position": 1,
+    "teamId": "team-platform",
+    "type": "unstarted"
+  },
+  {
+    "color": "#777777",
+    "description": "Todo workflow state",
+    "id": "state-ops-todo",
+    "name": "Backlog",
+    "position": 1,
+    "teamId": "team-ops",
+    "type": "unstarted"
+  },
+  {
+    "color": "#777777",
+    "description": "In Progress workflow state",
+    "id": "state-platform-in_progress",
+    "name": "In Progress",
+    "position": 2,
+    "teamId": "team-platform",
+    "type": "started"
+  },
+  {
+    "color": "#777777",
+    "description": "In Progress workflow state",
+    "id": "state-ops-in_progress",
+    "name": "In Progress",
+    "position": 2,
+    "teamId": "team-ops",
+    "type": "started"
+  },
+  {
+    "color": "#777777",
+    "description": "In Review workflow state",
+    "id": "state-platform-review",
+    "name": "In Review",
+    "position": 3,
+    "teamId": "team-platform",
+    "type": "started"
+  },
+  {
+    "color": "#777777",
+    "description": "In Review workflow state",
+    "id": "state-ops-review",
+    "name": "In Review",
+    "position": 3,
+    "teamId": "team-ops",
+    "type": "started"
+  },
+  {
+    "color": "#777777",
+    "description": "Done workflow state",
+    "id": "state-platform-done",
+    "name": "Done",
+    "position": 4,
+    "teamId": "team-platform",
+    "type": "completed"
+  },
+  {
+    "color": "#777777",
+    "description": "Done workflow state",
+    "id": "state-ops-done",
+    "name": "Done",
+    "position": 4,
+    "teamId": "team-ops",
+    "type": "completed"
+  },
+  {
+    "color": "#777777",
+    "description": "Canceled workflow state",
+    "id": "state-platform-canceled",
+    "name": "Canceled",
+    "position": 5,
+    "teamId": "team-platform",
+    "type": "canceled"
+  },
+  {
+    "color": "#777777",
+    "description": "Canceled workflow state",
+    "id": "state-ops-canceled",
+    "name": "Canceled",
+    "position": 5,
+    "teamId": "team-ops",
+    "type": "canceled"
+  }
+]

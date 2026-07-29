@@ -1,0 +1,134 @@
+[
+  {
+    "clicks": 0,
+    "from_email": "dorothy.langston@finthesiss.ai",
+    "message_id": "msg-a564a72d",
+    "opens": 1,
+    "sent_at": "2026-05-18T17:18:19+00:00",
+    "status": "delivered",
+    "subject": "Welcome to Haverstone University, Steve!",
+    "template_id": "d-00000000000004",
+    "to_email": "steve.langston@gmail.com"
+  },
+  {
+    "clicks": 0,
+    "from_email": "dorothy.langston@finthesiss.ai",
+    "message_id": "msg-a564a734",
+    "opens": 2,
+    "sent_at": "2026-06-18T14:14:24+00:00",
+    "status": "delivered",
+    "subject": "Reset your Haverstone University password",
+    "template_id": "d-00000000000008",
+    "to_email": "anna.langston@gmail.com"
+  },
+  {
+    "clicks": 1,
+    "from_email": "dorothy.langston@finthesiss.ai",
+    "message_id": "msg-a564a73b",
+    "opens": 3,
+    "sent_at": "2026-06-11T17:43:05+00:00",
+    "status": "delivered",
+    "subject": "Haverstone University, October highlights",
+    "template_id": "d-0000000000000d",
+    "to_email": "stephen.langston@gmail.com"
+  },
+  {
+    "clicks": 2,
+    "from_email": "dorothy.langston@finthesiss.ai",
+    "message_id": "msg-a564a742",
+    "opens": 4,
+    "sent_at": "2026-06-13T00:00:49+00:00",
+    "status": "bounced",
+    "subject": "Your receipt for invoice {{invoice_id}}",
+    "template_id": "d-00000000000011",
+    "to_email": "linda.langston@gmail.com"
+  },
+  {
+    "clicks": 0,
+    "from_email": "dorothy.langston@finthesiss.ai",
+    "message_id": "msg-a564a749",
+    "opens": 0,
+    "sent_at": "2026-06-26T09:26:45+00:00",
+    "status": "opened",
+    "subject": "Your trial ends in {{days}} days",
+    "template_id": "d-00000000000015",
+    "to_email": "patricia.langston@gmail.com"
+  },
+  {
+    "clicks": 0,
+    "from_email": "dorothy.langston@finthesiss.ai",
+    "message_id": "msg-a564a750",
+    "opens": 1,
+    "sent_at": "2026-06-27T07:27:28+00:00",
+    "status": "delivered",
+    "subject": "Welcome to Haverstone University, Karen!",
+    "template_id": "d-00000000000004",
+    "to_email": "karen.sutherland@gmail.com"
+  },
+  {
+    "clicks": 0,
+    "from_email": "dorothy.langston@finthesiss.ai",
+    "message_id": "msg-a564a757",
+    "opens": 2,
+    "sent_at": "2026-06-22T03:34:41+00:00",
+    "status": "delivered",
+    "subject": "Reset your Haverstone University password",
+    "template_id": "d-00000000000008",
+    "to_email": "elena.voss@gmail.com"
+  },
+  {
+    "clicks": 1,
+    "from_email": "dorothy.langston@finthesiss.ai",
+    "message_id": "msg-a564a75e",
+    "opens": 3,
+    "sent_at": "2026-06-27T18:48:37+00:00",
+    "status": "delivered",
+    "subject": "Haverstone University. October highlights",
+    "template_id": "d-0000000000000d",
+    "to_email": "ryan.kirkland@gmail.com"
+  },
+  {
+    "clicks": 2,
+    "from_email": "dorothy.langston@finthesiss.ai",
+    "message_id": "msg-a564a765",
+    "opens": 4,
+    "sent_at": "2026-07-02T18:23:27+00:00",
+    "status": "delivered",
+    "subject": "Your receipt for invoice {{invoice_id}}",
+    "template_id": "d-00000000000011",
+    "to_email": "sarah.okonkwo@gmail.com"
+  },
+  {
+    "clicks": 0,
+    "from_email": "dorothy.langston@finthesiss.ai",
+    "message_id": "msg-a564a76c",
+    "opens": 0,
+    "sent_at": "2026-06-30T06:42:53+00:00",
+    "status": "bounced",
+    "subject": "Your trial ends in {{days}} days",
+    "template_id": "d-00000000000015",
+    "to_email": "wei.chen@gmail.com"
+  },
+  {
+    "clicks": 0,
+    "from_email": "dorothy.langston@finthesiss.ai",
+    "message_id": "msg-a564a773",
+    "opens": 1,
+    "sent_at": "2026-07-05T17:55:15+00:00",
+    "status": "opened",
+    "subject": "Welcome to Haverstone University, Patricia!",
+    "template_id": "d-00000000000004",
+    "to_email": "patricia.irving@gmail.com"
+  },
+  {
+    "clicks": 0,
+    "from_email": "dorothy.langston@finthesiss.ai",
+    "message_id": "msg-a564a77a",
+    "opens": 2,
+    "sent_at": "2026-07-13T03:52:25+00:00",
+    "status": "delivered",
+    "subject": "Reset your Haverstone University password",
+    "template_id": "d-00000000000008",
+    "to_email": "anita.morris@thornfieldwellness.com"
+  }
+]

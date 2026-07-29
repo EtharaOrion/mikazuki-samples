@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Platform Sprint Board",
+    "project_key": "PLAT",
+    "type": "scrum"
+  },
+  {
+    "id": 2,
+    "name": "Operations Kanban",
+    "project_key": "OPS",
+    "type": "kanban"
+  },
+  {
+    "id": 3,
+    "name": "Bioinformatics Core Board",
+    "project_key": "BIOX",
+    "type": "scrum"
+  },
+  {
+    "id": 4,
+    "name": "Langston Lab Board",
+    "project_key": "LNG",
+    "type": "scrum"
+  }
+]

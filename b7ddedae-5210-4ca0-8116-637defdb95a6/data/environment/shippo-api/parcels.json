@@ -1,0 +1,202 @@
+[
+  {
+    "distance_unit": "in",
+    "height": "0.5",
+    "length": "10.0",
+    "mass_unit": "oz",
+    "object_id": "parcel-202785a881fb",
+    "template": "USPS_FlatRateEnvelope",
+    "weight": "8.0",
+    "width": "12.5"
+  },
+  {
+    "distance_unit": "in",
+    "height": "4.0",
+    "length": "8.0",
+    "mass_unit": "oz",
+    "object_id": "parcel-3aef5c0626a4",
+    "template": "USPS_SmallFlatRateBox",
+    "weight": "16.0",
+    "width": "8.0"
+  },
+  {
+    "distance_unit": "in",
+    "height": "5.5",
+    "length": "11.0",
+    "mass_unit": "oz",
+    "object_id": "parcel-8f410e122eb0",
+    "template": "USPS_MediumFlatRateBox",
+    "weight": "32.0",
+    "width": "8.5"
+  },
+  {
+    "distance_unit": "in",
+    "height": "6.0",
+    "length": "14.0",
+    "mass_unit": "oz",
+    "object_id": "parcel-6c6f3d87a07c",
+    "template": "UPS_Custom",
+    "weight": "48.0",
+    "width": "10.0"
+  },
+  {
+    "distance_unit": "in",
+    "height": "6.50",
+    "length": "16.50",
+    "mass_unit": "oz",
+    "object_id": "parcel-202785a881fb-2",
+    "template": "USPS_FlatRateEnvelope",
+    "weight": "8.00",
+    "width": "13.00"
+  },
+  {
+    "distance_unit": "in",
+    "height": "6.50",
+    "length": "11.00",
+    "mass_unit": "oz",
+    "object_id": "parcel-202785a881fb-3",
+    "template": "USPS_SmallFlatRateBox",
+    "weight": "21.00",
+    "width": "13.50"
+  },
+  {
+    "distance_unit": "in",
+    "height": "13.00",
+    "length": "19.00",
+    "mass_unit": "oz",
+    "object_id": "parcel-202785a881fb-4",
+    "template": "USPS_MediumFlatRateBox",
+    "weight": "33.50",
+    "width": "10.50"
+  },
+  {
+    "distance_unit": "in",
+    "height": "10.00",
+    "length": "18.50",
+    "mass_unit": "oz",
+    "object_id": "parcel-202785a881fb-5",
+    "template": "UPS_Custom",
+    "weight": "54.50",
+    "width": "17.00"
+  },
+  {
+    "distance_unit": "in",
+    "height": "1.00",
+    "length": "11.00",
+    "mass_unit": "oz",
+    "object_id": "parcel-202785a881fb-6",
+    "template": "USPS_FlatRateEnvelope",
+    "weight": "11.00",
+    "width": "16.00"
+  },
+  {
+    "distance_unit": "in",
+    "height": "9.50",
+    "length": "14.00",
+    "mass_unit": "oz",
+    "object_id": "parcel-202785a881fb-7",
+    "template": "USPS_SmallFlatRateBox",
+    "weight": "24.00",
+    "width": "8.00"
+  },
+  {
+    "distance_unit": "in",
+    "height": "7.50",
+    "length": "13.50",
+    "mass_unit": "oz",
+    "object_id": "parcel-202785a881fb-8",
+    "template": "USPS_MediumFlatRateBox",
+    "weight": "36.50",
+    "width": "13.50"
+  },
+  {
+    "distance_unit": "in",
+    "height": "13.00",
+    "length": "21.50",
+    "mass_unit": "oz",
+    "object_id": "parcel-202785a881fb-9",
+    "template": "UPS_Custom",
+    "weight": "49.00",
+    "width": "11.50"
+  },
+  {
+    "distance_unit": "in",
+    "height": "4.00",
+    "length": "14.00",
+    "mass_unit": "oz",
+    "object_id": "parcel-202785a881fb-10",
+    "template": "USPS_FlatRateEnvelope",
+    "weight": "14.00",
+    "width": "19.00"
+  },
+  {
+    "distance_unit": "in",
+    "height": "4.00",
+    "length": "8.50",
+    "mass_unit": "oz",
+    "object_id": "parcel-202785a881fb-11",
+    "template": "USPS_SmallFlatRateBox",
+    "weight": "18.50",
+    "width": "11.00"
+  },
+  {
+    "distance_unit": "in",
+    "height": "10.50",
+    "length": "16.50",
+    "mass_unit": "oz",
+    "object_id": "parcel-202785a881fb-12",
+    "template": "USPS_MediumFlatRateBox",
+    "weight": "39.50",
+    "width": "16.50"
+  },
+  {
+    "distance_unit": "in",
+    "height": "7.50",
+    "length": "16.00",
+    "mass_unit": "oz",
+    "object_id": "parcel-202785a881fb-13",
+    "template": "UPS_Custom",
+    "weight": "52.00",
+    "width": "14.50"
+  },
+  {
+    "distance_unit": "in",
+    "height": "7.00",
+    "length": "17.00",
+    "mass_unit": "oz",
+    "object_id": "parcel-202785a881fb-14",
+    "template": "USPS_FlatRateEnvelope",
+    "weight": "8.50",
+    "width": "13.50"
+  },
+  {
+    "distance_unit": "in",
+    "height": "7.00",
+    "length": "11.50",
+    "mass_unit": "oz",
+    "object_id": "parcel-202785a881fb-15",
+    "template": "USPS_SmallFlatRateBox",
+    "weight": "21.50",
+    "width": "14.00"
+  },
+  {
+    "distance_unit": "in",
+    "height": "13.50",
+    "length": "11.00",
+    "mass_unit": "oz",
+    "object_id": "parcel-202785a881fb-16",
+    "template": "USPS_MediumFlatRateBox",
+    "weight": "34.00",
+    "width": "11.00"
+  },
+  {
+    "distance_unit": "in",
+    "height": "10.50",
+    "length": "19.00",
+    "mass_unit": "oz",
+    "object_id": "parcel-202785a881fb-17",
+    "template": "UPS_Custom",
+    "weight": "55.00",
+    "width": "17.50"
+  }
+]

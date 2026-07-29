@@ -1,0 +1,178 @@
+[
+  {
+    "name": "bfl-website",
+    "status": "active",
+    "escalation_policy_id": "PEP001",
+    "auto_resolve_timeout": "3600",
+    "service_id": "PS6BADEB",
+    "description": "brooksfamilylaw.com WordPress"
+  },
+  {
+    "name": "client-portal",
+    "status": "active",
+    "escalation_policy_id": "PEP002",
+    "auto_resolve_timeout": "3900",
+    "service_id": "PS8CED58",
+    "description": "MyCase API monitor"
+  },
+  {
+    "name": "mycase-bridge",
+    "status": "active",
+    "escalation_policy_id": "PEP003",
+    "auto_resolve_timeout": "4200",
+    "service_id": "PSD9C0CC",
+    "description": "Email delivery monitor"
+  },
+  {
+    "name": "email-relay",
+    "status": "active",
+    "escalation_policy_id": "PEP001",
+    "auto_resolve_timeout": "4500",
+    "service_id": "PS6E3AC5",
+    "description": "Office Wi-Fi gateway"
+  },
+  {
+    "name": "contact-form",
+    "status": "active",
+    "escalation_policy_id": "PEP002",
+    "auto_resolve_timeout": "4800",
+    "service_id": "PS1FC7AC",
+    "description": "Office printer fleet"
+  },
+  {
+    "name": "intake-form",
+    "status": "active",
+    "escalation_policy_id": "PEP003",
+    "auto_resolve_timeout": "5100",
+    "service_id": "PS1F2374",
+    "description": "Backup ZFS pool"
+  },
+  {
+    "name": "newsletter-pipeline",
+    "status": "active",
+    "escalation_policy_id": "PEP001",
+    "auto_resolve_timeout": "5400",
+    "service_id": "PS072AF1",
+    "description": "Cloudflare WAF"
+  },
+  {
+    "name": "analytics",
+    "status": "active",
+    "escalation_policy_id": "PEP002",
+    "auto_resolve_timeout": "5700",
+    "service_id": "PS68C428",
+    "description": "Workspace SSO"
+  },
+  {
+    "name": "backup-daily",
+    "status": "active",
+    "escalation_policy_id": "PEP003",
+    "auto_resolve_timeout": "6000",
+    "service_id": "PSB1E87A",
+    "description": "Firm VPN"
+  },
+  {
+    "name": "cdn-edge",
+    "status": "active",
+    "escalation_policy_id": "PEP001",
+    "auto_resolve_timeout": "6300",
+    "service_id": "PS6D5542",
+    "description": "Twilio SMS"
+  },
+  {
+    "name": "docs-portal",
+    "status": "active",
+    "escalation_policy_id": "PEP002",
+    "auto_resolve_timeout": "6600",
+    "service_id": "PS79F04F",
+    "description": "DocuSign webhook"
+  },
+  {
+    "name": "mediation-tools",
+    "status": "active",
+    "escalation_policy_id": "PEP003",
+    "auto_resolve_timeout": "6900",
+    "service_id": "PS4290C4",
+    "description": "Stripe charges"
+  },
+  {
+    "name": "secrets-vault",
+    "status": "active",
+    "escalation_policy_id": "PEP001",
+    "auto_resolve_timeout": "7200",
+    "service_id": "PSB21C95",
+    "description": "Plaid sync"
+  },
+  {
+    "name": "ops-monitoring",
+    "status": "active",
+    "escalation_policy_id": "PEP002",
+    "auto_resolve_timeout": "7500",
+    "service_id": "PS1B30FE",
+    "description": "QuickBooks Online sync"
+  },
+  {
+    "name": "ops-logging",
+    "status": "active",
+    "escalation_policy_id": "PEP003",
+    "auto_resolve_timeout": "7800",
+    "service_id": "PSF21AE5",
+    "description": "Phone system"
+  },
+  {
+    "name": "sandbox-emily",
+    "status": "active",
+    "escalation_policy_id": "PEP001",
+    "auto_resolve_timeout": "8100",
+    "service_id": "PS67D880",
+    "description": "Voicemail to email"
+  },
+  {
+    "name": "sandbox-michelle",
+    "status": "active",
+    "escalation_policy_id": "PEP002",
+    "auto_resolve_timeout": "8400",
+    "service_id": "PS8083B0",
+    "description": "Calendar sync"
+  },
+  {
+    "name": "dev-shared",
+    "status": "active",
+    "escalation_policy_id": "PEP003",
+    "auto_resolve_timeout": "8700",
+    "service_id": "PS110B41",
+    "description": "File-share backup"
+  },
+  {
+    "name": "build-runners",
+    "status": "active",
+    "escalation_policy_id": "PEP001",
+    "auto_resolve_timeout": "9000",
+    "service_id": "PS743B3F",
+    "description": "Slack workspace"
+  },
+  {
+    "name": "release-staging",
+    "status": "active",
+    "escalation_policy_id": "PEP002",
+    "auto_resolve_timeout": "9300",
+    "service_id": "PSA1EB48",
+    "description": "Notion workspace"
+  },
+  {
+    "name": "contact-form-staging",
+    "status": "active",
+    "escalation_policy_id": "PEP003",
+    "auto_resolve_timeout": "9600",
+    "service_id": "PS5907F7",
+    "description": "Linear status"
+  },
+  {
+    "name": "client-portal-staging",
+    "status": "active",
+    "escalation_policy_id": "PEP001",
+    "auto_resolve_timeout": "9900",
+    "service_id": "PSA754DF",
+    "description": "Vendor health"
+  }
+]

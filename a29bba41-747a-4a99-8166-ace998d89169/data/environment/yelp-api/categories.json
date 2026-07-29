@@ -1,0 +1,102 @@
+[
+  {
+    "alias": "restaurants",
+    "parent": "food",
+    "title": "Restaurants"
+  },
+  {
+    "alias": "coffee",
+    "parent": "food",
+    "title": "Coffee & Tea"
+  },
+  {
+    "alias": "bakeries",
+    "parent": "food",
+    "title": "Bakeries"
+  },
+  {
+    "alias": "groceries",
+    "parent": "food",
+    "title": "Grocery"
+  },
+  {
+    "alias": "wellness",
+    "parent": "shopping",
+    "title": "Bookstores"
+  },
+  {
+    "alias": "gyms",
+    "parent": "active",
+    "title": "Yoga"
+  },
+  {
+    "alias": "yoga",
+    "parent": "arts",
+    "title": "Museums"
+  },
+  {
+    "alias": "spa",
+    "parent": "active",
+    "title": "Parks"
+  },
+  {
+    "alias": "salons",
+    "parent": "homeservices",
+    "title": "Hardware Stores"
+  },
+  {
+    "alias": "barbershops",
+    "parent": "health",
+    "title": "Drugstores"
+  },
+  {
+    "alias": "cleaners",
+    "parent": "food",
+    "title": "Restaurants"
+  },
+  {
+    "alias": "plumbers",
+    "parent": "food",
+    "title": "Coffee & Tea"
+  },
+  {
+    "alias": "electricians",
+    "parent": "food",
+    "title": "Bakeries"
+  },
+  {
+    "alias": "handymen",
+    "parent": "food",
+    "title": "Grocery"
+  },
+  {
+    "alias": "landscaping",
+    "parent": "shopping",
+    "title": "Bookstores"
+  },
+  {
+    "alias": "pet_services",
+    "parent": "active",
+    "title": "Yoga"
+  },
+  {
+    "alias": "childcare",
+    "parent": "arts",
+    "title": "Museums"
+  },
+  {
+    "alias": "schools",
+    "parent": "active",
+    "title": "Parks"
+  },
+  {
+    "alias": "tutors",
+    "parent": "homeservices",
+    "title": "Hardware Stores"
+  },
+  {
+    "alias": "libraries",
+    "parent": "health",
+    "title": "Drugstores"
+  }
+]

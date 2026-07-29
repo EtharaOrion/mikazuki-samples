@@ -1,0 +1,37 @@
+[
+  { "id": "fld00000", "name": "Name", "tableId": "tbl000", "type": "singleLineText" },
+  { "id": "fld00001", "name": "Relationship", "tableId": "tbl000", "type": "singleLineText" },
+  { "id": "fld00002", "name": "Phone", "tableId": "tbl000", "type": "phoneNumber" },
+  { "id": "fld00003", "name": "Email", "tableId": "tbl000", "type": "email" },
+  { "id": "fld00004", "name": "Notes", "tableId": "tbl000", "type": "multilineText" },
+
+  { "id": "fld00100", "name": "Name", "tableId": "tbl001", "type": "singleLineText" },
+  { "id": "fld00101", "name": "StartTime", "tableId": "tbl001", "type": "dateTime" },
+  { "id": "fld00102", "name": "EndTime", "tableId": "tbl001", "type": "dateTime" },
+  { "id": "fld00103", "name": "WithParent", "tableId": "tbl001", "type": "singleSelect" },
+  { "id": "fld00104", "name": "Notes", "tableId": "tbl001", "type": "multilineText" },
+
+  { "id": "fld00200", "name": "Name", "tableId": "tbl002", "type": "singleLineText" },
+  { "id": "fld00201", "name": "Child", "tableId": "tbl002", "type": "singleSelect" },
+  { "id": "fld00202", "name": "Date", "tableId": "tbl002", "type": "date" },
+  { "id": "fld00203", "name": "Location", "tableId": "tbl002", "type": "singleLineText" },
+  { "id": "fld00204", "name": "Notes", "tableId": "tbl002", "type": "multilineText" },
+
+  { "id": "fld00300", "name": "Name", "tableId": "tbl003", "type": "singleLineText" },
+  { "id": "fld00301", "name": "Date", "tableId": "tbl003", "type": "date" },
+  { "id": "fld00302", "name": "Location", "tableId": "tbl003", "type": "singleLineText" },
+  { "id": "fld00303", "name": "Menu", "tableId": "tbl003", "type": "singleLineText" },
+  { "id": "fld00304", "name": "Notes", "tableId": "tbl003", "type": "multilineText" },
+
+  { "id": "fld10000", "name": "Name", "tableId": "tbl100", "type": "singleLineText" },
+  { "id": "fld10001", "name": "Status", "tableId": "tbl100", "type": "singleSelect" },
+  { "id": "fld10002", "name": "Owner", "tableId": "tbl100", "type": "singleLineText" },
+  { "id": "fld10003", "name": "Due", "tableId": "tbl100", "type": "date" },
+  { "id": "fld10004", "name": "Notes", "tableId": "tbl100", "type": "multilineText" },
+
+  { "id": "fld10100", "name": "Name", "tableId": "tbl101", "type": "singleLineText" },
+  { "id": "fld10101", "name": "Status", "tableId": "tbl101", "type": "singleSelect" },
+  { "id": "fld10102", "name": "Owner", "tableId": "tbl101", "type": "singleLineText" },
+  { "id": "fld10103", "name": "Due", "tableId": "tbl101", "type": "date" },
+  { "id": "fld10104", "name": "Notes", "tableId": "tbl101", "type": "multilineText" }
+]

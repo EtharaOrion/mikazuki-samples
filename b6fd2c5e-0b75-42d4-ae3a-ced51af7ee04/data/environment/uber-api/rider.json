@@ -1,0 +1,28 @@
+{
+  "rider_id": "rider-marco",
+  "first_name": "James",
+  "last_name": "Vaughn",
+  "email": "amanda.tran@Finthesiss.ai",
+  "phone_number": "+17702342013",
+  "rating": 4.91,
+  "member_since": "2021-03-14",
+  "promo_code": "RIDE5OFF",
+  "payment_methods": [
+    {
+      "payment_method_id": "pm-visa-9921",
+      "type": "card",
+      "brand": "Visa",
+      "last_four": "9921",
+      "default": true
+    },
+    {
+      "payment_method_id": "pm-ubercash",
+      "type": "uber_cash",
+      "brand": "Visa",
+      "last_four": "9921",
+      "default": false
+    }
+  ],
+  "home_address": "1455 Market St, Atlanta, GA",
+  "work_address": "701 Mission St, Atlanta, GA"
+}

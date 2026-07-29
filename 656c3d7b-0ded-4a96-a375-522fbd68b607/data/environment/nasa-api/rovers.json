@@ -1,0 +1,38 @@
+[
+  {
+    "landing_date": "2012-08-06",
+    "launch_date": "2011-11-26",
+    "max_date": "2025-12-30",
+    "max_sol": 4200,
+    "name": "Curiosity",
+    "status": "active",
+    "total_photos": 700000
+  },
+  {
+    "landing_date": "2021-02-18",
+    "launch_date": "2020-07-30",
+    "max_date": "2025-12-30",
+    "max_sol": 1100,
+    "name": "Perseverance",
+    "status": "active",
+    "total_photos": 350000
+  },
+  {
+    "landing_date": "2004-01-25",
+    "launch_date": "2003-07-07",
+    "max_date": "2025-12-30",
+    "max_sol": 5111,
+    "name": "Opportunity",
+    "status": "complete",
+    "total_photos": 217000
+  },
+  {
+    "landing_date": "2004-01-04",
+    "launch_date": "2003-06-10",
+    "max_date": "2025-12-30",
+    "max_sol": 2208,
+    "name": "Spirit",
+    "status": "complete",
+    "total_photos": 124000
+  }
+]

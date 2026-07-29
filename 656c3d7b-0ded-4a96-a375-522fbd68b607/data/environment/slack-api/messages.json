@@ -1,0 +1,1190 @@
+[
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Dot - just pulled the updated alignment stats for chr17 and the duplication rate jumped to 8.3%. Did you change the trimming params? Asking before I panic.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782712582.000000",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Didn't touch them. Send me the flagstat output, if it's the same batch as Thursday's, I think we're looking at a library prep artifact, not a pipeline issue.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782712582.000001",
+    "user_id": "U002DR"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "flagstat attached. PCR duplicates are specifically in the HeLa replicates, not the primary cells. That does feel like prep.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782712582.000002",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Agreed. Flag those three samples for exclusion in the supplementary and I'll add a sentence to the methods. Doesn't affect the main figures.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782712582.000003",
+    "user_id": "U002DR"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Ok good. Also. Genetics & Genomics wants the revised ms by July 9th. Are you still doing your morning blocks on campus or partially remote this week?",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782712582.000004",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "On campus through Thursday. Mornings are locked - Anna's at Westbrook Academy camp so I have a clean 7–1 stretch every day. July 9 is fine.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782712582.000005",
+    "user_id": "U002DR"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Perfect. I'll get you the updated Fig 3 by tomorrow EOD. Oh, your acknowledgments section still says 'University of Thornfield' instead of Haverstone.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782712582.000006",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Good catch. Fix it before I have to explain that to the editor. Again.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782712582.000007",
+    "user_id": "U002DR"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Ryan. The STAR alignment stats from your batch run this morning look wrong. Uniquely mapped reads are sitting at 43% for samples 4–7. That's not a biology problem.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782727233.000008",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Oh damn, I saw that too and was about to ping you. Think it might be the genome index - I built it last night after the Thornfield cluster pushed an update.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782727233.000009",
+    "user_id": "U003DR"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Almost certainly that. Rebuild against GRCh38.p14, not whatever the cluster defaulted to. Run sample 4 alone first before you reprocess the whole batch.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782727233.000010",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Got it. Should I flag this in lab Slack or just fix quietly? Don't want to spook the undergrads who are already downstream on the expression matrices.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782727233.000011",
+    "user_id": "U003DR"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Fix first, one-line note in the methods channel once it's confirmed clean. Anna's school run already cost me 40 min this morning, I'm not losing the rest of the block to a Slack thread.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782727233.000012",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Fair. Rebuilding the index now, ETA ~25 min. I'll send you sample 4 mapping stats the second the test run finishes.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782727233.000013",
+    "user_id": "U003DR"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Good. If we're back above 80% unique mapping we're fine. Don't pull me out of focus mode unless something else breaks. I'm mid-draft on the Genome Biology reviewer response.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782727233.000014",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Understood. Text only for actual disasters. 🤞 on the reviewers.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782727233.000015",
+    "user_id": "U003DR"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "The cluster job finished overnight - output's in /scratch/langston_lab/run_042. PC1 is explaining 31% of variance, which is higher than I expected given the batch structure. Worth discussing before you touch anything.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782572695.000016",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Just saw the notification too. 31% is surprising, could be the library size normalization we swapped last week, or actual signal. Do you want to meet this afternoon?",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782572695.000017",
+    "user_id": "U004DR"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "No meetings before noon, you know my Tuesdays. Pull the PC1 loadings and check which gene sets are driving it. I'll look when I surface around 12:30.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782572695.000018",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Right, sorry. Will do. Should I flag it in the group Slack or keep it between us until you've seen it?",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782572695.000019",
+    "user_id": "U004DR"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Keep it quiet for now. Last time we announced a result prematurely, Steve spent a week asking me about it at dinner. I'd rather know what we actually have first.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782572695.000020",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Haha fair point. Summary will be ready by 12:30. Also - isn't Anna's recital this week? Hope you make it out of Thornfield in time 😊",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782572695.000021",
+    "user_id": "U004DR"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Friday evening at Westbrook Academy. It's already blocked in the calendar, nothing short of a cluster fire will move it. See you at 12:30.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782572695.000022",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Noted. See you then 👍",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782572695.000023",
+    "user_id": "U004DR"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Wei. Your DESeq2 output from Thursday has a variance stabilization issue. The low-count gene artifacts are going to distort the PCA badly. Can you re-run with a proper vst() call before I write up the methods section?",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782575434.000024",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Oh no - I'm pretty sure I used rlog() instead of vst() for that batch. Running the correction now. How far off are we talking?",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782575434.000025",
+    "user_id": "U005WEI"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Far enough that three of your top-10 differentially expressed genes drop out entirely. I've flagged the affected figures in the shared folder. Fix normalization first, then we revisit the volcano plot.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782575434.000026",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Updated output is in the folder, clustering looks much cleaner. Really sorry, the rlog/vst mix-up was careless.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782575434.000027",
+    "user_id": "U005WEI"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Better. The PCA is now actually interpretable. Don't apologize, just don't repeat it. Reviewers catch this class of error before they get past Figure 2.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782575434.000028",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Noted. Are we still on for Thursday afternoon to go through the full pipeline before you submit the methods draft?",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782575434.000029",
+    "user_id": "U005WEI"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Thursday works. I drop Anna at Westbrook by 8, deep focus until noon, so 2pm in my office. Bring the updated QC report and the trimming logs.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782575434.000030",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C001GENERA",
+    "reactions": ":heart:",
+    "reply_count": 0,
+    "text": "Will do - QC report and logs ready by then. Thanks for catching this before it made it into the draft.",
+    "thread_ts": "1782833562.513864",
+    "ts": "1782575434.000031",
+    "user_id": "U005WEI"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "R3 landed - Reviewer 2 finally accepted the methods rewrite. Details in the thread.",
+    "thread_ts": "1785000000.000000",
+    "ts": "1787306400.000032",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Excellent. Figure 4 relabel by Wednesday?",
+    "thread_ts": "1785003600.000000",
+    "ts": "1787310000.000033",
+    "user_id": "U020ELENA"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Wednesday works. I will regenerate with the coupling coefficient explicit.",
+    "thread_ts": "1785007200.000000",
+    "ts": "1787313600.000034",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Do you want me to rerun the coupling analysis before regen?",
+    "thread_ts": "1785010800.000000",
+    "ts": "1787317200.000035",
+    "user_id": "U021RYAN"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "No - Reviewer 3s note is on interpretation only. Numbers stand.",
+    "thread_ts": "1785014400.000000",
+    "ts": "1787320800.000036",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Response to reviewers is at 6 pages. Elena reading tonight.",
+    "thread_ts": "1785018000.000000",
+    "ts": "1787324400.000037",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Read. Two comments on p3. Otherwise approve.",
+    "thread_ts": "1785021600.000000",
+    "ts": "1787328000.000038",
+    "user_id": "U020ELENA"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "R3 resubmitted. ASJMB-2025-0844-R3.",
+    "thread_ts": "1785025200.000000",
+    "ts": "1787331600.000039",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Accepted!",
+    "thread_ts": "1785028800.000000",
+    "ts": "1787335200.000040",
+    "user_id": "U020ELENA"
+  },
+  {
+    "channel_id": "C012GRANTS",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Whitfield year-3 budget update template updated. Please pull spend actuals by 15 Feb.",
+    "thread_ts": "1785032400.000000",
+    "ts": "1787338800.000041",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C012GRANTS",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "I have actuals through end of January. Will send to Priya.",
+    "thread_ts": "1785036000.000000",
+    "ts": "1787342400.000042",
+    "user_id": "U021RYAN"
+  },
+  {
+    "channel_id": "C012GRANTS",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Received. Will roll into the update template.",
+    "thread_ts": "1785039600.000000",
+    "ts": "1787346000.000043",
+    "user_id": "U024LABMGR"
+  },
+  {
+    "channel_id": "C012GRANTS",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "NGC final report submitted 15 Dec. Grant closes end of month.",
+    "thread_ts": "1785043200.000000",
+    "ts": "1787349600.000044",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C013TENURE",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Dossier is submitted. Committee review begins 15 November.",
+    "thread_ts": "1785046800.000000",
+    "ts": "1787353200.000045",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C013TENURE",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Congratulations Dot. Deep breath.",
+    "thread_ts": "1785050400.000000",
+    "ts": "1787356800.000046",
+    "user_id": "U020ELENA"
+  },
+  {
+    "channel_id": "C013TENURE",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Whatever the outcome, the work stands.",
+    "thread_ts": "1785054000.000000",
+    "ts": "1787360400.000047",
+    "user_id": "U021RYAN"
+  },
+  {
+    "channel_id": "C014MENTOR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Qualifying exam passed! Thank you for the many hours of prep.",
+    "thread_ts": "1785057600.000000",
+    "ts": "1787364000.000048",
+    "user_id": "U023WEI"
+  },
+  {
+    "channel_id": "C014MENTOR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Congratulations Wei. Well earned.",
+    "thread_ts": "1785061200.000000",
+    "ts": "1787367600.000049",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C014MENTOR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Bioinformatics accepted with minor revisions!",
+    "thread_ts": "1785064800.000000",
+    "ts": "1787371200.000050",
+    "user_id": "U022SARAH"
+  },
+  {
+    "channel_id": "C014MENTOR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Two years of work paid off. Well done Sarah.",
+    "thread_ts": "1785068400.000000",
+    "ts": "1787374800.000051",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C014MENTOR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Ridgemont offered me the assistant professor slot.",
+    "thread_ts": "1785072000.000000",
+    "ts": "1787378400.000052",
+    "user_id": "U021RYAN"
+  },
+  {
+    "channel_id": "C014MENTOR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Ryan - this is the moment. Congratulations.",
+    "thread_ts": "1785075600.000000",
+    "ts": "1787382000.000053",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C015SEMINAR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Prof Aldridge confirmed for the April slot.",
+    "thread_ts": "1785079200.000000",
+    "ts": "1787385600.000054",
+    "user_id": "U022SARAH"
+  },
+  {
+    "channel_id": "C015SEMINAR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Please post to the seminar Confluence page and update the Vimeo channel.",
+    "thread_ts": "1785082800.000000",
+    "ts": "1787389200.000055",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C015SEMINAR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Done - poster is in Figma for review.",
+    "thread_ts": "1785086400.000000",
+    "ts": "1787392800.000056",
+    "user_id": "U024LABMGR"
+  },
+  {
+    "channel_id": "C016BALLET",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Advanced class Saturday - adage focus for the March showcase.",
+    "thread_ts": "1785090000.000000",
+    "ts": "1787396400.000057",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C016BALLET",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Six students on point for the March showcase. Steady progress.",
+    "thread_ts": "1785093600.000000",
+    "ts": "1787400000.000058",
+    "user_id": "U025PATRICIA"
+  },
+  {
+    "channel_id": "C017ADMIN",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Reminder: December faculty meeting is 12 December 1pm.",
+    "thread_ts": "1785097200.000000",
+    "ts": "1787403600.000059",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C017ADMIN",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "On calendar - Zoom link forwarded.",
+    "thread_ts": "1785100800.000000",
+    "ts": "1787407200.000060",
+    "user_id": "U024LABMGR"
+  },
+  {
+    "channel_id": "C010DEEPFOC",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Do not disturb - deep focus 8:30-noon.",
+    "thread_ts": "1785104400.000000",
+    "ts": "1787410800.000061",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C010DEEPFOC",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Weekly stand-up thread. [0]",
+    "thread_ts": "1785200000.000000",
+    "ts": "1787648400.000062",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Cluster maintenance window scheduled Friday 6pm-10pm. [1]",
+    "thread_ts": "1785200060.000000",
+    "ts": "1787652000.000063",
+    "user_id": "U021RYAN"
+  },
+  {
+    "channel_id": "C012GRANTS",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "New seminar poster in Figma for review. [2]",
+    "thread_ts": "1785200120.000000",
+    "ts": "1787655600.000064",
+    "user_id": "U022SARAH"
+  },
+  {
+    "channel_id": "C013TENURE",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Reminder: submit receipts by first Monday of the month. [3]",
+    "thread_ts": "1785200180.000000",
+    "ts": "1787659200.000065",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C014MENTOR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "New PR is up for review - please look before EOD. [4]",
+    "thread_ts": "1785200240.000000",
+    "ts": "1787662800.000066",
+    "user_id": "U024LABMGR"
+  },
+  {
+    "channel_id": "C015SEMINAR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Zoom link updated for tomorrow's meeting. [5]",
+    "thread_ts": "1785200300.000000",
+    "ts": "1787666400.000067",
+    "user_id": "U020ELENA"
+  },
+  {
+    "channel_id": "C016BALLET",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Datadog alert triggered - see thread for details. [6]",
+    "thread_ts": "1785200360.000000",
+    "ts": "1787670000.000068",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C017ADMIN",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Anyone free for a 20-min triage this afternoon? [7]",
+    "thread_ts": "1785200420.000000",
+    "ts": "1787673600.000069",
+    "user_id": "U022SARAH"
+  },
+  {
+    "channel_id": "C010DEEPFOC",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Snacks for Wednesday lab meeting - options? [8]",
+    "thread_ts": "1785200480.000000",
+    "ts": "1787677200.000070",
+    "user_id": "U023WEI"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "The new alignment stats look solid. [9]",
+    "thread_ts": "1785200540.000000",
+    "ts": "1787680800.000071",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C012GRANTS",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "The R server is back up. [10]",
+    "thread_ts": "1785200600.000000",
+    "ts": "1787684400.000072",
+    "user_id": "U020ELENA"
+  },
+  {
+    "channel_id": "C013TENURE",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Please review the onboarding doc revision. [11]",
+    "thread_ts": "1785200660.000000",
+    "ts": "1787688000.000073",
+    "user_id": "U021RYAN"
+  },
+  {
+    "channel_id": "C014MENTOR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "New candidate profile added to Greenhouse. [12]",
+    "thread_ts": "1785200720.000000",
+    "ts": "1787691600.000074",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C015SEMINAR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Airtable base updated with the latest sample lot. [13]",
+    "thread_ts": "1785200780.000000",
+    "ts": "1787695200.000075",
+    "user_id": "U023WEI"
+  },
+  {
+    "channel_id": "C016BALLET",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Notion doc for the Q2 planning is ready. [14]",
+    "thread_ts": "1785200840.000000",
+    "ts": "1787698800.000076",
+    "user_id": "U024LABMGR"
+  },
+  {
+    "channel_id": "C017ADMIN",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Please add Q2 experiments to the roadmap. [15]",
+    "thread_ts": "1785200900.000000",
+    "ts": "1787702400.000077",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C010DEEPFOC",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "The Sentry issue was a JSON parse edge case - fixed. [16]",
+    "thread_ts": "1785200960.000000",
+    "ts": "1787706000.000078",
+    "user_id": "U021RYAN"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "PagerDuty rotation update - Sarah primary this week. [17]",
+    "thread_ts": "1785201020.000000",
+    "ts": "1787709600.000079",
+    "user_id": "U022SARAH"
+  },
+  {
+    "channel_id": "C012GRANTS",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "The Slack thread on figure captions is resolved. [18]",
+    "thread_ts": "1785201080.000000",
+    "ts": "1787713200.000080",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C013TENURE",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "New confluence page - protocol library update. [19]",
+    "thread_ts": "1785201140.000000",
+    "ts": "1787716800.000081",
+    "user_id": "U024LABMGR"
+  },
+  {
+    "channel_id": "C014MENTOR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Trello board synced with the tenure dossier plan. [20]",
+    "thread_ts": "1785201200.000000",
+    "ts": "1787720400.000082",
+    "user_id": "U020ELENA"
+  },
+  {
+    "channel_id": "C015SEMINAR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Linear cycle burndown looks healthy. [21]",
+    "thread_ts": "1785201260.000000",
+    "ts": "1787724000.000083",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C016BALLET",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Jira sprint retro tomorrow at 3pm. [22]",
+    "thread_ts": "1785201320.000000",
+    "ts": "1787727600.000084",
+    "user_id": "U022SARAH"
+  },
+  {
+    "channel_id": "C017ADMIN",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Asana workspace archive of Q3 finalized. [23]",
+    "thread_ts": "1785201380.000000",
+    "ts": "1787731200.000085",
+    "user_id": "U023WEI"
+  },
+  {
+    "channel_id": "C010DEEPFOC",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Please move stale cards to the backlog. [24]",
+    "thread_ts": "1785201440.000000",
+    "ts": "1787734800.000086",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Reminder to update your OKRs. [25]",
+    "thread_ts": "1785201500.000000",
+    "ts": "1787738400.000087",
+    "user_id": "U020ELENA"
+  },
+  {
+    "channel_id": "C012GRANTS",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "The Xero reconciliation is done for the month. [26]",
+    "thread_ts": "1785201560.000000",
+    "ts": "1787742000.000088",
+    "user_id": "U021RYAN"
+  },
+  {
+    "channel_id": "C013TENURE",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "QuickBooks Q3 preview ready. [27]",
+    "thread_ts": "1785201620.000000",
+    "ts": "1787745600.000089",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C014MENTOR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "PayPal invoice for the workshop is queued. [28]",
+    "thread_ts": "1785201680.000000",
+    "ts": "1787749200.000090",
+    "user_id": "U023WEI"
+  },
+  {
+    "channel_id": "C015SEMINAR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Coinbase quarterly summary is in. [29]",
+    "thread_ts": "1785201740.000000",
+    "ts": "1787752800.000091",
+    "user_id": "U024LABMGR"
+  },
+  {
+    "channel_id": "C016BALLET",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Alpaca statement filed. [30]",
+    "thread_ts": "1785201800.000000",
+    "ts": "1787756400.000092",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C017ADMIN",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Ring motion at 5:47am was the courier. [31]",
+    "thread_ts": "1785201860.000000",
+    "ts": "1787760000.000093",
+    "user_id": "U021RYAN"
+  },
+  {
+    "channel_id": "C010DEEPFOC",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Boston forecast for Thanksgiving looks fine. [32]",
+    "thread_ts": "1785201920.000000",
+    "ts": "1787763600.000094",
+    "user_id": "U022SARAH"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Uber to Newark booked for tomorrow. [33]",
+    "thread_ts": "1785201980.000000",
+    "ts": "1787767200.000095",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C012GRANTS",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Amtrak to Boston booked for the 24th. [34]",
+    "thread_ts": "1785202040.000000",
+    "ts": "1787770800.000096",
+    "user_id": "U024LABMGR"
+  },
+  {
+    "channel_id": "C013TENURE",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Airbnb near MIT locked in for Winter Symposium. [35]",
+    "thread_ts": "1785202100.000000",
+    "ts": "1787774400.000097",
+    "user_id": "U020ELENA"
+  },
+  {
+    "channel_id": "C014MENTOR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Yelp bookmark - new place near Fenway. [36]",
+    "thread_ts": "1785202160.000000",
+    "ts": "1787778000.000098",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C015SEMINAR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Google Maps route for the airport looks clear. [37]",
+    "thread_ts": "1785202220.000000",
+    "ts": "1787781600.000099",
+    "user_id": "U022SARAH"
+  },
+  {
+    "channel_id": "C016BALLET",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "DoorDash tonight - Thai? [38]",
+    "thread_ts": "1785202280.000000",
+    "ts": "1787785200.000100",
+    "user_id": "U023WEI"
+  },
+  {
+    "channel_id": "C017ADMIN",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Instacart order confirmed - herbs and roast. [39]",
+    "thread_ts": "1785202340.000000",
+    "ts": "1787788800.000101",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C010DEEPFOC",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Trader Joe's list saved. [40]",
+    "thread_ts": "1785202400.000000",
+    "ts": "1787792400.000102",
+    "user_id": "U020ELENA"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Whole Foods order due Thursday. [41]",
+    "thread_ts": "1785202460.000000",
+    "ts": "1787796000.000103",
+    "user_id": "U021RYAN"
+  },
+  {
+    "channel_id": "C012GRANTS",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Ballet costume vendor confirmed. [42]",
+    "thread_ts": "1785202520.000000",
+    "ts": "1787799600.000104",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C013TENURE",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Etsy order for gifts placed. [43]",
+    "thread_ts": "1785202580.000000",
+    "ts": "1787803200.000105",
+    "user_id": "U023WEI"
+  },
+  {
+    "channel_id": "C014MENTOR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "BigCommerce inventory refreshed. [44]",
+    "thread_ts": "1785202640.000000",
+    "ts": "1787806800.000106",
+    "user_id": "U024LABMGR"
+  },
+  {
+    "channel_id": "C015SEMINAR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "WooCommerce advanced class registrations opened. [45]",
+    "thread_ts": "1785202700.000000",
+    "ts": "1787810400.000107",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C016BALLET",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "FedEx sample shipment tracking - delivered. [46]",
+    "thread_ts": "1785202760.000000",
+    "ts": "1787814000.000108",
+    "user_id": "U021RYAN"
+  },
+  {
+    "channel_id": "C017ADMIN",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "UPS insured shipment on the way. [47]",
+    "thread_ts": "1785202820.000000",
+    "ts": "1787817600.000109",
+    "user_id": "U022SARAH"
+  },
+  {
+    "channel_id": "C010DEEPFOC",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Shippo labels regenerated. [48]",
+    "thread_ts": "1785202880.000000",
+    "ts": "1787821200.000110",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Zoom recording link posted. [49]",
+    "thread_ts": "1785202940.000000",
+    "ts": "1787824800.000111",
+    "user_id": "U024LABMGR"
+  },
+  {
+    "channel_id": "C012GRANTS",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Vimeo upload complete. [50]",
+    "thread_ts": "1785203000.000000",
+    "ts": "1787828400.000112",
+    "user_id": "U020ELENA"
+  },
+  {
+    "channel_id": "C013TENURE",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "YouTube reference video linked. [51]",
+    "thread_ts": "1785203060.000000",
+    "ts": "1787832000.000113",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C014MENTOR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Twitch stream schedule for Anna checked. [52]",
+    "thread_ts": "1785203120.000000",
+    "ts": "1787835600.000114",
+    "user_id": "U022SARAH"
+  },
+  {
+    "channel_id": "C015SEMINAR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "LinkedIn post drafted for the Ashford acceptance. [53]",
+    "thread_ts": "1785203180.000000",
+    "ts": "1787839200.000115",
+    "user_id": "U023WEI"
+  },
+  {
+    "channel_id": "C016BALLET",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Twitter announcement drafted. [54]",
+    "thread_ts": "1785203240.000000",
+    "ts": "1787842800.000116",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C017ADMIN",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Instagram post scheduled. [55]",
+    "thread_ts": "1785203300.000000",
+    "ts": "1787846400.000117",
+    "user_id": "U020ELENA"
+  },
+  {
+    "channel_id": "C010DEEPFOC",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Pinterest board updated. [56]",
+    "thread_ts": "1785203360.000000",
+    "ts": "1787850000.000118",
+    "user_id": "U021RYAN"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Reddit thread - nothing to respond to this week. [57]",
+    "thread_ts": "1785203420.000000",
+    "ts": "1787853600.000119",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C012GRANTS",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Mailchimp seminar invite campaign scheduled. [58]",
+    "thread_ts": "1785203480.000000",
+    "ts": "1787857200.000120",
+    "user_id": "U023WEI"
+  },
+  {
+    "channel_id": "C013TENURE",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Sendgrid template updated for parents. [59]",
+    "thread_ts": "1785203540.000000",
+    "ts": "1787860800.000121",
+    "user_id": "U024LABMGR"
+  },
+  {
+    "channel_id": "C014MENTOR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Mailgun newsletter batch complete. [60]",
+    "thread_ts": "1785203600.000000",
+    "ts": "1787864400.000122",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C015SEMINAR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Klaviyo flow updated. [61]",
+    "thread_ts": "1785203660.000000",
+    "ts": "1787868000.000123",
+    "user_id": "U021RYAN"
+  },
+  {
+    "channel_id": "C016BALLET",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "ActiveCampaign nurture step 3 done. [62]",
+    "thread_ts": "1785203720.000000",
+    "ts": "1787871600.000124",
+    "user_id": "U022SARAH"
+  },
+  {
+    "channel_id": "C017ADMIN",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "HubSpot pipeline stage moved on the mentee lead. [63]",
+    "thread_ts": "1785203780.000000",
+    "ts": "1787875200.000125",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C010DEEPFOC",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Salesforce donor note logged. [64]",
+    "thread_ts": "1785203840.000000",
+    "ts": "1787878800.000126",
+    "user_id": "U024LABMGR"
+  },
+  {
+    "channel_id": "C011VOSSPAP",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Intercom auto-reply configured. [65]",
+    "thread_ts": "1785203900.000000",
+    "ts": "1787882400.000127",
+    "user_id": "U020ELENA"
+  },
+  {
+    "channel_id": "C012GRANTS",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Freshdesk ticket triaged. [66]",
+    "thread_ts": "1785203960.000000",
+    "ts": "1787886000.000128",
+    "user_id": "U001PERSONA"
+  },
+  {
+    "channel_id": "C013TENURE",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Zendesk ticket triaged. [67]",
+    "thread_ts": "1785204020.000000",
+    "ts": "1787889600.000129",
+    "user_id": "U022SARAH"
+  },
+  {
+    "channel_id": "C014MENTOR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Mixpanel dashboard shared. [68]",
+    "thread_ts": "1785204080.000000",
+    "ts": "1787893200.000130",
+    "user_id": "U023WEI"
+  },
+  {
+    "channel_id": "C015SEMINAR",
+    "reactions": "",
+    "reply_count": 0,
+    "text": "Amplitude cohort report updated. [69]",
+    "thread_ts": "1785204140.000000",
+    "ts": "1787896800.000131",
+    "user_id": "U001PERSONA"
+  }
+]

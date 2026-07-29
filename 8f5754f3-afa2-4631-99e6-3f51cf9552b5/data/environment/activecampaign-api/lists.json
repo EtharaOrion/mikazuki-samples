@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "Eleanor's Tavern Regulars (Standby)",
+    "stringid": "eleanors-regulars",
+    "subscriber_count": "23",
+    "sender_url": "https://eleanorstavern.com",
+    "sender_reminder": "You're a regular at Eleanor's Tavern in Astoria.",
+    "created_timestamp": "2025-11-05T09:00:00-05:00"
+  },
+  {
+    "id": "2",
+    "name": "Private Event Leads",
+    "stringid": "private-event-leads",
+    "subscriber_count": "5",
+    "sender_url": "https://eleanorstavern.com/private-events",
+    "sender_reminder": "You inquired about a private event.",
+    "created_timestamp": "2025-11-05T09:30:00-05:00"
+  },
+  {
+    "id": "3",
+    "name": "Wine Series Interest",
+    "stringid": "wine-series",
+    "subscriber_count": "9",
+    "sender_url": "https://eleanorstavern.com/wine",
+    "sender_reminder": "You attended a wine tasting.",
+    "created_timestamp": "2025-11-05T10:00:00-05:00"
+  },
+  {
+    "id": "4",
+    "name": "Gift Card Buyers",
+    "stringid": "gift-card-buyers",
+    "subscriber_count": "4",
+    "sender_url": "https://eleanorstavern.com/gift-cards",
+    "sender_reminder": "You bought a gift card.",
+    "created_timestamp": "2025-11-05T10:30:00-05:00"
+  },
+  {
+    "id": "5",
+    "name": "Lapsed Regulars",
+    "stringid": "lapsed-regulars",
+    "subscriber_count": "3",
+    "sender_url": "https://eleanorstavern.com",
+    "sender_reminder": "We haven't seen you in a while.",
+    "created_timestamp": "2026-01-15T09:00:00-05:00"
+  },
+  {
+    "id": "6",
+    "name": "Jazz Sundays Fans",
+    "stringid": "jazz-sundays",
+    "subscriber_count": "14",
+    "sender_url": "https://eleanorstavern.com/jazz",
+    "sender_reminder": "You enjoy our Sunday jazz brunch.",
+    "created_timestamp": "2026-02-03T09:00:00-05:00"
+  },
+  {
+    "id": "7",
+    "name": "Patio Season Alerts",
+    "stringid": "patio-season",
+    "subscriber_count": "31",
+    "sender_url": "https://eleanorstavern.com/patio",
+    "sender_reminder": "You asked about our seasonal patio seating.",
+    "created_timestamp": "2026-02-10T09:30:00-05:00"
+  },
+  {
+    "id": "8",
+    "name": "Craft Beer Club",
+    "stringid": "craft-beer-club",
+    "subscriber_count": "19",
+    "sender_url": "https://eleanorstavern.com/beer",
+    "sender_reminder": "You joined our craft beer club.",
+    "created_timestamp": "2026-02-18T10:00:00-05:00"
+  },
+  {
+    "id": "9",
+    "name": "Birthday & Anniversary Club",
+    "stringid": "celebration-club",
+    "subscriber_count": "27",
+    "sender_url": "https://eleanorstavern.com/celebrate",
+    "sender_reminder": "You celebrated a special occasion with us.",
+    "created_timestamp": "2026-02-25T09:00:00-05:00"
+  },
+  {
+    "id": "10",
+    "name": "Pie of the Month",
+    "stringid": "pie-of-the-month",
+    "subscriber_count": "16",
+    "sender_url": "https://eleanorstavern.com/pies",
+    "sender_reminder": "You love our house-made pies.",
+    "created_timestamp": "2026-03-04T10:30:00-05:00"
+  },
+  {
+    "id": "11",
+    "name": "Brunch Regulars",
+    "stringid": "brunch-regulars",
+    "subscriber_count": "22",
+    "sender_url": "https://eleanorstavern.com/brunch",
+    "sender_reminder": "You're a weekend brunch regular.",
+    "created_timestamp": "2026-03-12T09:00:00-04:00"
+  },
+  {
+    "id": "12",
+    "name": "Catering Inquiries",
+    "stringid": "catering-inquiries",
+    "subscriber_count": "8",
+    "sender_url": "https://eleanorstavern.com/catering",
+    "sender_reminder": "You asked about catering with Eleanor's Tavern.",
+    "created_timestamp": "2026-03-20T09:30:00-04:00"
+  },
+  {
+    "id": "13",
+    "name": "Restaurant Week Subscribers",
+    "stringid": "restaurant-week",
+    "subscriber_count": "12",
+    "sender_url": "https://eleanorstavern.com/restaurant-week",
+    "sender_reminder": "You signed up for NYC Restaurant Week updates.",
+    "created_timestamp": "2026-01-01T09:00:00-04:00"
+  },
+  {
+    "id": "14",
+    "name": "Holiday Reservations",
+    "stringid": "holiday-reservations",
+    "subscriber_count": "18",
+    "sender_url": "https://eleanorstavern.com/holidays",
+    "sender_reminder": "You booked a holiday meal with us.",
+    "created_timestamp": "2026-01-08T10:00:00-04:00"
+  },
+  {
+    "id": "15",
+    "name": "Chef's Table Waitlist",
+    "stringid": "chefs-table",
+    "subscriber_count": "6",
+    "sender_url": "https://eleanorstavern.com/chefs-table",
+    "sender_reminder": "You joined the Chef's Table waitlist with Daniel.",
+    "created_timestamp": "2026-01-15T09:30:00-04:00"
+  },
+  {
+    "id": "16",
+    "name": "Trivia Night Crowd",
+    "stringid": "trivia-night",
+    "subscriber_count": "25",
+    "sender_url": "https://eleanorstavern.com/trivia",
+    "sender_reminder": "You play Tuesday trivia at Eleanor's.",
+    "created_timestamp": "2026-01-22T09:00:00-04:00"
+  },
+  {
+    "id": "17",
+    "name": "Astoria Neighbors",
+    "stringid": "astoria-neighbors",
+    "subscriber_count": "44",
+    "sender_url": "https://eleanorstavern.com",
+    "sender_reminder": "You're an Astoria neighbor on our list.",
+    "created_timestamp": "2026-02-01T09:00:00-04:00"
+  },
+  {
+    "id": "18",
+    "name": "Loyalty Rewards Members",
+    "stringid": "loyalty-rewards",
+    "subscriber_count": "38",
+    "sender_url": "https://eleanorstavern.com/loyalty",
+    "sender_reminder": "You're a loyalty rewards member.",
+    "created_timestamp": "2026-02-10T09:30:00-04:00"
+  },
+  {
+    "id": "19",
+    "name": "Game Day Watch Parties",
+    "stringid": "game-day-parties",
+    "subscriber_count": "21",
+    "sender_url": "https://eleanorstavern.com/gameday",
+    "sender_reminder": "You join us for Celtics and NYCFC watch parties.",
+    "created_timestamp": "2026-02-18T10:00:00-04:00"
+  },
+  {
+    "id": "20",
+    "name": "Newsletter Subscribers",
+    "stringid": "newsletter",
+    "subscriber_count": "112",
+    "sender_url": "https://eleanorstavern.com/newsletter",
+    "sender_reminder": "You subscribed to the Eleanor's Tavern newsletter.",
+    "created_timestamp": "2026-02-26T09:00:00-04:00"
+  }
+]

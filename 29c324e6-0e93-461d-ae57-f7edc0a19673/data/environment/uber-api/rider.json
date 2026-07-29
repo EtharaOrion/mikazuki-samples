@@ -1,0 +1,27 @@
+{
+  "rider_id": "rider-jessicawebb",
+  "first_name": "Jessica",
+  "last_name": "Webb",
+  "email": "jessica.webb@finthesiss.ai",
+  "phone_number": "+18164719082",
+  "rating": 4.94,
+  "member_since": "2019-11-08",
+  "promo_code": "Jessica Webb",
+  "payment_methods": [
+    {
+      "payment_method_id": "pm-visa-7731",
+      "type": "card",
+      "brand": "Visa",
+      "last_four": "7731",
+      "default": true
+    },
+    {
+      "payment_method_id": "pm-ubercash",
+      "type": "uber_cash",
+      "balance": 4.25,
+      "default": false
+    }
+  ],
+  "home_address": "4112 Pennsylvania Ave, Kansas City, MO 64111",
+  "work_address": "1420 Grand Blvd, Kansas City, MO 64108"
+}

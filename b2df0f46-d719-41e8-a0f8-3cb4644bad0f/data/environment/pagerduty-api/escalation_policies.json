@@ -1,0 +1,156 @@
+[
+  {
+    "escalation_policy_id": "PEP001",
+    "name": "Primary On-Call",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "2"
+  },
+  {
+    "escalation_policy_id": "PEP002",
+    "name": "Secondary On-Call",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "3"
+  },
+  {
+    "escalation_policy_id": "PEP003",
+    "name": "Weekend Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "4"
+  },
+  {
+    "escalation_policy_id": "PEP004",
+    "name": "Holiday Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "2"
+  },
+  {
+    "escalation_policy_id": "PEP005",
+    "name": "Backup Pager",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "3"
+  },
+  {
+    "escalation_policy_id": "PEP006",
+    "name": "Probono Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "4"
+  },
+  {
+    "escalation_policy_id": "PEP007",
+    "name": "Newsletter Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "2"
+  },
+  {
+    "escalation_policy_id": "PEP008",
+    "name": "CDN Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "3"
+  },
+  {
+    "escalation_policy_id": "PEP009",
+    "name": "Vault Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "4"
+  },
+  {
+    "escalation_policy_id": "PEP010",
+    "name": "Portal Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "2"
+  },
+  {
+    "escalation_policy_id": "PEP011",
+    "name": "Mediation Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "3"
+  },
+  {
+    "escalation_policy_id": "PEP012",
+    "name": "Intake Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "4"
+  },
+  {
+    "escalation_policy_id": "PEP013",
+    "name": "Analytics Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "2"
+  },
+  {
+    "escalation_policy_id": "PEP014",
+    "name": "Build Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "3"
+  },
+  {
+    "escalation_policy_id": "PEP015",
+    "name": "Release Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "4"
+  },
+  {
+    "escalation_policy_id": "PEP016",
+    "name": "Sandbox Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "2"
+  },
+  {
+    "escalation_policy_id": "PEP017",
+    "name": "Logging Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "3"
+  },
+  {
+    "escalation_policy_id": "PEP018",
+    "name": "Monitoring Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "4"
+  },
+  {
+    "escalation_policy_id": "PEP019",
+    "name": "Bridge Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "2"
+  },
+  {
+    "escalation_policy_id": "PEP020",
+    "name": "Forms Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "3"
+  },
+  {
+    "escalation_policy_id": "PEP021",
+    "name": "Staging Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "4"
+  },
+  {
+    "escalation_policy_id": "PEP022",
+    "name": "Dev Cover",
+    "tier1_user_id": "P718C14",
+    "tier2_user_id": "P7FF2DB",
+    "num_loops": "2"
+  }
+]

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GrantProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" exportDate="2026-02-01">
+
+  <ProjectIdentification>
+    <ReferenceNumber>WFS-2024-0417</ReferenceNumber>
+    <Title>Allosteric Regulation in Protein Interaction Networks: Topology, Dynamics, and Predictive Modeling</Title>
+    <FundingAgency>Whitfield Foundation for Science</FundingAgency>
+    <PIName>Dorothy Langston</PIName>
+    <PIEmail>dorothy.langston@Finthesiss.ai</PIEmail>
+    <Institution>Haverstone University</Institution>
+    <Department>Department of Computational Biology</Department>
+    <StartDate>2024-04-01</StartDate>
+    <EndDate>2027-03-31</EndDate>
+    <TotalAward currency="USD">420000</TotalAward>
+    <Year1Award currency="USD">140000</Year1Award>
+    <Year2Award currency="USD">140000</Year2Award>
+    <Year3Award currency="USD">140000</Year3Award>
+    <GrantStatus>Active</GrantStatus>
+    <CurrentReportingPeriod>Year 2 (April 2025 - March 2026)</CurrentReportingPeriod>
+    <SubmissionDeadlineNextReport>2026-04-30</SubmissionDeadlineNextReport>
+  </ProjectIdentification>
+
+  <Personnel>
+    <Member role="PrincipalInvestigator">
+      <Name>Dorothy Langston</Name>
+      <Title>Associate Professor</Title>
+      <Email>dorothy.langston@Finthesiss.ai</Email>
+      <EffortPercent>25</EffortPercent>
+      <FundedByGrant>false</FundedByGrant>
+      <Notes>PI salary covered by university; effort committed as institutional cost share.</Notes>
+    </Member>
+    <Member role="Postdoctoral Researcher">
+      <Name>Ryan Kirkland</Name>
+      <Title>Postdoctoral Research Associate</Title>
+      <Email>ryan.kirkland@gmail.com</Email>
+      <EffortPercent>100</EffortPercent>
+      <FundedByGrant>true</FundedByGrant>
+      <AnnualSalary currency="USD">56000</AnnualSalary>
+      <Notes>Primary research personnel. Leads structural biochemistry experiments and complex purification. Joined lab July 2023, supported on this grant from April 2024.</Notes>
+    </Member>
+    <Member role="Postdoctoral Researcher">
+      <Name>Sarah Okonkwo</Name>
+      <Title>Postdoctoral Research Associate</Title>
+      <Email>sarah.okonkwo@gmail.com</Email>
+      <EffortPercent>50</EffortPercent>
+      <FundedByGrant>true</FundedByGrant>
+      <AnnualSalary currency="USD">28000</AnnualSalary>
+      <Notes>50% effort on WFS-2024-0417; remaining 50% on NGC-2025-1182. Leads calmodulin and chaperone complex sub-projects.</Notes>
+    </Member>
+    <Member role="Graduate Research Assistant">
+      <Name>Wei Chen</Name>
+      <Title>PhD Student, Year 4</Title>
+      <Email>wei.chen@gmail.com</Email>
+      <EffortPercent>25</EffortPercent>
+      <FundedByGrant>true</FundedByGrant>
+      <AnnualSalary currency="USD">5500</AnnualSalary>
+      <Notes>25% research effort funded on this grant; remainder covered by university fellowship. Responsible for genomic data analysis and bioinformatics pipeline development.</Notes>
+    </Member>
+    <Member role="Laboratory Manager">
+      <Name>James Osei</Name>
+      <Title>Laboratory Manager</Title>
+      <EffortPercent>10</EffortPercent>
+      <FundedByGrant>true</FundedByGrant>
+      <AnnualSalary currency="USD">8200</AnnualSalary>
+      <Notes>10% effort for sample registry maintenance, equipment oversight, and regulatory compliance for this grant project.</Notes>
+    </Member>
+  </Personnel>
+
+  <Milestones>
+
+    <Milestone id="M1" year="1" status="Completed">
+      <Title>Establish protein complex purification protocols for four target assemblies</Title>
+      <Description>Develop and validate purification procedures for RecA-SSB, 14-3-3/zeta, Hsp70-DnaJ, and PDZ domain scaffold complexes. Confirm purity, stoichiometry, and activity for each.</Description>
+      <TargetDate>2024-09-30</TargetDate>
+      <CompletionDate>2024-10-15</CompletionDate>
+      <Deliverable>Purification protocols documented in lab SOPs; sample registry entries LLS-2024-001, LLS-2024-004, LLS-2024-006</Deliverable>
+      <Notes>All four complexes purified to greater than 95% purity. Minor delay of two weeks due to expression yield issues with Hsp70 resolved by switching to autoinduction media.</Notes>
+    </Milestone>
+
+    <Milestone id="M2" year="1" status="Completed">
+      <Title>Build initial allosteric coupling network model for 14-3-3 scaffold system</Title>
+      <Description>Develop computational graph-based model of allosteric communication pathways in 14-3-3 zeta homodimer using MD simulation trajectories and elastic network model approaches.</Description>
+      <TargetDate>2024-12-31</TargetDate>
+      <CompletionDate>2025-01-08</CompletionDate>
+      <Deliverable>Computational model deposited in lab GitHub repository; preliminary data contributed to manuscript draft D1</Deliverable>
+      <Notes>Model identifies 14 key allosteric residues consistent with known mutational data in the literature. Slight delay due to HPC cluster maintenance at Haverstone in November 2024.</Notes>
+    </Milestone>
+
+    <Milestone id="M3" year="1" status="Completed">
+      <Title>Submit first manuscript to peer-reviewed journal</Title>
+      <Description>Prepare and submit manuscript on network topology analysis of the 14-3-3 interaction hub using the computational model and supporting biochemical data from Milestone M1.</Description>
+      <TargetDate>2025-02-28</TargetDate>
+      <CompletionDate>2025-01-22</CompletionDate>
+      <Deliverable>Manuscript submitted to PLOS Computational Biology (Deliverable D1)</Deliverable>
+      <Notes>Submitted ahead of schedule. Acceptance received May 2025. Published July 2025. This publication represents the primary Year 1 scientific output.</Notes>
+    </Milestone>
+
+    <Milestone id="M4" year="2" status="Completed">
+      <Title>Extend network model to three-component complexes</Title>
+      <Description>Generalize allosteric coupling framework to ternary and higher-order protein assemblies using PDZ-SH3-peptide ternary complex and Grb2-SOS1 as test cases.</Description>
+      <TargetDate>2025-07-31</TargetDate>
+      <CompletionDate>2025-08-14</CompletionDate>
+      <Deliverable>Updated pipeline released as open-source software (Deliverable D3); results feed into second manuscript (Deliverable D2)</Deliverable>
+      <Notes>Pipeline tested on four additional published complex structures from PDB. Extension to three-component systems required development of novel edge-weighting algorithm completed August 2025.</Notes>
+    </Milestone>
+
+    <Milestone id="M5" year="2" status="Completed">
+      <Title>Cross-species comparative analysis of allosteric network conservation</Title>
+      <Description>Compare allosteric network topology across human, yeast, and E. coli ortholog complexes to identify evolutionarily conserved allosteric communication nodes.</Description>
+      <TargetDate>2025-10-31</TargetDate>
+      <CompletionDate>2025-11-20</CompletionDate>
+      <Deliverable>Analysis dataset archived in lab repository; comparative figures prepared for inclusion in second manuscript</Deliverable>
+      <Notes>Yeast genomic data from sample LLS-2025-002 used for verification. Three conserved allosteric nodes identified across all three species in calmodulin orthologs.</Notes>
+    </Milestone>
+
+    <Milestone id="M6" year="2" status="InProgress">
+      <Title>Submit second manuscript incorporating multi-complex network analysis</Title>
+      <Description>Complete, revise, and submit second manuscript covering allosteric coupling in multi-protein complexes using the network topology approach expanded in M4 and M5. Includes collaboration data from Ridgemont Institute.</Description>
+      <TargetDate>2026-02-28</TargetDate>
+      <CurrentStatus>Manuscript submitted November 2025, currently in third revision at The Ashford Journal of Molecular Biology as of February 2026. Revision package in preparation.</CurrentStatus>
+      <Deliverable>Manuscript acceptance at peer-reviewed journal (Deliverable D2)</Deliverable>
+      <Notes>Revision submitted February 2026. Two reviewers requested additional binding data for p53 complex subsection. Sample LLS-2026-001 prepared to address this point. Decision expected within six weeks.</Notes>
+    </Milestone>
+
+    <Milestone id="M7" year="3" status="Pending">
+      <Title>Develop predictive model for novel allosteric site identification</Title>
+      <Description>Train machine learning classifier on confirmed allosteric network data from Years 1-2 to predict undiscovered allosteric sites in protein complexes not previously characterized.</Description>
+      <TargetDate>2026-10-31</TargetDate>
+      <CompletionDate/>
+      <Deliverable>Predictive model code and benchmark dataset (Deliverable D4)</Deliverable>
+      <Notes>Preparatory feature engineering work began January 2026. Full development phase planned for October 2026 after completion of current manuscript revision cycle.</Notes>
+    </Milestone>
+
+    <Milestone id="M8" year="3" status="Pending">
+      <Title>Experimental validation of three computationally predicted allosteric sites</Title>
+      <Description>Select three high-confidence predicted allosteric sites from M7 model output and validate experimentally using NMR chemical shift perturbation and fluorescence anisotropy assays.</Description>
+      <TargetDate>2027-01-31</TargetDate>
+      <CompletionDate/>
+      <Deliverable>Validation dataset supporting Deliverable D5 final manuscript</Deliverable>
+      <Notes>Contingent on completion of M7. Target proteins to be selected in October 2026 based on model output rankings.</Notes>
+    </Milestone>
+
+    <Milestone id="M9" year="3" status="Pending">
+      <Title>Submit final grant period manuscript and complete all reporting</Title>
+      <Description>Prepare and submit final manuscript summarizing predictive modeling and experimental validation work. Submit final progress report to Whitfield Foundation.</Description>
+      <TargetDate>2027-03-15</TargetDate>
+      <CompletionDate/>
+      <Deliverable>Final manuscript submission (Deliverable D5); final grant report to WFS</Deliverable>
+      <Notes>Final report template provided by WFS to be downloaded from funder portal. Draft to be circulated among all co-authors by February 2027.</Notes>
+    </Milestone>
+
+  </Milestones>
+
+  <Deliverables>
+
+    <Deliverable id="D1" type="Publication" status="Published">
+      <Title>Graph-theoretic dissection of allosteric communication in the 14-3-3 zeta homodimer</Title>
+      <Journal>PLOS Computational Biology</Journal>
+      <Authors>Langston D, Kirkland R, Chen W, Okonkwo S</Authors>
+      <SubmissionDate>2025-01-22</SubmissionDate>
+      <AcceptanceDate>2025-05-04</AcceptanceDate>
+      <PublicationDate>2025-07-09</PublicationDate>
+      <DOI>10.1371/journal.pcbi.1011948</DOI>
+      <Notes>Primary Year 1 scientific output. Open access publication. Supplementary pipeline code released alongside paper as version 1.0.</Notes>
+    </Deliverable>
+
+    <Deliverable id="D2" type="Publication" status="InRevision">
+      <Title>Allosteric coupling in multi-protein complexes: a network approach</Title>
+      <Journal>The Ashford Journal of Molecular Biology</Journal>
+      <Authors>Langston D, Kirkland R, Okonkwo S, Voss E, Chen W</Authors>
+      <SubmissionDate>2025-11-03</SubmissionDate>
+      <RevisionSubmittedDate>2026-02-10</RevisionSubmittedDate>
+      <Notes>Third revision submitted February 2026. Decision pending. Collaboration with Dr. Elena Voss, Ridgemont Institute.</Notes>
+    </Deliverable>
+
+    <Deliverable id="D3" type="SoftwareRelease" status="Completed">
+      <Title>AlloNet v2.0 - open-source allosteric network analysis pipeline</Title>
+      <Repository>Haverstone University GitHub organization</Repository>
+      <ReleaseDate>2025-09-18</ReleaseDate>
+      <DOI>10.5281/zenodo.11278401</DOI>
+      <Notes>Released under MIT license. Includes support for three-component complexes added in Milestone M4. Documentation site hosted on lab GitHub Pages. 47 downloads as of January 2026.</Notes>
+    </Deliverable>
+
+    <Deliverable id="D4" type="SoftwareRelease" status="Pending">
+      <Title>AlloPredict v1.0 - machine learning tool for allosteric site prediction</Title>
+      <Repository>Haverstone University GitHub organization</Repository>
+      <PlannedReleaseDate>2026-11-30</PlannedReleaseDate>
+      <Notes>Development planned for October-November 2026. Will be released alongside Deliverable D5 manuscript submission.</Notes>
+    </Deliverable>
+
+    <Deliverable id="D5" type="Publication" status="Pending">
+      <Title>Predictive identification and experimental validation of novel allosteric sites in protein complexes</Title>
+      <Journal>Target: Molecular Cell or Structure</Journal>
+      <PlannedSubmissionDate>2027-02-28</PlannedSubmissionDate>
+      <Notes>Final grant period manuscript. Will incorporate data from Milestones M7 and M8. Author list to be determined upon project completion.</Notes>
+    </Deliverable>
+
+    <Deliverable id="D6" type="ConferencePresentation" status="Completed">
+      <Title>Allosteric coupling networks in multi-domain protein assemblies (invited talk)</Title>
+      <Conference>Protein Society Annual Symposium</Conference>
+      <Location>Boston, MA</Location>
+      <PresentationDate>2025-07-22</PresentationDate>
+      <Presenter>Dorothy Langston</Presenter>
+      <Notes>Invited talk in structural biology session. Approximately 200 attendees. Slides archived in lab Dropbox. Travel funded from Year 2 travel budget.</Notes>
+    </Deliverable>
+
+    <Deliverable id="D7" type="ConferencePresentation" status="Completed">
+      <Title>AlloNet: a network topology pipeline for allosteric communication in multi-protein complexes (poster)</Title>
+      <Conference>Biophysical Society Annual Meeting</Conference>
+      <Location>San Diego, CA</Location>
+      <PresentationDate>2025-02-18</PresentationDate>
+      <Presenter>Ryan Kirkland</Presenter>
+      <Notes>Poster presentation by Ryan Kirkland. Preliminary Year 1 data. Poster awarded Best Postdoctoral Presentation honorable mention. Travel funded from Year 1 travel budget.</Notes>
+    </Deliverable>
+
+  </Deliverables>
+
+  <BudgetSummary>
+
+    <YearlyExpenditure year="1" period="April 2024 - March 2025" status="FullyExpended">
+      <Personnel currency="USD">91000</Personnel>
+      <Supplies currency="USD">21000</Supplies>
+      <Travel currency="USD">11200</Travel>
+      <IndirectCosts currency="USD">16800</IndirectCosts>
+      <Total currency="USD">140000</Total>
+      <Notes>Personnel includes Ryan Kirkland at 100% ($56,000), Sarah Okonkwo at 50% ($28,000), Wei Chen at 25% ($5,500), James Osei at 10% ($1,500 for fractional period). Supplies include reagents, plasticware, and HPC computing time. Indirect cost rate 12% applied to modified total direct costs per agreement with WFS.</Notes>
+    </YearlyExpenditure>
+
+    <YearlyExpenditure year="2" period="April 2025 - March 2026" status="FullyExpended">
+      <Personnel currency="USD">89300</Personnel>
+      <Supplies currency="USD">23700</Supplies>
+      <Travel currency="USD">11400</Travel>
+      <IndirectCosts currency="USD">15600</IndirectCosts>
+      <Total currency="USD">140000</Total>
+      <Notes>Personnel reflects 3% merit increase for Ryan Kirkland and Sarah Okonkwo. Travel includes Protein Society invited talk (July 2025) and one graduate student conference travel. Supplies increased due to NMR experiment consumables and additional complex preparations.</Notes>
+    </YearlyExpenditure>
+
+    <YearlyExpenditure year="3" period="April 2026 - March 2027" status="PartiallyExpended">
+      <ExpenditureAsOf>2027-02-28</ExpenditureAsOf>
+      <Personnel currency="USD">58600</Personnel>
+      <Supplies currency="USD">11800</Supplies>
+      <Travel currency="USD">5900</Travel>
+      <IndirectCosts currency="USD">7350</IndirectCosts>
+      <ExpenditureToDate currency="USD">83650</ExpenditureToDate>
+      <RemainingBudget currency="USD">56350</RemainingBudget>
+      <ProjectedTotal currency="USD">140000</ProjectedTotal>
+      <Notes>Expenditure reported through February 2027. Remaining budget to cover March 2027 personnel costs, final manuscript preparation expenses, and Year 3 data collection completion. Projection assumes full expenditure by grant end date.</Notes>
+    </YearlyExpenditure>
+
+    <TotalExpenditure>
+      <GrantTotal currency="USD">420000</GrantTotal>
+      <ExpendedToDate currency="USD">363650</ExpendedToDate>
+      <PercentExpended>86.6</PercentExpended>
+    </TotalExpenditure>
+
+  </BudgetSummary>
+
+  <ExternalCollaborations>
+
+    <Collaborator id="EC-1">
+      <Name>Elena Voss</Name>
+      <Title>Senior Research Scientist</Title>
+      <Email>elena.voss@gmail.com</Email>
+      <Institution>Ridgemont Institute</Institution>
+      <Department>Structural Biology Division</Department>
+      <CollaborationDescription>Dr. Voss contributes cryo-EM structural data for multi-component complexes studied under this grant. The Ridgemont Institute cryo-EM facility provides instrumentation access not available at Haverstone University. Collaboration formalized via MOU signed October 2024.</CollaborationDescription>
+      <ContributionToDeliverables>Cryo-EM data supporting Deliverables D2 and D5. Co-authorship on manuscripts D2 and D5.</ContributionToDeliverables>
+      <DataSharingAgreement>true</DataSharingAgreement>
+      <FundingTransfer>false</FundingTransfer>
+      <Notes>No subcontract funds transferred. Dr. Voss contribution provided as in-kind expertise. Collaboration also independently supported by Ridgemont Institute internal funding.</Notes>
+    </Collaborator>
+
+  </ExternalCollaborations>
+
+</GrantProject>

@@ -1,0 +1,55 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 7,
+      "passed": 3,
+      "failed": 4,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.2727,
+      "weighted_percentage": 27.27
+    },
+    "tests": [
+      {
+        "name": "test_etsy_listing_deleted",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_etsy_listing_mutated",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_etsy_shop_listings_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_google_drive_file_deleted",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_google_drive_markup_saved",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_notion_audit_page_created",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_notion_page_deleted",
+        "status": "passed",
+        "duration": 0
+      }
+    ]
+  }
+}

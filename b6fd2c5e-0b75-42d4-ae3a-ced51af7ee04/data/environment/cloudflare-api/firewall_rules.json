@@ -1,0 +1,202 @@
+[
+  {
+    "id": "fw0001aaaa",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Banh mi sale - church parking lot",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": false,
+    "priority": 1,
+    "created_on": "2024-04-01T10:00:00.000Z"
+  },
+  {
+    "id": "fw0002bbbb",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Amanda + Samuel Friday date night",
+    "action": "challenge",
+    "expression": "(cf.threat_score gt 30)",
+    "paused": false,
+    "priority": 2,
+    "created_on": "2024-04-02T10:00:00.000Z"
+  },
+  {
+    "id": "fw0003cccc",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd",
+    "description": "Choir rehearsal - Track 4 & 'How Great Thou Art'",
+    "action": "allow",
+    "expression": "(ip.src in {198.51.100.0/24})",
+    "paused": true,
+    "priority": 3,
+    "created_on": "2024-04-05T10:00:00.000Z"
+  },
+  {
+    "id": "fw0004dddd",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh",
+    "description": "Sunday 8 AM traditional service (choir + Dr. Wells organ)",
+    "action": "js_challenge",
+    "expression": "(http.referer ne \"orbit-cdn.net\")",
+    "paused": false,
+    "priority": 1,
+    "created_on": "2024-04-10T10:00:00.000Z"
+  },
+  {
+    "id": "fw0001aaaa-0004",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0004",
+    "description": "Amanda + Samuel Friday date night",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": false,
+    "priority": 1,
+    "created_on": "2024-04-05T10:00:00Z"
+  },
+  {
+    "id": "fw0002bbbb-0005",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0005",
+    "description": "Steinway tuning by Piedmont Piano Service",
+    "action": "challenge",
+    "expression": "(cf.threat_score gt 30)",
+    "paused": false,
+    "priority": 2,
+    "created_on": "2024-04-07T10:00:00Z"
+  },
+  {
+    "id": "fw0003cccc-0006",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0006",
+    "description": "Wednesday Emmanuel drum lesson with Terrence Walker",
+    "action": "allow",
+    "expression": "(ip.src in {198.51.100.0/24})",
+    "paused": true,
+    "priority": 3,
+    "created_on": "2024-04-11T10:00:00Z"
+  },
+  {
+    "id": "fw0004dddd-0007",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh-0007",
+    "description": "Sunday 11 AM contemporary service (choir + band)",
+    "action": "js_challenge",
+    "expression": "(http.referer ne \"orbit-cdn.net\")",
+    "paused": false,
+    "priority": 1,
+    "created_on": "2024-04-17T10:00:00Z"
+  },
+  {
+    "id": "fw0001aaaa-0008",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0008",
+    "description": "Banh mi sale - church parking lot",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": false,
+    "priority": 1,
+    "created_on": "2024-04-09T10:00:00Z"
+  },
+  {
+    "id": "fw0002bbbb-0009",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0009",
+    "description": "Convention prep session with Deacon Harris",
+    "action": "challenge",
+    "expression": "(cf.threat_score gt 30)",
+    "paused": false,
+    "priority": 2,
+    "created_on": "2024-04-11T10:00:00Z"
+  },
+  {
+    "id": "fw0003cccc-0010",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0010",
+    "description": "Wednesday Ruth visit - Decatur",
+    "action": "allow",
+    "expression": "(ip.src in {198.51.100.0/24})",
+    "paused": true,
+    "priority": 3,
+    "created_on": "2024-04-15T10:00:00Z"
+  },
+  {
+    "id": "fw0004dddd-0011",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh-0011",
+    "description": "Sunday 8 AM traditional service (choir + Dr. Wells organ)",
+    "action": "js_challenge",
+    "expression": "(http.referer ne \"orbit-cdn.net\")",
+    "paused": false,
+    "priority": 1,
+    "created_on": "2024-04-21T10:00:00Z"
+  },
+  {
+    "id": "fw0001aaaa-0012",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0012",
+    "description": "Concert fundraiser evening - GAW Center sanctuary",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": false,
+    "priority": 1,
+    "created_on": "2024-04-13T10:00:00Z"
+  },
+  {
+    "id": "fw0002bbbb-0013",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0013",
+    "description": "Q4 church budget committee meeting",
+    "action": "challenge",
+    "expression": "(cf.threat_score gt 30)",
+    "paused": false,
+    "priority": 2,
+    "created_on": "2024-04-15T10:00:00Z"
+  },
+  {
+    "id": "fw0003cccc-0014",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0014",
+    "description": "Youth band Saturday rehearsal - 3-5 PM (Emmanuel on drums)",
+    "action": "allow",
+    "expression": "(ip.src in {198.51.100.0/24})",
+    "paused": true,
+    "priority": 3,
+    "created_on": "2024-04-19T10:00:00Z"
+  },
+  {
+    "id": "fw0004dddd-0015",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh-0015",
+    "description": "Choir rehearsal - Track 4 & 'How Great Thou Art'",
+    "action": "js_challenge",
+    "expression": "(http.referer ne \"orbit-cdn.net\")",
+    "paused": false,
+    "priority": 1,
+    "created_on": "2024-04-25T10:00:00Z"
+  },
+  {
+    "id": "fw0001aaaa-0016",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0016",
+    "description": "Christmas pageant rehearsal",
+    "action": "block",
+    "expression": "(cf.client.bot and not cf.verified_bot_category eq \"\")",
+    "paused": false,
+    "priority": 1,
+    "created_on": "2024-04-17T10:00:00Z"
+  },
+  {
+    "id": "fw0002bbbb-0017",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0017",
+    "description": "Album Track 4 recording session at Soundcraft",
+    "action": "challenge",
+    "expression": "(cf.threat_score gt 30)",
+    "paused": false,
+    "priority": 2,
+    "created_on": "2024-04-19T10:00:00Z"
+  },
+  {
+    "id": "fw0003cccc-0018",
+    "zone_id": "zone1aaaa1111bbbb2222cccc3333dddd-0018",
+    "description": "Youth choir Saturday rehearsal - 1-3 PM",
+    "action": "allow",
+    "expression": "(ip.src in {198.51.100.0/24})",
+    "paused": true,
+    "priority": 3,
+    "created_on": "2024-04-23T10:00:00Z"
+  },
+  {
+    "id": "fw0004dddd-0019",
+    "zone_id": "zone2eeee4444ffff5555gggg6666hhhh-0019",
+    "description": "Amanda + Samuel Friday date night",
+    "action": "js_challenge",
+    "expression": "(http.referer ne \"orbit-cdn.net\")",
+    "paused": false,
+    "priority": 1,
+    "created_on": "2024-04-29T10:00:00Z"
+  }
+]

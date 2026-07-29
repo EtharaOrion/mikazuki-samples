@@ -1,0 +1,16 @@
+[
+  {
+    "index": "crossroads_shop",
+    "searchableAttributes": "name,description,category,brand",
+    "attributesForFaceting": "category,brand,in_stock",
+    "hitsPerPage": 12,
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  },
+  {
+    "index": "crossroads_classes",
+    "searchableAttributes": "title,body,section,tags",
+    "attributesForFaceting": "section,tags",
+    "hitsPerPage": 10,
+    "ranking": "typo,geo,words,proximity,attribute,exact,custom"
+  }
+]

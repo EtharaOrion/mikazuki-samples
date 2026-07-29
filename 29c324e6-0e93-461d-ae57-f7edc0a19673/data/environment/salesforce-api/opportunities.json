@@ -1,0 +1,62 @@
+[
+  {
+    "Id": "006Ax000001AAAAAA1",
+    "Name": "Scholarship Recital 2026 \u2014 Title Sponsorship",
+    "AccountId": "001Ax000004DDDDDD4",
+    "StageName": "Proposal/Price Quote",
+    "Amount": "5000",
+    "Probability": "60",
+    "CloseDate": "2026-03-15",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000002BBBBBB2",
+    "Name": "KC Youth Arts Collective \u2014 Spring Recital Co-Host",
+    "AccountId": "001Ax000001AAAAAA1",
+    "StageName": "Closed Won",
+    "Amount": "1500",
+    "Probability": "100",
+    "CloseDate": "2026-02-18",
+    "Type": "Existing Business"
+  },
+  {
+    "Id": "006Ax000003CCCCCC3",
+    "Name": "The Phoenix \u2014 Anniversary Showcase Venue Hold",
+    "AccountId": "001Ax000003CCCCCC3",
+    "StageName": "Qualification",
+    "Amount": "3200",
+    "Probability": "50",
+    "CloseDate": "2026-02-01",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000004DDDDDD4",
+    "Name": "Heartland Jazz Festival \u2014 Youth Stage Partnership",
+    "AccountId": "001Ax000005EEEEEE5",
+    "StageName": "Closed Won",
+    "Amount": "750",
+    "Probability": "100",
+    "CloseDate": "2026-03-06",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000005EEEEEE5",
+    "Name": "Midwest Arts Foundation \u2014 Scholarship Grant",
+    "AccountId": "001Ax000001AAAAAA1",
+    "StageName": "Prospecting",
+    "Amount": "8000",
+    "Probability": "20",
+    "CloseDate": "2026-10-15",
+    "Type": "New Business"
+  },
+  {
+    "Id": "006Ax000006FFFFFF6",
+    "Name": "Fall 2026 \u2014 Scholarship Cohort Enrollment (6 students)",
+    "AccountId": "001Ax000002BBBBBB2",
+    "StageName": "Proposal/Price Quote",
+    "Amount": "1080",
+    "Probability": "70",
+    "CloseDate": "2026-02-20",
+    "Type": "Existing Business"
+  }
+]

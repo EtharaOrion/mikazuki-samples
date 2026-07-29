@@ -1,0 +1,149 @@
+[
+  {
+    "id": "menuItem",
+    "name": "Menu Item",
+    "displayField": "name",
+    "description": "A dish or drink on the Eleanor's Tavern menu",
+    "fields_json": "[{\"id\": \"name\", \"name\": \"Name\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"section\", \"name\": \"Section\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"description\", \"name\": \"Description\", \"type\": \"Text\", \"required\": false}, {\"id\": \"price\", \"name\": \"Price\", \"type\": \"Number\", \"required\": true}, {\"id\": \"photo\", \"name\": \"Photo\", \"type\": \"Link\", \"linkType\": \"Asset\", \"required\": false}, {\"id\": \"available\", \"name\": \"Available\", \"type\": \"Boolean\", \"required\": false}]"
+  },
+  {
+    "id": "event",
+    "name": "Event",
+    "displayField": "title",
+    "description": "A tavern event such as a wine tasting or private party",
+    "fields_json": "[{\"id\": \"title\", \"name\": \"Title\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"slug\", \"name\": \"Slug\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"date\", \"name\": \"Date\", \"type\": \"Date\", \"required\": true}, {\"id\": \"description\", \"name\": \"Description\", \"type\": \"Text\", \"required\": false}, {\"id\": \"image\", \"name\": \"Image\", \"type\": \"Link\", \"linkType\": \"Asset\", \"required\": false}, {\"id\": \"published\", \"name\": \"Published\", \"type\": \"Boolean\", \"required\": false}]"
+  },
+  {
+    "id": "page",
+    "name": "Page",
+    "displayField": "title",
+    "description": "A static page on eleanorstavern.com",
+    "fields_json": "[{\"id\": \"title\", \"name\": \"Title\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"slug\", \"name\": \"Slug\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"body\", \"name\": \"Body\", \"type\": \"Text\", \"required\": false}, {\"id\": \"published\", \"name\": \"Published\", \"type\": \"Boolean\", \"required\": false}]"
+  },
+  {
+    "id": "wineTasting",
+    "name": "Wine Tasting",
+    "displayField": "name",
+    "description": "A featured wine or pairing for tavern tasting events",
+    "fields_json": "[{\"id\": \"name\", \"name\": \"Name\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"varietal\", \"name\": \"Varietal\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"region\", \"name\": \"Region\", \"type\": \"Symbol\", \"required\": false}, {\"id\": \"vintage\", \"name\": \"Vintage\", \"type\": \"Number\", \"required\": false}, {\"id\": \"notes\", \"name\": \"Tasting Notes\", \"type\": \"Text\", \"required\": false}, {\"id\": \"pairing\", \"name\": \"Pairing\", \"type\": \"Symbol\", \"required\": false}]"
+  },
+  {
+    "id": "staffMember",
+    "name": "Staff Member",
+    "displayField": "name",
+    "description": "A member of the Eleanor's Tavern team",
+    "fields_json": "[{\"id\": \"name\", \"name\": \"Name\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"role\", \"name\": \"Role\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"bio\", \"name\": \"Bio\", \"type\": \"Text\", \"required\": false}, {\"id\": \"photo\", \"name\": \"Photo\", \"type\": \"Link\", \"linkType\": \"Asset\", \"required\": false}, {\"id\": \"active\", \"name\": \"Active\", \"type\": \"Boolean\", \"required\": false}]"
+  },
+  {
+    "id": "pressMention",
+    "name": "Press Mention",
+    "displayField": "headline",
+    "description": "An external press or review feature about the tavern",
+    "fields_json": "[{\"id\": \"headline\", \"name\": \"Headline\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"outlet\", \"name\": \"Outlet\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"url\", \"name\": \"URL\", \"type\": \"Symbol\", \"required\": false}, {\"id\": \"date\", \"name\": \"Date\", \"type\": \"Date\", \"required\": true}, {\"id\": \"excerpt\", \"name\": \"Excerpt\", \"type\": \"Text\", \"required\": false}]"
+  },
+  {
+    "id": "reservationPolicy",
+    "name": "Reservation Policy",
+    "displayField": "title",
+    "description": "Policy text shown on the reservations page",
+    "fields_json": "[{\"id\": \"title\", \"name\": \"Title\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"body\", \"name\": \"Body\", \"type\": \"Text\", \"required\": true}, {\"id\": \"effectiveDate\", \"name\": \"Effective Date\", \"type\": \"Date\", \"required\": false}, {\"id\": \"published\", \"name\": \"Published\", \"type\": \"Boolean\", \"required\": false}]"
+  },
+  {
+    "id": "giftCard",
+    "name": "Gift Card",
+    "displayField": "name",
+    "description": "A gift card product offered on eleanorstavern.com",
+    "fields_json": "[{\"id\": \"name\", \"name\": \"Name\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"amount\", \"name\": \"Amount\", \"type\": \"Number\", \"required\": true}, {\"id\": \"description\", \"name\": \"Description\", \"type\": \"Text\", \"required\": false}, {\"id\": \"image\", \"name\": \"Image\", \"type\": \"Link\", \"linkType\": \"Asset\", \"required\": false}, {\"id\": \"active\", \"name\": \"Active\", \"type\": \"Boolean\", \"required\": false}]"
+  },
+  {
+    "id": "menuSection",
+    "name": "Menu Section",
+    "displayField": "title",
+    "description": "A grouping of menu items such as Starters or Mains",
+    "fields_json": "[{\"id\": \"title\", \"name\": \"Title\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"slug\", \"name\": \"Slug\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"order\", \"name\": \"Order\", \"type\": \"Number\", \"required\": false}, {\"id\": \"description\", \"name\": \"Description\", \"type\": \"Text\", \"required\": false}]"
+  },
+  {
+    "id": "blogPost",
+    "name": "Blog Post",
+    "displayField": "title",
+    "description": "A news or story post on the tavern blog",
+    "fields_json": "[{\"id\": \"title\", \"name\": \"Title\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"slug\", \"name\": \"Slug\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"author\", \"name\": \"Author\", \"type\": \"Symbol\", \"required\": false}, {\"id\": \"body\", \"name\": \"Body\", \"type\": \"Text\", \"required\": true}, {\"id\": \"heroImage\", \"name\": \"Hero Image\", \"type\": \"Link\", \"linkType\": \"Asset\", \"required\": false}, {\"id\": \"published\", \"name\": \"Published\", \"type\": \"Boolean\", \"required\": false}]"
+  },
+  {
+    "id": "testimonial",
+    "name": "Testimonial",
+    "displayField": "author",
+    "description": "A guest review or quote featured on the site",
+    "fields_json": "[{\"id\": \"author\", \"name\": \"Author\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"quote\", \"name\": \"Quote\", \"type\": \"Text\", \"required\": true}, {\"id\": \"source\", \"name\": \"Source\", \"type\": \"Symbol\", \"required\": false}, {\"id\": \"rating\", \"name\": \"Rating\", \"type\": \"Number\", \"required\": false}, {\"id\": \"featured\", \"name\": \"Featured\", \"type\": \"Boolean\", \"required\": false}]"
+  },
+  {
+    "id": "vendor",
+    "name": "Vendor",
+    "displayField": "name",
+    "description": "A supplier or partner of Eleanor's Tavern",
+    "fields_json": "[{\"id\": \"name\", \"name\": \"Name\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"category\", \"name\": \"Category\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"contactName\", \"name\": \"Contact Name\", \"type\": \"Symbol\", \"required\": false}, {\"id\": \"email\", \"name\": \"Email\", \"type\": \"Symbol\", \"required\": false}, {\"id\": \"phone\", \"name\": \"Phone\", \"type\": \"Symbol\", \"required\": false}]"
+  },
+  {
+    "id": "faqEntry",
+    "name": "FAQ Entry",
+    "displayField": "question",
+    "description": "A frequently asked question and answer for the site",
+    "fields_json": "[{\"id\": \"question\", \"name\": \"Question\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"answer\", \"name\": \"Answer\", \"type\": \"Text\", \"required\": true}, {\"id\": \"category\", \"name\": \"Category\", \"type\": \"Symbol\", \"required\": false}, {\"id\": \"order\", \"name\": \"Order\", \"type\": \"Number\", \"required\": false}]"
+  },
+  {
+    "id": "specialOffer",
+    "name": "Special Offer",
+    "displayField": "title",
+    "description": "A seasonal promotion or happy hour special",
+    "fields_json": "[{\"id\": \"title\", \"name\": \"Title\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"details\", \"name\": \"Details\", \"type\": \"Text\", \"required\": true}, {\"id\": \"startDate\", \"name\": \"Start Date\", \"type\": \"Date\", \"required\": false}, {\"id\": \"endDate\", \"name\": \"End Date\", \"type\": \"Date\", \"required\": false}, {\"id\": \"active\", \"name\": \"Active\", \"type\": \"Boolean\", \"required\": false}]"
+  },
+  {
+    "id": "navigation",
+    "name": "Navigation",
+    "displayField": "label",
+    "description": "A navigation menu link in the site header or footer",
+    "fields_json": "[{\"id\": \"label\", \"name\": \"Label\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"url\", \"name\": \"URL\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"order\", \"name\": \"Order\", \"type\": \"Number\", \"required\": false}, {\"id\": \"external\", \"name\": \"External\", \"type\": \"Boolean\", \"required\": false}]"
+  },
+  {
+    "id": "hoursEntry",
+    "name": "Hours Entry",
+    "displayField": "day",
+    "description": "Opening hours for a single day of the week",
+    "fields_json": "[{\"id\": \"day\", \"name\": \"Day\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"lunchHours\", \"name\": \"Lunch Hours\", \"type\": \"Symbol\", \"required\": false}, {\"id\": \"dinnerHours\", \"name\": \"Dinner Hours\", \"type\": \"Symbol\", \"required\": false}, {\"id\": \"closed\", \"name\": \"Closed\", \"type\": \"Boolean\", \"required\": false}]"
+  },
+  {
+    "id": "recipe",
+    "name": "Recipe",
+    "displayField": "title",
+    "description": "A house recipe featured for the YouTube channel or blog",
+    "fields_json": "[{\"id\": \"title\", \"name\": \"Title\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"slug\", \"name\": \"Slug\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"ingredients\", \"name\": \"Ingredients\", \"type\": \"Text\", \"required\": true}, {\"id\": \"steps\", \"name\": \"Steps\", \"type\": \"Text\", \"required\": true}, {\"id\": \"chef\", \"name\": \"Chef\", \"type\": \"Symbol\", \"required\": false}, {\"id\": \"published\", \"name\": \"Published\", \"type\": \"Boolean\", \"required\": false}]"
+  },
+  {
+    "id": "jobPosting",
+    "name": "Job Posting",
+    "displayField": "title",
+    "description": "An open hiring position at the tavern",
+    "fields_json": "[{\"id\": \"title\", \"name\": \"Title\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"department\", \"name\": \"Department\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"description\", \"name\": \"Description\", \"type\": \"Text\", \"required\": true}, {\"id\": \"type\", \"name\": \"Type\", \"type\": \"Symbol\", \"required\": false}, {\"id\": \"open\", \"name\": \"Open\", \"type\": \"Boolean\", \"required\": false}]"
+  },
+  {
+    "id": "galleryImage",
+    "name": "Gallery Image",
+    "displayField": "caption",
+    "description": "A photo for the tavern's website gallery",
+    "fields_json": "[{\"id\": \"caption\", \"name\": \"Caption\", \"type\": \"Symbol\", \"required\": false}, {\"id\": \"image\", \"name\": \"Image\", \"type\": \"Link\", \"linkType\": \"Asset\", \"required\": true}, {\"id\": \"category\", \"name\": \"Category\", \"type\": \"Symbol\", \"required\": false}, {\"id\": \"featured\", \"name\": \"Featured\", \"type\": \"Boolean\", \"required\": false}]"
+  },
+  {
+    "id": "beerTap",
+    "name": "Beer Tap",
+    "displayField": "name",
+    "description": "A craft beer currently on tap at the bar",
+    "fields_json": "[{\"id\": \"name\", \"name\": \"Name\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"brewery\", \"name\": \"Brewery\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"style\", \"name\": \"Style\", \"type\": \"Symbol\", \"required\": false}, {\"id\": \"abv\", \"name\": \"ABV\", \"type\": \"Number\", \"required\": false}, {\"id\": \"price\", \"name\": \"Price\", \"type\": \"Number\", \"required\": false}, {\"id\": \"onTap\", \"name\": \"On Tap\", \"type\": \"Boolean\", \"required\": false}]"
+  },
+  {
+    "id": "teamAnnouncement",
+    "name": "Team Announcement",
+    "displayField": "title",
+    "description": "An internal announcement posted for tavern staff",
+    "fields_json": "[{\"id\": \"title\", \"name\": \"Title\", \"type\": \"Symbol\", \"required\": true}, {\"id\": \"body\", \"name\": \"Body\", \"type\": \"Text\", \"required\": true}, {\"id\": \"author\", \"name\": \"Author\", \"type\": \"Symbol\", \"required\": false}, {\"id\": \"postedDate\", \"name\": \"Posted Date\", \"type\": \"Date\", \"required\": false}, {\"id\": \"pinned\", \"name\": \"Pinned\", \"type\": \"Boolean\", \"required\": false}]"
+  }
+]

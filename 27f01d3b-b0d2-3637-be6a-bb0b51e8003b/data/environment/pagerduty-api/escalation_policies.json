@@ -1,0 +1,142 @@
+[
+  {
+    "escalation_policy_id": "EP001",
+    "name": "Crossroads Booking On-Call",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP002",
+    "name": "Group jazz ensemble rehearsal",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP003",
+    "name": "Trial lesson consultation",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP004",
+    "name": "Theory class discussion",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP005",
+    "name": "Instructor coordination meeting",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP006",
+    "name": "Winter recital rehearsal",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP007",
+    "name": "Student progress review",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP008",
+    "name": "Enrollment inquiry follow-up",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP009",
+    "name": "Monthly payroll processing",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP010",
+    "name": "5th Anniversary Showcase planning",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP011",
+    "name": "Summer camp registration",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP012",
+    "name": "Substitute coverage",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP013",
+    "name": "Sheet music library update",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP014",
+    "name": "Parent meeting slot",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP015",
+    "name": "Ensemble arrangement rewrite",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP016",
+    "name": "Recital program layout",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP017",
+    "name": "Quartet setlist review",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP018",
+    "name": "Rehearsal recording listen-back",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP019",
+    "name": "Second album pre-production notes",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP020",
+    "name": "Venue confirmation thread",
+    "num_loops": 2,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU001"
+  }
+]

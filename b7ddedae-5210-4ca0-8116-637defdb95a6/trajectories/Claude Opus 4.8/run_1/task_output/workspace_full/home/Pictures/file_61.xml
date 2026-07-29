@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<digitisationBatch initiative="Collection Digitisation Initiative" phase="2" reportingTo="Stefan Koenig" period="to 2026-02">
+  <scope total="18500" captured="11840" unit="objects"/>
+  <standards colourTarget="embedded" resolution="600 ppi" colourDepth="16 bit" masterFormat="archival tiff" accessFormat="compressed preview"/>
+  <records>
+    <object id="OKM-CP-04821" department="Contemporary painting" status="approved">
+      <title>Untitled composition in grey</title>
+      <maker life="1921 to 1989">studio attribution pending</maker>
+      <captureDate>2026-01-12</captureDate>
+      <operator>Lena Brunner</operator>
+      <qc pass="true" reviewer="Markus Eder"/>
+      <megapixels>71</megapixels>
+    </object>
+    <object id="OKM-WP-11096" department="Works on paper" status="approved">
+      <title>Sketch for a stage curtain</title>
+      <maker life="1875 to 1942">studio attribution confirmed</maker>
+      <captureDate>2026-01-19</captureDate>
+      <operator>Daniel Roth</operator>
+      <qc pass="true" reviewer="Markus Eder"/>
+      <megapixels>64</megapixels>
+    </object>
+    <object id="OKM-PH-03340" department="Photography archive" status="approved">
+      <title>Ringstrasse at dusk, gelatin silver print</title>
+      <maker life="1890 to 1965">unattributed studio</maker>
+      <captureDate>2025-12-03</captureDate>
+      <operator>Lena Brunner</operator>
+      <qc pass="true" reviewer="Sofia Klein"/>
+      <megapixels>48</megapixels>
+    </object>
+    <object id="OKM-DS-00712" department="Design collection" status="inReview">
+      <title>Chair prototype, bentwood</title>
+      <maker life="1868 to 1936">workshop piece</maker>
+      <captureDate>2026-02-09</captureDate>
+      <operator>Daniel Roth</operator>
+      <qc pass="false" reviewer="Sofia Klein" note="reshoot for shadow on left edge"/>
+      <megapixels>71</megapixels>
+    </object>
+    <object id="OKM-PO-05588" department="Posters and ephemera" status="approved">
+      <title>Spring exhibition poster, second state</title>
+      <maker life="1867 to 1908">Secession workshop</maker>
+      <captureDate>2026-02-16</captureDate>
+      <operator>Lena Brunner</operator>
+      <qc pass="true" reviewer="Markus Eder"/>
+      <megapixels>64</megapixels>
+    </object>
+    <object id="OKM-SC-02013" department="Sculpture and objects" status="approved">
+      <title>Small bronze, seated figure</title>
+      <maker life="1874 to 1956">attributed</maker>
+      <captureDate>2026-02-23</captureDate>
+      <operator>Daniel Roth</operator>
+      <qc pass="true" reviewer="Sofia Klein"/>
+      <megapixels>71</megapixels>
+      <views>6</views>
+    </object>
+  </records>
+  <throughput>
+    <month label="2025-10" objects="1200"/>
+    <month label="2025-11" objects="2300"/>
+    <month label="2025-12" objects="2400"/>
+    <month label="2026-01" objects="2700"/>
+    <month label="2026-02" objects="3240"/>
+  </throughput>
+  <target signOff="2027-03-31" partner="EU cultural heritage programme"/>
+</digitisationBatch>

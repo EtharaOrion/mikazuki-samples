@@ -1,0 +1,182 @@
+[
+  {
+    "id": "carlton.mcgee@eleanorstavern.com",
+    "summary": "Carlton McGee",
+    "description": "Primary calendar",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "true",
+    "color_id": "1"
+  },
+  {
+    "id": "family.mcgee@group.calendar.google.com",
+    "summary": "Family",
+    "description": "McGee family events",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "5"
+  },
+  {
+    "id": "eleanorstavern.com_ops@group.calendar.google.com",
+    "summary": "Eleanor's Tavern",
+    "description": "Service, vendor deliveries, staff",
+    "time_zone": "America/New_York",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "2"
+  },
+  {
+    "id": "mcgee.kids@group.calendar.google.com",
+    "summary": "Kids",
+    "description": "Alex & Sarah activities and school",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "8"
+  },
+  {
+    "id": "eleanorstavern.com_vendors@group.calendar.google.com",
+    "summary": "Vendor Deliveries",
+    "description": "Atlantic Seafood, produce, meat, dairy, wine deliveries",
+    "time_zone": "America/New_York",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "3"
+  },
+  {
+    "id": "eleanorstavern.com_staff@group.calendar.google.com",
+    "summary": "Staff Schedule",
+    "description": "Server, line cook, and host shift coverage",
+    "time_zone": "America/New_York",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "6"
+  },
+  {
+    "id": "eleanorstavern.com_events@group.calendar.google.com",
+    "summary": "Private Events",
+    "description": "Buyouts, wine tastings, and private parties",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "9"
+  },
+  {
+    "id": "carlton.fishing@group.calendar.google.com",
+    "summary": "Fishing Trips",
+    "description": "Sheepshead Bay and Montauk outings",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "10"
+  },
+  {
+    "id": "carlton.chess@group.calendar.google.com",
+    "summary": "Chess with Uncle Stuart",
+    "description": "Astoria chess meetups and tournaments",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "11"
+  },
+  {
+    "id": "mcgee.boston@group.calendar.google.com",
+    "summary": "Boston Family",
+    "description": "Visits to Mom Eleanor and Boston runs",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "4"
+  },
+  {
+    "id": "alex.soccer@group.calendar.google.com",
+    "summary": "Alex Soccer",
+    "description": "Alex practices and weekend matches",
+    "time_zone": "America/New_York",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "7"
+  },
+  {
+    "id": "sarah.gymnastics@group.calendar.google.com",
+    "summary": "Sarah Gymnastics",
+    "description": "Sarah gymnastics classes and meets",
+    "time_zone": "America/New_York",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "12"
+  },
+  {
+    "id": "en.us#holiday@group.v.calendar.google.com",
+    "summary": "US Holidays",
+    "description": "United States public holidays",
+    "time_zone": "America/New_York",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "13"
+  },
+  {
+    "id": "nycfc.matches@group.calendar.google.com",
+    "summary": "NYCFC Matches",
+    "description": "NYCFC home and away fixtures",
+    "time_zone": "America/New_York",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "14"
+  },
+  {
+    "id": "celtics.games@group.calendar.google.com",
+    "summary": "Celtics Games",
+    "description": "Boston Celtics game schedule",
+    "time_zone": "America/New_York",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "15"
+  },
+  {
+    "id": "eleanorstavern.com_finance@group.calendar.google.com",
+    "summary": "Finance & Payroll",
+    "description": "Payroll runs, invoices, and lease payments",
+    "time_zone": "America/New_York",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "16"
+  },
+  {
+    "id": "ellen.mcgee@gmail.com",
+    "summary": "Ellen McGee",
+    "description": "Shared calendar with Ellen",
+    "time_zone": "America/New_York",
+    "access_role": "writer",
+    "primary": "false",
+    "color_id": "17"
+  },
+  {
+    "id": "standrews.astoria@group.calendar.google.com",
+    "summary": "St. Andrew's Episcopal",
+    "description": "Church services and community events",
+    "time_zone": "America/New_York",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "18"
+  },
+  {
+    "id": "carlton.personal@group.calendar.google.com",
+    "summary": "Personal Errands",
+    "description": "Walks, appointments, and personal to-dos",
+    "time_zone": "America/New_York",
+    "access_role": "owner",
+    "primary": "false",
+    "color_id": "19"
+  },
+  {
+    "id": "redsox.games@group.calendar.google.com",
+    "summary": "Red Sox Games",
+    "description": "Boston Red Sox game schedule",
+    "time_zone": "America/New_York",
+    "access_role": "reader",
+    "primary": "false",
+    "color_id": "20"
+  }
+]

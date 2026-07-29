@@ -1,0 +1,282 @@
+[
+  {
+    "Id": "5201",
+    "TxnDate": "2026-03-01",
+    "TotalAmt": 2800.0,
+    "Line": [
+      {
+        "Description": "Studio lease \u2014 March 2026",
+        "Amount": 2800.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00"
+    }
+  },
+  {
+    "Id": "5202",
+    "TxnDate": "2026-03-15",
+    "TotalAmt": 4500.0,
+    "Line": [
+      {
+        "Description": "Instructor payroll \u2014 March 2026 (8 part-time instructors)",
+        "Amount": 4500.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-15T10:00:00"
+    }
+  },
+  {
+    "Id": "5203",
+    "TxnDate": "2026-03-02",
+    "TotalAmt": 220.0,
+    "Line": [
+      {
+        "Description": "Heartland Insurance Group \u2014 studio liability premium",
+        "Amount": 220.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-02T11:00:00"
+    }
+  },
+  {
+    "Id": "5204",
+    "TxnDate": "2026-03-05",
+    "TotalAmt": 195.0,
+    "Line": [
+      {
+        "Description": "Evergy \u2014 electric and utilities",
+        "Amount": 195.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-05T09:30:00"
+    }
+  },
+  {
+    "Id": "5205",
+    "TxnDate": "2026-03-09",
+    "TotalAmt": 285.0,
+    "Line": [
+      {
+        "Description": "Sweetwater Sound \u2014 reeds, sheet music, supplies",
+        "Amount": 285.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-09T14:00:00"
+    }
+  },
+  {
+    "Id": "5300",
+    "TxnDate": "2026-01-05",
+    "TotalAmt": 145.0,
+    "Line": [
+      {
+        "Description": "Sheet music library replenishment",
+        "Amount": 145.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-05T00:00:00"
+    }
+  },
+  {
+    "Id": "5301",
+    "TxnDate": "2026-01-12",
+    "TotalAmt": 285.0,
+    "Line": [
+      {
+        "Description": "Instrument maintenance \u2014 alto sax pad job",
+        "Amount": 285.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-12T00:00:00"
+    }
+  },
+  {
+    "Id": "5302",
+    "TxnDate": "2026-01-19",
+    "TotalAmt": 78.0,
+    "Line": [
+      {
+        "Description": "Reeds order \u2014 Rico Jazz Select 3M dozen",
+        "Amount": 78.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-19T00:00:00"
+    }
+  },
+  {
+    "Id": "5303",
+    "TxnDate": "2026-01-26",
+    "TotalAmt": 500.0,
+    "Line": [
+      {
+        "Description": "Recital hall rental deposit",
+        "Amount": 500.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-26T00:00:00"
+    }
+  },
+  {
+    "Id": "5304",
+    "TxnDate": "2026-02-02",
+    "TotalAmt": 220.0,
+    "Line": [
+      {
+        "Description": "Marketing print run \u2014 showcase flyers",
+        "Amount": 220.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-02T00:00:00"
+    }
+  },
+  {
+    "Id": "5305",
+    "TxnDate": "2026-02-09",
+    "TotalAmt": 340.0,
+    "Line": [
+      {
+        "Description": "Studio HVAC repair",
+        "Amount": 340.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-09T00:00:00"
+    }
+  },
+  {
+    "Id": "5306",
+    "TxnDate": "2026-02-16",
+    "TotalAmt": 92.0,
+    "Line": [
+      {
+        "Description": "Instructor mileage reimbursement \u2014 March",
+        "Amount": 92.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-16T00:00:00"
+    }
+  },
+  {
+    "Id": "5307",
+    "TxnDate": "2026-02-23",
+    "TotalAmt": 450.0,
+    "Line": [
+      {
+        "Description": "Photography for showcase",
+        "Amount": 450.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-02-23T00:00:00"
+    }
+  },
+  {
+    "Id": "5308",
+    "TxnDate": "2026-03-02",
+    "TotalAmt": 180.0,
+    "Line": [
+      {
+        "Description": "Website hosting \u2014 Q2",
+        "Amount": 180.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-02T00:00:00"
+    }
+  },
+  {
+    "Id": "5309",
+    "TxnDate": "2026-03-09",
+    "TotalAmt": 220.0,
+    "Line": [
+      {
+        "Description": "Insurance \u2014 instrument coverage",
+        "Amount": 220.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-09T00:00:00"
+    }
+  },
+  {
+    "Id": "5310",
+    "TxnDate": "2026-03-16",
+    "TotalAmt": 65.0,
+    "Line": [
+      {
+        "Description": "Camp permission form printing",
+        "Amount": 65.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-16T00:00:00"
+    }
+  },
+  {
+    "Id": "5311",
+    "TxnDate": "2026-03-23",
+    "TotalAmt": 175.0,
+    "Line": [
+      {
+        "Description": "Piano tuning quarterly",
+        "Amount": 175.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-23T00:00:00"
+    }
+  },
+  {
+    "Id": "6201",
+    "TxnDate": "2026-03-01",
+    "TotalAmt": 2800.0,
+    "Line": [
+      {
+        "Description": "Studio lease \u2014 March 2026",
+        "Amount": 2800.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-01T09:00:00"
+    }
+  },
+  {
+    "Id": "6202",
+    "TxnDate": "2026-03-15",
+    "TotalAmt": 4500.0,
+    "Line": [
+      {
+        "Description": "Instructor payroll \u2014 March 2026 (8 part-time instructors)",
+        "Amount": 4500.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-15T10:00:00"
+    }
+  },
+  {
+    "Id": "6203",
+    "TxnDate": "2026-03-02",
+    "TotalAmt": 220.0,
+    "Line": [
+      {
+        "Description": "Heartland Insurance Group \u2014 studio liability premium",
+        "Amount": 220.0
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-02T11:00:00"
+    }
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "state-port-backlog",
+    "name": "Backlog",
+    "type": "backlog",
+    "color": "#bec2c8",
+    "position": 0,
+    "teamId": "team-ux",
+    "description": "Banh mi sale - church parking lot"
+  },
+  {
+    "id": "state-port-todo",
+    "name": "Todo",
+    "type": "unstarted",
+    "color": "#e2e2e2",
+    "position": 0,
+    "teamId": "team-ux",
+    "description": "Amanda + Samuel Friday date night"
+  },
+  {
+    "id": "state-port-inprogress",
+    "name": "In Progress",
+    "type": "started",
+    "color": "#f2c94c",
+    "position": 0,
+    "teamId": "team-ux",
+    "description": "Choir rehearsal - Track 4 & 'How Great Thou Art'"
+  },
+  {
+    "id": "state-port-inreview",
+    "name": "In Review",
+    "type": "started",
+    "color": "#f2994a",
+    "position": 0,
+    "teamId": "team-ux",
+    "description": "Sunday 8 AM traditional service (choir + Dr. Wells organ)"
+  },
+  {
+    "id": "state-port-done",
+    "name": "Done",
+    "type": "completed",
+    "color": "#5e6ad2",
+    "position": 0,
+    "teamId": "team-ux",
+    "description": "Sunday 11 AM contemporary service (choir + band)"
+  },
+  {
+    "id": "state-port-canceled",
+    "name": "Canceled",
+    "type": "canceled",
+    "color": "#95a2b3",
+    "position": 0,
+    "teamId": "team-ux",
+    "description": "Youth choir Saturday rehearsal - 1-3 PM"
+  },
+  {
+    "id": "state-bkd-backlog",
+    "name": "Backlog",
+    "type": "backlog",
+    "color": "#bec2c8",
+    "position": 0,
+    "teamId": "team-backend",
+    "description": "Youth band Saturday rehearsal - 3-5 PM (Emmanuel on drums)"
+  },
+  {
+    "id": "state-bkd-todo",
+    "name": "Todo",
+    "type": "unstarted",
+    "color": "#e2e2e2",
+    "position": 0,
+    "teamId": "team-backend",
+    "description": "Wednesday Ruth visit - Decatur"
+  },
+  {
+    "id": "state-bkd-inprogress",
+    "name": "In Progress",
+    "type": "started",
+    "color": "#f2c94c",
+    "position": 0,
+    "teamId": "team-backend",
+    "description": "Wednesday Emmanuel drum lesson with Terrence Walker"
+  },
+  {
+    "id": "state-bkd-inreview",
+    "name": "In Review",
+    "type": "started",
+    "color": "#f2994a",
+    "position": 0,
+    "teamId": "team-backend",
+    "description": "Album Track 4 recording session at Soundcraft"
+  },
+  {
+    "id": "state-bkd-done",
+    "name": "Done",
+    "type": "completed",
+    "color": "#5e6ad2",
+    "position": 0,
+    "teamId": "team-backend",
+    "description": "Q4 church budget committee meeting"
+  },
+  {
+    "id": "state-bkd-canceled",
+    "name": "Canceled",
+    "type": "canceled",
+    "color": "#95a2b3",
+    "position": 0,
+    "teamId": "team-backend",
+    "description": "Convention prep session with Deacon Harris"
+  },
+  {
+    "id": "state-port-backlog-0012",
+    "name": "Backlog",
+    "type": "backlog",
+    "color": "#bec2c8",
+    "position": 0,
+    "teamId": "team-ux",
+    "description": "Amanda + Samuel Friday date night"
+  },
+  {
+    "id": "state-port-todo-0013",
+    "name": "Todo",
+    "type": "unstarted",
+    "color": "#e2e2e2",
+    "position": 0,
+    "teamId": "team-ux",
+    "description": "Steinway tuning by Piedmont Piano Service"
+  },
+  {
+    "id": "state-port-inprogress-0014",
+    "name": "In Progress",
+    "type": "started",
+    "color": "#f2c94c",
+    "position": 0,
+    "teamId": "team-ux",
+    "description": "Wednesday Emmanuel drum lesson with Terrence Walker"
+  },
+  {
+    "id": "state-port-inreview-0015",
+    "name": "In Review",
+    "type": "started",
+    "color": "#f2994a",
+    "position": 0,
+    "teamId": "team-ux",
+    "description": "Sunday 11 AM contemporary service (choir + band)"
+  },
+  {
+    "id": "state-port-done-0016",
+    "name": "Done",
+    "type": "completed",
+    "color": "#5e6ad2",
+    "position": 0,
+    "teamId": "team-ux",
+    "description": "Banh mi sale - church parking lot"
+  },
+  {
+    "id": "state-port-canceled-0017",
+    "name": "Canceled",
+    "type": "canceled",
+    "color": "#95a2b3",
+    "position": 0,
+    "teamId": "team-ux",
+    "description": "Convention prep session with Deacon Harris"
+  },
+  {
+    "id": "state-bkd-backlog-0018",
+    "name": "Backlog",
+    "type": "backlog",
+    "color": "#bec2c8",
+    "position": 0,
+    "teamId": "team-backend",
+    "description": "Wednesday Ruth visit - Decatur"
+  },
+  {
+    "id": "state-bkd-todo-0019",
+    "name": "Todo",
+    "type": "unstarted",
+    "color": "#e2e2e2",
+    "position": 0,
+    "teamId": "team-backend",
+    "description": "Sunday 8 AM traditional service (choir + Dr. Wells organ)"
+  }
+]

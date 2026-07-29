@@ -1,0 +1,162 @@
+[
+  {
+    "id": "10001",
+    "key": "ETW",
+    "name": "Eleanor's Tavern Website",
+    "project_type_key": "software",
+    "lead": "user-priya",
+    "description": "Website redesign and maintenance for eleanorstavern.com"
+  },
+  {
+    "id": "10002",
+    "key": "OPS",
+    "name": "Site Maintenance",
+    "project_type_key": "business",
+    "lead": "user-priya",
+    "description": "Backlog for ongoing tavern website tweaks"
+  },
+  {
+    "id": "10003",
+    "key": "MENU",
+    "name": "Menu & Ordering",
+    "project_type_key": "software",
+    "lead": "user-priya",
+    "description": "Online menu and ordering integration for eleanorstavern.com"
+  },
+  {
+    "id": "10004",
+    "key": "RESV",
+    "name": "Reservations System",
+    "project_type_key": "software",
+    "lead": "user-priya",
+    "description": "Table reservations widget and confirmation emails"
+  },
+  {
+    "id": "10005",
+    "key": "GIFT",
+    "name": "Gift Cards",
+    "project_type_key": "software",
+    "lead": "user-priya",
+    "description": "Online gift card purchase and redemption flow"
+  },
+  {
+    "id": "10006",
+    "key": "EVT",
+    "name": "Events Page",
+    "project_type_key": "business",
+    "lead": "user-sophia",
+    "description": "Wine tastings and private event listings on the site"
+  },
+  {
+    "id": "10007",
+    "key": "SEO",
+    "name": "SEO & Analytics",
+    "project_type_key": "software",
+    "lead": "user-priya",
+    "description": "Search optimization and Google Analytics setup"
+  },
+  {
+    "id": "10008",
+    "key": "POS",
+    "name": "Square Integration",
+    "project_type_key": "software",
+    "lead": "user-priya",
+    "description": "Sync menu and inventory between Square POS and website"
+  },
+  {
+    "id": "10009",
+    "key": "NEWS",
+    "name": "Newsletter",
+    "project_type_key": "business",
+    "lead": "user-sophia",
+    "description": "Mailchimp newsletter signup and campaign coordination"
+  },
+  {
+    "id": "10010",
+    "key": "BLOG",
+    "name": "Blog & Content",
+    "project_type_key": "business",
+    "lead": "user-sophia",
+    "description": "Recipe posts and behind-the-scenes tavern stories"
+  },
+  {
+    "id": "10011",
+    "key": "PERF",
+    "name": "Site Performance",
+    "project_type_key": "software",
+    "lead": "user-priya",
+    "description": "Page speed and image optimization improvements"
+  },
+  {
+    "id": "10012",
+    "key": "ACCESS",
+    "name": "Accessibility",
+    "project_type_key": "software",
+    "lead": "user-priya",
+    "description": "WCAG compliance pass on the public website"
+  },
+  {
+    "id": "10013",
+    "key": "PHOTO",
+    "name": "Photo Gallery",
+    "project_type_key": "business",
+    "lead": "user-sophia",
+    "description": "Food and interior photo gallery for the site"
+  },
+  {
+    "id": "10014",
+    "key": "MOB",
+    "name": "Mobile Layout",
+    "project_type_key": "software",
+    "lead": "user-priya",
+    "description": "Responsive design fixes for phones and tablets"
+  },
+  {
+    "id": "10015",
+    "key": "FORM",
+    "name": "Contact Forms",
+    "project_type_key": "software",
+    "lead": "user-priya",
+    "description": "Private event inquiry and contact form handling"
+  },
+  {
+    "id": "10016",
+    "key": "HOST",
+    "name": "Hosting & Domain",
+    "project_type_key": "software",
+    "lead": "user-priya",
+    "description": "Domain renewal, SSL, and hosting migration tasks"
+  },
+  {
+    "id": "10017",
+    "key": "REV",
+    "name": "Reviews Widget",
+    "project_type_key": "business",
+    "lead": "user-sophia",
+    "description": "Display Google and Yelp reviews on the homepage"
+  },
+  {
+    "id": "10018",
+    "key": "LOY",
+    "name": "Loyalty Program",
+    "project_type_key": "business",
+    "lead": "user-sophia",
+    "description": "Explore a regulars' loyalty and rewards program"
+  },
+  {
+    "id": "10019",
+    "key": "BKUP",
+    "name": "Backups & Security",
+    "project_type_key": "software",
+    "lead": "user-priya",
+    "description": "Automated backups and WordPress security hardening"
+  },
+  {
+    "id": "10020",
+    "key": "SOC",
+    "name": "Social Embeds",
+    "project_type_key": "business",
+    "lead": "user-sophia",
+    "description": "Instagram feed and social links integration"
+  }
+]

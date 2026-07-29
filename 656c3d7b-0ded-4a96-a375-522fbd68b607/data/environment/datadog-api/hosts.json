@@ -1,0 +1,56 @@
+[
+  {
+    "apps": "api;web;search",
+    "cpu_pct": 22.54,
+    "last_reported": 1782757318,
+    "mem_pct": 43.0,
+    "name": "web-1.haverstone-university.internal",
+    "sources": "organic",
+    "up": false
+  },
+  {
+    "apps": "auth;web;analytics",
+    "cpu_pct": 38.94,
+    "last_reported": 1782757716,
+    "mem_pct": 77.02,
+    "name": "web-2.haverstone-university.internal",
+    "sources": "organic",
+    "up": true
+  },
+  {
+    "apps": "api;web;billing",
+    "cpu_pct": 48.52,
+    "last_reported": 1782757242,
+    "mem_pct": 42.91,
+    "name": "web-3.haverstone-university.internal",
+    "sources": "organic",
+    "up": true
+  },
+  {
+    "apps": "worker;analytics;ingestor",
+    "cpu_pct": 65.39,
+    "last_reported": 1782757557,
+    "mem_pct": 47.73,
+    "name": "web-4.haverstone-university.internal",
+    "sources": "organic",
+    "up": true
+  },
+  {
+    "apps": "ingestor;scheduler;notifications",
+    "cpu_pct": 72.39,
+    "last_reported": 1782757280,
+    "mem_pct": 56.41,
+    "name": "web-5.haverstone-university.internal",
+    "sources": "organic",
+    "up": true
+  },
+  {
+    "apps": "ingestor;scheduler;notifications",
+    "cpu_pct": 37.81,
+    "last_reported": 1782757590,
+    "mem_pct": 23.21,
+    "name": "web-6.haverstone-university.internal",
+    "sources": "organic",
+    "up": false
+  }
+]

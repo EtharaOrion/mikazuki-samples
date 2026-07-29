@@ -1,0 +1,167 @@
+[
+  {
+    "altname": "XBTUSD",
+    "base": "XXBT",
+    "lot_decimals": 8,
+    "ordermin": "0.0001",
+    "pair": "XXBTZUSD",
+    "pair_decimals": 1,
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "XBT/USD"
+  },
+  {
+    "altname": "ETHUSD",
+    "base": "XETH",
+    "lot_decimals": 8,
+    "ordermin": "0.0001",
+    "pair": "XETHZUSD",
+    "pair_decimals": 1,
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "ETH/USD"
+  },
+  {
+    "altname": "SOLUSD",
+    "base": "SOL",
+    "lot_decimals": 8,
+    "ordermin": "0.0001",
+    "pair": "SOLUSD",
+    "pair_decimals": 1,
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "SOL/USD"
+  },
+  {
+    "altname": "ADAUSD",
+    "base": "ADA",
+    "lot_decimals": 8,
+    "ordermin": "0.0001",
+    "pair": "ADAUSD",
+    "pair_decimals": 1,
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "ADA/USD"
+  },
+  {
+    "altname": "DOTUSD",
+    "base": "DOT",
+    "lot_decimals": 8,
+    "ordermin": "0.0001",
+    "pair": "DOTUSD",
+    "pair_decimals": 1,
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "DOT/USD"
+  },
+  {
+    "altname": "LINKUSD",
+    "base": "LINK",
+    "lot_decimals": 8,
+    "ordermin": "0.0001",
+    "pair": "LINKUSD",
+    "pair_decimals": 1,
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "LINK/USD"
+  },
+  {
+    "altname": "AVAXUSD",
+    "base": "AVAX",
+    "lot_decimals": 8,
+    "ordermin": "0.0001",
+    "pair": "AVAXUSD",
+    "pair_decimals": 1,
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "AVAX/USD"
+  },
+  {
+    "altname": "MATICUSD",
+    "base": "MATIC",
+    "lot_decimals": 8,
+    "ordermin": "0.0001",
+    "pair": "MATICUSD",
+    "pair_decimals": 1,
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "MATIC/USD"
+  },
+  {
+    "altname": "ATOMUSD",
+    "base": "ATOM",
+    "lot_decimals": 8,
+    "ordermin": "0.0001",
+    "pair": "ATOMUSD",
+    "pair_decimals": 1,
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "ATOM/USD"
+  },
+  {
+    "altname": "LTCUSD",
+    "base": "LTC",
+    "lot_decimals": 8,
+    "ordermin": "0.0001",
+    "pair": "LTCUSD",
+    "pair_decimals": 1,
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "LTC/USD"
+  },
+  {
+    "altname": "UNIUSD",
+    "base": "UNI",
+    "lot_decimals": 8,
+    "ordermin": "0.0001",
+    "pair": "UNIUSD",
+    "pair_decimals": 1,
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "UNI/USD"
+  },
+  {
+    "altname": "ALGOUSD",
+    "base": "ALGO",
+    "lot_decimals": 8,
+    "ordermin": "0.0001",
+    "pair": "ALGOUSD",
+    "pair_decimals": 1,
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "ALGO/USD"
+  },
+  {
+    "altname": "FILUSD",
+    "base": "FIL",
+    "lot_decimals": 8,
+    "ordermin": "0.0001",
+    "pair": "FILUSD",
+    "pair_decimals": 1,
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "FIL/USD"
+  },
+  {
+    "altname": "XRPUSD",
+    "base": "XRP",
+    "lot_decimals": 8,
+    "ordermin": "0.0001",
+    "pair": "XRPUSD",
+    "pair_decimals": 1,
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "XRP/USD"
+  },
+  {
+    "altname": "BCHUSD",
+    "base": "BCH",
+    "lot_decimals": 8,
+    "ordermin": "0.0001",
+    "pair": "BCHUSD",
+    "pair_decimals": 1,
+    "quote": "ZUSD",
+    "status": "online",
+    "wsname": "BCH/USD"
+  }
+]

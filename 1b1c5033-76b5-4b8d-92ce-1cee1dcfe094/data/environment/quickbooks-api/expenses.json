@@ -1,0 +1,282 @@
+[
+  {
+    "Id": "8001",
+    "Line": [
+      {
+        "Amount": 224.04,
+        "Description": "Office supplies — director's office"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-05-11T00:00:00-00:00"
+    },
+    "TotalAmt": 224.04,
+    "TxnDate": "2024-02-17"
+  },
+  {
+    "Id": "8002",
+    "Line": [
+      {
+        "Amount": 365.01,
+        "Description": "Conservation materials — works on paper"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-09-09T00:00:00-00:00"
+    },
+    "TotalAmt": 365.01,
+    "TxnDate": "2024-02-28"
+  },
+  {
+    "Id": "8003",
+    "Line": [
+      {
+        "Amount": 536.76,
+        "Description": "Travel — ministerial meeting transport"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-08T00:00:00-00:00"
+    },
+    "TotalAmt": 536.76,
+    "TxnDate": "2024-03-10"
+  },
+  {
+    "Id": "8004",
+    "Line": [
+      {
+        "Amount": 273.33,
+        "Description": "Catering — board meeting lunch"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-08T00:00:00-00:00"
+    },
+    "TotalAmt": 273.33,
+    "TxnDate": "2024-03-21"
+  },
+  {
+    "Id": "8005",
+    "Line": [
+      {
+        "Amount": 311.87,
+        "Description": "Subscription — Wiener Kurier digital"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-03-09T00:00:00-00:00"
+    },
+    "TotalAmt": 311.87,
+    "TxnDate": "2024-04-01"
+  },
+  {
+    "Id": "8006",
+    "Line": [
+      {
+        "Amount": 245.84,
+        "Description": "Subscription — The Art Review annual"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-01-08T00:00:00-00:00"
+    },
+    "TotalAmt": 245.84,
+    "TxnDate": "2024-04-12"
+  },
+  {
+    "Id": "8001-2",
+    "Line": [
+      {
+        "Amount": 224.04,
+        "Description": "Reference books — Secession scholarship"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-05T00:00:00-00:00"
+    },
+    "TotalAmt": 224.04,
+    "TxnDate": "2025-04-06"
+  },
+  {
+    "Id": "8001-3",
+    "Line": [
+      {
+        "Amount": 365.01,
+        "Description": "Printing — board pack Q4"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-05-05T00:00:00-00:00"
+    },
+    "TotalAmt": 365.01,
+    "TxnDate": "2026-03-09"
+  },
+  {
+    "Id": "8001-4",
+    "Line": [
+      {
+        "Amount": 536.76,
+        "Description": "Translation — loan agreement DE/EN"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-11-03T00:00:00-00:00"
+    },
+    "TotalAmt": 536.76,
+    "TxnDate": "2026-02-11"
+  },
+  {
+    "Id": "8001-5",
+    "Line": [
+      {
+        "Amount": 273.33,
+        "Description": "Hospitality — peer director visit"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-03T00:00:00-00:00"
+    },
+    "TotalAmt": 273.33,
+    "TxnDate": "2024-07-13"
+  },
+  {
+    "Id": "8001-6",
+    "Line": [
+      {
+        "Amount": 311.87,
+        "Description": "Office supplies — director's office"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-05-03T00:00:00-00:00"
+    },
+    "TotalAmt": 311.87,
+    "TxnDate": "2025-06-15"
+  },
+  {
+    "Id": "8001-7",
+    "Line": [
+      {
+        "Amount": 245.84,
+        "Description": "Conservation materials — works on paper"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-11-03T00:00:00-00:00"
+    },
+    "TotalAmt": 245.84,
+    "TxnDate": "2026-11-17"
+  },
+  {
+    "Id": "8001-8",
+    "Line": [
+      {
+        "Amount": 224.04,
+        "Description": "Travel — ministerial meeting transport"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-10-31T00:00:00-00:00"
+    },
+    "TotalAmt": 224.04,
+    "TxnDate": "2026-10-20"
+  },
+  {
+    "Id": "8001-9",
+    "Line": [
+      {
+        "Amount": 365.01,
+        "Description": "Catering — board meeting lunch"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-31T00:00:00-00:00"
+    },
+    "TotalAmt": 365.01,
+    "TxnDate": "2024-09-21"
+  },
+  {
+    "Id": "8001-10",
+    "Line": [
+      {
+        "Amount": 536.76,
+        "Description": "Subscription — Wiener Kurier digital"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-04-30T00:00:00-00:00"
+    },
+    "TotalAmt": 536.76,
+    "TxnDate": "2025-08-24"
+  },
+  {
+    "Id": "8001-11",
+    "Line": [
+      {
+        "Amount": 273.33,
+        "Description": "Subscription — The Art Review annual"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-10-29T00:00:00-00:00"
+    },
+    "TotalAmt": 273.33,
+    "TxnDate": "2026-01-26"
+  },
+  {
+    "Id": "8001-12",
+    "Line": [
+      {
+        "Amount": 311.87,
+        "Description": "Reference books — Secession scholarship"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-29T00:00:00-00:00"
+    },
+    "TotalAmt": 311.87,
+    "TxnDate": "2026-12-29"
+  },
+  {
+    "Id": "8001-13",
+    "Line": [
+      {
+        "Amount": 245.84,
+        "Description": "Printing — board pack Q4"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2025-04-28T00:00:00-00:00"
+    },
+    "TotalAmt": 245.84,
+    "TxnDate": "2024-11-30"
+  },
+  {
+    "Id": "8001-14",
+    "Line": [
+      {
+        "Amount": 224.04,
+        "Description": "Translation — loan agreement DE/EN"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2026-10-28T00:00:00-00:00"
+    },
+    "TotalAmt": 224.04,
+    "TxnDate": "2025-11-02"
+  },
+  {
+    "Id": "8001-15",
+    "Line": [
+      {
+        "Amount": 365.01,
+        "Description": "Hospitality — peer director visit"
+      }
+    ],
+    "MetaData": {
+      "CreateTime": "2024-10-26T00:00:00-00:00"
+    },
+    "TotalAmt": 365.01,
+    "TxnDate": "2026-10-06"
+  }
+]

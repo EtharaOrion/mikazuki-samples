@@ -1,0 +1,142 @@
+[
+  {
+    "description": "Long-form blog posts",
+    "displayField": "title",
+    "fields_json": "[{\"id\":\"title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"type\":\"RichText\",\"required\":false}]",
+    "id": "ct-blog-post",
+    "name": "Blog post"
+  },
+  {
+    "description": "Author byline",
+    "displayField": "name",
+    "fields_json": "[{\"id\":\"name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"type\":\"Text\",\"required\":false}]",
+    "id": "ct-author",
+    "name": "Author"
+  },
+  {
+    "description": "Marketing landing pages",
+    "displayField": "title",
+    "fields_json": "[{\"id\":\"title\",\"type\":\"Symbol\"},{\"id\":\"hero\",\"type\":\"Symbol\"},{\"id\":\"cta_label\",\"type\":\"Symbol\"}]",
+    "id": "ct-page",
+    "name": "Landing page"
+  },
+  {
+    "description": "Long-form blog posts",
+    "displayField": "title",
+    "fields_json": "[{\"id\":\"title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"type\":\"RichText\",\"required\":false}]",
+    "id": "ct-blog-post-2",
+    "name": "Blog post"
+  },
+  {
+    "description": "Author byline",
+    "displayField": "name",
+    "fields_json": "[{\"id\":\"name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"type\":\"Text\",\"required\":false}]",
+    "id": "ct-blog-post-3",
+    "name": "Author"
+  },
+  {
+    "description": "Marketing landing pages",
+    "displayField": "title",
+    "fields_json": "[{\"id\":\"title\",\"type\":\"Symbol\"},{\"id\":\"hero\",\"type\":\"Symbol\"},{\"id\":\"cta_label\",\"type\":\"Symbol\"}]",
+    "id": "ct-blog-post-4",
+    "name": "Landing page"
+  },
+  {
+    "description": "Long-form blog posts",
+    "displayField": "title",
+    "fields_json": "[{\"id\":\"title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"type\":\"RichText\",\"required\":false}]",
+    "id": "ct-blog-post-5",
+    "name": "Blog post"
+  },
+  {
+    "description": "Author byline",
+    "displayField": "name",
+    "fields_json": "[{\"id\":\"name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"type\":\"Text\",\"required\":false}]",
+    "id": "ct-blog-post-6",
+    "name": "Author"
+  },
+  {
+    "description": "Marketing landing pages",
+    "displayField": "title",
+    "fields_json": "[{\"id\":\"title\",\"type\":\"Symbol\"},{\"id\":\"hero\",\"type\":\"Symbol\"},{\"id\":\"cta_label\",\"type\":\"Symbol\"}]",
+    "id": "ct-blog-post-7",
+    "name": "Landing page"
+  },
+  {
+    "description": "Long-form blog posts",
+    "displayField": "title",
+    "fields_json": "[{\"id\":\"title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"type\":\"RichText\",\"required\":false}]",
+    "id": "ct-blog-post-8",
+    "name": "Blog post"
+  },
+  {
+    "description": "Author byline",
+    "displayField": "name",
+    "fields_json": "[{\"id\":\"name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"type\":\"Text\",\"required\":false}]",
+    "id": "ct-blog-post-9",
+    "name": "Author"
+  },
+  {
+    "description": "Marketing landing pages",
+    "displayField": "title",
+    "fields_json": "[{\"id\":\"title\",\"type\":\"Symbol\"},{\"id\":\"hero\",\"type\":\"Symbol\"},{\"id\":\"cta_label\",\"type\":\"Symbol\"}]",
+    "id": "ct-blog-post-10",
+    "name": "Landing page"
+  },
+  {
+    "description": "Long-form blog posts",
+    "displayField": "title",
+    "fields_json": "[{\"id\":\"title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"type\":\"RichText\",\"required\":false}]",
+    "id": "ct-blog-post-11",
+    "name": "Blog post"
+  },
+  {
+    "description": "Author byline",
+    "displayField": "name",
+    "fields_json": "[{\"id\":\"name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"type\":\"Text\",\"required\":false}]",
+    "id": "ct-blog-post-12",
+    "name": "Author"
+  },
+  {
+    "description": "Marketing landing pages",
+    "displayField": "title",
+    "fields_json": "[{\"id\":\"title\",\"type\":\"Symbol\"},{\"id\":\"hero\",\"type\":\"Symbol\"},{\"id\":\"cta_label\",\"type\":\"Symbol\"}]",
+    "id": "ct-blog-post-13",
+    "name": "Landing page"
+  },
+  {
+    "description": "Long-form blog posts",
+    "displayField": "title",
+    "fields_json": "[{\"id\":\"title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"type\":\"RichText\",\"required\":false}]",
+    "id": "ct-blog-post-14",
+    "name": "Blog post"
+  },
+  {
+    "description": "Author byline",
+    "displayField": "name",
+    "fields_json": "[{\"id\":\"name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"type\":\"Text\",\"required\":false}]",
+    "id": "ct-blog-post-15",
+    "name": "Author"
+  },
+  {
+    "description": "Marketing landing pages",
+    "displayField": "title",
+    "fields_json": "[{\"id\":\"title\",\"type\":\"Symbol\"},{\"id\":\"hero\",\"type\":\"Symbol\"},{\"id\":\"cta_label\",\"type\":\"Symbol\"}]",
+    "id": "ct-blog-post-16",
+    "name": "Landing page"
+  },
+  {
+    "description": "Long-form blog posts",
+    "displayField": "title",
+    "fields_json": "[{\"id\":\"title\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"slug\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"body\",\"type\":\"RichText\",\"required\":false}]",
+    "id": "ct-blog-post-17",
+    "name": "Blog post"
+  },
+  {
+    "description": "Author byline",
+    "displayField": "name",
+    "fields_json": "[{\"id\":\"name\",\"type\":\"Symbol\",\"required\":true},{\"id\":\"bio\",\"type\":\"Text\",\"required\":false}]",
+    "id": "ct-blog-post-18",
+    "name": "Author"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "event_id": "mp_00000000",
+    "event": "client_intake_submitted",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1791172800",
+    "platform": "web",
+    "country": "US",
+    "utm_source": "website",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000001",
+    "event": "engagement_letter_sent",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1791345600",
+    "platform": "ios",
+    "country": "US",
+    "utm_source": "newsletter",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000002",
+    "event": "retainer_received",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1791518400",
+    "platform": "web",
+    "country": "US",
+    "utm_source": "referral",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000003",
+    "event": "mediation_scheduled",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1791777600",
+    "platform": "ios",
+    "country": "US",
+    "utm_source": "direct",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000004",
+    "event": "court_date_added",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1791950400",
+    "platform": "web",
+    "country": "US",
+    "utm_source": "biscayne_bar",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000005",
+    "event": "calendar_event_created",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1792123200",
+    "platform": "ios",
+    "country": "US",
+    "utm_source": "aaml",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000006",
+    "event": "time_entry_logged",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1792382400",
+    "platform": "web",
+    "country": "US",
+    "utm_source": "palmetto",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000007",
+    "event": "invoice_generated",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1792555200",
+    "platform": "ios",
+    "country": "US",
+    "utm_source": "probono",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000008",
+    "event": "payment_received",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1792728000",
+    "platform": "web",
+    "country": "US",
+    "utm_source": "social",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000009",
+    "event": "probono_case_opened",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1792987200",
+    "platform": "ios",
+    "country": "US",
+    "utm_source": "cle",
+    "plan": "probono"
+  },
+  {
+    "event_id": "mp_00000010",
+    "event": "cle_credit_logged",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1793160000",
+    "platform": "web",
+    "country": "US",
+    "utm_source": "intake_form",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000011",
+    "event": "newsletter_opened",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1793332800",
+    "platform": "ios",
+    "country": "US",
+    "utm_source": "portal",
+    "plan": "newsletter"
+  },
+  {
+    "event_id": "mp_00000012",
+    "event": "newsletter_clicked",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1793592000",
+    "platform": "web",
+    "country": "US",
+    "utm_source": "gmail",
+    "plan": "newsletter"
+  },
+  {
+    "event_id": "mp_00000013",
+    "event": "client_portal_login",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1793764800",
+    "platform": "ios",
+    "country": "US",
+    "utm_source": "calendar",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000014",
+    "event": "document_uploaded",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1793937600",
+    "platform": "web",
+    "country": "US",
+    "utm_source": "direct",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000015",
+    "event": "document_signed",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1794196800",
+    "platform": "ios",
+    "country": "US",
+    "utm_source": "portal",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000016",
+    "event": "case_closed",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1794369600",
+    "platform": "web",
+    "country": "US",
+    "utm_source": "manual",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000017",
+    "event": "referral_received",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1794542400",
+    "platform": "ios",
+    "country": "US",
+    "utm_source": "referral",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000018",
+    "event": "retainer_replenished",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1794801600",
+    "platform": "web",
+    "country": "US",
+    "utm_source": "direct",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000019",
+    "event": "mediation_outcome_logged",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1794974400",
+    "platform": "ios",
+    "country": "US",
+    "utm_source": "mediation",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000020",
+    "event": "holiday_schedule_set",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1795147200",
+    "platform": "web",
+    "country": "US",
+    "utm_source": "manual",
+    "plan": "pro"
+  },
+  {
+    "event_id": "mp_00000021",
+    "event": "quarterly_review_completed",
+    "distinct_id": "user_michelle_brooks",
+    "time": "1795406400",
+    "platform": "ios",
+    "country": "US",
+    "utm_source": "manual",
+    "plan": "pro"
+  }
+]

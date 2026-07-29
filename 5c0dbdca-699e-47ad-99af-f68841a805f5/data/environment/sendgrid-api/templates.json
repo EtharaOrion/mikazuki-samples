@@ -1,0 +1,182 @@
+[
+  {
+    "id": "d-1a2b3c4d5e6f7081",
+    "name": "Student Welcome Email",
+    "generation": "dynamic",
+    "subject": "Welcome to Crossroads Conservatory, {{first_name}}!",
+    "html_content": "<h1>Welcome to Crossroads Conservatory of Music, {{first_name}}!</h1><p>We're so glad you're joining us in the Crossroads Arts District. Your first lesson starts {{start_date}}. Please arrive 10 minutes early. \u2014 Jessica Webb</p>",
+    "active": true,
+    "updated_at": "2026-01-10T10:00:00Z"
+  },
+  {
+    "id": "d-2b3c4d5e6f708192",
+    "name": "Enrollment Confirmation",
+    "generation": "dynamic",
+    "subject": "Enrollment confirmed \u2014 {{class_name}} at Crossroads Conservatory",
+    "html_content": "<p>Hi {{first_name}}, your enrollment in {{class_name}} is confirmed. Tuition of {{tuition}} has been received. See you in the studio!</p>",
+    "active": true,
+    "updated_at": "2026-01-10T11:30:00Z"
+  },
+  {
+    "id": "d-3c4d5e6f70819203",
+    "name": "Monthly Newsletter",
+    "generation": "dynamic",
+    "subject": "Crossroads Conservatory \u2014 {{month}} news & updates",
+    "html_content": "<h2>{{month}} at Crossroads Conservatory of Music</h2><p>{{body}}</p><p>\u2014 Jessica Webb, Founder &amp; Director</p>",
+    "active": true,
+    "updated_at": "2026-03-01T09:15:00Z"
+  },
+  {
+    "id": "d-4d5e6f7081920314",
+    "name": "5th Anniversary Showcase Announcement",
+    "generation": "dynamic",
+    "subject": "5th Anniversary Showcase \u2014 October 10 at The Phoenix",
+    "html_content": "<h2>Crossroads 5th Anniversary Showcase</h2><p>Join us for a special evening of student and faculty performances on October 10 at The Phoenix, Kansas City. Tickets available at crossroadsconservatory.com.</p>",
+    "active": true,
+    "updated_at": "2026-02-14T14:00:00Z"
+  },
+  {
+    "id": "d-5e6f708192031425",
+    "name": "Fall Enrollment Open",
+    "generation": "dynamic",
+    "subject": "Fall 2026 enrollment is now open at Crossroads Conservatory",
+    "html_content": "<p>Hi {{first_name}}, fall 2026 enrollment is open. Spots are limited \u2014 reserve yours at crossroadsconservatory.com/enroll.</p>",
+    "active": false,
+    "updated_at": "2026-03-20T08:00:00Z"
+  },
+  {
+    "id": "d-1a2b3c4d5e6f7082",
+    "name": "Winter recital rehearsal",
+    "generation": "dynamic",
+    "subject": "Welcome to Crossroads Conservatory, {{first_name}}!",
+    "html_content": "<h1>Welcome to Crossroads Conservatory of Music, {{first_name}}!</h1><p>We're so glad you're joining us in the Crossroads Arts District. Your first lesson starts {{start_date}}. Please arrive 10 minutes early. \u2014 Jessica Webb</p>",
+    "active": true,
+    "updated_at": "2026-01-10T10:00:00Z"
+  },
+  {
+    "id": "d-2b3c4d5e6f708194",
+    "name": "Student progress review",
+    "generation": "dynamic",
+    "subject": "Enrollment confirmed \u2014 {{class_name}} at Crossroads Conservatory",
+    "html_content": "<p>Hi {{first_name}}, your enrollment in {{class_name}} is confirmed. Tuition of {{tuition}} has been received. See you in the studio!</p>",
+    "active": true,
+    "updated_at": "2026-01-10T11:30:00Z"
+  },
+  {
+    "id": "d-3c4d5e6f70819206",
+    "name": "Enrollment inquiry follow-up",
+    "generation": "dynamic",
+    "subject": "Crossroads Conservatory \u2014 {{month}} news & updates",
+    "html_content": "<h2>{{month}} at Crossroads Conservatory of Music</h2><p>{{body}}</p><p>\u2014 Jessica Webb, Founder &amp; Director</p>",
+    "active": true,
+    "updated_at": "2026-03-01T09:15:00Z"
+  },
+  {
+    "id": "d-4d5e6f7081920318",
+    "name": "Monthly payroll processing",
+    "generation": "dynamic",
+    "subject": "5th Anniversary Showcase \u2014 October 10 at The Phoenix",
+    "html_content": "<h2>Crossroads 5th Anniversary Showcase</h2><p>Join us for a special evening of student and faculty performances on October 10 at The Phoenix, Kansas City. Tickets available at crossroadsconservatory.com.</p>",
+    "active": true,
+    "updated_at": "2026-02-14T14:00:00Z"
+  },
+  {
+    "id": "d-5e6f708192031430",
+    "name": "5th Anniversary Showcase planning",
+    "generation": "dynamic",
+    "subject": "Fall 2026 enrollment is now open at Crossroads Conservatory",
+    "html_content": "<p>Hi {{first_name}}, fall 2026 enrollment is open. Spots are limited \u2014 reserve yours at crossroadsconservatory.com/enroll.</p>",
+    "active": false,
+    "updated_at": "2026-03-20T08:00:00Z"
+  },
+  {
+    "id": "d-1a2b3c4d5e6f7087",
+    "name": "Summer camp registration",
+    "generation": "dynamic",
+    "subject": "Welcome to Crossroads Conservatory, {{first_name}}!",
+    "html_content": "<h1>Welcome to Crossroads Conservatory of Music, {{first_name}}!</h1><p>We're so glad you're joining us in the Crossroads Arts District. Your first lesson starts {{start_date}}. Please arrive 10 minutes early. \u2014 Jessica Webb</p>",
+    "active": true,
+    "updated_at": "2026-01-10T10:00:00Z"
+  },
+  {
+    "id": "d-2b3c4d5e6f708199",
+    "name": "Substitute coverage",
+    "generation": "dynamic",
+    "subject": "Enrollment confirmed \u2014 {{class_name}} at Crossroads Conservatory",
+    "html_content": "<p>Hi {{first_name}}, your enrollment in {{class_name}} is confirmed. Tuition of {{tuition}} has been received. See you in the studio!</p>",
+    "active": true,
+    "updated_at": "2026-01-10T11:30:00Z"
+  },
+  {
+    "id": "d-3c4d5e6f70819211",
+    "name": "Sheet music library update",
+    "generation": "dynamic",
+    "subject": "Crossroads Conservatory \u2014 {{month}} news & updates",
+    "html_content": "<h2>{{month}} at Crossroads Conservatory of Music</h2><p>{{body}}</p><p>\u2014 Jessica Webb, Founder &amp; Director</p>",
+    "active": true,
+    "updated_at": "2026-03-01T09:15:00Z"
+  },
+  {
+    "id": "d-4d5e6f7081920323",
+    "name": "Parent meeting slot",
+    "generation": "dynamic",
+    "subject": "5th Anniversary Showcase \u2014 October 10 at The Phoenix",
+    "html_content": "<h2>Crossroads 5th Anniversary Showcase</h2><p>Join us for a special evening of student and faculty performances on October 10 at The Phoenix, Kansas City. Tickets available at crossroadsconservatory.com.</p>",
+    "active": true,
+    "updated_at": "2026-02-14T14:00:00Z"
+  },
+  {
+    "id": "d-5e6f708192031435",
+    "name": "Ensemble arrangement rewrite",
+    "generation": "dynamic",
+    "subject": "Fall 2026 enrollment is now open at Crossroads Conservatory",
+    "html_content": "<p>Hi {{first_name}}, fall 2026 enrollment is open. Spots are limited \u2014 reserve yours at crossroadsconservatory.com/enroll.</p>",
+    "active": false,
+    "updated_at": "2026-03-20T08:00:00Z"
+  },
+  {
+    "id": "d-1a2b3c4d5e6f7092",
+    "name": "Recital program layout",
+    "generation": "dynamic",
+    "subject": "Welcome to Crossroads Conservatory, {{first_name}}!",
+    "html_content": "<h1>Welcome to Crossroads Conservatory of Music, {{first_name}}!</h1><p>We're so glad you're joining us in the Crossroads Arts District. Your first lesson starts {{start_date}}. Please arrive 10 minutes early. \u2014 Jessica Webb</p>",
+    "active": true,
+    "updated_at": "2026-01-10T10:00:00Z"
+  },
+  {
+    "id": "d-2b3c4d5e6f708204",
+    "name": "Quartet setlist review",
+    "generation": "dynamic",
+    "subject": "Enrollment confirmed \u2014 {{class_name}} at Crossroads Conservatory",
+    "html_content": "<p>Hi {{first_name}}, your enrollment in {{class_name}} is confirmed. Tuition of {{tuition}} has been received. See you in the studio!</p>",
+    "active": true,
+    "updated_at": "2026-01-10T11:30:00Z"
+  },
+  {
+    "id": "d-3c4d5e6f70819216",
+    "name": "Rehearsal recording listen-back",
+    "generation": "dynamic",
+    "subject": "Crossroads Conservatory \u2014 {{month}} news & updates",
+    "html_content": "<h2>{{month}} at Crossroads Conservatory of Music</h2><p>{{body}}</p><p>\u2014 Jessica Webb, Founder &amp; Director</p>",
+    "active": true,
+    "updated_at": "2026-03-01T09:15:00Z"
+  },
+  {
+    "id": "d-4d5e6f7081920328",
+    "name": "Second album pre-production notes",
+    "generation": "dynamic",
+    "subject": "5th Anniversary Showcase \u2014 October 10 at The Phoenix",
+    "html_content": "<h2>Crossroads 5th Anniversary Showcase</h2><p>Join us for a special evening of student and faculty performances on October 10 at The Phoenix, Kansas City. Tickets available at crossroadsconservatory.com.</p>",
+    "active": true,
+    "updated_at": "2026-02-14T14:00:00Z"
+  },
+  {
+    "id": "d-5e6f708192031440",
+    "name": "Venue confirmation thread",
+    "generation": "dynamic",
+    "subject": "Fall 2026 enrollment is now open at Crossroads Conservatory",
+    "html_content": "<p>Hi {{first_name}}, fall 2026 enrollment is open. Spots are limited \u2014 reserve yours at crossroadsconservatory.com/enroll.</p>",
+    "active": false,
+    "updated_at": "2026-03-20T08:00:00Z"
+  }
+]

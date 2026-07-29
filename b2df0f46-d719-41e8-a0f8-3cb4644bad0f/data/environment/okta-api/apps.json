@@ -1,0 +1,178 @@
+[
+  {
+    "created": "2026-01-05T08:00:00-05:00",
+    "id": "0oa7d53cbd3f0c0e2af31",
+    "label": "Gmail",
+    "name": "gmail",
+    "sign_on_mode": "OPENID_CONNECT",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-01-07T08:00:00-05:00",
+    "id": "0oa4924bf39b92ae05a34",
+    "label": "Google Calendar",
+    "name": "google_calendar",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-01-09T08:00:00-05:00",
+    "id": "0oae0daf39823ec1a1a78",
+    "label": "Google Drive",
+    "name": "google_drive",
+    "sign_on_mode": "OPENID_CONNECT",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-01-12T08:00:00-05:00",
+    "id": "0oa3561f3a3c5576e2ce0",
+    "label": "Slack",
+    "name": "slack",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-01-14T08:00:00-05:00",
+    "id": "0oa0cbcd4db7bd0ffc05a",
+    "label": "MS Teams",
+    "name": "ms_teams",
+    "sign_on_mode": "OPENID_CONNECT",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-01-16T08:00:00-05:00",
+    "id": "0oa4252b72e6ebcd4d4b4",
+    "label": "Zoom",
+    "name": "zoom",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-01-19T08:00:00-05:00",
+    "id": "0oab1b71398b3cdc71e2d",
+    "label": "Notion",
+    "name": "notion",
+    "sign_on_mode": "OPENID_CONNECT",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-01-21T08:00:00-05:00",
+    "id": "0oaf92aa92725095d5531",
+    "label": "Dropbox",
+    "name": "dropbox",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-01-23T08:00:00-05:00",
+    "id": "0oa3cfce651e667ab8548",
+    "label": "Box",
+    "name": "box",
+    "sign_on_mode": "OPENID_CONNECT",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-01-26T08:00:00-05:00",
+    "id": "0oa983c701912e42bba3c",
+    "label": "DocuSign",
+    "name": "docusign",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-01-28T08:00:00-05:00",
+    "id": "0oac73039fdecbf381f55",
+    "label": "Calendly",
+    "name": "calendly",
+    "sign_on_mode": "OPENID_CONNECT",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-01-30T08:00:00-05:00",
+    "id": "0oace7566d1d08cc094b7",
+    "label": "Stripe",
+    "name": "stripe",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-02-02T08:00:00-05:00",
+    "id": "0oa03362dc30038a0ccea",
+    "label": "Plaid",
+    "name": "plaid",
+    "sign_on_mode": "OPENID_CONNECT",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-02-04T08:00:00-05:00",
+    "id": "0oa8b9527ffb3d380369a",
+    "label": "QuickBooks",
+    "name": "quickbooks",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-02-06T08:00:00-05:00",
+    "id": "0oab4d48785c36047d956",
+    "label": "Xero",
+    "name": "xero",
+    "sign_on_mode": "OPENID_CONNECT",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-02-09T08:00:00-05:00",
+    "id": "0oade4bd8ef4675ebb85a",
+    "label": "HubSpot",
+    "name": "hubspot",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-02-11T08:00:00-05:00",
+    "id": "0oa58cf99a353e2a4bc5d",
+    "label": "Klaviyo",
+    "name": "klaviyo",
+    "sign_on_mode": "OPENID_CONNECT",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-02-13T08:00:00-05:00",
+    "id": "0oa3c0c18e6f97a02aedc",
+    "label": "Mailchimp",
+    "name": "mailchimp",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-02-16T08:00:00-05:00",
+    "id": "0oa4dc59b3dad493b05c6",
+    "label": "SendGrid",
+    "name": "sendgrid",
+    "sign_on_mode": "OPENID_CONNECT",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-02-18T08:00:00-05:00",
+    "id": "0oa3983159b26a23291e7",
+    "label": "Datadog",
+    "name": "datadog",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-02-20T08:00:00-05:00",
+    "id": "0oaabd09f48f77b636585",
+    "label": "Sentry",
+    "name": "sentry",
+    "sign_on_mode": "OPENID_CONNECT",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2026-02-23T08:00:00-05:00",
+    "id": "0oafde31686817fe50290",
+    "label": "WordPress",
+    "name": "wordpress",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  }
+]

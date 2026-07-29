@@ -1,0 +1,209 @@
+[
+  {
+    "id": "price_ind60_fall26",
+    "product": "prod_ind_session",
+    "unit_amount": "18500",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Individual 60 Fall 2026"
+  },
+  {
+    "id": "price_ind60_spr26",
+    "product": "prod_ind_session",
+    "unit_amount": "16000",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "false",
+    "nickname": "Individual 60 Spring 2026"
+  },
+  {
+    "id": "price_tele45_fall26",
+    "product": "prod_teletherapy",
+    "unit_amount": "14000",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Telehealth 45 Fall 2026"
+  },
+  {
+    "id": "price_group8wk_fall26",
+    "product": "prod_group_program",
+    "unit_amount": "42000",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Adult Group 8wk Fall 2026"
+  },
+  {
+    "id": "price_intake90",
+    "product": "prod_intake_assess",
+    "unit_amount": "22500",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Intake Assessment 90"
+  },
+  {
+    "id": "price_parent30",
+    "product": "prod_parent_consult",
+    "unit_amount": "9000",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Parent Consult 30"
+  },
+  {
+    "id": "price_deposit",
+    "product": "prod_deposit",
+    "unit_amount": "5000",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Booking Deposit"
+  },
+  {
+    "id": "price_misc_01",
+    "product": "prod_misc_01",
+    "unit_amount": "12900",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Monthly Care Plan"
+  },
+  {
+    "id": "price_misc_02",
+    "product": "prod_misc_02",
+    "unit_amount": "7500",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Sliding Scale A"
+  },
+  {
+    "id": "price_misc_03",
+    "product": "prod_misc_03",
+    "unit_amount": "9900",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Sliding Scale B"
+  },
+  {
+    "id": "price_misc_04",
+    "product": "prod_misc_04",
+    "unit_amount": "7000",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Late Cancel Fee"
+  },
+  {
+    "id": "price_misc_05",
+    "product": "prod_misc_05",
+    "unit_amount": "15500",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "false",
+    "nickname": "Sibling Rate"
+  },
+  {
+    "id": "price_misc_06",
+    "product": "prod_misc_06",
+    "unit_amount": "20500",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "true",
+    "nickname": "Weekend Premium"
+  },
+  {
+    "id": "price_misc_07",
+    "product": "prod_misc_07",
+    "unit_amount": "11000",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Assessment Followup"
+  },
+  {
+    "id": "price_misc_08",
+    "product": "prod_misc_08",
+    "unit_amount": "4500",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Home Visit Add On"
+  },
+  {
+    "id": "price_misc_09",
+    "product": "prod_misc_09",
+    "unit_amount": "72000",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Package of 4"
+  },
+  {
+    "id": "price_misc_10",
+    "product": "prod_misc_10",
+    "unit_amount": "138000",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Package of 8"
+  },
+  {
+    "id": "price_misc_11",
+    "product": "prod_misc_11",
+    "unit_amount": "26500",
+    "currency": "usd",
+    "recurring_interval": "month",
+    "active": "false",
+    "nickname": "Summer Intensive"
+  },
+  {
+    "id": "price_misc_12",
+    "product": "prod_misc_12",
+    "unit_amount": "3500",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Referral Credit"
+  },
+  {
+    "id": "price_misc_13",
+    "product": "prod_misc_01",
+    "unit_amount": "8500",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "No Show Fee"
+  },
+  {
+    "id": "price_misc_14",
+    "product": "prod_misc_02",
+    "unit_amount": "2900",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Materials Fee"
+  },
+  {
+    "id": "price_misc_15",
+    "product": "prod_misc_03",
+    "unit_amount": "5500",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "Group Drop In"
+  },
+  {
+    "id": "price_pkg6_web",
+    "product": "prod_ind_session",
+    "unit_amount": "38000",
+    "currency": "usd",
+    "recurring_interval": "",
+    "active": "true",
+    "nickname": "6-Session Package Web"
+  }
+]

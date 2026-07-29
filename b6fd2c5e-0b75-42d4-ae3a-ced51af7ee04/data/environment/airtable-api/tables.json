@@ -1,0 +1,23 @@
+[
+  {
+    "baseId": "appGAWMusic00001",
+    "id": "tblContacts00001",
+    "name": "Contacts",
+    "primaryFieldId": "fldContactNm0001",
+    "records_csv": "records_contacts.json"
+  },
+  {
+    "baseId": "appGAWMusic00001",
+    "id": "tblProjects00001",
+    "name": "Projects",
+    "primaryFieldId": "fldProjName00001",
+    "records_csv": "records_projects.json"
+  },
+  {
+    "baseId": "appGAWMusic00001",
+    "id": "tblTasks00001",
+    "name": "Tasks",
+    "primaryFieldId": "fldTaskName00001",
+    "records_csv": "records_tasks.json"
+  }
+]

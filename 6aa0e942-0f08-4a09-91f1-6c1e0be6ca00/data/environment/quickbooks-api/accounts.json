@@ -1,0 +1,82 @@
+[
+  {
+    "AccountSubType": "Checking",
+    "AccountType": "Bank",
+    "Active": true,
+    "Classification": "Asset",
+    "CurrentBalance": "47250.00",
+    "Description": "Operating bank account",
+    "Id": "1",
+    "Name": "Business Checking"
+  },
+  {
+    "AccountSubType": "Savings",
+    "AccountType": "Bank",
+    "Active": true,
+    "Classification": "Asset",
+    "CurrentBalance": "15000.00",
+    "Description": "Reserve savings",
+    "Id": "2",
+    "Name": "Business Savings"
+  },
+  {
+    "AccountSubType": "AccountsReceivable",
+    "AccountType": "Accounts Receivable",
+    "Active": true,
+    "Classification": "Asset",
+    "CurrentBalance": "8240.00",
+    "Description": "Trade receivables",
+    "Id": "3",
+    "Name": "Accounts Receivable"
+  },
+  {
+    "AccountSubType": "SalesOfProductIncome",
+    "AccountType": "Income",
+    "Active": true,
+    "Classification": "Revenue",
+    "CurrentBalance": "0.00",
+    "Description": "Standard sales",
+    "Id": "4",
+    "Name": "Sales Revenue"
+  },
+  {
+    "AccountSubType": "SuppliesMaterialsCogs",
+    "AccountType": "Cost of Goods Sold",
+    "Active": true,
+    "Classification": "Expense",
+    "CurrentBalance": "0.00",
+    "Description": "COGS",
+    "Id": "5",
+    "Name": "Cost of Goods Sold"
+  },
+  {
+    "AccountSubType": "OfficeGeneralAdminExpenses",
+    "AccountType": "Expense",
+    "Active": true,
+    "Classification": "Expense",
+    "CurrentBalance": "0.00",
+    "Description": "Office supplies",
+    "Id": "6",
+    "Name": "Office Supplies"
+  },
+  {
+    "AccountSubType": "SuppliesMaterials",
+    "AccountType": "Expense",
+    "Active": true,
+    "Classification": "Expense",
+    "CurrentBalance": "0.00",
+    "Description": "SaaS spend",
+    "Id": "7",
+    "Name": "Software Subscriptions"
+  },
+  {
+    "AccountSubType": "AccountsPayable",
+    "AccountType": "Accounts Payable",
+    "Active": true,
+    "Classification": "Liability",
+    "CurrentBalance": "2480.00",
+    "Description": "Trade payables",
+    "Id": "8",
+    "Name": "Accounts Payable"
+  }
+]

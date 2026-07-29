@@ -1,0 +1,218 @@
+[
+  {
+    "objectID": "prod-pot-roast",
+    "name": "Eleanor's Pot Roast",
+    "description": "Our signature dish, grandmother Eleanor's slow-braised pot roast with root vegetables",
+    "category": "Mains",
+    "brand": "Eleanor's Tavern",
+    "price": "28.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-ny-strip",
+    "name": "Grilled NY Strip",
+    "description": "12oz grilled New York strip steak with garlic mashed potatoes",
+    "category": "Mains",
+    "brand": "Eleanor's Tavern",
+    "price": "38.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-steak-sandwich",
+    "name": "Steak Sandwich",
+    "description": "Shaved steak on a toasted roll with caramelized onions",
+    "category": "Mains",
+    "brand": "Eleanor's Tavern",
+    "price": "19.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-shepherds-pie",
+    "name": "Shepherd's Pie",
+    "description": "Lamb and beef under a golden mashed potato crust",
+    "category": "Mains",
+    "brand": "Eleanor's Tavern",
+    "price": "24.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-grilled-salmon",
+    "name": "Grilled Atlantic Salmon",
+    "description": "Atlantic salmon sourced fresh from Atlantic Seafood Supply",
+    "category": "Mains",
+    "brand": "Eleanor's Tavern",
+    "price": "29.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-pan-seared-cod",
+    "name": "Pan-Seared Cod",
+    "description": "Pan-seared cod with brown butter and capers",
+    "category": "Mains",
+    "brand": "Eleanor's Tavern",
+    "price": "27.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-clay-pot-chicken",
+    "name": "Clay-Pot Chicken",
+    "description": "Slow-cooked clay-pot chicken with herbs",
+    "category": "Mains",
+    "brand": "Eleanor's Tavern",
+    "price": "26.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-tavern-burger",
+    "name": "Tavern Burger",
+    "description": "House blend burger with aged cheddar and pickles",
+    "category": "Mains",
+    "brand": "Eleanor's Tavern",
+    "price": "18.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-meatloaf",
+    "name": "Meatloaf",
+    "description": "Classic tavern meatloaf with pan gravy",
+    "category": "Mains",
+    "brand": "Eleanor's Tavern",
+    "price": "22.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-fish-and-chips",
+    "name": "Fish & Chips",
+    "description": "Beer-battered cod with hand-cut fries",
+    "category": "Mains",
+    "brand": "Eleanor's Tavern",
+    "price": "21.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-clam-chowder",
+    "name": "Clam Chowder",
+    "description": "New England-style clam chowder, cup or bowl",
+    "category": "Starters",
+    "brand": "Eleanor's Tavern",
+    "price": "13.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-tavern-wings",
+    "name": "Tavern Wings",
+    "description": "House-brined wings tossed in tavern sauce",
+    "category": "Starters",
+    "brand": "Eleanor's Tavern",
+    "price": "14.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-brussels",
+    "name": "Crispy Brussels Sprouts",
+    "description": "Crispy brussels sprouts with maple-bacon glaze",
+    "category": "Starters",
+    "brand": "Eleanor's Tavern",
+    "price": "12.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-octopus",
+    "name": "Charred Octopus",
+    "description": "Charred octopus with smoked paprika",
+    "category": "Starters",
+    "brand": "Eleanor's Tavern",
+    "price": "16.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-deviled-eggs",
+    "name": "Deviled Eggs",
+    "description": "Classic deviled eggs",
+    "category": "Starters",
+    "brand": "Eleanor's Tavern",
+    "price": "10.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-pretzel",
+    "name": "House Soft Pretzel",
+    "description": "Warm soft pretzel with beer mustard",
+    "category": "Starters",
+    "brand": "Eleanor's Tavern",
+    "price": "9.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-garlic-mashed",
+    "name": "Garlic Mashed Potatoes",
+    "description": "Creamy garlic mashed potatoes",
+    "category": "Sides",
+    "brand": "Eleanor's Tavern",
+    "price": "8.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-maple-carrots",
+    "name": "Maple Roasted Carrots",
+    "description": "Roasted carrots with maple glaze",
+    "category": "Sides",
+    "brand": "Eleanor's Tavern",
+    "price": "7.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-mac-cheese",
+    "name": "Mac & Cheese",
+    "description": "Three-cheese baked macaroni",
+    "category": "Sides",
+    "brand": "Eleanor's Tavern",
+    "price": "9.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-apple-pie",
+    "name": "House Apple Pie",
+    "description": "House-made apple pie",
+    "category": "Desserts",
+    "brand": "Eleanor's Tavern",
+    "price": "10.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-pecan-pie",
+    "name": "Bourbon Pecan Pie",
+    "description": "Pecan pie with a splash of bourbon",
+    "category": "Desserts",
+    "brand": "Eleanor's Tavern",
+    "price": "11.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-cobbler",
+    "name": "Seasonal Cobbler",
+    "description": "Cobbler made with seasonal fruit",
+    "category": "Desserts",
+    "brand": "Eleanor's Tavern",
+    "price": "10.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-the-eleanor",
+    "name": "The Eleanor",
+    "description": "Our signature bourbon cocktail",
+    "category": "Drinks",
+    "brand": "Eleanor's Tavern",
+    "price": "15.00",
+    "in_stock": "true"
+  },
+  {
+    "objectID": "prod-bourbon-flight",
+    "name": "Bourbon Flight",
+    "description": "A guided flight of American bourbons",
+    "category": "Drinks",
+    "brand": "Eleanor's Tavern",
+    "price": "22.00",
+    "in_stock": "true"
+  }
+]

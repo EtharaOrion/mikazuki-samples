@@ -1,0 +1,562 @@
+[
+  {
+    "courseId": "course_001",
+    "emailAddress": "mateo.alvarez@northridge-school.org",
+    "fullName": "Mateo Alvarez",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d28.jpg",
+    "userId": "student_0001"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "zoe.brennan@northridge-school.org",
+    "fullName": "Zoe Brennan",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d1311.jpg",
+    "userId": "student_0002"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "caleb.choi@northridge-school.org",
+    "fullName": "Caleb Choi",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d8519.jpg",
+    "userId": "student_0003"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "lily.devereux@northridge-school.org",
+    "fullName": "Lily Devereux",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d5195.jpg",
+    "userId": "student_0004"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "owen.fitzgerald@northridge-school.org",
+    "fullName": "Owen Fitzgerald",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d7485.jpg",
+    "userId": "student_0005"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "hanna.gunderson@northridge-school.org",
+    "fullName": "Hanna Gunderson",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d8694.jpg",
+    "userId": "student_0006"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "jasper.holloway@northridge-school.org",
+    "fullName": "Jasper Holloway",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d15426.jpg",
+    "userId": "student_0007"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "maya.iverson@northridge-school.org",
+    "fullName": "Maya Iverson",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d20228.jpg",
+    "userId": "student_0008"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "noah.jacobs@northridge-school.org",
+    "fullName": "Noah Jacobs",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d14802.jpg",
+    "userId": "student_0009"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "lila.kowalski@northridge-school.org",
+    "fullName": "Lila Kowalski",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d22876.jpg",
+    "userId": "student_0010"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "eli.marchetti@northridge-school.org",
+    "fullName": "Eli Marchetti",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d6819.jpg",
+    "userId": "student_0011"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "sofia.navarro@northridge-school.org",
+    "fullName": "Sofia Navarro",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d13708.jpg",
+    "userId": "student_0012"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "aria.okonkwo@northridge-school.org",
+    "fullName": "Aria Okonkwo",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d15086.jpg",
+    "userId": "student_0013"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "theo.petrakis@northridge-school.org",
+    "fullName": "Theo Petrakis",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d5170.jpg",
+    "userId": "student_0014"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "ruby.quintero@northridge-school.org",
+    "fullName": "Ruby Quintero",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d7561.jpg",
+    "userId": "student_0015"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "silas.rasmussen@northridge-school.org",
+    "fullName": "Silas Rasmussen",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d10670.jpg",
+    "userId": "student_0016"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "iris.sandoval@northridge-school.org",
+    "fullName": "Iris Sandoval",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d23569.jpg",
+    "userId": "student_0017"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "felix.tanaka@northridge-school.org",
+    "fullName": "Felix Tanaka",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d22691.jpg",
+    "userId": "student_0018"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "nora.underwood@northridge-school.org",
+    "fullName": "Nora Underwood",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d20085.jpg",
+    "userId": "student_0019"
+  },
+  {
+    "courseId": "course_001",
+    "emailAddress": "diego.velasquez@northridge-school.org",
+    "fullName": "Diego Velasquez",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d5350.jpg",
+    "userId": "student_0020"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "mateo.alvarez@northridge-school.org",
+    "fullName": "Mateo Alvarez",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d25476.jpg",
+    "userId": "student_0101"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "zoe.brennan@northridge-school.org",
+    "fullName": "Zoe Brennan",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d8229.jpg",
+    "userId": "student_0102"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "caleb.choi@northridge-school.org",
+    "fullName": "Caleb Choi",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d4989.jpg",
+    "userId": "student_0103"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "lily.devereux@northridge-school.org",
+    "fullName": "Lily Devereux",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d7957.jpg",
+    "userId": "student_0104"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "owen.fitzgerald@northridge-school.org",
+    "fullName": "Owen Fitzgerald",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d13600.jpg",
+    "userId": "student_0105"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "hanna.gunderson@northridge-school.org",
+    "fullName": "Hanna Gunderson",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d14695.jpg",
+    "userId": "student_0106"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "jasper.holloway@northridge-school.org",
+    "fullName": "Jasper Holloway",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d33871.jpg",
+    "userId": "student_0107"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "maya.iverson@northridge-school.org",
+    "fullName": "Maya Iverson",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d28793.jpg",
+    "userId": "student_0108"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "noah.jacobs@northridge-school.org",
+    "fullName": "Noah Jacobs",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d22477.jpg",
+    "userId": "student_0109"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "lila.kowalski@northridge-school.org",
+    "fullName": "Lila Kowalski",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d9319.jpg",
+    "userId": "student_0110"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "eli.marchetti@northridge-school.org",
+    "fullName": "Eli Marchetti",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d13920.jpg",
+    "userId": "student_0111"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "sofia.navarro@northridge-school.org",
+    "fullName": "Sofia Navarro",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d20619.jpg",
+    "userId": "student_0112"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "aria.okonkwo@northridge-school.org",
+    "fullName": "Aria Okonkwo",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d11862.jpg",
+    "userId": "student_0113"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "theo.petrakis@northridge-school.org",
+    "fullName": "Theo Petrakis",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d13553.jpg",
+    "userId": "student_0114"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "ruby.quintero@northridge-school.org",
+    "fullName": "Ruby Quintero",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d17709.jpg",
+    "userId": "student_0115"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "silas.rasmussen@northridge-school.org",
+    "fullName": "Silas Rasmussen",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d19611.jpg",
+    "userId": "student_0116"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "iris.sandoval@northridge-school.org",
+    "fullName": "Iris Sandoval",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d20755.jpg",
+    "userId": "student_0117"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "felix.tanaka@northridge-school.org",
+    "fullName": "Felix Tanaka",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d10979.jpg",
+    "userId": "student_0118"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "nora.underwood@northridge-school.org",
+    "fullName": "Nora Underwood",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d29.jpg",
+    "userId": "student_0119"
+  },
+  {
+    "courseId": "course_002",
+    "emailAddress": "diego.velasquez@northridge-school.org",
+    "fullName": "Diego Velasquez",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d16674.jpg",
+    "userId": "student_0120"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "mateo.alvarez@northridge-school.org",
+    "fullName": "Mateo Alvarez",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d7790.jpg",
+    "userId": "student_0201"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "zoe.brennan@northridge-school.org",
+    "fullName": "Zoe Brennan",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d16184.jpg",
+    "userId": "student_0202"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "caleb.choi@northridge-school.org",
+    "fullName": "Caleb Choi",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d10382.jpg",
+    "userId": "student_0203"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "lily.devereux@northridge-school.org",
+    "fullName": "Lily Devereux",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d5653.jpg",
+    "userId": "student_0204"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "owen.fitzgerald@northridge-school.org",
+    "fullName": "Owen Fitzgerald",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d12638.jpg",
+    "userId": "student_0205"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "hanna.gunderson@northridge-school.org",
+    "fullName": "Hanna Gunderson",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d6630.jpg",
+    "userId": "student_0206"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "jasper.holloway@northridge-school.org",
+    "fullName": "Jasper Holloway",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d11069.jpg",
+    "userId": "student_0207"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "maya.iverson@northridge-school.org",
+    "fullName": "Maya Iverson",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d11375.jpg",
+    "userId": "student_0208"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "noah.jacobs@northridge-school.org",
+    "fullName": "Noah Jacobs",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d5889.jpg",
+    "userId": "student_0209"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "lila.kowalski@northridge-school.org",
+    "fullName": "Lila Kowalski",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d17412.jpg",
+    "userId": "student_0210"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "eli.marchetti@northridge-school.org",
+    "fullName": "Eli Marchetti",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d18325.jpg",
+    "userId": "student_0211"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "sofia.navarro@northridge-school.org",
+    "fullName": "Sofia Navarro",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d12633.jpg",
+    "userId": "student_0212"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "aria.okonkwo@northridge-school.org",
+    "fullName": "Aria Okonkwo",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d12592.jpg",
+    "userId": "student_0213"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "theo.petrakis@northridge-school.org",
+    "fullName": "Theo Petrakis",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d31739.jpg",
+    "userId": "student_0214"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "ruby.quintero@northridge-school.org",
+    "fullName": "Ruby Quintero",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d14025.jpg",
+    "userId": "student_0215"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "silas.rasmussen@northridge-school.org",
+    "fullName": "Silas Rasmussen",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d15832.jpg",
+    "userId": "student_0216"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "iris.sandoval@northridge-school.org",
+    "fullName": "Iris Sandoval",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d18795.jpg",
+    "userId": "student_0217"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "felix.tanaka@northridge-school.org",
+    "fullName": "Felix Tanaka",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d20608.jpg",
+    "userId": "student_0218"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "nora.underwood@northridge-school.org",
+    "fullName": "Nora Underwood",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d12141.jpg",
+    "userId": "student_0219"
+  },
+  {
+    "courseId": "course_003",
+    "emailAddress": "diego.velasquez@northridge-school.org",
+    "fullName": "Diego Velasquez",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d17917.jpg",
+    "userId": "student_0220"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "mateo.alvarez@northridge-school.org",
+    "fullName": "Mateo Alvarez",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d31406.jpg",
+    "userId": "student_0301"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "zoe.brennan@northridge-school.org",
+    "fullName": "Zoe Brennan",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d20521.jpg",
+    "userId": "student_0302"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "caleb.choi@northridge-school.org",
+    "fullName": "Caleb Choi",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d28538.jpg",
+    "userId": "student_0303"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "lily.devereux@northridge-school.org",
+    "fullName": "Lily Devereux",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d26255.jpg",
+    "userId": "student_0304"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "owen.fitzgerald@northridge-school.org",
+    "fullName": "Owen Fitzgerald",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d17611.jpg",
+    "userId": "student_0305"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "hanna.gunderson@northridge-school.org",
+    "fullName": "Hanna Gunderson",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d33273.jpg",
+    "userId": "student_0306"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "jasper.holloway@northridge-school.org",
+    "fullName": "Jasper Holloway",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d14816.jpg",
+    "userId": "student_0307"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "maya.iverson@northridge-school.org",
+    "fullName": "Maya Iverson",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d15394.jpg",
+    "userId": "student_0308"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "noah.jacobs@northridge-school.org",
+    "fullName": "Noah Jacobs",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d16628.jpg",
+    "userId": "student_0309"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "lila.kowalski@northridge-school.org",
+    "fullName": "Lila Kowalski",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d31215.jpg",
+    "userId": "student_0310"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "eli.marchetti@northridge-school.org",
+    "fullName": "Eli Marchetti",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d21863.jpg",
+    "userId": "student_0311"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "sofia.navarro@northridge-school.org",
+    "fullName": "Sofia Navarro",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d23296.jpg",
+    "userId": "student_0312"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "aria.okonkwo@northridge-school.org",
+    "fullName": "Aria Okonkwo",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d19826.jpg",
+    "userId": "student_0313"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "theo.petrakis@northridge-school.org",
+    "fullName": "Theo Petrakis",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d20920.jpg",
+    "userId": "student_0314"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "ruby.quintero@northridge-school.org",
+    "fullName": "Ruby Quintero",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d15532.jpg",
+    "userId": "student_0315"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "silas.rasmussen@northridge-school.org",
+    "fullName": "Silas Rasmussen",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d23009.jpg",
+    "userId": "student_0316"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "iris.sandoval@northridge-school.org",
+    "fullName": "Iris Sandoval",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d24222.jpg",
+    "userId": "student_0317"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "felix.tanaka@northridge-school.org",
+    "fullName": "Felix Tanaka",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d25012.jpg",
+    "userId": "student_0318"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "nora.underwood@northridge-school.org",
+    "fullName": "Nora Underwood",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d35825.jpg",
+    "userId": "student_0319"
+  },
+  {
+    "courseId": "course_004",
+    "emailAddress": "diego.velasquez@northridge-school.org",
+    "fullName": "Diego Velasquez",
+    "photoUrl": "https://res.cloudinary.com/haverstone/image/upload/v17827/8402daa919575d26042.jpg",
+    "userId": "student_0320"
+  }
+]

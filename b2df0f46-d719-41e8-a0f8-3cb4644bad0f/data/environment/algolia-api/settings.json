@@ -1,0 +1,142 @@
+[
+  {
+    "attributesForFaceting": "section,tags",
+    "hitsPerPage": "20",
+    "index": "pages",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "title,body,tags,section"
+  },
+  {
+    "attributesForFaceting": "category,in_stock",
+    "hitsPerPage": "12",
+    "index": "services",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "name,description,category"
+  },
+  {
+    "attributesForFaceting": "section,tags",
+    "hitsPerPage": "10",
+    "index": "blog",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "title,body,tags"
+  },
+  {
+    "attributesForFaceting": "section,tags,format",
+    "hitsPerPage": "10",
+    "index": "resources",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "title,description,tags"
+  },
+  {
+    "attributesForFaceting": "section,month",
+    "hitsPerPage": "50",
+    "index": "search_terms",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "term"
+  },
+  {
+    "attributesForFaceting": "section,city,state",
+    "hitsPerPage": "10",
+    "index": "locations",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "name,address,city,notes"
+  },
+  {
+    "attributesForFaceting": "practice_area,state",
+    "hitsPerPage": "10",
+    "index": "attorneys",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "name,practice_area,bar_number"
+  },
+  {
+    "attributesForFaceting": "topic,language",
+    "hitsPerPage": "10",
+    "index": "faq",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "question,answer,topic"
+  },
+  {
+    "attributesForFaceting": "category,date_month",
+    "hitsPerPage": "12",
+    "index": "events",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "title,description,location"
+  },
+  {
+    "attributesForFaceting": "service_type,year",
+    "hitsPerPage": "6",
+    "index": "testimonials",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "author,text,service_type"
+  },
+  {
+    "attributesForFaceting": "role",
+    "hitsPerPage": "10",
+    "index": "team",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "name,title,bio"
+  },
+  {
+    "attributesForFaceting": "category",
+    "hitsPerPage": "10",
+    "index": "practice_areas",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "name,description,keywords"
+  },
+  {
+    "attributesForFaceting": "topic,year,credit_type",
+    "hitsPerPage": "20",
+    "index": "cle_library",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "title,provider,topic"
+  },
+  {
+    "attributesForFaceting": "court,category",
+    "hitsPerPage": "20",
+    "index": "court_forms",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "form_number,title,description"
+  },
+  {
+    "attributesForFaceting": "category,language",
+    "hitsPerPage": "20",
+    "index": "glossary",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "term,definition"
+  },
+  {
+    "attributesForFaceting": "year,journal",
+    "hitsPerPage": "10",
+    "index": "publications",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "title,author,abstract"
+  },
+  {
+    "attributesForFaceting": "specialty,county",
+    "hitsPerPage": "10",
+    "index": "referral_partners",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "name,firm,specialty"
+  },
+  {
+    "attributesForFaceting": "month,year",
+    "hitsPerPage": "12",
+    "index": "newsletters",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "title,content,date"
+  },
+  {
+    "attributesForFaceting": "matter_type,status",
+    "hitsPerPage": "20",
+    "index": "intake_submissions",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "matter_type,notes"
+  },
+  {
+    "attributesForFaceting": "matter_type,partner_org",
+    "hitsPerPage": "20",
+    "index": "pro_bono_cases",
+    "ranking": "typo,geo,words,filters,proximity,attribute,exact,custom",
+    "searchableAttributes": "matter_type,service_area,notes"
+  }
+]

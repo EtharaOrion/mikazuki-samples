@@ -1,0 +1,142 @@
+[
+  {
+    "escalation_policy_id": "EP001",
+    "name": "Platform On-Call",
+    "num_loops": 2,
+    "tier1_user_id": "PU004",
+    "tier2_user_id": "PU001"
+  },
+  {
+    "escalation_policy_id": "EP002",
+    "name": "Billing On-Call",
+    "num_loops": 1,
+    "tier1_user_id": "PU002",
+    "tier2_user_id": "PU005"
+  },
+  {
+    "escalation_policy_id": "EP001-0002",
+    "name": "Platform On-Call",
+    "num_loops": 2,
+    "tier1_user_id": "PU004-0002",
+    "tier2_user_id": "PU001-0002"
+  },
+  {
+    "escalation_policy_id": "EP002-0003",
+    "name": "Billing On-Call",
+    "num_loops": 1,
+    "tier1_user_id": "PU002-0003",
+    "tier2_user_id": "PU005-0003"
+  },
+  {
+    "escalation_policy_id": "EP001-0004",
+    "name": "Platform On-Call",
+    "num_loops": 2,
+    "tier1_user_id": "PU004-0004",
+    "tier2_user_id": "PU001-0004"
+  },
+  {
+    "escalation_policy_id": "EP002-0005",
+    "name": "Billing On-Call",
+    "num_loops": 1,
+    "tier1_user_id": "PU002-0005",
+    "tier2_user_id": "PU005-0005"
+  },
+  {
+    "escalation_policy_id": "EP001-0006",
+    "name": "Platform On-Call",
+    "num_loops": 2,
+    "tier1_user_id": "PU004-0006",
+    "tier2_user_id": "PU001-0006"
+  },
+  {
+    "escalation_policy_id": "EP002-0007",
+    "name": "Billing On-Call",
+    "num_loops": 1,
+    "tier1_user_id": "PU002-0007",
+    "tier2_user_id": "PU005-0007"
+  },
+  {
+    "escalation_policy_id": "EP001-0008",
+    "name": "Platform On-Call",
+    "num_loops": 2,
+    "tier1_user_id": "PU004-0008",
+    "tier2_user_id": "PU001-0008"
+  },
+  {
+    "escalation_policy_id": "EP002-0009",
+    "name": "Billing On-Call",
+    "num_loops": 1,
+    "tier1_user_id": "PU002-0009",
+    "tier2_user_id": "PU005-0009"
+  },
+  {
+    "escalation_policy_id": "EP001-0010",
+    "name": "Platform On-Call",
+    "num_loops": 2,
+    "tier1_user_id": "PU004-0010",
+    "tier2_user_id": "PU001-0010"
+  },
+  {
+    "escalation_policy_id": "EP002-0011",
+    "name": "Billing On-Call",
+    "num_loops": 1,
+    "tier1_user_id": "PU002-0011",
+    "tier2_user_id": "PU005-0011"
+  },
+  {
+    "escalation_policy_id": "EP001-0012",
+    "name": "Platform On-Call",
+    "num_loops": 2,
+    "tier1_user_id": "PU004-0012",
+    "tier2_user_id": "PU001-0012"
+  },
+  {
+    "escalation_policy_id": "EP002-0013",
+    "name": "Billing On-Call",
+    "num_loops": 1,
+    "tier1_user_id": "PU002-0013",
+    "tier2_user_id": "PU005-0013"
+  },
+  {
+    "escalation_policy_id": "EP001-0014",
+    "name": "Platform On-Call",
+    "num_loops": 2,
+    "tier1_user_id": "PU004-0014",
+    "tier2_user_id": "PU001-0014"
+  },
+  {
+    "escalation_policy_id": "EP002-0015",
+    "name": "Billing On-Call",
+    "num_loops": 1,
+    "tier1_user_id": "PU002-0015",
+    "tier2_user_id": "PU005-0015"
+  },
+  {
+    "escalation_policy_id": "EP001-0016",
+    "name": "Platform On-Call",
+    "num_loops": 2,
+    "tier1_user_id": "PU004-0016",
+    "tier2_user_id": "PU001-0016"
+  },
+  {
+    "escalation_policy_id": "EP002-0017",
+    "name": "Billing On-Call",
+    "num_loops": 1,
+    "tier1_user_id": "PU002-0017",
+    "tier2_user_id": "PU005-0017"
+  },
+  {
+    "escalation_policy_id": "EP001-0018",
+    "name": "Platform On-Call",
+    "num_loops": 2,
+    "tier1_user_id": "PU004-0018",
+    "tier2_user_id": "PU001-0018"
+  },
+  {
+    "escalation_policy_id": "EP002-0019",
+    "name": "Billing On-Call",
+    "num_loops": 1,
+    "tier1_user_id": "PU002-0019",
+    "tier2_user_id": "PU005-0019"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "date_created": "2024-12-11T00:00:00.000Z",
+    "environment": "production",
+    "event_id": "cfcd208495d565ef66e7dff9f98764da",
+    "id": "1000000",
+    "issue_id": "900000",
+    "message": "Add health check endpoint to data pipeline",
+    "platform": "node",
+    "release": "v2024.10.0",
+    "user_email": "joyce.padilla@Finthesiss.ai"
+  },
+  {
+    "date_created": "2024-12-22T00:00:00.000Z",
+    "environment": "staging",
+    "event_id": "c4ca4238a0b923820dcc509a6f75849b",
+    "id": "1000001",
+    "issue_id": "900000",
+    "message": "Add health check endpoint to data pipeline",
+    "platform": "python",
+    "release": "v2025.10.0",
+    "user_email": "joyce.padilla@Finthesiss.ai"
+  },
+  {
+    "date_created": "2025-01-02T00:00:00.000Z",
+    "environment": "production",
+    "event_id": "d3d9446802a44259755d38e6d163e820",
+    "id": "1000010",
+    "issue_id": "900001",
+    "message": "Onboarding flow stalls on email step",
+    "platform": "python",
+    "release": "v2024.10.0",
+    "user_email": "joyce.padilla@Finthesiss.ai"
+  },
+  {
+    "date_created": "2025-01-13T00:00:00.000Z",
+    "environment": "staging",
+    "event_id": "6512bd43d9caa6e02c990b0a82652dca",
+    "id": "1000011",
+    "issue_id": "900001",
+    "message": "Onboarding flow stalls on email step",
+    "platform": "node",
+    "release": "v2025.10.0",
+    "user_email": "joyce.padilla@Finthesiss.ai"
+  },
+  {
+    "date_created": "2025-01-24T00:00:00.000Z",
+    "environment": "production",
+    "event_id": "98f13708210194c475687be6106a3b84",
+    "id": "1000020",
+    "issue_id": "900002",
+    "message": "Update auth library to patch CVE",
+    "platform": "python",
+    "release": "v2024.10.0",
+    "user_email": "joyce.padilla@Finthesiss.ai"
+  },
+  {
+    "date_created": "2025-02-04T00:00:00.000Z",
+    "environment": "staging",
+    "event_id": "3c59dc048e8850243be8079a5c74d079",
+    "id": "1000021",
+    "issue_id": "900002",
+    "message": "Update auth library to patch CVE",
+    "platform": "python",
+    "release": "v2025.10.0",
+    "user_email": "joyce.padilla@Finthesiss.ai"
+  },
+  {
+    "date_created": "2025-02-15T00:00:00.000Z",
+    "environment": "staging",
+    "event_id": "34173cb38f07f89ddbebc2ac9128303f",
+    "id": "1000030",
+    "issue_id": "900003",
+    "message": "Add dark mode tokens to design system",
+    "platform": "python",
+    "release": "v2024.10.0",
+    "user_email": "joyce.padilla@Finthesiss.ai"
+  },
+  {
+    "date_created": "2025-02-26T00:00:00.000Z",
+    "environment": "production",
+    "event_id": "c16a5320fa475530d9583c34fd356ef5",
+    "id": "1000031",
+    "issue_id": "900003",
+    "message": "Add dark mode tokens to design system",
+    "platform": "node",
+    "release": "v2025.10.0",
+    "user_email": "joyce.padilla@Finthesiss.ai"
+  },
+  {
+    "date_created": "2026-10-13T00:00:00.000Z",
+    "environment": "production",
+    "event_id": "cfcd208495d565ef66e7dff9f98764da-2",
+    "id": "1000000",
+    "issue_id": "900000",
+    "message": "Add health check endpoint to data pipeline",
+    "platform": "node",
+    "release": "v2024.10.0",
+    "user_email": "sabine.kainz.963@kunsthistorisches-museum.at"
+  },
+  {
+    "date_created": "2026-03-15T00:00:00.000Z",
+    "environment": "staging",
+    "event_id": "cfcd208495d565ef66e7dff9f98764da-3",
+    "id": "1000000",
+    "issue_id": "900000",
+    "message": "Add health check endpoint to data pipeline",
+    "platform": "python",
+    "release": "v2025.10.0",
+    "user_email": "tobias.gruber.080@kunsthistorisches-museum.at"
+  },
+  {
+    "date_created": "2024-08-17T00:00:00.000Z",
+    "environment": "production",
+    "event_id": "cfcd208495d565ef66e7dff9f98764da-4",
+    "id": "1000000",
+    "issue_id": "900000",
+    "message": "Onboarding flow stalls on email step",
+    "platform": "python",
+    "release": "v2024.10.0",
+    "user_email": "daniel.rieger.197@kunsthistorisches-museum.at"
+  },
+  {
+    "date_created": "2025-07-20T00:00:00.000Z",
+    "environment": "staging",
+    "event_id": "cfcd208495d565ef66e7dff9f98764da-5",
+    "id": "1000000",
+    "issue_id": "900000",
+    "message": "Onboarding flow stalls on email step",
+    "platform": "node",
+    "release": "v2025.10.0",
+    "user_email": "doris.weiss.314@kunsthistorisches-museum.at"
+  },
+  {
+    "date_created": "2026-12-22T00:00:00.000Z",
+    "environment": "production",
+    "event_id": "cfcd208495d565ef66e7dff9f98764da-6",
+    "id": "1000000",
+    "issue_id": "900000",
+    "message": "Update auth library to patch CVE",
+    "platform": "python",
+    "release": "v2024.10.0",
+    "user_email": "hans.sommer.431@kunsthistorisches-museum.at"
+  },
+  {
+    "date_created": "2025-11-24T00:00:00.000Z",
+    "environment": "staging",
+    "event_id": "cfcd208495d565ef66e7dff9f98764da-7",
+    "id": "1000000",
+    "issue_id": "900000",
+    "message": "Update auth library to patch CVE",
+    "platform": "python",
+    "release": "v2025.10.0",
+    "user_email": "michael.schmid.548@kunsthistorisches-museum.at"
+  },
+  {
+    "date_created": "2024-10-26T00:00:00.000Z",
+    "environment": "staging",
+    "event_id": "cfcd208495d565ef66e7dff9f98764da-8",
+    "id": "1000000",
+    "issue_id": "900000",
+    "message": "Add dark mode tokens to design system",
+    "platform": "python",
+    "release": "v2024.10.0",
+    "user_email": "helga.bauer.665@kunsthistorisches-museum.at"
+  },
+  {
+    "date_created": "2025-09-28T00:00:00.000Z",
+    "environment": "production",
+    "event_id": "cfcd208495d565ef66e7dff9f98764da-9",
+    "id": "1000000",
+    "issue_id": "900000",
+    "message": "Add dark mode tokens to design system",
+    "platform": "node",
+    "release": "v2025.10.0",
+    "user_email": "martin.hofmann.782@kunsthistorisches-museum.at"
+  },
+  {
+    "date_created": "2026-03-02T00:00:00.000Z",
+    "environment": "production",
+    "event_id": "cfcd208495d565ef66e7dff9f98764da-10",
+    "id": "1000000",
+    "issue_id": "900000",
+    "message": "Add health check endpoint to data pipeline",
+    "platform": "node",
+    "release": "v2024.10.0",
+    "user_email": "peter.reinhardt.899@kunsthistorisches-museum.at"
+  },
+  {
+    "date_created": "2024-02-02T00:00:00.000Z",
+    "environment": "staging",
+    "event_id": "cfcd208495d565ef66e7dff9f98764da-11",
+    "id": "1000000",
+    "issue_id": "900000",
+    "message": "Add health check endpoint to data pipeline",
+    "platform": "python",
+    "release": "v2025.10.0",
+    "user_email": "brigitte.pichler.016@kunsthistorisches-museum.at"
+  },
+  {
+    "date_created": "2025-01-04T00:00:00.000Z",
+    "environment": "production",
+    "event_id": "cfcd208495d565ef66e7dff9f98764da-12",
+    "id": "1000000",
+    "issue_id": "900000",
+    "message": "Onboarding flow stalls on email step",
+    "platform": "python",
+    "release": "v2024.10.0",
+    "user_email": "thomas.aichinger.133@kunsthistorisches-museum.at"
+  },
+  {
+    "date_created": "2025-12-07T00:00:00.000Z",
+    "environment": "staging",
+    "event_id": "cfcd208495d565ef66e7dff9f98764da-13",
+    "id": "1000000",
+    "issue_id": "900000",
+    "message": "Onboarding flow stalls on email step",
+    "platform": "node",
+    "release": "v2025.10.0",
+    "user_email": "anna.vogl.250@kunsthistorisches-museum.at"
+  }
+]

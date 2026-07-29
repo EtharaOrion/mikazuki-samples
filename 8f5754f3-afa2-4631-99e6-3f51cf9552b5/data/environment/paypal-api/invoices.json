@@ -1,0 +1,222 @@
+[
+  {
+    "id": "INV2-2C0X-P2S2-O8PT-4MX2",
+    "invoice_number": "INV-0001",
+    "status": "SENT",
+    "recipient_email": "bookings@steinwaygallery.com",
+    "amount_value": "5487.93",
+    "currency_code": "USD",
+    "due_date": "2024-01-13",
+    "note": "Catering invoice - Steinway Gallery opening reception"
+  },
+  {
+    "id": "INV2-KMIQ-D4X9-G7HS-FKR2",
+    "invoice_number": "INV-0002",
+    "status": "SENT",
+    "recipient_email": "ar@metrorestaurantsupply.com",
+    "amount_value": "1657.27",
+    "currency_code": "USD",
+    "due_date": "2024-02-28",
+    "note": "Dry goods invoice - Net 30"
+  },
+  {
+    "id": "INV2-2WB0-DZ6X-PYFX-OBUG",
+    "invoice_number": "INV-0003",
+    "status": "PARTIALLY_PAID",
+    "recipient_email": "info@astoriacivicassoc.org",
+    "amount_value": "6215.99",
+    "currency_code": "USD",
+    "due_date": "2024-02-12",
+    "note": "Catering invoice - Astoria Civic Association"
+  },
+  {
+    "id": "INV2-4I42-AFBQ-NJ97-1HSP",
+    "invoice_number": "INV-0004",
+    "status": "PAID",
+    "recipient_email": "frank@empiremeat.com",
+    "amount_value": "2695.36",
+    "currency_code": "USD",
+    "due_date": "2024-03-28",
+    "note": "Dry-aged beef invoice - Net 15"
+  },
+  {
+    "id": "INV2-3EH5-8B6P-JS1A-WP0L",
+    "invoice_number": "INV-0005",
+    "status": "DRAFT",
+    "recipient_email": "ar@metrorestaurantsupply.com",
+    "amount_value": "1997.38",
+    "currency_code": "USD",
+    "due_date": "2024-02-28",
+    "note": "Dry goods invoice - Net 30"
+  },
+  {
+    "id": "INV2-8669-BY4C-YXQB-WEWP",
+    "invoice_number": "INV-0006",
+    "status": "DRAFT",
+    "recipient_email": "orders@astoriabakerydairy.com",
+    "amount_value": "209.78",
+    "currency_code": "USD",
+    "due_date": "2024-11-28",
+    "note": "Daily bread & dairy - monthly statement"
+  },
+  {
+    "id": "INV2-8VL3-4LIE-3CSM-CMCU",
+    "invoice_number": "INV-0007",
+    "status": "PAID",
+    "recipient_email": "orders@astoriabakerydairy.com",
+    "amount_value": "238.70",
+    "currency_code": "USD",
+    "due_date": "2024-12-28",
+    "note": "Daily bread & dairy - monthly statement"
+  },
+  {
+    "id": "INV2-MSWD-VRHX-1Z2Y-VL55",
+    "invoice_number": "INV-0008",
+    "status": "PAID",
+    "recipient_email": "accounts@pristinelinen.com",
+    "amount_value": "301.06",
+    "currency_code": "USD",
+    "due_date": "2024-12-28",
+    "note": "Linen service invoice - Net 15"
+  },
+  {
+    "id": "INV2-1L8S-UGFU-ST21-K2W2",
+    "invoice_number": "INV-0009",
+    "status": "PAID",
+    "recipient_email": "maria@greenmarketproduce.com",
+    "amount_value": "2136.04",
+    "currency_code": "USD",
+    "due_date": "2025-03-24",
+    "note": "Produce invoice - Net 15"
+  },
+  {
+    "id": "INV2-RDEZ-X6KB-J2CI-EPXX",
+    "invoice_number": "INV-0010",
+    "status": "SENT",
+    "recipient_email": "hr@longislandcity-cowork.com",
+    "amount_value": "4458.71",
+    "currency_code": "USD",
+    "due_date": "2025-03-28",
+    "note": "Catering invoice - LIC Cowork holiday party catering"
+  },
+  {
+    "id": "INV2-X2EI-7XZU-RPHB-L57Y",
+    "invoice_number": "INV-0011",
+    "status": "SENT",
+    "recipient_email": "frank@empiremeat.com",
+    "amount_value": "4644.62",
+    "currency_code": "USD",
+    "due_date": "2025-02-28",
+    "note": "Dry-aged beef invoice - Net 15"
+  },
+  {
+    "id": "INV2-S5MH-IE2L-2FUW-E98S",
+    "invoice_number": "INV-0012",
+    "status": "PAID",
+    "recipient_email": "billing@fiveboroughsbeverage.com",
+    "amount_value": "2889.69",
+    "currency_code": "USD",
+    "due_date": "2025-03-11",
+    "note": "Craft beer invoice - Net 15"
+  },
+  {
+    "id": "INV2-OHMI-P5BX-9X39-IFET",
+    "invoice_number": "INV-0013",
+    "status": "SENT",
+    "recipient_email": "frank@empiremeat.com",
+    "amount_value": "5057.31",
+    "currency_code": "USD",
+    "due_date": "2025-03-28",
+    "note": "Dry-aged beef invoice - Net 15"
+  },
+  {
+    "id": "INV2-EIUE-237W-I9LI-16DH",
+    "invoice_number": "INV-0014",
+    "status": "SENT",
+    "recipient_email": "ar@metrorestaurantsupply.com",
+    "amount_value": "2322.91",
+    "currency_code": "USD",
+    "due_date": "2025-10-28",
+    "note": "Dry goods invoice - Net 30"
+  },
+  {
+    "id": "INV2-OW7S-FQM9-RIT8-F6KJ",
+    "invoice_number": "INV-0015",
+    "status": "PAID",
+    "recipient_email": "frank@empiremeat.com",
+    "amount_value": "3361.58",
+    "currency_code": "USD",
+    "due_date": "2026-02-28",
+    "note": "Dry-aged beef invoice - Net 15"
+  },
+  {
+    "id": "INV2-CBFC-QN0B-58ST-4PZT",
+    "invoice_number": "INV-0016",
+    "status": "SENT",
+    "recipient_email": "orders@astoriabakerydairy.com",
+    "amount_value": "550.71",
+    "currency_code": "USD",
+    "due_date": "2026-02-28",
+    "note": "Daily bread & dairy - monthly statement"
+  },
+  {
+    "id": "INV2-3NVJ-UUWZ-IX69-GUP3",
+    "invoice_number": "INV-0017",
+    "status": "PAID",
+    "recipient_email": "frank@empiremeat.com",
+    "amount_value": "3782.58",
+    "currency_code": "USD",
+    "due_date": "2026-03-18",
+    "note": "Dry-aged beef invoice - Net 15"
+  },
+  {
+    "id": "INV2-Y0PK-UUMK-5635-T5BF",
+    "invoice_number": "INV-0018",
+    "status": "SENT",
+    "recipient_email": "frank@empiremeat.com",
+    "amount_value": "2548.52",
+    "currency_code": "USD",
+    "due_date": "2026-03-24",
+    "note": "Dry-aged beef invoice - Net 15"
+  },
+  {
+    "id": "INV2-DDS5-4S8A-G1IQ-XZXC",
+    "invoice_number": "INV-0019",
+    "status": "SENT",
+    "recipient_email": "claire@hvwineimports.com",
+    "amount_value": "2209.98",
+    "currency_code": "USD",
+    "due_date": "2026-03-28",
+    "note": "Wine order invoice - Net 30"
+  },
+  {
+    "id": "INV2-EY62-9RHI-GZXV-9XJM",
+    "invoice_number": "INV-0020",
+    "status": "SENT",
+    "recipient_email": "claire@hvwineimports.com",
+    "amount_value": "2696.33",
+    "currency_code": "USD",
+    "due_date": "2026-02-17",
+    "note": "Wine order invoice - Net 30"
+  },
+  {
+    "id": "INV2-V473-J6IU-UKZT-V668",
+    "invoice_number": "INV-0021",
+    "status": "SENT",
+    "recipient_email": "kevin@atlanticseafood.com",
+    "amount_value": "1908.73",
+    "currency_code": "USD",
+    "due_date": "2026-02-24",
+    "note": "Weekly seafood invoice - Net 7"
+  },
+  {
+    "id": "INV2-VH0T-B4QO-D4K7-YJPC",
+    "invoice_number": "INV-0022",
+    "status": "SENT",
+    "recipient_email": "accounts@pristinelinen.com",
+    "amount_value": "481.04",
+    "currency_code": "USD",
+    "due_date": "2026-03-28",
+    "note": "Linen service invoice - Net 15"
+  }
+]

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calendar owner="Joyce Padilla" timezone="Europe/Vienna" exported="2026-02-28">
+  <recurring>
+    <event title="Therapy with Dr. Lukas Mayer" recurrence="biweekly" weekday="Tuesday" start="18:00" end="19:00" category="personal"/>
+    <event title="Pilates at Studio Koerperwerk" recurrence="weekly" weekday="Monday" start="12:30" end="13:25" category="wellness"/>
+    <event title="Pilates at Studio Koerperwerk" recurrence="weekly" weekday="Thursday" start="12:30" end="13:25" category="wellness"/>
+    <event title="Saturday swim, Josefstadt Schwimmbad" recurrence="weekly" weekday="Saturday" start="08:00" end="08:50" category="wellness"/>
+    <event title="Call Gloria in Graz" recurrence="weekly" weekday="Wednesday" start="11:00" end="11:30" category="family"/>
+    <event title="Call Gloria in Graz" recurrence="weekly" weekday="Sunday" start="11:00" end="11:30" category="family"/>
+    <event title="Financial review and reconciliation" recurrence="monthly" dayOfMonth="1" category="finance"/>
+  </recurring>
+  <anniversaries>
+    <event title="Gloria's birthday" recurrence="yearly" month="2" day="2" category="family"/>
+    <event title="Quiet note for Ernesto" recurrence="yearly" month="3" day="3" category="family"/>
+    <event title="Matthias's birthday" recurrence="yearly" month="3" day="14" category="family"/>
+    <event title="Lena's birthday" recurrence="yearly" month="3" day="22" category="family"/>
+    <event title="Joyce's birthday" recurrence="yearly" month="10" day="17" category="personal"/>
+    <event title="Catalina's birthday" recurrence="yearly" month="10" day="30" category="family"/>
+    <event title="Mia's birthday" recurrence="yearly" month="11" day="11" category="family"/>
+    <event title="Felix's birthday" recurrence="yearly" month="11" day="18" category="family"/>
+    <event title="Wedding anniversary with Matthias" recurrence="yearly" month="12" day="6" category="family"/>
+  </anniversaries>
+  <upcoming>
+    <event date="2026-10-01" title="Vienna Modern opening gala" location="Osterreichisches Kunstmuseum" priority="high" category="work">
+      <note>Federal Minister attending, gown and brief logistics two weeks ahead</note>
+    </event>
+    <event date="2026-10-08" title="International press preview" location="Museum" priority="high" category="work"/>
+    <event date="2026-10-22" title="Federal Ministry budget consultation" location="BMKOES" priority="high" category="work">
+      <note>Briefing pack from Stefan due the Friday before</note>
+    </event>
+    <event date="2026-11-05" title="Board of Trustees meeting, Q4 cycle" location="Museum" priority="high" category="governance"/>
+    <event date="2026-11-07" title="European museum award jury meeting" location="Brussels" priority="medium" category="travel">
+      <note>Outbound 6 November, return 8 November</note>
+    </event>
+    <event date="2026-11-24" title="AEM Austria chapter advisory board" location="Vienna" priority="medium" category="sector"/>
+    <event date="2026-12-04" title="Vienna Modern academic symposium" location="Museum" priority="high" category="work">
+      <note>Joyce delivers the opening address</note>
+    </event>
+    <event date="2026-12-16" title="Museum annual holiday reception" location="Museum" priority="medium" category="work"/>
+    <event date="2026-12-21" endDate="2026-12-27" title="Family Christmas, Catalina and family in Vienna" location="Home" priority="high" category="family"/>
+    <event date="2027-01-14" title="Final loan negotiation call, Paris" priority="high" category="work"/>
+    <event date="2027-02-18" title="Board of Trustees meeting, Q1 cycle" location="Museum" priority="high" category="governance"/>
+    <event date="2027-03-31" title="Digitisation phase 2 completion deadline" priority="high" category="work">
+      <note>EU partner sign off and final report due</note>
+    </event>
+  </upcoming>
+</calendar>

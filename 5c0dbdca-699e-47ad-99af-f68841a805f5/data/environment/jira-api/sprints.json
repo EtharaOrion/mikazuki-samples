@@ -1,0 +1,110 @@
+[
+  {
+    "id": 101,
+    "board_id": 1,
+    "name": "CW Sprint 1",
+    "state": "closed",
+    "start_date": "2025-10-06T09:00:00Z",
+    "end_date": "2025-11-21T09:00:00Z",
+    "goal": "Initial site structure and homepage"
+  },
+  {
+    "id": 102,
+    "board_id": 1,
+    "name": "CW Sprint 2",
+    "state": "closed",
+    "start_date": "2025-11-24T09:00:00Z",
+    "end_date": "2026-01-16T09:00:00Z",
+    "goal": "Stripe deposit payments and booking form"
+  },
+  {
+    "id": 103,
+    "board_id": 1,
+    "name": "CW Sprint 3",
+    "state": "active",
+    "start_date": "2025-12-29T09:00:00Z",
+    "end_date": "2026-02-21T09:00:00Z",
+    "goal": "Booking email fix, mobile calendar, fall enrollment"
+  },
+  {
+    "id": 104,
+    "board_id": 1,
+    "name": "CW Sprint 4",
+    "state": "future",
+    "start_date": "2026-02-24T09:00:00Z",
+    "end_date": "2026-10-16T09:00:00Z",
+    "goal": "Student portal and newsletter integration"
+  },
+  {
+    "id": 106,
+    "board_id": 1,
+    "name": "Student progress review",
+    "state": "active",
+    "start_date": "2025-12-29T09:00:00Z",
+    "end_date": "2026-02-21T09:00:00Z",
+    "goal": "Booking email fix, mobile calendar, fall enrollment"
+  },
+  {
+    "id": 108,
+    "board_id": 1,
+    "name": "Enrollment inquiry follow-up",
+    "state": "future",
+    "start_date": "2026-02-24T09:00:00Z",
+    "end_date": "2026-10-16T09:00:00Z",
+    "goal": "Student portal and newsletter integration"
+  },
+  {
+    "id": 110,
+    "board_id": 1,
+    "name": "Summer camp registration",
+    "state": "active",
+    "start_date": "2025-12-29T09:00:00Z",
+    "end_date": "2026-02-21T09:00:00Z",
+    "goal": "Booking email fix, mobile calendar, fall enrollment"
+  },
+  {
+    "id": 112,
+    "board_id": 1,
+    "name": "Substitute coverage",
+    "state": "future",
+    "start_date": "2026-02-24T09:00:00Z",
+    "end_date": "2026-10-16T09:00:00Z",
+    "goal": "Student portal and newsletter integration"
+  },
+  {
+    "id": 114,
+    "board_id": 1,
+    "name": "Ensemble arrangement rewrite",
+    "state": "active",
+    "start_date": "2025-12-29T09:00:00Z",
+    "end_date": "2026-02-21T09:00:00Z",
+    "goal": "Booking email fix, mobile calendar, fall enrollment"
+  },
+  {
+    "id": 116,
+    "board_id": 1,
+    "name": "Recital program layout",
+    "state": "future",
+    "start_date": "2026-02-24T09:00:00Z",
+    "end_date": "2026-10-16T09:00:00Z",
+    "goal": "Student portal and newsletter integration"
+  },
+  {
+    "id": 118,
+    "board_id": 1,
+    "name": "Second album pre-production notes",
+    "state": "active",
+    "start_date": "2025-12-29T09:00:00Z",
+    "end_date": "2026-02-21T09:00:00Z",
+    "goal": "Booking email fix, mobile calendar, fall enrollment"
+  },
+  {
+    "id": 120,
+    "board_id": 1,
+    "name": "Venue confirmation thread",
+    "state": "future",
+    "start_date": "2026-02-24T09:00:00Z",
+    "end_date": "2026-10-16T09:00:00Z",
+    "goal": "Student portal and newsletter integration"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 801,
+    "ticket_id": 701,
+    "author_id": 602,
+    "body": "Pulled the Square records \u2014 there are two captured charges for the Bell family on Feb 17, both for the February tuition amount. Looks like the autopay ran and the parent also paid manually. Refunding the duplicate now.",
+    "public": false,
+    "created_at": "2026-02-18T11:00:00Z"
+  },
+  {
+    "id": 802,
+    "ticket_id": 701,
+    "author_id": 601,
+    "body": "Thanks Claire. Go ahead and refund the manual one and leave the autopay in place. Email Marcus to confirm and apologize for the scare.",
+    "public": false,
+    "created_at": "2026-02-18T11:30:00Z"
+  },
+  {
+    "id": 803,
+    "ticket_id": 701,
+    "author_id": 602,
+    "body": "Refund processed in Square, should land in 3-5 business days. I'll send Marcus a note and mark this solved once he confirms.",
+    "public": false,
+    "created_at": "2026-02-19T09:00:00Z"
+  },
+  {
+    "id": 804,
+    "ticket_id": 702,
+    "author_id": 604,
+    "body": "Hi \u2014 just confirming we need to move next Tuesday's 4pm lesson. Thursday would work great if there's an opening.",
+    "public": true,
+    "created_at": "2026-03-03T14:00:00Z"
+  },
+  {
+    "id": 805,
+    "ticket_id": 702,
+    "author_id": 601,
+    "body": "Hi Rebecca \u2014 no problem. I've moved her to Thursday at 4:30 that week. No makeup fee since it's a one-time swap. See you both then.",
+    "public": true,
+    "created_at": "2026-03-04T09:00:00Z"
+  },
+  {
+    "id": 806,
+    "ticket_id": 703,
+    "author_id": 603,
+    "body": "Bought two tickets for the December holiday recital but never got a confirmation email. Are my seats actually reserved?",
+    "public": true,
+    "created_at": "2026-01-12T11:00:00Z"
+  },
+  {
+    "id": 807,
+    "ticket_id": 703,
+    "author_id": 601,
+    "body": "Hi Marcus \u2014 yes, your two seats are confirmed in Square. The confirmation email got hung up on our end. You're all set for Dec 19; we'll send the program and arrival details closer to the date.",
+    "public": true,
+    "created_at": "2026-01-13T14:00:00Z"
+  },
+  {
+    "id": 808,
+    "ticket_id": 705,
+    "author_id": 606,
+    "body": "We withdrew our son after two sessions of the winter group class. What portion of the tuition can we get refunded?",
+    "public": true,
+    "created_at": "2026-01-20T13:00:00Z"
+  },
+  {
+    "id": 809,
+    "ticket_id": 705,
+    "author_id": 601,
+    "body": "Hi Hannah \u2014 our policy refunds the unused portion after the first two sessions, so you'll get 75% back. I've started the Square refund and emailed the breakdown. Sorry it didn't work out this term.",
+    "public": true,
+    "created_at": "2026-01-22T11:00:00Z"
+  },
+  {
+    "id": 810,
+    "ticket_id": 708,
+    "author_id": 604,
+    "body": "My March invoice billed 60-minute lessons but she's enrolled in 30-minute lessons. Can you fix the invoice and the autopay amount?",
+    "public": true,
+    "created_at": "2026-03-08T14:00:00Z"
+  },
+  {
+    "id": 811,
+    "ticket_id": 708,
+    "author_id": 602,
+    "body": "Hi Rebecca \u2014 you're right, the lesson length was set wrong in the system. I've corrected the invoice to the 30-minute rate, credited the difference, and updated your autopay so April bills correctly.",
+    "public": true,
+    "created_at": "2026-03-10T10:00:00Z"
+  },
+  {
+    "id": 812,
+    "ticket_id": 703,
+    "author_id": 603,
+    "body": "Claire flagged that we need a substitute for Thursday's ensemble.",
+    "public": true,
+    "created_at": "2026-01-12T11:00:00Z"
+  },
+  {
+    "id": 814,
+    "ticket_id": 703,
+    "author_id": 601,
+    "body": "Sofia asked about the winter choir concert \u2014 logistics locked in.",
+    "public": true,
+    "created_at": "2026-01-13T14:00:00Z"
+  },
+  {
+    "id": 816,
+    "ticket_id": 705,
+    "author_id": 606,
+    "body": "Frank sent notes on the Coltrane transcription \u2014 apply on Sunday.",
+    "public": true,
+    "created_at": "2026-01-20T13:00:00Z"
+  },
+  {
+    "id": 818,
+    "ticket_id": 705,
+    "author_id": 601,
+    "body": "Tomoko rescheduled the Tuesday rehearsal to 7:15.",
+    "public": true,
+    "created_at": "2026-01-22T11:00:00Z"
+  }
+]

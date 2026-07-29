@@ -1,0 +1,6 @@
+Ellen scrolled our Instagram last night and told me the grid looks like two different restaurants, and now I can't unsee it. Sophia swears everything since the end of June is shot to our style sheet, that thing lives in my documents. Go look at the posts yourself, and tell me which ones are actually off the house look. Build me a proper style guide out of our best posts while you're in there, something Sophia can shoot against so we stop having this conversation. Re-edit one of the bad ones so Daniel and Sophia can see the difference side by side instead of me explaining it again. Put the guide on a page in my Notion and drop the re-edit in my Drive. Nothing comes down off that grid without me saying so.
+
+
+---
+Workspace inputs (already staged on disk at `/root/workspace/home` or `/root/workspace/Home`):
+Save EVERY output artifact you produce under `/root/workspace/`. Files written anywhere else (including `/tmp/` and elsewhere under `/root/`) will NOT be collected as deliverables.

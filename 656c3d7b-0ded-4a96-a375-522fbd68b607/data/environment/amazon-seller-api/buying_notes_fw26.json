@@ -1,0 +1,44 @@
+{
+  "category_restrictions": {
+    "blazers_max_skus": 0,
+    "knitwear_max_skus": 0,
+    "no_leather_outerwear": false,
+    "outerwear_max_skus": 0
+  },
+  "color_exclusions": {
+    "max_black_percent_of_assortment": 0,
+    "no_neon_or_fluorescent": false,
+    "preferred_tones": [
+      "neutral"
+    ]
+  },
+  "delivery_and_timeline": {
+    "final_submission_date": "2026-04-09T13:56:00-04:00",
+    "max_lead_time_months_without_vp_approval": 0,
+    "priority_reorder_brands": [
+      "Honda"
+    ],
+    "vendor_delivery_deadline": "Netflix"
+  },
+  "fabrication_exclusions": {
+    "max_acrylic_percent": 0,
+    "max_mohair_percent": 0,
+    "no_faux_fur": false,
+    "no_fur": false
+  },
+  "notes": {
+    "korean_designers_premium_positioning": [
+      "standard"
+    ],
+    "mijeong_park_max_skus_without_sizing_confirmation": 0,
+    "total_sku_budget": 0
+  },
+  "pricing_limits": {
+    "max_category_budget_percent": 0,
+    "max_retail_cap_per_unit": 0,
+    "opening_price_point_min": 0
+  },
+  "submitted_by": "Dr. Ryan Kirkland",
+  "title": "Saturday advanced ballet class",
+  "updated": "2026-04-21T14:23:00-04:00"
+}

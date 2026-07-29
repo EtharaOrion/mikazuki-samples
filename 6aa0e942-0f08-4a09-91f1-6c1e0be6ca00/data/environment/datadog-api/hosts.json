@@ -1,0 +1,182 @@
+[
+  {
+    "apps": "api;web;search",
+    "cpu_pct": "22.54",
+    "last_reported": "1781720518",
+    "mem_pct": "43.00",
+    "name": "web-1.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "false"
+  },
+  {
+    "apps": "auth;web;analytics",
+    "cpu_pct": "38.94",
+    "last_reported": "1781720916",
+    "mem_pct": "77.02",
+    "name": "web-2.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "true"
+  },
+  {
+    "apps": "api;web;billing",
+    "cpu_pct": "48.52",
+    "last_reported": "1781720442",
+    "mem_pct": "42.91",
+    "name": "web-3.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "true"
+  },
+  {
+    "apps": "worker;analytics;ingestor",
+    "cpu_pct": "65.39",
+    "last_reported": "1781720757",
+    "mem_pct": "47.73",
+    "name": "web-4.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "true"
+  },
+  {
+    "apps": "ingestor;scheduler;notifications",
+    "cpu_pct": "72.39",
+    "last_reported": "1781720480",
+    "mem_pct": "56.41",
+    "name": "web-5.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "true"
+  },
+  {
+    "apps": "ingestor;scheduler;notifications",
+    "cpu_pct": "37.81",
+    "last_reported": "1781720790",
+    "mem_pct": "23.21",
+    "name": "web-6.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "false"
+  },
+  {
+    "apps": "api;web;search",
+    "cpu_pct": "28.54",
+    "last_reported": "1764129600",
+    "mem_pct": "50.00",
+    "name": "web-7.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "false"
+  },
+  {
+    "apps": "auth;web;analytics",
+    "cpu_pct": "41.44",
+    "last_reported": "1761364800",
+    "mem_pct": "80.52",
+    "name": "web-8.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "true"
+  },
+  {
+    "apps": "api;web;billing",
+    "cpu_pct": "56.02",
+    "last_reported": "1759032000",
+    "mem_pct": "42.91",
+    "name": "web-9.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "true"
+  },
+  {
+    "apps": "worker;analytics;ingestor",
+    "cpu_pct": "69.39",
+    "last_reported": "1766548800",
+    "mem_pct": "52.73",
+    "name": "web-10.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "true"
+  },
+  {
+    "apps": "ingestor;scheduler;notifications",
+    "cpu_pct": "72.89",
+    "last_reported": "1770177600",
+    "mem_pct": "57.91",
+    "name": "web-11.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "true"
+  },
+  {
+    "apps": "ingestor;scheduler;notifications",
+    "cpu_pct": "43.31",
+    "last_reported": "1767412800",
+    "mem_pct": "29.71",
+    "name": "web-12.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "false"
+  },
+  {
+    "apps": "api;web;search",
+    "cpu_pct": "24.54",
+    "last_reported": "1765080000",
+    "mem_pct": "46.00",
+    "name": "web-13.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "false"
+  },
+  {
+    "apps": "auth;web;analytics",
+    "cpu_pct": "45.94",
+    "last_reported": "1772596800",
+    "mem_pct": "85.02",
+    "name": "web-14.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "true"
+  },
+  {
+    "apps": "api;web;billing",
+    "cpu_pct": "52.02",
+    "last_reported": "1776225600",
+    "mem_pct": "47.41",
+    "name": "web-15.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "true"
+  },
+  {
+    "apps": "worker;analytics;ingestor",
+    "cpu_pct": "65.39",
+    "last_reported": "1773460800",
+    "mem_pct": "48.73",
+    "name": "web-16.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "true"
+  },
+  {
+    "apps": "ingestor;scheduler;notifications",
+    "cpu_pct": "77.39",
+    "last_reported": "1771128000",
+    "mem_pct": "62.41",
+    "name": "web-17.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "true"
+  },
+  {
+    "apps": "ingestor;scheduler;notifications",
+    "cpu_pct": "39.31",
+    "last_reported": "1753156800",
+    "mem_pct": "25.71",
+    "name": "web-18.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "false"
+  },
+  {
+    "apps": "api;web;search",
+    "cpu_pct": "29.04",
+    "last_reported": "1782273600",
+    "mem_pct": "50.50",
+    "name": "web-19.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "false"
+  },
+  {
+    "apps": "auth;web;analytics",
+    "cpu_pct": "41.94",
+    "last_reported": "1779508800",
+    "mem_pct": "81.02",
+    "name": "web-20.osterreichisches-kunstmuseum.internal",
+    "sources": "n/a",
+    "up": "true"
+  }
+]

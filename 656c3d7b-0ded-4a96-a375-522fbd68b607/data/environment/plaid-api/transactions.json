@@ -1,0 +1,737 @@
+[
+  {
+    "transaction_id": "txn-dorothy-langston-7d715130",
+    "account_id": "acc-dorothy-langston-sav-001",
+    "amount": -18000.0,
+    "iso_currency_code": "USD",
+    "date": "2026-10-11",
+    "name": "Wedding venue deposit transfer",
+    "merchant_name": "Tampa Bay Estate Events",
+    "category": [
+      "Transfer",
+      "Withdrawal"
+    ],
+    "pending": false,
+    "payment_channel": "online"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-bed2e594",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2025-12-02",
+    "name": "Rent deposit - Property 1 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-2ef6a677",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2025-12-02",
+    "name": "Rent deposit - Property 2 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-424ea934",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2025-12-02",
+    "name": "Rent deposit - Property 3 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-85d6f8b9",
+    "account_id": "acc-dorothy-langston-biz-001",
+    "amount": 165.0,
+    "iso_currency_code": "USD",
+    "date": "2025-12-05",
+    "name": "Toast POS Subscription",
+    "merchant_name": "Toast Inc",
+    "category": [
+      "Service",
+      "Software"
+    ],
+    "pending": false,
+    "payment_channel": "online"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-36f8d218",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-01-02",
+    "name": "Rent deposit - Property 1 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-7247a892",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-01-02",
+    "name": "Rent deposit - Property 2 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-f32ce737",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-01-02",
+    "name": "Rent deposit - Property 3 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-ca341e84",
+    "account_id": "acc-dorothy-langston-biz-001",
+    "amount": 165.0,
+    "iso_currency_code": "USD",
+    "date": "2026-01-05",
+    "name": "Toast POS Subscription",
+    "merchant_name": "Toast Inc",
+    "category": [
+      "Service",
+      "Software"
+    ],
+    "pending": false,
+    "payment_channel": "online"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-5637e068",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-02-02",
+    "name": "Rent deposit - Property 1 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-98e4c1a8",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-02-02",
+    "name": "Rent deposit - Property 2 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-67811c5e",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-02-02",
+    "name": "Rent deposit - Property 3 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-cf875280",
+    "account_id": "acc-dorothy-langston-biz-001",
+    "amount": 165.0,
+    "iso_currency_code": "USD",
+    "date": "2026-02-05",
+    "name": "Toast POS Subscription",
+    "merchant_name": "Toast Inc",
+    "category": [
+      "Service",
+      "Software"
+    ],
+    "pending": false,
+    "payment_channel": "online"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-886c2246",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-03-02",
+    "name": "Rent deposit - Property 1 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-bf8fea11",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-03-02",
+    "name": "Rent deposit - Property 2 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-2bb8bb86",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-03-02",
+    "name": "Rent deposit - Property 3 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-1aef4640",
+    "account_id": "acc-dorothy-langston-biz-001",
+    "amount": 165.0,
+    "iso_currency_code": "USD",
+    "date": "2026-03-05",
+    "name": "Toast POS Subscription",
+    "merchant_name": "Toast Inc",
+    "category": [
+      "Service",
+      "Software"
+    ],
+    "pending": false,
+    "payment_channel": "online"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-275acede",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-10-02",
+    "name": "Rent deposit - Property 1 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-820f068c",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-10-02",
+    "name": "Rent deposit - Property 2 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-2a0c531b",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-10-02",
+    "name": "Rent deposit - Property 3 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-1b4fed9e",
+    "account_id": "acc-dorothy-langston-biz-001",
+    "amount": 165.0,
+    "iso_currency_code": "USD",
+    "date": "2026-10-05",
+    "name": "Toast POS Subscription",
+    "merchant_name": "Toast Inc",
+    "category": [
+      "Service",
+      "Software"
+    ],
+    "pending": false,
+    "payment_channel": "online"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-053c81dc",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-11-02",
+    "name": "Rent deposit - Property 1 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-f45487ec",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-11-02",
+    "name": "Rent deposit - Property 2 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-774589f1",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-11-02",
+    "name": "Rent deposit - Property 3 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-118d5de0",
+    "account_id": "acc-dorothy-langston-biz-001",
+    "amount": 165.0,
+    "iso_currency_code": "USD",
+    "date": "2026-11-05",
+    "name": "Toast POS Subscription",
+    "merchant_name": "Toast Inc",
+    "category": [
+      "Service",
+      "Software"
+    ],
+    "pending": false,
+    "payment_channel": "online"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-2c55cc86",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-12-02",
+    "name": "Rent deposit - Property 1 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-82a554e0",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-12-02",
+    "name": "Rent deposit - Property 2 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-c0ed6c10",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2026-12-02",
+    "name": "Rent deposit - Property 3 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-e978e3ee",
+    "account_id": "acc-dorothy-langston-biz-001",
+    "amount": 165.0,
+    "iso_currency_code": "USD",
+    "date": "2026-12-05",
+    "name": "Toast POS Subscription",
+    "merchant_name": "Toast Inc",
+    "category": [
+      "Service",
+      "Software"
+    ],
+    "pending": false,
+    "payment_channel": "online"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-e72fd82c",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2027-01-02",
+    "name": "Rent deposit - Property 1 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-752615a8",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2027-01-02",
+    "name": "Rent deposit - Property 2 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-0151d933",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2027-01-02",
+    "name": "Rent deposit - Property 3 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-203b3074",
+    "account_id": "acc-dorothy-langston-biz-001",
+    "amount": 165.0,
+    "iso_currency_code": "USD",
+    "date": "2027-01-05",
+    "name": "Toast POS Subscription",
+    "merchant_name": "Toast Inc",
+    "category": [
+      "Service",
+      "Software"
+    ],
+    "pending": false,
+    "payment_channel": "online"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-b2c3c057",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2027-02-02",
+    "name": "Rent deposit - Property 1 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-ae16b109",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2027-02-02",
+    "name": "Rent deposit - Property 2 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-303d7e12",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2027-02-02",
+    "name": "Rent deposit - Property 3 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-6623d1db",
+    "account_id": "acc-dorothy-langston-biz-001",
+    "amount": 165.0,
+    "iso_currency_code": "USD",
+    "date": "2027-02-05",
+    "name": "Toast POS Subscription",
+    "merchant_name": "Toast Inc",
+    "category": [
+      "Service",
+      "Software"
+    ],
+    "pending": false,
+    "payment_channel": "online"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-5e258541",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2027-03-02",
+    "name": "Rent deposit - Property 1 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-ddbc54a8",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2027-03-02",
+    "name": "Rent deposit - Property 2 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-93d584f6",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2027-03-02",
+    "name": "Rent deposit - Property 3 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-21624483",
+    "account_id": "acc-dorothy-langston-biz-001",
+    "amount": 165.0,
+    "iso_currency_code": "USD",
+    "date": "2027-03-05",
+    "name": "Toast POS Subscription",
+    "merchant_name": "Toast Inc",
+    "category": [
+      "Service",
+      "Software"
+    ],
+    "pending": false,
+    "payment_channel": "online"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-c74e56ef",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2027-04-02",
+    "name": "Rent deposit - Property 1 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-20e64e69",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2027-04-02",
+    "name": "Rent deposit - Property 2 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-0ca9a4a6",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2027-04-02",
+    "name": "Rent deposit - Property 3 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-9975ae70",
+    "account_id": "acc-dorothy-langston-biz-001",
+    "amount": 165.0,
+    "iso_currency_code": "USD",
+    "date": "2027-04-05",
+    "name": "Toast POS Subscription",
+    "merchant_name": "Toast Inc",
+    "category": [
+      "Service",
+      "Software"
+    ],
+    "pending": false,
+    "payment_channel": "online"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-85dc065a",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2027-05-02",
+    "name": "Rent deposit - Property 1 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-28f37a73",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2027-05-02",
+    "name": "Rent deposit - Property 2 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-a247086a",
+    "account_id": "acc-dorothy-langston-chk-001",
+    "amount": -2450.0,
+    "iso_currency_code": "USD",
+    "date": "2027-05-02",
+    "name": "Rent deposit - Property 3 (Thornfield, NJ)",
+    "merchant_name": "DeLuca Property Services",
+    "category": [
+      "Transfer",
+      "Deposit"
+    ],
+    "pending": false,
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn-dorothy-langston-6be5ea8e",
+    "account_id": "acc-dorothy-langston-biz-001",
+    "amount": 165.0,
+    "iso_currency_code": "USD",
+    "date": "2027-05-05",
+    "name": "Toast POS Subscription",
+    "merchant_name": "Toast Inc",
+    "category": [
+      "Service",
+      "Software"
+    ],
+    "pending": false,
+    "payment_channel": "online"
+  }
+]

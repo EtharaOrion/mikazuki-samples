@@ -1,0 +1,202 @@
+[
+  {
+    "id": "pr0001aaaa",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/images/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "pr0002bbbb",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/tickets/*",
+    "setting": "ssl",
+    "value": "full",
+    "status": "active",
+    "priority": 2,
+    "created_on": "2025-10-20T10:00:00.000Z"
+  },
+  {
+    "id": "pr0003cccc",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/admin/*",
+    "setting": "security_level",
+    "value": "high",
+    "status": "active",
+    "priority": 3,
+    "created_on": "2024-10-15T10:00:00.000Z"
+  },
+  {
+    "id": "pr0001aaaa_p001",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/images/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "pr0002bbbb_p002",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/tickets/*",
+    "setting": "ssl",
+    "value": "full",
+    "status": "active",
+    "priority": 2,
+    "created_on": "2025-10-20T10:00:00.000Z"
+  },
+  {
+    "id": "pr0003cccc_p003",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/admin/*",
+    "setting": "security_level",
+    "value": "high",
+    "status": "active",
+    "priority": 3,
+    "created_on": "2024-10-15T10:00:00.000Z"
+  },
+  {
+    "id": "pr0001aaaa_p004",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/images/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "pr0002bbbb_p005",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/tickets/*",
+    "setting": "ssl",
+    "value": "full",
+    "status": "active",
+    "priority": 2,
+    "created_on": "2025-10-20T10:00:00.000Z"
+  },
+  {
+    "id": "pr0003cccc_p006",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/admin/*",
+    "setting": "security_level",
+    "value": "high",
+    "status": "active",
+    "priority": 3,
+    "created_on": "2024-10-15T10:00:00.000Z"
+  },
+  {
+    "id": "pr0001aaaa_p007",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/images/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "pr0002bbbb_p008",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/tickets/*",
+    "setting": "ssl",
+    "value": "full",
+    "status": "active",
+    "priority": 2,
+    "created_on": "2025-10-20T10:00:00.000Z"
+  },
+  {
+    "id": "pr0003cccc_p009",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/admin/*",
+    "setting": "security_level",
+    "value": "high",
+    "status": "active",
+    "priority": 3,
+    "created_on": "2024-10-15T10:00:00.000Z"
+  },
+  {
+    "id": "pr0001aaaa_p010",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/images/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "pr0002bbbb_p011",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/tickets/*",
+    "setting": "ssl",
+    "value": "full",
+    "status": "active",
+    "priority": 2,
+    "created_on": "2025-10-20T10:00:00.000Z"
+  },
+  {
+    "id": "pr0003cccc_p012",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/admin/*",
+    "setting": "security_level",
+    "value": "high",
+    "status": "active",
+    "priority": 3,
+    "created_on": "2024-10-15T10:00:00.000Z"
+  },
+  {
+    "id": "pr0001aaaa_p013",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/images/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "pr0002bbbb_p014",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/tickets/*",
+    "setting": "ssl",
+    "value": "full",
+    "status": "active",
+    "priority": 2,
+    "created_on": "2025-10-20T10:00:00.000Z"
+  },
+  {
+    "id": "pr0003cccc_p015",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/admin/*",
+    "setting": "security_level",
+    "value": "high",
+    "status": "active",
+    "priority": 3,
+    "created_on": "2024-10-15T10:00:00.000Z"
+  },
+  {
+    "id": "pr0001aaaa_p016",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/images/*",
+    "setting": "cache_level",
+    "value": "cache_everything",
+    "status": "active",
+    "priority": 1,
+    "created_on": "2024-10-10T10:00:00.000Z"
+  },
+  {
+    "id": "pr0002bbbb_p017",
+    "zone_id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6",
+    "target": "crossroadsconservatory.com/tickets/*",
+    "setting": "ssl",
+    "value": "full",
+    "status": "active",
+    "priority": 2,
+    "created_on": "2025-10-20T10:00:00.000Z"
+  }
+]

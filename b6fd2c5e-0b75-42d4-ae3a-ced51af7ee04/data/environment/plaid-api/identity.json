@@ -1,0 +1,70 @@
+{
+  "owners": {
+    "acc_chk_001": [
+      {
+        "names": [
+          "Amanda Tran"
+        ],
+        "emails": [
+          {
+            "data": "amanda.tran@Finthesiss.ai",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+16783722642",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "1847 Cascade Ridge Dr SW",
+              "city": "Atlanta",
+              "region": "GA",
+              "postal_code": "30311",
+              "country": "United States"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_sav_002": [
+      {
+        "names": [
+          "Amanda Tran"
+        ],
+        "emails": [
+          {
+            "data": "amanda.tran@Finthesiss.ai",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+16783722642",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "1847 Cascade Ridge Dr SW",
+              "city": "Atlanta",
+              "region": "GA",
+              "postal_code": "30311",
+              "country": "United States"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ]
+  }
+}

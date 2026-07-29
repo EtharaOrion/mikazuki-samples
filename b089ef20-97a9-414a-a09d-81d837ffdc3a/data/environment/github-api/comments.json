@@ -1,0 +1,162 @@
+[
+  {
+    "id": "4000001",
+    "issue_number": "107",
+    "repo": "eleanorstavern-site",
+    "user": "priya-desai",
+    "body": "Found it - the menu page wasn't in the cache purge rule. Adding it now.",
+    "created_at": "2026-02-13T10:00:00Z"
+  },
+  {
+    "id": "4000002",
+    "issue_number": "107",
+    "repo": "eleanorstavern-site",
+    "user": "carlton-mcgee",
+    "body": "Thanks Priya. Let me know when it's live so I can check the new specials.",
+    "created_at": "2026-02-14T08:30:00Z"
+  },
+  {
+    "id": "4000003",
+    "issue_number": "108",
+    "repo": "eleanorstavern-site",
+    "user": "sophia-kastner",
+    "body": "Can we use the Google Business link too, not just Yelp?",
+    "created_at": "2026-02-06T09:00:00Z"
+  },
+  {
+    "id": "4000004",
+    "issue_number": "112",
+    "repo": "eleanorstavern-menu",
+    "user": "priya-desai",
+    "body": "Pulled the GF list from the kitchen. Daniel, can you confirm the cod is GF?",
+    "created_at": "2026-01-19T11:00:00Z"
+  },
+  {
+    "id": "4000005",
+    "issue_number": "109",
+    "repo": "eleanorstavern-menu",
+    "user": "carlton-mcgee",
+    "body": "Pot roast is $28 now, the signature. Good catch.",
+    "created_at": "2025-03-15T12:00:00Z"
+  },
+  {
+    "id": "4000006",
+    "issue_number": "108",
+    "repo": "eleanorstavern-site",
+    "user": "priya-desai",
+    "body": "Done - added the Google Business profile link next to Yelp in the footer.",
+    "created_at": "2026-02-06T13:45:00Z"
+  },
+  {
+    "id": "4000007",
+    "issue_number": "112",
+    "repo": "eleanorstavern-menu",
+    "user": "daniel-mcgee",
+    "body": "Cod is GF as long as it's the grilled prep, not the beer-battered. I'll flag both.",
+    "created_at": "2026-01-19T15:20:00Z"
+  },
+  {
+    "id": "4000008",
+    "issue_number": "115",
+    "repo": "eleanorstavern-site",
+    "user": "carlton-mcgee",
+    "body": "Patio reservations should open for the spring patio season. Can we add a banner on the homepage?",
+    "created_at": "2026-03-18T09:10:00Z"
+  },
+  {
+    "id": "4000009",
+    "issue_number": "115",
+    "repo": "eleanorstavern-site",
+    "user": "priya-desai",
+    "body": "Banner's up and scheduled to auto-hide after the patio fills for the day.",
+    "created_at": "2026-03-19T11:30:00Z"
+  },
+  {
+    "id": "4000010",
+    "issue_number": "118",
+    "repo": "eleanorstavern-reservations",
+    "user": "sophia-kastner",
+    "body": "We're getting double-bookings on the 6:30 slot Fridays. Can we cap party size there?",
+    "created_at": "2026-02-22T14:00:00Z"
+  },
+  {
+    "id": "4000011",
+    "issue_number": "118",
+    "repo": "eleanorstavern-reservations",
+    "user": "priya-desai",
+    "body": "Added a max party of 8 for the 6:30 Friday slot and a 90-min table limit. Test on staging?",
+    "created_at": "2026-02-24T10:15:00Z"
+  },
+  {
+    "id": "4000012",
+    "issue_number": "118",
+    "repo": "eleanorstavern-reservations",
+    "user": "carlton-mcgee",
+    "body": "Tested with Sophia - works great. Ship it before the weekend.",
+    "created_at": "2026-02-25T16:40:00Z"
+  },
+  {
+    "id": "4000013",
+    "issue_number": "121",
+    "repo": "eleanorstavern-menu",
+    "user": "carlton-mcgee",
+    "body": "Add the Sunday jazz brunch menu as its own section. Clam chowder and the apple pie should headline.",
+    "created_at": "2026-01-30T08:50:00Z"
+  },
+  {
+    "id": "4000014",
+    "issue_number": "121",
+    "repo": "eleanorstavern-menu",
+    "user": "priya-desai",
+    "body": "Brunch section is live. I left the wine pairings out for now - send me the list when ready.",
+    "created_at": "2026-02-02T12:05:00Z"
+  },
+  {
+    "id": "4000015",
+    "issue_number": "124",
+    "repo": "eleanorstavern-site",
+    "user": "daniel-mcgee",
+    "body": "Heads up: the cod photo on the menu is last season's. New plating shot coming Thursday.",
+    "created_at": "2026-01-12T17:30:00Z"
+  },
+  {
+    "id": "4000016",
+    "issue_number": "124",
+    "repo": "eleanorstavern-site",
+    "user": "priya-desai",
+    "body": "Swapped in the new grilled cod photo and recompressed it. Page loads faster now too.",
+    "created_at": "2026-01-16T09:25:00Z"
+  },
+  {
+    "id": "4000017",
+    "issue_number": "127",
+    "repo": "eleanorstavern-reservations",
+    "user": "carlton-mcgee",
+    "body": "Closed Mondays needs to be blocked in the calendar - someone booked a Monday last week.",
+    "created_at": "2025-12-08T10:00:00Z"
+  },
+  {
+    "id": "4000018",
+    "issue_number": "127",
+    "repo": "eleanorstavern-reservations",
+    "user": "priya-desai",
+    "body": "Fixed - Mondays are now hard-blocked except for private buyouts, which need manager approval.",
+    "created_at": "2025-12-09T13:15:00Z"
+  },
+  {
+    "id": "4000019",
+    "issue_number": "130",
+    "repo": "eleanorstavern-site",
+    "user": "sophia-kastner",
+    "body": "Gift card page checkout is throwing an error on Safari. A few guests emailed about it.",
+    "created_at": "2025-11-28T15:45:00Z"
+  },
+  {
+    "id": "4000020",
+    "issue_number": "130",
+    "repo": "eleanorstavern-site",
+    "user": "priya-desai",
+    "body": "Reproduced on Safari - it was the date picker. Patched and verified. Thanks for the report Sophia.",
+    "created_at": "2025-11-30T11:20:00Z"
+  }
+]

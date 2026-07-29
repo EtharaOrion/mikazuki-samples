@@ -1,0 +1,302 @@
+{
+  "doorbots": [
+    {
+      "id": 987001,
+      "description": "Front Door",
+      "device_id": "doorbell_front_door",
+      "address": "4112 Pennsylvania Ave",
+      "kind": "lpd_v2",
+      "firmware_version": "3.22.8",
+      "battery_life": 88,
+      "external_connection": true,
+      "latitude": 39.0525,
+      "longitude": -94.5921,
+      "location_id": "loc_westport_001",
+      "time_zone": "America/Chicago",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": true,
+        "shadow_correction_enabled": true,
+        "motion_message_enabled": true
+      },
+      "motion_snooze": null,
+      "ring_snooze": null,
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Jessica",
+        "last_name": "Webb"
+      },
+      "led_status": "on",
+      "night_mode_status": "enabled",
+      "settings": {
+        "doorbell_volume": 8,
+        "chime_settings": {
+          "type": "mechanical",
+          "enabled": true,
+          "duration": 5
+        },
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 7,
+        "people_detection_enabled": true,
+        "package_detection_enabled": true
+      },
+      "created_at": "2023-01-15T10:30:00.000Z"
+    }
+  ],
+  "stickup_cams": [
+    {
+      "id": 987002,
+      "description": "Backyard",
+      "device_id": "cam_backyard",
+      "address": "4112 Pennsylvania Ave",
+      "kind": "stickup_cam_v4",
+      "firmware_version": "3.20.5",
+      "battery_life": 92,
+      "external_connection": true,
+      "latitude": 39.0525,
+      "longitude": -94.5921,
+      "location_id": "loc_westport_001",
+      "time_zone": "America/Chicago",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": false,
+        "shadow_correction_enabled": true,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "off",
+      "night_mode_status": "disabled",
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Jessica",
+        "last_name": "Webb"
+      },
+      "settings": {
+        "motion_detection_enabled": false,
+        "motion_sensitivity": 3,
+        "people_detection_enabled": false,
+        "package_detection_enabled": false,
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "created_at": "2023-01-15T10:45:00.000Z",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": 987004,
+      "description": "Side Gate",
+      "device_id": "cam_side_gate",
+      "address": "4112 Pennsylvania Ave",
+      "kind": "stickup_cam_v4",
+      "firmware_version": "3.20.5",
+      "battery_life": "Jessica Webb",
+      "external_connection": true,
+      "latitude": 39.0525,
+      "longitude": -94.5921,
+      "location_id": "loc_westport_001",
+      "time_zone": "America/Chicago",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": false,
+        "shadow_correction_enabled": true,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "off",
+      "night_mode_status": "disabled",
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Jessica",
+        "last_name": "Webb"
+      },
+      "settings": {
+        "motion_detection_enabled": false,
+        "motion_sensitivity": 3,
+        "people_detection_enabled": false,
+        "package_detection_enabled": false,
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "created_at": "2023-02-20T14:10:00.000Z",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": 987005,
+      "description": "Garage Walk",
+      "device_id": "cam_garage_walk",
+      "address": "4112 Pennsylvania Ave",
+      "kind": "stickup_cam_v4",
+      "firmware_version": "3.20.5",
+      "battery_life": "Jessica Webb",
+      "external_connection": true,
+      "latitude": 39.0525,
+      "longitude": -94.5921,
+      "location_id": "loc_westport_001",
+      "time_zone": "America/Chicago",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": false,
+        "shadow_correction_enabled": true,
+        "night_vision_enabled": true,
+        "motion_message_enabled": false
+      },
+      "motion_snooze": null,
+      "led_status": "off",
+      "night_mode_status": "disabled",
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Jessica",
+        "last_name": "Webb"
+      },
+      "settings": {
+        "motion_detection_enabled": false,
+        "motion_sensitivity": 3,
+        "people_detection_enabled": false,
+        "package_detection_enabled": false,
+        "light_on_duration_seconds": 30,
+        "light_schedule_enabled": false
+      },
+      "created_at": "2023-02-20T14:25:00.000Z",
+      "floodlight_status": {
+        "on": false
+      },
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "wifi_signal_category": "good",
+      "wifi_signal_strength": -55
+    },
+    {
+      "id": 987003,
+      "description": "Driveway",
+      "device_id": "cam_driveway",
+      "address": "4112 Pennsylvania Ave",
+      "kind": "floodlight_v2",
+      "firmware_version": "3.21.1",
+      "battery_life": 100,
+      "external_connection": true,
+      "latitude": 39.0525,
+      "longitude": -94.5921,
+      "location_id": "loc_westport_001",
+      "time_zone": "America/Chicago",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "motions_enabled": true,
+        "show_recordings": true,
+        "advanced_motion_enabled": true,
+        "people_only_enabled": true,
+        "shadow_correction_enabled": true,
+        "night_vision_enabled": true,
+        "motion_message_enabled": true
+      },
+      "motion_snooze": null,
+      "led_status": "on",
+      "night_mode_status": "enabled",
+      "siren_status": {
+        "seconds_remaining": 0
+      },
+      "floodlight_status": {
+        "on": false
+      },
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Jessica",
+        "last_name": "Webb"
+      },
+      "settings": {
+        "motion_detection_enabled": true,
+        "motion_sensitivity": 8,
+        "people_detection_enabled": true,
+        "package_detection_enabled": false,
+        "light_schedule_enabled": true,
+        "light_on_duration_seconds": 60
+      },
+      "wifi_signal_strength": -58,
+      "wifi_signal_category": "good",
+      "created_at": "2023-01-15T11:00:00.000Z"
+    }
+  ],
+  "chimes": [
+    {
+      "id": 987004,
+      "description": "Hallway Chime",
+      "device_id": "chime_hallway",
+      "address": "4112 Pennsylvania Ave",
+      "kind": "chime_pro_v2",
+      "firmware_version": "3.16.4",
+      "latitude": 39.0525,
+      "longitude": -94.5921,
+      "location_id": "loc_westport_001",
+      "time_zone": "America/Chicago",
+      "alerts": {
+        "connection": "online"
+      },
+      "features": {
+        "ringtones_enabled": true,
+        "wifi_extender_enabled": true
+      },
+      "owned": true,
+      "owner": {
+        "id": 100001,
+        "first_name": "Jessica",
+        "last_name": "Webb"
+      },
+      "settings": {
+        "volume": 6,
+        "ding_audio_id": "ring_classic",
+        "ding_audio_user_id": null,
+        "motion_audio_id": null,
+        "motion_audio_user_id": null,
+        "linked_doorbots": [
+          987001
+        ]
+      },
+      "wifi_signal_strength": -44,
+      "wifi_signal_category": "good",
+      "created_at": "2023-01-15T10:50:00.000Z"
+    }
+  ]
+}

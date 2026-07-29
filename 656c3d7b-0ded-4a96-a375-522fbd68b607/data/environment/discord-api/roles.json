@@ -1,0 +1,32 @@
+[
+  {
+    "color": 15158332,
+    "guild_id": "900100200300400001",
+    "hoist": true,
+    "id": "700100200300400001",
+    "mentionable": true,
+    "name": "Admin",
+    "permissions": "8",
+    "position": 4
+  },
+  {
+    "color": 0,
+    "guild_id": "900100200300400001",
+    "hoist": true,
+    "id": "700100200300400002",
+    "mentionable": true,
+    "name": "Member",
+    "permissions": "104324673",
+    "position": 1
+  },
+  {
+    "color": 3447003,
+    "guild_id": "900100200300400001",
+    "hoist": true,
+    "id": "700100200300400003",
+    "mentionable": true,
+    "name": "Moderator",
+    "permissions": "268435456",
+    "position": 3
+  }
+]

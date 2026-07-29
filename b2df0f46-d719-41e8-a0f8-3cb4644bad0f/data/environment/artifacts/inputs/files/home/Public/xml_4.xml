@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice_export company="Brooks Family Law PA" period="January 2026" generated="2026-02-02" software="QuickBooks Online">
+  <invoice>
+    <number>INV-2026-0104</number>
+    <date>2026-01-05</date>
+    <client>R. Castellanos</client>
+    <matter>2026-DIV-003</matter>
+    <description>Initial retainer, dissolution of marriage</description>
+    <amount>3500.00</amount>
+    <status>Paid</status>
+    <paid_date>2026-01-07</paid_date>
+  </invoice>
+  <invoice>
+    <number>INV-2026-0105</number>
+    <date>2026-01-09</date>
+    <client>T. Okafor</client>
+    <matter>2025-CUS-019</matter>
+    <description>Hourly billing, 6.8 hours at 350.00, parenting plan modification</description>
+    <amount>2380.00</amount>
+    <status>Paid</status>
+    <paid_date>2026-01-20</paid_date>
+  </invoice>
+  <invoice>
+    <number>INV-2026-0106</number>
+    <date>2026-01-14</date>
+    <client>M. Delacroix</client>
+    <matter>2026-ADO-001</matter>
+    <description>Flat fee, stepparent adoption</description>
+    <amount>2500.00</amount>
+    <status>Paid</status>
+    <paid_date>2026-01-16</paid_date>
+  </invoice>
+  <invoice>
+    <number>INV-2026-0107</number>
+    <date>2026-01-21</date>
+    <client>S. Whitaker</client>
+    <matter>2025-DIV-027</matter>
+    <description>Hourly billing, 9.2 hours at 350.00, mediation preparation and attendance</description>
+    <amount>3220.00</amount>
+    <status>Open</status>
+    <paid_date></paid_date>
+  </invoice>
+  <invoice>
+    <number>INV-2026-0108</number>
+    <date>2026-01-28</date>
+    <client>J. Marrero</client>
+    <matter>2026-PRE-001</matter>
+    <description>Flat fee, prenuptial agreement drafting and review</description>
+    <amount>1800.00</amount>
+    <status>Paid</status>
+    <paid_date>2026-01-30</paid_date>
+  </invoice>
+  <summary>
+    <total_billed>13400.00</total_billed>
+    <total_collected>10180.00</total_collected>
+    <outstanding>3220.00</outstanding>
+  </summary>
+</invoice_export>

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ven-yankee",
+    "name": "Yankee Stadium",
+    "city": "Bronx",
+    "state": "NY",
+    "country": "US",
+    "postal_code": "10451",
+    "address": "1 E 161st St",
+    "latitude": "40.8296",
+    "longitude": "-73.9262"
+  },
+  {
+    "id": "ven-citifield",
+    "name": "Citi Field",
+    "city": "Queens",
+    "state": "NY",
+    "country": "US",
+    "postal_code": "11368",
+    "address": "41 Seaver Way",
+    "latitude": "40.7571",
+    "longitude": "-73.8458"
+  },
+  {
+    "id": "ven-msg",
+    "name": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "postal_code": "10001",
+    "address": "4 Pennsylvania Plaza",
+    "latitude": "40.7505",
+    "longitude": "-73.9934"
+  },
+  {
+    "id": "ven-tdgarden",
+    "name": "TD Garden",
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "postal_code": "02114",
+    "address": "100 Legends Way",
+    "latitude": "42.3662",
+    "longitude": "-71.0621"
+  },
+  {
+    "id": "ven-fenway",
+    "name": "Fenway Park",
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "postal_code": "02215",
+    "address": "4 Jersey St",
+    "latitude": "42.3467",
+    "longitude": "-71.0972"
+  },
+  {
+    "id": "ven-majestic",
+    "name": "Majestic Theatre",
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "postal_code": "10036",
+    "address": "245 W 44th St",
+    "latitude": "40.7590",
+    "longitude": "-73.9870"
+  },
+  {
+    "id": "ven-stjames",
+    "name": "St. James Theatre",
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "postal_code": "10036",
+    "address": "246 W 44th St",
+    "latitude": "40.7588",
+    "longitude": "-73.9876"
+  },
+  {
+    "id": "ven-gillette",
+    "name": "Gillette Stadium",
+    "city": "Foxborough",
+    "state": "MA",
+    "country": "US",
+    "postal_code": "02035",
+    "address": "1 Patriot Place",
+    "latitude": "42.0909",
+    "longitude": "-71.2643"
+  },
+  {
+    "id": "ven-redbull",
+    "name": "Red Bull Arena",
+    "city": "Harrison",
+    "state": "NJ",
+    "country": "US",
+    "postal_code": "07029",
+    "address": "600 Cape May St",
+    "latitude": "40.7369",
+    "longitude": "-74.1503"
+  },
+  {
+    "id": "ven-barclays",
+    "name": "Barclays Center",
+    "city": "Brooklyn",
+    "state": "NY",
+    "country": "US",
+    "postal_code": "11217",
+    "address": "620 Atlantic Ave",
+    "latitude": "40.6826",
+    "longitude": "-73.9754"
+  },
+  {
+    "id": "ven-radiocity",
+    "name": "Radio City Music Hall",
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "postal_code": "10020",
+    "address": "1260 6th Ave",
+    "latitude": "40.7600",
+    "longitude": "-73.9799"
+  },
+  {
+    "id": "ven-beacon",
+    "name": "Beacon Theatre",
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "postal_code": "10023",
+    "address": "2124 Broadway",
+    "latitude": "40.7800",
+    "longitude": "-73.9817"
+  },
+  {
+    "id": "ven-bluenote",
+    "name": "Blue Note Jazz Club",
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "postal_code": "10011",
+    "address": "131 W 3rd St",
+    "latitude": "40.7308",
+    "longitude": "-74.0007"
+  },
+  {
+    "id": "ven-vanguard",
+    "name": "Village Vanguard",
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "postal_code": "10014",
+    "address": "178 7th Ave S",
+    "latitude": "40.7359",
+    "longitude": "-74.0021"
+  },
+  {
+    "id": "ven-foresthills",
+    "name": "Forest Hills Stadium",
+    "city": "Queens",
+    "state": "NY",
+    "country": "US",
+    "postal_code": "11375",
+    "address": "1 Tennis Pl",
+    "latitude": "40.7184",
+    "longitude": "-73.8448"
+  },
+  {
+    "id": "ven-kupferberg",
+    "name": "Kupferberg Center for the Arts",
+    "city": "Queens",
+    "state": "NY",
+    "country": "US",
+    "postal_code": "11367",
+    "address": "65-30 Kissena Blvd",
+    "latitude": "40.7370",
+    "longitude": "-73.8200"
+  },
+  {
+    "id": "ven-symphony",
+    "name": "Symphony Hall",
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "postal_code": "02115",
+    "address": "301 Massachusetts Ave",
+    "latitude": "42.3429",
+    "longitude": "-71.0857"
+  },
+  {
+    "id": "ven-wang",
+    "name": "Wang Theatre",
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "postal_code": "02116",
+    "address": "270 Tremont St",
+    "latitude": "42.3506",
+    "longitude": "-71.0644"
+  },
+  {
+    "id": "ven-mgmfenway",
+    "name": "MGM Music Hall at Fenway",
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "postal_code": "02215",
+    "address": "2 Lansdowne St",
+    "latitude": "42.3470",
+    "longitude": "-71.0958"
+  },
+  {
+    "id": "ven-ubsarena",
+    "name": "UBS Arena",
+    "city": "Elmont",
+    "state": "NY",
+    "country": "US",
+    "postal_code": "11003",
+    "address": "2400 Hempstead Tpke",
+    "latitude": "40.7106",
+    "longitude": "-73.7224"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "created_on": "2023-02-10T15:00:00.000000Z",
+    "id": "pr-bfl-always-https",
+    "priority": "1",
+    "setting": "always_use_https",
+    "status": "active",
+    "target": "*brooksfamilylaw.com/*",
+    "value": "on",
+    "zone_id": "zone-brooksfamilylaw"
+  },
+  {
+    "created_on": "2023-02-10T15:00:00.000000Z",
+    "id": "pr-bfl-cache-pages",
+    "priority": "2",
+    "setting": "cache_level",
+    "status": "active",
+    "target": "brooksfamilylaw.com/wp-content/*",
+    "value": "cache_everything",
+    "zone_id": "zone-brooksfamilylaw"
+  },
+  {
+    "created_on": "2026-02-18T06:30:00Z",
+    "id": "pr-bfl-always-https-p2",
+    "priority": "1",
+    "setting": "always_use_https",
+    "status": "active",
+    "target": "*brooksfamilylaw.com/*",
+    "value": "on",
+    "zone_id": "zone-brooksfamilylaw-p2"
+  },
+  {
+    "created_on": "2026-02-18T06:30:00Z",
+    "id": "pr-bfl-cache-pages-p3",
+    "priority": "2",
+    "setting": "cache_level",
+    "status": "active",
+    "target": "brooksfamilylaw.com/wp-content/*",
+    "value": "cache_everything",
+    "zone_id": "zone-brooksfamilylaw-p3"
+  },
+  {
+    "created_on": "2026-02-20T06:30:00Z",
+    "id": "pr-bfl-always-https-p4",
+    "priority": "1",
+    "setting": "always_use_https",
+    "status": "active",
+    "target": "*brooksfamilylaw.com/*",
+    "value": "on",
+    "zone_id": "zone-brooksfamilylaw-p4"
+  },
+  {
+    "created_on": "2026-02-20T06:30:00Z",
+    "id": "pr-bfl-cache-pages-p5",
+    "priority": "2",
+    "setting": "cache_level",
+    "status": "active",
+    "target": "brooksfamilylaw.com/wp-content/*",
+    "value": "cache_everything",
+    "zone_id": "zone-brooksfamilylaw-p5"
+  },
+  {
+    "created_on": "2026-02-18T06:30:00Z",
+    "id": "pr-bfl-always-https-p6",
+    "priority": "1",
+    "setting": "always_use_https",
+    "status": "active",
+    "target": "*brooksfamilylaw.com/*",
+    "value": "on",
+    "zone_id": "zone-brooksfamilylaw-p6"
+  },
+  {
+    "created_on": "2026-02-13T06:30:00Z",
+    "id": "pr-bfl-cache-pages-p7",
+    "priority": "2",
+    "setting": "cache_level",
+    "status": "active",
+    "target": "brooksfamilylaw.com/wp-content/*",
+    "value": "cache_everything",
+    "zone_id": "zone-brooksfamilylaw-p7"
+  },
+  {
+    "created_on": "2026-01-29T06:30:00Z",
+    "id": "pr-bfl-always-https-p8",
+    "priority": "1",
+    "setting": "always_use_https",
+    "status": "active",
+    "target": "*brooksfamilylaw.com/*",
+    "value": "on",
+    "zone_id": "zone-brooksfamilylaw-p8"
+  },
+  {
+    "created_on": "2026-02-03T06:30:00Z",
+    "id": "pr-bfl-cache-pages-p9",
+    "priority": "2",
+    "setting": "cache_level",
+    "status": "active",
+    "target": "brooksfamilylaw.com/wp-content/*",
+    "value": "cache_everything",
+    "zone_id": "zone-brooksfamilylaw-p9"
+  },
+  {
+    "created_on": "2026-02-18T06:30:00Z",
+    "id": "pr-bfl-always-https-p10",
+    "priority": "1",
+    "setting": "always_use_https",
+    "status": "active",
+    "target": "*brooksfamilylaw.com/*",
+    "value": "on",
+    "zone_id": "zone-brooksfamilylaw-p10"
+  },
+  {
+    "created_on": "2026-02-08T06:30:00Z",
+    "id": "pr-bfl-cache-pages-p11",
+    "priority": "2",
+    "setting": "cache_level",
+    "status": "active",
+    "target": "brooksfamilylaw.com/wp-content/*",
+    "value": "cache_everything",
+    "zone_id": "zone-brooksfamilylaw-p11"
+  },
+  {
+    "created_on": "2026-02-15T06:30:00Z",
+    "id": "pr-bfl-always-https-p12",
+    "priority": "1",
+    "setting": "always_use_https",
+    "status": "active",
+    "target": "*brooksfamilylaw.com/*",
+    "value": "on",
+    "zone_id": "zone-brooksfamilylaw-p12"
+  },
+  {
+    "created_on": "2026-02-11T06:30:00Z",
+    "id": "pr-bfl-cache-pages-p13",
+    "priority": "2",
+    "setting": "cache_level",
+    "status": "active",
+    "target": "brooksfamilylaw.com/wp-content/*",
+    "value": "cache_everything",
+    "zone_id": "zone-brooksfamilylaw-p13"
+  },
+  {
+    "created_on": "2026-01-29T06:30:00Z",
+    "id": "pr-bfl-always-https-p14",
+    "priority": "1",
+    "setting": "always_use_https",
+    "status": "active",
+    "target": "*brooksfamilylaw.com/*",
+    "value": "on",
+    "zone_id": "zone-brooksfamilylaw-p14"
+  },
+  {
+    "created_on": "2026-01-31T06:30:00Z",
+    "id": "pr-bfl-cache-pages-p15",
+    "priority": "2",
+    "setting": "cache_level",
+    "status": "active",
+    "target": "brooksfamilylaw.com/wp-content/*",
+    "value": "cache_everything",
+    "zone_id": "zone-brooksfamilylaw-p15"
+  },
+  {
+    "created_on": "2026-02-13T06:30:00Z",
+    "id": "pr-bfl-always-https-p16",
+    "priority": "1",
+    "setting": "always_use_https",
+    "status": "active",
+    "target": "*brooksfamilylaw.com/*",
+    "value": "on",
+    "zone_id": "zone-brooksfamilylaw-p16"
+  },
+  {
+    "created_on": "2026-02-07T06:30:00Z",
+    "id": "pr-bfl-cache-pages-p17",
+    "priority": "2",
+    "setting": "cache_level",
+    "status": "active",
+    "target": "brooksfamilylaw.com/wp-content/*",
+    "value": "cache_everything",
+    "zone_id": "zone-brooksfamilylaw-p17"
+  },
+  {
+    "created_on": "2026-02-19T06:30:00Z",
+    "id": "pr-bfl-always-https-p18",
+    "priority": "1",
+    "setting": "always_use_https",
+    "status": "active",
+    "target": "*brooksfamilylaw.com/*",
+    "value": "on",
+    "zone_id": "zone-brooksfamilylaw-p18"
+  },
+  {
+    "created_on": "2026-02-13T06:30:00Z",
+    "id": "pr-bfl-cache-pages-p19",
+    "priority": "2",
+    "setting": "cache_level",
+    "status": "active",
+    "target": "brooksfamilylaw.com/wp-content/*",
+    "value": "cache_everything",
+    "zone_id": "zone-brooksfamilylaw-p19"
+  }
+]

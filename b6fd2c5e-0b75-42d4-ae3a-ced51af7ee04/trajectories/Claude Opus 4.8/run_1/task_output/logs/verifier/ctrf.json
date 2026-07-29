@@ -1,0 +1,95 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 15,
+      "passed": 10,
+      "failed": 5,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.7097,
+      "weighted_percentage": 70.97
+    },
+    "tests": [
+      {
+        "name": "test_gmail_vendor_reply_addressed_to_caterer",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_gmail_vendor_reply_sent",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_myfitnesspal_diary_post_recorded",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_myfitnesspal_food_lookup_before_diary_post",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_myfitnesspal_tasting_plate_food_id",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_myfitnesspal_tasting_plate_log_date",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_myfitnesspal_tasting_plate_meal_slot",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_myfitnesspal_tasting_plate_product_name",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_myfitnesspal_tasting_plate_servings",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_myfitnesspal_tasting_plate_sodium_logged",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_myfitnesspal_trusts_vendor_lot_claim",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_outlook_decoy_vendor_reply",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_output_serving_card_is_png",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_output_serving_card_keeps_label_frame",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_typeform_meal_card_responses_read",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

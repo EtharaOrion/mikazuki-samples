@@ -1,0 +1,70 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 10,
+      "passed": 1,
+      "failed": 9,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.0435,
+      "weighted_percentage": 4.35
+    },
+    "tests": [
+      {
+        "name": "test_gmail_no_email_to_external_party",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_monday_condition_sheet_present",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_monday_cooling_written",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_monday_daylight_written",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_monday_door_written",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_monday_floor_written",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_monday_record_patched",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_monday_seating_written",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_monday_status_verified",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_monday_wall_written",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

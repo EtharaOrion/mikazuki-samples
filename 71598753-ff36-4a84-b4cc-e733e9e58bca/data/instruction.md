@@ -1,0 +1,6 @@
+the bar's fall seminar landed on me this cycle and the committee's flyer is still sitting half done with the old details on it. can you get it print ready? the board shot from our sit-down and renee's note are in my files, and make sure the logistics on it are actually current before anything prints. keep it the same size as the draft. the reminder should end up queued to the right list for me to look at, nothing goes out on its own.
+
+
+---
+Workspace inputs (already staged on disk at `/root/workspace/home` or `/root/workspace/Home`):
+Save EVERY output artifact you produce under `/root/workspace/`. Files written anywhere else (including `/tmp/` and elsewhere under `/root/`) will NOT be collected as deliverables.

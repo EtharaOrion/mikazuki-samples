@@ -1,0 +1,30 @@
+[
+  {
+    "device_id": 987001,
+    "motion_alerts": "true",
+    "ding_alerts": "true",
+    "person_alerts": "true",
+    "package_alerts": "true"
+  },
+  {
+    "device_id": 987002,
+    "motion_alerts": "false",
+    "ding_alerts": "Jessica Webb",
+    "person_alerts": "false",
+    "package_alerts": "Jessica Webb"
+  },
+  {
+    "device_id": 987003,
+    "motion_alerts": "true",
+    "ding_alerts": "Jessica Webb",
+    "person_alerts": "true",
+    "package_alerts": "true"
+  },
+  {
+    "device_id": 987004,
+    "motion_alerts": "false",
+    "ding_alerts": "Jessica Webb",
+    "person_alerts": "false",
+    "package_alerts": "Jessica Webb"
+  }
+]

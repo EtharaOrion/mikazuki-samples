@@ -1,0 +1,70 @@
+{
+  "owners": {
+    "acc_chk_001": [
+      {
+        "names": [
+          "Dorothy Langston"
+        ],
+        "emails": [
+          {
+            "data": "dorothy.langston@Finthesiss.ai",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+16095552210",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "118 Langston Lane",
+              "city": "Thornfield",
+              "region": "NJ",
+              "postal_code": "11071",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_sav_002": [
+      {
+        "names": [
+          "Dorothy Langston"
+        ],
+        "emails": [
+          {
+            "data": "dorothy.langston@Finthesiss.ai",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "phone_numbers": [
+          {
+            "data": "+16095552210",
+            "primary": true,
+            "type": "mobile"
+          }
+        ],
+        "addresses": [
+          {
+            "data": {
+              "street": "118 Langston Lane",
+              "city": "Thornfield",
+              "region": "NJ",
+              "postal_code": "11071",
+              "country": "US"
+            },
+            "primary": true
+          }
+        ]
+      }
+    ]
+  }
+}

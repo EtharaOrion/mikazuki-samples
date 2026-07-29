@@ -1,0 +1,47 @@
+[
+  {
+    "id": "d-00000000000004",
+    "name": "welcome",
+    "generation": "dynamic",
+    "subject": "Welcome to Bridgeport Avenue Elementary (Hartford Public Schools), {{first_name}}!",
+    "html_content": "<h1>Welcome {{first_name}}</h1><p>Glad to have you at Bridgeport Avenue Elementary (Hartford Public Schools).</p>",
+    "active": "true",
+    "updated_at": "2026-05-30T15:51:46+00:00"
+  },
+  {
+    "id": "d-00000000000008",
+    "name": "password-reset",
+    "generation": "dynamic",
+    "subject": "Reset your Bridgeport Avenue Elementary (Hartford Public Schools) password",
+    "html_content": "<p>Click <a href='{{reset_url}}'>here</a> to reset.</p>",
+    "active": "true",
+    "updated_at": "2026-06-11T03:11:12+00:00"
+  },
+  {
+    "id": "d-0000000000000d",
+    "name": "monthly-news",
+    "generation": "dynamic",
+    "subject": "Bridgeport Avenue Elementary (Hartford Public Schools) - {{month}} highlights",
+    "html_content": "<h2>{{month}} Newsletter</h2><p>{{body}}</p>",
+    "active": "true",
+    "updated_at": "2026-06-21T19:59:12+00:00"
+  },
+  {
+    "id": "d-00000000000011",
+    "name": "invoice",
+    "generation": "dynamic",
+    "subject": "Your receipt for invoice {{invoice_id}}",
+    "html_content": "<p>Thanks for your payment of {{amount}}.</p>",
+    "active": "true",
+    "updated_at": "2026-06-26T10:01:24+00:00"
+  },
+  {
+    "id": "d-00000000000015",
+    "name": "trial-end",
+    "generation": "dynamic",
+    "subject": "Your trial ends in {{days}} days",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "active": "true",
+    "updated_at": "2026-06-30T08:38:05+00:00"
+  }
+]

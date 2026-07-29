@@ -1,0 +1,422 @@
+[
+  {
+    "Id": "4001",
+    "TxnDate": "2025-02-28",
+    "CustomerRef": {
+      "value": "15",
+      "name": "The Bautista Family"
+    },
+    "TotalAmt": 6600.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7001",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 6600.0
+      }
+    ],
+    "PrivateNote": "Paid in full - check"
+  },
+  {
+    "Id": "4002",
+    "TxnDate": "2025-12-05",
+    "CustomerRef": {
+      "value": "13",
+      "name": "Vincent Caruso"
+    },
+    "TotalAmt": 3585.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7002",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 3585.0
+      }
+    ],
+    "PrivateNote": "Paid in full - corporate card"
+  },
+  {
+    "Id": "4003",
+    "TxnDate": "2025-12-18",
+    "CustomerRef": {
+      "value": "12",
+      "name": "Stephanie Wu"
+    },
+    "TotalAmt": 3200.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7003",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 3200.0
+      }
+    ],
+    "PrivateNote": "Deposit on holiday dinner - balance pending"
+  },
+  {
+    "Id": "4004",
+    "TxnDate": "2026-02-10",
+    "CustomerRef": {
+      "value": "22",
+      "name": "Steinway Little League"
+    },
+    "TotalAmt": 3100.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7004",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 3100.0
+      }
+    ],
+    "PrivateNote": "Paid in full - check"
+  },
+  {
+    "Id": "4005",
+    "TxnDate": "2026-03-05",
+    "CustomerRef": {
+      "value": "16",
+      "name": "Greg Lindqvist"
+    },
+    "TotalAmt": 600.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7005",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 600.0
+      }
+    ],
+    "PrivateNote": "Deposit - Lindqvist firm dinner"
+  },
+  {
+    "Id": "4006",
+    "TxnDate": "2026-02-12",
+    "CustomerRef": {
+      "value": "23",
+      "name": "Kaufman Astoria Studios"
+    },
+    "TotalAmt": 2625.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7007",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 2625.0
+      }
+    ],
+    "PrivateNote": "Deposit - Kaufman wrap party"
+  },
+  {
+    "Id": "4007",
+    "TxnDate": "2026-03-04",
+    "CustomerRef": {
+      "value": "23",
+      "name": "Kaufman Astoria Studios"
+    },
+    "TotalAmt": 1100.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7007",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 1100.0
+      }
+    ],
+    "PrivateNote": "Second installment - Kaufman wrap party"
+  },
+  {
+    "Id": "4008",
+    "TxnDate": "2026-02-14",
+    "CustomerRef": {
+      "value": "20",
+      "name": "The Ramirez Party"
+    },
+    "TotalAmt": 2795.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7008",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 2795.0
+      }
+    ],
+    "PrivateNote": "Paid in full - Ramirez 40th"
+  },
+  {
+    "Id": "4009",
+    "TxnDate": "2026-03-05",
+    "CustomerRef": {
+      "value": "1",
+      "name": "The Hendersons"
+    },
+    "TotalAmt": 114.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7401",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 114.0
+      }
+    ],
+    "PrivateNote": "Visa - settled same night"
+  },
+  {
+    "Id": "4010",
+    "TxnDate": "2026-03-06",
+    "CustomerRef": {
+      "value": "4",
+      "name": "Dr. Michael Anderson"
+    },
+    "TotalAmt": 72.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7402",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 72.0
+      }
+    ],
+    "PrivateNote": "Venmo - settled same night"
+  },
+  {
+    "Id": "4011",
+    "TxnDate": "2026-03-07",
+    "CustomerRef": {
+      "value": "3",
+      "name": "The Pappas Family"
+    },
+    "TotalAmt": 158.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7403",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 158.0
+      }
+    ],
+    "PrivateNote": "Cash - settled same night"
+  },
+  {
+    "Id": "4012",
+    "TxnDate": "2026-03-12",
+    "CustomerRef": {
+      "value": "18",
+      "name": "The Whitman Couple"
+    },
+    "TotalAmt": 97.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7404",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 97.0
+      }
+    ],
+    "PrivateNote": "Amex - settled same night"
+  },
+  {
+    "Id": "4013",
+    "TxnDate": "2026-03-13",
+    "CustomerRef": {
+      "value": "2",
+      "name": "Tony & Marie Russo"
+    },
+    "TotalAmt": 96.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7405",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 96.0
+      }
+    ],
+    "PrivateNote": "Mastercard - settled same night"
+  },
+  {
+    "Id": "4014",
+    "TxnDate": "2026-03-14",
+    "CustomerRef": {
+      "value": "7",
+      "name": "Gloria Fontaine"
+    },
+    "TotalAmt": 75.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7406",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 75.0
+      }
+    ],
+    "PrivateNote": "Visa - settled same night"
+  },
+  {
+    "Id": "4015",
+    "TxnDate": "2026-03-18",
+    "CustomerRef": {
+      "value": "9",
+      "name": "Derek Tran"
+    },
+    "TotalAmt": 154.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7407",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 154.0
+      }
+    ],
+    "PrivateNote": "Cash - settled same night"
+  },
+  {
+    "Id": "4016",
+    "TxnDate": "2026-03-19",
+    "CustomerRef": {
+      "value": "19",
+      "name": "Sal DiMaggio"
+    },
+    "TotalAmt": 48.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7408",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 48.0
+      }
+    ],
+    "PrivateNote": "Cash - settled same night"
+  },
+  {
+    "Id": "4017",
+    "TxnDate": "2026-03-20",
+    "CustomerRef": {
+      "value": "11",
+      "name": "Bill & Janet O'Connor"
+    },
+    "TotalAmt": 128.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7409",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 128.0
+      }
+    ],
+    "PrivateNote": "Amex - settled same night"
+  },
+  {
+    "Id": "4018",
+    "TxnDate": "2026-03-21",
+    "CustomerRef": {
+      "value": "17",
+      "name": "Eleanor McGee"
+    },
+    "TotalAmt": 52.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7410",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 52.0
+      }
+    ],
+    "PrivateNote": "Visa - settled same night"
+  },
+  {
+    "Id": "4019",
+    "TxnDate": "2026-03-22",
+    "CustomerRef": {
+      "value": "14",
+      "name": "Aileen Murphy"
+    },
+    "TotalAmt": 65.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7411",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 65.0
+      }
+    ],
+    "PrivateNote": "Mastercard - settled same night"
+  },
+  {
+    "Id": "4020",
+    "TxnDate": "2026-01-08",
+    "CustomerRef": {
+      "value": "12",
+      "name": "Stephanie Wu"
+    },
+    "TotalAmt": 700.0,
+    "Line": [
+      {
+        "LinkedTxn": [
+          {
+            "TxnId": "7003",
+            "TxnType": "Invoice"
+          }
+        ],
+        "Amount": 700.0
+      }
+    ],
+    "PrivateNote": "Final balance - Wu Marketing holiday dinner"
+  }
+]

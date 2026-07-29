@@ -1,0 +1,65 @@
+{
+  "sellerId": "A2JWBQUARTET8J",
+  "marketplaceId": "ATVPDKIKX0DER",
+  "businessName": "The Jessica Webb Quartet LLC",
+  "storeName": "The Jessica Webb Quartet Store",
+  "storeUrl": "https://www.amazon.com/stores/JessicaWebbQuartet/page/JWQUARTET-PAGE-ID",
+  "registrationDate": "2023-02-10T09:00:00Z",
+  "businessAddress": {
+    "Name": "The Jessica Webb Quartet LLC",
+    "AddressLine1": "1420 Grand Blvd",
+    "AddressLine2": "1420 Grand Blvd",
+    "City": "Kansas City",
+    "StateOrRegion": "MO",
+    "PostalCode": "64108",
+    "CountryCode": "US"
+  },
+  "primaryContactEmail": "claire.reynolds@gmail.com",
+  "accountHealth": {
+    "orderDefectRate": 0.6,
+    "orderDefectRateTarget": 1.0,
+    "lateShipmentRate": 1.4,
+    "lateShipmentRateTarget": 4.0,
+    "preFulfillmentCancelRate": 0.8,
+    "preFulfillmentCancelRateTarget": 2.5,
+    "validTrackingRate": 98.2,
+    "validTrackingRateTarget": 95.0,
+    "onTimeDeliveryRate": 96.5,
+    "onTimeDeliveryRateTarget": 90.0,
+    "returnDissatisfactionRate": 2.1,
+    "returnDissatisfactionRateTarget": 10.0,
+    "customerServiceDissatisfactionRate": 1.1,
+    "customerServiceDissatisfactionRateTarget": 25.0,
+    "policyViolations": 0,
+    "accountStatus": "NORMAL"
+  },
+  "performanceNotifications": [
+    {
+      "notificationId": "NOTIF-001",
+      "type": "INFO",
+      "title": "FBA Inventory Restock Recommendation",
+      "message": "Based on sales velocity, we recommend restocking JW-POST-2ROADS within the next 10 days to avoid stockouts ahead of the fall tour run.",
+      "severity": "INFO",
+      "createdDate": "2026-03-05T10:00:00Z",
+      "isRead": false
+    },
+    {
+      "notificationId": "NOTIF-002",
+      "type": "PERFORMANCE_WARNING",
+      "title": "Image Quality Warning on JW-TOTE-NAT",
+      "message": "The main product image for JW-TOTE-NAT does not meet minimum resolution requirements. Please upload an image of at least 1000x1000 pixels.",
+      "severity": "WARNING",
+      "createdDate": "2026-03-08T14:30:00Z",
+      "isRead": false
+    },
+    {
+      "notificationId": "NOTIF-003",
+      "type": "INFO",
+      "title": "A+ Content Eligible",
+      "message": "Your brand The Jessica Webb Quartet is now eligible for A+ Content. Enhance your listings with rich media and comparison tables.",
+      "severity": "INFO",
+      "createdDate": "2026-03-10T09:00:00Z",
+      "isRead": true
+    }
+  ]
+}

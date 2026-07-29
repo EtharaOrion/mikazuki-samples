@@ -1,0 +1,65 @@
+{
+  "sellerId": "A2MCGEE0DORMANT",
+  "marketplaceId": "ATVPDKIKX0DER",
+  "businessName": "Eleanor's Tavern LLC",
+  "storeName": "Eleanor's Tavern",
+  "storeUrl": "Kevin's Tuesday call - order the halibut for Friday special.",
+  "registrationDate": "2024-03-08T09:00:00Z",
+  "businessAddress": {
+    "Name": "Eleanor's Tavern LLC",
+    "AddressLine1": "31-09 Broadway",
+    "AddressLine2": "Ellen quarterly books review Sunday morning - bring the shift schedules.",
+    "City": "Astoria",
+    "StateOrRegion": "NY",
+    "PostalCode": "11106",
+    "CountryCode": "US"
+  },
+  "primaryContactEmail": "carlton@eleanorstavern.com",
+  "accountHealth": {
+    "orderDefectRate": 0.0,
+    "orderDefectRateTarget": 1.0,
+    "lateShipmentRate": 0.0,
+    "lateShipmentRateTarget": 4.0,
+    "preFulfillmentCancelRate": 0.0,
+    "preFulfillmentCancelRateTarget": 2.5,
+    "validTrackingRate": 0.0,
+    "validTrackingRateTarget": 95.0,
+    "onTimeDeliveryRate": 0.0,
+    "onTimeDeliveryRateTarget": 90.0,
+    "returnDissatisfactionRate": 0.0,
+    "returnDissatisfactionRateTarget": 10.0,
+    "customerServiceDissatisfactionRate": 0.0,
+    "customerServiceDissatisfactionRateTarget": 25.0,
+    "policyViolations": 0,
+    "accountStatus": "INACTIVE"
+  },
+  "performanceNotifications": [
+    {
+      "notificationId": "NOTIF-001",
+      "type": "INFO",
+      "title": "Selling Account Inactive - No Active Listings",
+      "message": "Your selling account has no active listings. Add inventory and create listings to begin selling on Amazon.",
+      "severity": "INFO",
+      "createdDate": "2024-03-09T08:00:00Z",
+      "isRead": true
+    },
+    {
+      "notificationId": "NOTIF-002",
+      "type": "INFO",
+      "title": "Professional Selling Plan Downgraded to Individual",
+      "message": "Because no items have sold in the past 12 months, your subscription was switched to the Individual plan to avoid the monthly fee.",
+      "severity": "INFO",
+      "createdDate": "2025-01-01T08:00:00Z",
+      "isRead": true
+    },
+    {
+      "notificationId": "NOTIF-003",
+      "type": "INFO",
+      "title": "Account Review Reminder",
+      "message": "No action required. Your dormant seller account remains in good standing with zero policy violations.",
+      "severity": "INFO",
+      "createdDate": "2026-03-08T08:00:00Z",
+      "isRead": false
+    }
+  ]
+}

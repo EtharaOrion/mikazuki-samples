@@ -1,0 +1,200 @@
+[
+  {
+    "schedule_id": "PSC001",
+    "name": "Schedule rotation 1",
+    "current_oncall_user_id": "P718C14",
+    "oncall_start": "2026-10-05T08:00:00-05:00",
+    "oncall_end": "2026-10-05T18:00:00-05:00",
+    "escalation_policy_id": "PEP001",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC002",
+    "name": "Schedule rotation 2",
+    "current_oncall_user_id": "PE971D9",
+    "oncall_start": "2026-10-07T08:00:00-05:00",
+    "oncall_end": "2026-10-07T18:00:00-05:00",
+    "escalation_policy_id": "PEP002",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC003",
+    "name": "Schedule rotation 3",
+    "current_oncall_user_id": "P7FF2DB",
+    "oncall_start": "2026-10-09T08:00:00-05:00",
+    "oncall_end": "2026-10-09T18:00:00-05:00",
+    "escalation_policy_id": "PEP003",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC004",
+    "name": "Schedule rotation 4",
+    "current_oncall_user_id": "PB6FC91",
+    "oncall_start": "2026-10-12T08:00:00-05:00",
+    "oncall_end": "2026-10-12T18:00:00-05:00",
+    "escalation_policy_id": "PEP004",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC005",
+    "name": "Schedule rotation 5",
+    "current_oncall_user_id": "PB411E1",
+    "oncall_start": "2026-10-14T08:00:00-05:00",
+    "oncall_end": "2026-10-14T18:00:00-05:00",
+    "escalation_policy_id": "PEP005",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC006",
+    "name": "Schedule rotation 6",
+    "current_oncall_user_id": "P791443",
+    "oncall_start": "2026-10-16T08:00:00-05:00",
+    "oncall_end": "2026-10-16T18:00:00-05:00",
+    "escalation_policy_id": "PEP001",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC007",
+    "name": "Schedule rotation 7",
+    "current_oncall_user_id": "P6296D0",
+    "oncall_start": "2026-10-19T08:00:00-05:00",
+    "oncall_end": "2026-10-19T18:00:00-05:00",
+    "escalation_policy_id": "PEP002",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC008",
+    "name": "Schedule rotation 8",
+    "current_oncall_user_id": "P4C9D10",
+    "oncall_start": "2026-10-21T08:00:00-05:00",
+    "oncall_end": "2026-10-21T18:00:00-05:00",
+    "escalation_policy_id": "PEP003",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC009",
+    "name": "Schedule rotation 9",
+    "current_oncall_user_id": "P7C4856",
+    "oncall_start": "2026-10-23T08:00:00-05:00",
+    "oncall_end": "2026-10-23T18:00:00-05:00",
+    "escalation_policy_id": "PEP004",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC010",
+    "name": "Schedule rotation 10",
+    "current_oncall_user_id": "P0F8B2D",
+    "oncall_start": "2026-10-26T08:00:00-05:00",
+    "oncall_end": "2026-10-26T18:00:00-05:00",
+    "escalation_policy_id": "PEP005",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC011",
+    "name": "Schedule rotation 11",
+    "current_oncall_user_id": "P1E1865",
+    "oncall_start": "2026-10-28T08:00:00-05:00",
+    "oncall_end": "2026-10-28T18:00:00-05:00",
+    "escalation_policy_id": "PEP001",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC012",
+    "name": "Schedule rotation 12",
+    "current_oncall_user_id": "P9B29E8",
+    "oncall_start": "2026-10-30T08:00:00-05:00",
+    "oncall_end": "2026-10-30T18:00:00-05:00",
+    "escalation_policy_id": "PEP002",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC013",
+    "name": "Schedule rotation 13",
+    "current_oncall_user_id": "P5DF98F",
+    "oncall_start": "2026-11-02T08:00:00-05:00",
+    "oncall_end": "2026-11-02T18:00:00-05:00",
+    "escalation_policy_id": "PEP003",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC014",
+    "name": "Schedule rotation 14",
+    "current_oncall_user_id": "P56DDB8",
+    "oncall_start": "2026-11-04T08:00:00-05:00",
+    "oncall_end": "2026-11-04T18:00:00-05:00",
+    "escalation_policy_id": "PEP004",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC015",
+    "name": "Schedule rotation 15",
+    "current_oncall_user_id": "P4EFBDC",
+    "oncall_start": "2026-11-06T08:00:00-05:00",
+    "oncall_end": "2026-11-06T18:00:00-05:00",
+    "escalation_policy_id": "PEP005",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC016",
+    "name": "Schedule rotation 16",
+    "current_oncall_user_id": "P2904B0",
+    "oncall_start": "2026-11-09T08:00:00-05:00",
+    "oncall_end": "2026-11-09T18:00:00-05:00",
+    "escalation_policy_id": "PEP001",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC017",
+    "name": "Schedule rotation 17",
+    "current_oncall_user_id": "P965280",
+    "oncall_start": "2026-11-11T08:00:00-05:00",
+    "oncall_end": "2026-11-11T18:00:00-05:00",
+    "escalation_policy_id": "PEP002",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC018",
+    "name": "Schedule rotation 18",
+    "current_oncall_user_id": "PF84809",
+    "oncall_start": "2026-11-13T08:00:00-05:00",
+    "oncall_end": "2026-11-13T18:00:00-05:00",
+    "escalation_policy_id": "PEP003",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC019",
+    "name": "Schedule rotation 19",
+    "current_oncall_user_id": "P0D498D",
+    "oncall_start": "2026-11-16T08:00:00-05:00",
+    "oncall_end": "2026-11-16T18:00:00-05:00",
+    "escalation_policy_id": "PEP004",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC020",
+    "name": "Schedule rotation 20",
+    "current_oncall_user_id": "P8D6304",
+    "oncall_start": "2026-11-18T08:00:00-05:00",
+    "oncall_end": "2026-11-18T18:00:00-05:00",
+    "escalation_policy_id": "PEP005",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC021",
+    "name": "Schedule rotation 21",
+    "current_oncall_user_id": "P316CF9",
+    "oncall_start": "2026-11-20T08:00:00-05:00",
+    "oncall_end": "2026-11-20T18:00:00-05:00",
+    "escalation_policy_id": "PEP001",
+    "time_zone": "America/New_York"
+  },
+  {
+    "schedule_id": "PSC022",
+    "name": "Schedule rotation 22",
+    "current_oncall_user_id": "P718C14",
+    "oncall_start": "2026-11-23T08:00:00-05:00",
+    "oncall_end": "2026-11-23T18:00:00-05:00",
+    "escalation_policy_id": "PEP002",
+    "time_zone": "America/New_York"
+  }
+]

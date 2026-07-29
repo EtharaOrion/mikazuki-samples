@@ -1,0 +1,70 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 10,
+      "passed": 2,
+      "failed": 8,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": -0.4211,
+      "weighted_percentage": -42.11
+    },
+    "tests": [
+      {
+        "name": "test_airtable_ghost_delete",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_airtable_grains_board",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_airtable_meat_beans_remains",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_airtable_proteins_board",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_airtable_sweets_ghost_remains",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_airtable_tracker_create",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_airtable_tracker_patch",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_airtable_vegetable_board",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_family_handout_present",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_gmail_handout_send",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

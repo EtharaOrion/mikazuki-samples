@@ -1,0 +1,47 @@
+[
+  {
+    "active": true,
+    "generation": "dynamic",
+    "html_content": "<h1>Welcome {{first_name}}</h1><p>Glad to have you at Haverstone University.</p>",
+    "id": "d-00000000000004",
+    "name": "welcome",
+    "subject": "Welcome to Haverstone University, {{first_name}}!",
+    "updated_at": "2026-05-28T17:27:39+00:00"
+  },
+  {
+    "active": true,
+    "generation": "dynamic",
+    "html_content": "<p>Click <a href='{{reset_url}}'>here</a> to reset.</p>",
+    "id": "d-00000000000008",
+    "name": "password-reset",
+    "subject": "Reset your Haverstone University password",
+    "updated_at": "2026-05-11T08:41:10+00:00"
+  },
+  {
+    "active": true,
+    "generation": "dynamic",
+    "html_content": "<h2>{{month}} Newsletter</h2><p>{{body}}</p>",
+    "id": "d-0000000000000d",
+    "name": "monthly-news",
+    "subject": "Haverstone University - {{month}} highlights",
+    "updated_at": "2026-06-21T02:30:28+00:00"
+  },
+  {
+    "active": true,
+    "generation": "dynamic",
+    "html_content": "<p>Thanks for your payment of {{amount}}.</p>",
+    "id": "d-00000000000011",
+    "name": "invoice",
+    "subject": "Your receipt for invoice {{invoice_id}}",
+    "updated_at": "2026-06-08T14:59:20+00:00"
+  },
+  {
+    "active": true,
+    "generation": "dynamic",
+    "html_content": "<p>Upgrade now to keep your data.</p>",
+    "id": "d-00000000000015",
+    "name": "trial-end",
+    "subject": "Your trial ends in {{days}} days",
+    "updated_at": "2026-06-28T03:37:20+00:00"
+  }
+]

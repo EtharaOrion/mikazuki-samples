@@ -1,0 +1,50 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 6,
+      "passed": 2,
+      "failed": 4,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.1818,
+      "weighted_percentage": 18.18
+    },
+    "tests": [
+      {
+        "name": "test_eventbrite_event_record_endpoint_called",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_eventbrite_poster_height",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_eventbrite_poster_width",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_eventbrite_ticket_classes_endpoint_called",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_monday_run_sheet_update_endpoint_called",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_trello_flyer_board_distractor",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

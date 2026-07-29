@@ -1,0 +1,552 @@
+[
+  {
+    "Id": "20000",
+    "DocNumber": "BILL-2026-0001",
+    "VendorRef": {
+      "value": "100",
+      "name": "Derek \"DJ\" Johnson"
+    },
+    "TxnDate": "2026-03-13",
+    "DueDate": "2026-04-12",
+    "Line": [
+      {
+        "Amount": 550.0,
+        "Description": "Soundcraft Recording Studios",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 550.0,
+    "Balance": 0,
+    "PrivateNote": "Track 4 revision after DJ session"
+  },
+  {
+    "Id": "20001",
+    "DocNumber": "BILL-2026-0002",
+    "VendorRef": {
+      "value": "101",
+      "name": "Piedmont Piano Service"
+    },
+    "TxnDate": "2026-03-17",
+    "DueDate": "2026-04-16",
+    "Line": [
+      {
+        "Amount": 250.0,
+        "Description": "Steinway tuning",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 250.0,
+    "Balance": 0,
+    "PrivateNote": "Aligned with Samuel - approved for Sunday"
+  },
+  {
+    "Id": "20002",
+    "DocNumber": "BILL-2026-0003",
+    "VendorRef": {
+      "value": "102",
+      "name": "Peach State Coaches"
+    },
+    "TxnDate": "2026-03-21",
+    "DueDate": "2026-04-20",
+    "Line": [
+      {
+        "Amount": 8500.0,
+        "Description": "Charter bus (convention)",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 8500.0,
+    "Balance": 0,
+    "PrivateNote": "Track 4 revision after DJ session"
+  },
+  {
+    "Id": "20003",
+    "DocNumber": "BILL-2026-0004",
+    "VendorRef": {
+      "value": "103",
+      "name": "Jackson & Associates"
+    },
+    "TxnDate": "2026-03-25",
+    "DueDate": "2026-04-24",
+    "Line": [
+      {
+        "Amount": 400.0,
+        "Description": "CPA services",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 400.0,
+    "Balance": 0,
+    "PrivateNote": "Confirmed via WhatsApp with Deacon Harris"
+  },
+  {
+    "Id": "20004",
+    "DocNumber": "BILL-2026-0005",
+    "VendorRef": {
+      "value": "104",
+      "name": "Fred Bock Publications"
+    },
+    "TxnDate": "2026-03-29",
+    "DueDate": "2026-04-28",
+    "Line": [
+      {
+        "Amount": 380.0,
+        "Description": "Anthem sheet music",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 380.0,
+    "Balance": 0,
+    "PrivateNote": "Followup call scheduled"
+  },
+  {
+    "Id": "20005",
+    "DocNumber": "BILL-2026-0006",
+    "VendorRef": {
+      "value": "105",
+      "name": "Hal Leonard Corp"
+    },
+    "TxnDate": "2026-04-02",
+    "DueDate": "2026-05-02",
+    "Line": [
+      {
+        "Amount": 220.0,
+        "Description": "Choral arrangements",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 220.0,
+    "Balance": 0,
+    "PrivateNote": "Confirmed via WhatsApp with Deacon Harris"
+  },
+  {
+    "Id": "20006",
+    "DocNumber": "BILL-2026-0007",
+    "VendorRef": {
+      "value": "106",
+      "name": "Bethel Choir Suppliers"
+    },
+    "TxnDate": "2026-04-06",
+    "DueDate": "2026-05-06",
+    "Line": [
+      {
+        "Amount": 2400.0,
+        "Description": "Choir robes",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2400.0,
+    "Balance": 0,
+    "PrivateNote": "Track 4 revision after DJ session"
+  },
+  {
+    "Id": "20007",
+    "DocNumber": "BILL-2026-0008",
+    "VendorRef": {
+      "value": "107",
+      "name": "Discmakers"
+    },
+    "TxnDate": "2026-04-10",
+    "DueDate": "2026-05-10",
+    "Line": [
+      {
+        "Amount": 4200.0,
+        "Description": "CD duplication",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 4200.0,
+    "Balance": 0,
+    "PrivateNote": "Confirmed via WhatsApp with Deacon Harris"
+  },
+  {
+    "Id": "20008",
+    "DocNumber": "BILL-2026-0009",
+    "VendorRef": {
+      "value": "108",
+      "name": "The Adolphus Dallas"
+    },
+    "TxnDate": "2026-04-14",
+    "DueDate": "2026-05-14",
+    "Line": [
+      {
+        "Amount": 6800.0,
+        "Description": "Convention hotel",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 6800.0,
+    "Balance": 0,
+    "PrivateNote": "Confirmed via WhatsApp with Deacon Harris"
+  },
+  {
+    "Id": "20009",
+    "DocNumber": "BILL-2026-0010",
+    "VendorRef": {
+      "value": "109",
+      "name": "NGMA Registration"
+    },
+    "TxnDate": "2026-04-18",
+    "DueDate": "2026-05-18",
+    "Line": [
+      {
+        "Amount": 3500.0,
+        "Description": "Convention registration",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3500.0,
+    "Balance": 0,
+    "PrivateNote": "Confirmed via WhatsApp with Deacon Harris"
+  },
+  {
+    "Id": "20010",
+    "DocNumber": "BILL-2026-0011",
+    "VendorRef": {
+      "value": "100",
+      "name": "Derek \"DJ\" Johnson"
+    },
+    "TxnDate": "2026-04-22",
+    "DueDate": "2026-05-22",
+    "Line": [
+      {
+        "Amount": 550.0,
+        "Description": "Soundcraft Recording Studios",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 550.0,
+    "Balance": 0,
+    "PrivateNote": "Followup call scheduled"
+  },
+  {
+    "Id": "20011",
+    "DocNumber": "BILL-2026-0012",
+    "VendorRef": {
+      "value": "101",
+      "name": "Piedmont Piano Service"
+    },
+    "TxnDate": "2026-04-26",
+    "DueDate": "2026-05-26",
+    "Line": [
+      {
+        "Amount": 250.0,
+        "Description": "Steinway tuning",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 250.0,
+    "Balance": 0,
+    "PrivateNote": "Followup call scheduled"
+  },
+  {
+    "Id": "20012",
+    "DocNumber": "BILL-2026-0013",
+    "VendorRef": {
+      "value": "102",
+      "name": "Peach State Coaches"
+    },
+    "TxnDate": "2026-04-30",
+    "DueDate": "2026-05-30",
+    "Line": [
+      {
+        "Amount": 8500.0,
+        "Description": "Charter bus (convention)",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 8500.0,
+    "Balance": 0,
+    "PrivateNote": "Followup call scheduled"
+  },
+  {
+    "Id": "20013",
+    "DocNumber": "BILL-2026-0014",
+    "VendorRef": {
+      "value": "103",
+      "name": "Jackson & Associates"
+    },
+    "TxnDate": "2026-05-04",
+    "DueDate": "2026-01-03",
+    "Line": [
+      {
+        "Amount": 400.0,
+        "Description": "CPA services",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 400.0,
+    "Balance": 0,
+    "PrivateNote": "Track 4 revision after DJ session"
+  },
+  {
+    "Id": "20014",
+    "DocNumber": "BILL-2026-0015",
+    "VendorRef": {
+      "value": "104",
+      "name": "Fred Bock Publications"
+    },
+    "TxnDate": "2026-05-08",
+    "DueDate": "2026-01-07",
+    "Line": [
+      {
+        "Amount": 380.0,
+        "Description": "Anthem sheet music",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 380.0,
+    "Balance": 0,
+    "PrivateNote": "Confirmed via WhatsApp with Deacon Harris"
+  },
+  {
+    "Id": "20015",
+    "DocNumber": "BILL-2026-0016",
+    "VendorRef": {
+      "value": "105",
+      "name": "Hal Leonard Corp"
+    },
+    "TxnDate": "2026-05-12",
+    "DueDate": "2026-01-11",
+    "Line": [
+      {
+        "Amount": 220.0,
+        "Description": "Choral arrangements",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 220.0,
+    "Balance": 0,
+    "PrivateNote": "Followup call scheduled"
+  },
+  {
+    "Id": "20016",
+    "DocNumber": "BILL-2026-0017",
+    "VendorRef": {
+      "value": "106",
+      "name": "Bethel Choir Suppliers"
+    },
+    "TxnDate": "2026-05-16",
+    "DueDate": "2026-01-15",
+    "Line": [
+      {
+        "Amount": 2400.0,
+        "Description": "Choir robes",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 2400.0,
+    "Balance": 0,
+    "PrivateNote": "Track 4 revision after DJ session"
+  },
+  {
+    "Id": "20017",
+    "DocNumber": "BILL-2026-0018",
+    "VendorRef": {
+      "value": "107",
+      "name": "Discmakers"
+    },
+    "TxnDate": "2026-05-20",
+    "DueDate": "2026-01-19",
+    "Line": [
+      {
+        "Amount": 4200.0,
+        "Description": "CD duplication",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 4200.0,
+    "Balance": 0,
+    "PrivateNote": "Track 4 revision after DJ session"
+  },
+  {
+    "Id": "20018",
+    "DocNumber": "BILL-2026-0019",
+    "VendorRef": {
+      "value": "108",
+      "name": "The Adolphus Dallas"
+    },
+    "TxnDate": "2026-05-24",
+    "DueDate": "2026-01-23",
+    "Line": [
+      {
+        "Amount": 6800.0,
+        "Description": "Convention hotel",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 6800.0,
+    "Balance": 0,
+    "PrivateNote": "Followup call scheduled"
+  },
+  {
+    "Id": "20019",
+    "DocNumber": "BILL-2026-0020",
+    "VendorRef": {
+      "value": "109",
+      "name": "NGMA Registration"
+    },
+    "TxnDate": "2026-05-28",
+    "DueDate": "2026-01-27",
+    "Line": [
+      {
+        "Amount": 3500.0,
+        "Description": "Convention registration",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 3500.0,
+    "Balance": 0,
+    "PrivateNote": "Track 4 revision after DJ session"
+  },
+  {
+    "Id": "20020",
+    "DocNumber": "BILL-2026-0021",
+    "VendorRef": {
+      "value": "100",
+      "name": "Derek \"DJ\" Johnson"
+    },
+    "TxnDate": "2026-01-01",
+    "DueDate": "2026-02-01",
+    "Line": [
+      {
+        "Amount": 550.0,
+        "Description": "Soundcraft Recording Studios",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 550.0,
+    "Balance": 0,
+    "PrivateNote": "Confirmed via WhatsApp with Deacon Harris"
+  },
+  {
+    "Id": "20021",
+    "DocNumber": "BILL-2026-0022",
+    "VendorRef": {
+      "value": "101",
+      "name": "Piedmont Piano Service"
+    },
+    "TxnDate": "2026-01-05",
+    "DueDate": "2026-02-05",
+    "Line": [
+      {
+        "Amount": 250.0,
+        "Description": "Steinway tuning",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio & Recording",
+            "value": "8"
+          }
+        }
+      }
+    ],
+    "TotalAmt": 250.0,
+    "Balance": 0,
+    "PrivateNote": "Followup call scheduled"
+  }
+]

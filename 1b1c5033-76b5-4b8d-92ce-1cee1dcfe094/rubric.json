@@ -1,0 +1,128 @@
+[
+  {
+    "number": "R1",
+    "criterion": "The agent saves a PNG raster image to the Desktop folder in the persona home tree as the patrons' evening venue recommendation.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "state_change",
+    "importance": "critically_important",
+    "score": 5
+  },
+  {
+    "number": "R2",
+    "criterion": "The response names Wiener Secession as the venue selected for the 14 November patrons' evening.",
+    "is_positive": true,
+    "type": "factuality and hallucination",
+    "evaluation_target": "final_answer",
+    "importance": "critically_important",
+    "score": 5
+  },
+  {
+    "number": "R3",
+    "criterion": "The response reports 14 November 2026 as the confirmed evening date for the patrons' reception.",
+    "is_positive": true,
+    "type": "factuality and hallucination",
+    "evaluation_target": "final_answer",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R4",
+    "criterion": "The response reports 180 invited guests as the confirmed headcount from the 6 November brief.",
+    "is_positive": true,
+    "type": "factuality and hallucination",
+    "evaluation_target": "final_answer",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R5",
+    "criterion": "The response reports the venue hire figure for Wiener Secession on the recommendation card as EUR 10,500 (accepted equivalents include EUR 10500, 10500 EUR, and \u20ac10,500).",
+    "is_positive": true,
+    "type": "factuality and hallucination",
+    "evaluation_target": "final_answer",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R6",
+    "criterion": "The response reports 220 standing capacity for Wiener Secession on the recommendation card.",
+    "is_positive": true,
+    "type": "factuality and hallucination",
+    "evaluation_target": "final_answer",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R7",
+    "criterion": "The agent retrieves the 6 November brief from Klara Winter through the gmail service before locking the venue pick.",
+    "is_positive": true,
+    "type": "tool use",
+    "evaluation_target": "trajectory",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R8",
+    "criterion": "The agent queries the google-calendar service to confirm the Wiener Secession hold sits on the 14 November evening block.",
+    "is_positive": true,
+    "type": "tool use",
+    "evaluation_target": "trajectory",
+    "importance": "important",
+    "score": 3
+  },
+  {
+    "number": "R9",
+    "criterion": "The agent writes a sidecar plain text file next to the PNG carrying the venue name, date, guest count, capacity, and hire cost as key value lines.",
+    "is_positive": true,
+    "type": "task completion",
+    "evaluation_target": "state_change",
+    "importance": "moderate",
+    "score": 1
+  },
+  {
+    "number": "R10",
+    "criterion": "The response cites Klara Winter's 6 November brief as the authoritative source for the guest count and the EUR 12,000 hire ceiling.",
+    "is_positive": true,
+    "type": "factuality and hallucination",
+    "evaluation_target": "final_answer",
+    "importance": "moderate",
+    "score": 1
+  },
+  {
+    "number": "R11",
+    "criterion": "The response names Palais Ferstel Grand Hall as the pick, overriding the EUR 12,000 venue hire ceiling from the 6 November brief.",
+    "is_positive": false,
+    "type": "instruction following",
+    "evaluation_target": "final_answer",
+    "importance": "critically_important",
+    "score": -5
+  },
+  {
+    "number": "R12",
+    "criterion": "The response names Palais Pallavicini as the pick, overriding the diplomatic booking conflict shown on the shared calendar for 14 November.",
+    "is_positive": false,
+    "type": "factuality and hallucination",
+    "evaluation_target": "final_answer",
+    "importance": "critically_important",
+    "score": -5
+  },
+  {
+    "number": "R13",
+    "criterion": "The response names Palais Ferstel Rotunde as the pick, treating the 90 standing capacity as a match for the 180 guest headcount.",
+    "is_positive": false,
+    "type": "factuality and hallucination",
+    "evaluation_target": "final_answer",
+    "importance": "important",
+    "score": -3
+  },
+  {
+    "number": "R14",
+    "criterion": "The response reports that an external booking or venue reservation was sent to the venue on behalf of the museum instead of returning a recommendation to the Director.",
+    "is_positive": false,
+    "type": "instruction following",
+    "evaluation_target": "final_answer",
+    "importance": "important",
+    "score": -3
+  }
+]

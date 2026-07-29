@@ -1,0 +1,42 @@
+[
+  {
+    "company_id": "CO-001",
+    "created_at": "2025-12-09T14:40:29+00:00",
+    "id": "company-vald-performance",
+    "industry": "Sports Technology",
+    "monthly_spend": 499.0,
+    "name": "VALD Performance",
+    "plan": "Pro",
+    "user_count": 3
+  },
+  {
+    "company_id": "CO-002",
+    "created_at": "2026-01-18T08:05:22+00:00",
+    "id": "company-apex-build-group",
+    "industry": "Construction",
+    "monthly_spend": 199.0,
+    "name": "Apex Build Group",
+    "plan": "Standard",
+    "user_count": 4
+  },
+  {
+    "company_id": "CO-003",
+    "created_at": "2026-06-18T03:22:14+00:00",
+    "id": "company-bluepeak-health",
+    "industry": "Insurance",
+    "monthly_spend": 750.0,
+    "name": "BluePeak Health",
+    "plan": "Pro",
+    "user_count": 5
+  },
+  {
+    "company_id": "CO-004",
+    "created_at": "2025-11-10T03:18:14+00:00",
+    "id": "company-atlanta-firebirds-fc",
+    "industry": "Sports",
+    "monthly_spend": 299.0,
+    "name": "Atlanta Firebirds FC",
+    "plan": "Standard",
+    "user_count": 6
+  }
+]

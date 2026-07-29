@@ -1,0 +1,98 @@
+[
+  {
+    "assigned_to": "PUSER001",
+    "created_at": "2025-10-04T11:00:00Z",
+    "escalation_policy_id": "PPOL001",
+    "incident_id": "PI0001cfcd20",
+    "incident_number": 1001,
+    "resolved_at": "2025-10-04T12:30:00Z",
+    "service_id": "PSVC001",
+    "status": "resolved",
+    "title": "API gateway 5xx spike",
+    "urgency": "high"
+  },
+  {
+    "assigned_to": "PUSER002",
+    "created_at": "2025-10-04T11:00:00Z",
+    "escalation_policy_id": "PPOL001",
+    "incident_id": "PI0002c4ca42",
+    "incident_number": 1002,
+    "resolved_at": "2025-10-04T12:30:00Z",
+    "service_id": "PSVC002",
+    "status": "acknowledged",
+    "title": "Database connection pool exhausted",
+    "urgency": "low"
+  },
+  {
+    "assigned_to": "PUSER001",
+    "created_at": "2025-10-04T11:00:00Z",
+    "escalation_policy_id": "PPOL001",
+    "incident_id": "PI0003c81e72",
+    "incident_number": 1003,
+    "resolved_at": "2025-10-04T12:30:00Z",
+    "service_id": "PSVC003",
+    "status": "resolved",
+    "title": "Slow checkout latency",
+    "urgency": "low"
+  },
+  {
+    "assigned_to": "PUSER002",
+    "created_at": "2025-10-04T11:00:00Z",
+    "escalation_policy_id": "PPOL001",
+    "incident_id": "PI0004eccbc8",
+    "incident_number": 1004,
+    "resolved_at": "2025-10-04T12:30:00Z",
+    "service_id": "PSVC004",
+    "status": "acknowledged",
+    "title": "Auth service 503s for SSO logins",
+    "urgency": "low"
+  },
+  {
+    "assigned_to": "PUSER001",
+    "created_at": "2025-10-04T11:00:00Z",
+    "escalation_policy_id": "PPOL001",
+    "incident_id": "PI0005a87ff6",
+    "incident_number": 1005,
+    "resolved_at": "2025-10-04T12:30:00Z",
+    "service_id": "PSVC005",
+    "status": "triggered",
+    "title": "Background worker queue backing up",
+    "urgency": "high"
+  },
+  {
+    "assigned_to": "PUSER002",
+    "created_at": "2025-10-04T11:00:00Z",
+    "escalation_policy_id": "PPOL001",
+    "incident_id": "PI0006e4da3b",
+    "incident_number": 1006,
+    "resolved_at": "2025-10-04T12:30:00Z",
+    "service_id": "PSVC006",
+    "status": "triggered",
+    "title": "DNS resolution intermittent",
+    "urgency": "low"
+  },
+  {
+    "assigned_to": "PUSER001",
+    "created_at": "2025-10-04T11:00:00Z",
+    "escalation_policy_id": "PPOL001",
+    "incident_id": "PI0007167909",
+    "incident_number": 1007,
+    "resolved_at": "2025-10-04T12:30:00Z",
+    "service_id": "PSVC001",
+    "status": "resolved",
+    "title": "Slack webhook deliveries failing",
+    "urgency": "high"
+  },
+  {
+    "assigned_to": "PUSER002",
+    "created_at": "2025-10-04T11:00:00Z",
+    "escalation_policy_id": "PPOL001",
+    "incident_id": "PI00088f14e4",
+    "incident_number": 1008,
+    "resolved_at": "2025-10-04T12:30:00Z",
+    "service_id": "PSVC002",
+    "status": "acknowledged",
+    "title": "Search index lag exceeded SLO",
+    "urgency": "high"
+  }
+]

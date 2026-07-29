@@ -1,0 +1,122 @@
+[
+  {
+    "AccountId": "001Ax00000A56E46EE",
+    "Amount": "355000",
+    "CloseDate": "2026-07-26T15:32:01+00:00",
+    "Id": "006Ax00000A56E46EE",
+    "Name": "Haverstone University - Enterprise expansion",
+    "Probability": "20",
+    "StageName": "Prospecting",
+    "Type": "New Business"
+  },
+  {
+    "AccountId": "001Ax00000A56E46EF",
+    "Amount": "460000",
+    "CloseDate": "2026-07-11T11:08:15+00:00",
+    "Id": "006Ax00000A56E4713",
+    "Name": "Westbrook Academy, Annual renewal",
+    "Probability": "40",
+    "StageName": "Qualification",
+    "Type": "Existing Business"
+  },
+  {
+    "AccountId": "001Ax00000A56E46F2",
+    "Amount": "565000",
+    "CloseDate": "2026-09-03T11:19:46+00:00",
+    "Id": "006Ax00000A56E4738",
+    "Name": "Greenleaf Medical Center. Multi-seat upgrade",
+    "Probability": "60",
+    "StageName": "Proposal/Price Quote",
+    "Type": "New Business"
+  },
+  {
+    "AccountId": "001Ax00000A56E46F3",
+    "Amount": "670000",
+    "CloseDate": "2026-09-11T12:03:40+00:00",
+    "Id": "006Ax00000A56E475D",
+    "Name": "Birchwood Legal Partners - Pilot program",
+    "Probability": "75",
+    "StageName": "Negotiation/Review",
+    "Type": "Existing Business"
+  },
+  {
+    "AccountId": "001Ax00000A56E46F4",
+    "Amount": "775000",
+    "CloseDate": "2026-10-20T00:49:05+00:00",
+    "Id": "006Ax00000A56E4782",
+    "Name": "Ridgemont Institute, Department rollout",
+    "Probability": "100",
+    "StageName": "Closed Won",
+    "Type": "New Business"
+  },
+  {
+    "AccountId": "001Ax00000A56F05E2",
+    "Amount": "880000",
+    "CloseDate": "2026-09-05T07:05:11+00:00",
+    "Id": "006Ax00000A56E47A7",
+    "Name": "Thornfield Holdings 05. Migration from legacy vendor",
+    "Probability": "0",
+    "StageName": "Closed Lost",
+    "Type": "Existing Business"
+  },
+  {
+    "AccountId": "001Ax00000A56F05E3",
+    "Amount": "110000",
+    "CloseDate": "2026-08-25T20:47:32+00:00",
+    "Id": "006Ax00000A56E47CC",
+    "Name": "Thornfield Holdings 06 - Renewal at risk",
+    "Probability": "20",
+    "StageName": "Prospecting",
+    "Type": "New Business"
+  },
+  {
+    "AccountId": "001Ax00000A56F05E4",
+    "Amount": "215000",
+    "CloseDate": "2026-10-10T22:08:46+00:00",
+    "Id": "006Ax00000A56E47F1",
+    "Name": "Thornfield Holdings 07, New logo. Design partner",
+    "Probability": "40",
+    "StageName": "Qualification",
+    "Type": "Existing Business"
+  },
+  {
+    "AccountId": "001Ax00000A56F05E5",
+    "Amount": "320000",
+    "CloseDate": "2026-12-19T19:24:40+00:00",
+    "Id": "006Ax00000A56E4816",
+    "Name": "Thornfield Holdings 08 - Enterprise expansion",
+    "Probability": "60",
+    "StageName": "Proposal/Price Quote",
+    "Type": "New Business"
+  },
+  {
+    "AccountId": "001Ax00000A56F05E6",
+    "Amount": "425000",
+    "CloseDate": "2026-11-21T16:06:45+00:00",
+    "Id": "006Ax00000A56E483B",
+    "Name": "Thornfield Holdings 09, Annual renewal",
+    "Probability": "75",
+    "StageName": "Negotiation/Review",
+    "Type": "Existing Business"
+  },
+  {
+    "AccountId": "001Ax00000A56F05E7",
+    "Amount": "530000",
+    "CloseDate": "2026-08-08T12:47:27+00:00",
+    "Id": "006Ax00000A56E4860",
+    "Name": "Thornfield Holdings 10. Multi-seat upgrade",
+    "Probability": "100",
+    "StageName": "Closed Won",
+    "Type": "New Business"
+  },
+  {
+    "AccountId": "001Ax00000A56F05E8",
+    "Amount": "635000",
+    "CloseDate": "2027-02-15T01:42:36+00:00",
+    "Id": "006Ax00000A56E4885",
+    "Name": "Thornfield Holdings 11 - Pilot program",
+    "Probability": "0",
+    "StageName": "Closed Lost",
+    "Type": "Existing Business"
+  }
+]

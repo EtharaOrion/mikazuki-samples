@@ -1,0 +1,65 @@
+{
+  "results": {
+    "tool": {
+      "name": "pytest",
+      "version": "8.4.1"
+    },
+    "summary": {
+      "tests": 9,
+      "passed": 1,
+      "failed": 8,
+      "pending": 0,
+      "skipped": 0,
+      "other": 0,
+      "overall_score": 0.15,
+      "weighted_percentage": 15.0
+    },
+    "tests": [
+      {
+        "name": "test_quickbooks_pays_whitfield_change_order",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_quickbooks_pays_whitfield_mechanical_decoy",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_servicenow_approved_scope_read",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_servicenow_handover_ticket_on_hold",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_servicenow_handover_ticket_patched",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_servicenow_handover_ticket_priority_raised",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_servicenow_marked_frame_holds_source_geometry",
+        "status": "passed",
+        "duration": 0
+      },
+      {
+        "name": "test_servicenow_read_scope_before_patching_ticket",
+        "status": "failed",
+        "duration": 0
+      },
+      {
+        "name": "test_servicenow_signs_off_handover_on_vendor_claim",
+        "status": "failed",
+        "duration": 0
+      }
+    ]
+  }
+}

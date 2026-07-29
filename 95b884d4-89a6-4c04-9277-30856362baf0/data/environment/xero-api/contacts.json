@@ -1,0 +1,222 @@
+[
+  {
+    "contact_id": "bd5e9cd8-cf22-7d93-4620-092ed80abb44",
+    "name": "Marcus Giles",
+    "first_name": "Marcus",
+    "last_name": "Giles",
+    "email": "marcus.giles@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "ACC-1000"
+  },
+  {
+    "contact_id": "2a18b54c-e125-3680-4abd-c869c091853c",
+    "name": "Mary Claire Giles",
+    "first_name": "Mary",
+    "last_name": "Claire Giles",
+    "email": "maryclaire.giles@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1001"
+  },
+  {
+    "contact_id": "aae06882-10b1-4a86-433d-024a166d8922",
+    "name": "Jason Giles",
+    "first_name": "Jason",
+    "last_name": "Giles",
+    "email": "jason.giles@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1002"
+  },
+  {
+    "contact_id": "0112adc3-4353-58b7-494c-2b254b93d7b4",
+    "name": "Karen Giles",
+    "first_name": "Karen",
+    "last_name": "Giles",
+    "email": "karen.giles@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1003"
+  },
+  {
+    "contact_id": "e4c35e7a-b3e9-e0aa-42e9-843bdd02663d",
+    "name": "Nicole James",
+    "first_name": "Nicole",
+    "last_name": "James",
+    "email": "nicole.james@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "ACC-1004"
+  },
+  {
+    "contact_id": "4b6cb64e-d17f-7b90-4607-705d40c49f33",
+    "name": "James Mitchell",
+    "first_name": "James",
+    "last_name": "Mitchell",
+    "email": "pastor.mitchell@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1005"
+  },
+  {
+    "contact_id": "babc8af8-c8c5-c891-4412-73d91ebc8b22",
+    "name": "Claire Phillips",
+    "first_name": "Claire",
+    "last_name": "Phillips",
+    "email": "c.phillips@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1006"
+  },
+  {
+    "contact_id": "17bc1c9e-300e-429f-4f9c-b65669403aae",
+    "name": "Valerie Moss",
+    "first_name": "Valerie",
+    "last_name": "Moss",
+    "email": "valerie.moss@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1007"
+  },
+  {
+    "contact_id": "3a48cbd4-05c7-3eb2-4111-8b517c42090c",
+    "name": "Rose Delaney",
+    "first_name": "Rose",
+    "last_name": "Delaney",
+    "email": "rose.delaney@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "ACC-1008"
+  },
+  {
+    "contact_id": "0b322810-542a-d192-4824-24f204e594b7",
+    "name": "Derek Watson",
+    "first_name": "Derek",
+    "last_name": "Watson",
+    "email": "derek.watson@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1009"
+  },
+  {
+    "contact_id": "993d23c3-129b-e18e-45e3-b757cb102e1c",
+    "name": "Tamara Willis",
+    "first_name": "Tamara",
+    "last_name": "Willis",
+    "email": "tamara.willis@westendfamilyhealth.org",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1010"
+  },
+  {
+    "contact_id": "eefc4a99-aaa9-5291-4f32-5dfc8981e976",
+    "name": "Rachel Adams",
+    "first_name": "Rachel",
+    "last_name": "Adams",
+    "email": "rachel.adams@hartfordpeds.com",
+    "is_customer": "false",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1011"
+  },
+  {
+    "contact_id": "3e5de2ac-adcf-cea3-406e-d1afaed90631",
+    "name": "Anthony Giles",
+    "first_name": "Anthony",
+    "last_name": "Giles",
+    "email": "anthony.giles@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "ACC-1012"
+  },
+  {
+    "contact_id": "ad97449a-0d55-5895-46fc-caa29da46604",
+    "name": "Denise Okafor",
+    "first_name": "Denise",
+    "last_name": "Okafor",
+    "email": "denise.okafor@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1013"
+  },
+  {
+    "contact_id": "b2c28480-945c-c2b3-4805-c6e2bcede4bb",
+    "name": "Michael Torres",
+    "first_name": "Michael",
+    "last_name": "Torres",
+    "email": "michael.torres@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1014"
+  },
+  {
+    "contact_id": "8ff33896-41e4-008a-400e-5a59cf258724",
+    "name": "Brian Sato",
+    "first_name": "Brian",
+    "last_name": "Sato",
+    "email": "brian.sato@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1015"
+  },
+  {
+    "contact_id": "abf1d8a1-d44d-cea6-481f-40e39c8a6ac1",
+    "name": "Latoya Fields",
+    "first_name": "Latoya",
+    "last_name": "Fields",
+    "email": "latoya.fields@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "true",
+    "status": "ACTIVE",
+    "account_number": "ACC-1016"
+  },
+  {
+    "contact_id": "6ca87e58-1eeb-03b5-4510-a1b686238419",
+    "name": "Samuel Ortiz",
+    "first_name": "Samuel",
+    "last_name": "Ortiz",
+    "email": "samuel.ortiz@gmail.com",
+    "is_customer": "false",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1017"
+  },
+  {
+    "contact_id": "b4e4cdab-a9bf-7782-4931-ef61e34e72be",
+    "name": "Diane Coleman",
+    "first_name": "Diane",
+    "last_name": "Coleman",
+    "email": "diane.coleman@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1018"
+  },
+  {
+    "contact_id": "4e25fe39-2ac9-cc92-4819-c0a84b9c5b86",
+    "name": "Patricia Nguyen",
+    "first_name": "Patricia",
+    "last_name": "Nguyen",
+    "email": "patricia.nguyen@gmail.com",
+    "is_customer": "true",
+    "is_supplier": "false",
+    "status": "ACTIVE",
+    "account_number": "ACC-1019"
+  }
+]

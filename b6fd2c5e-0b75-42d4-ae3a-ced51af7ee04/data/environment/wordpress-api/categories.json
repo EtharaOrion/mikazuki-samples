@@ -1,0 +1,162 @@
+[
+  {
+    "id": 10,
+    "name": "Engineering",
+    "slug": "engineering",
+    "description": "Banh mi sale - church parking lot",
+    "parent": 0,
+    "count": 4
+  },
+  {
+    "id": 11,
+    "name": "Reliability",
+    "slug": "reliability",
+    "description": "Amanda + Samuel Friday date night",
+    "parent": 10,
+    "count": 2
+  },
+  {
+    "id": 12,
+    "name": "Frontend",
+    "slug": "frontend",
+    "description": "Choir rehearsal - Track 4 & 'How Great Thou Art'",
+    "parent": 10,
+    "count": 1
+  },
+  {
+    "id": 13,
+    "name": "Announcements",
+    "slug": "announcements",
+    "description": "Sunday 8 AM traditional service (choir + Dr. Wells organ)",
+    "parent": 0,
+    "count": 2
+  },
+  {
+    "id": 14,
+    "name": "Tutorials",
+    "slug": "tutorials",
+    "description": "Sunday 11 AM contemporary service (choir + band)",
+    "parent": 0,
+    "count": 1
+  },
+  {
+    "id": 0,
+    "name": "Engineering",
+    "slug": "engineering",
+    "description": "Wednesday Ruth visit - Decatur",
+    "parent": 0,
+    "count": 4
+  },
+  {
+    "id": 0,
+    "name": "Reliability",
+    "slug": "reliability",
+    "description": "Sunday 8 AM traditional service (choir + Dr. Wells organ)",
+    "parent": 10,
+    "count": 2
+  },
+  {
+    "id": 0,
+    "name": "Frontend",
+    "slug": "frontend",
+    "description": "Concert fundraiser evening - GAW Center sanctuary",
+    "parent": 10,
+    "count": 1
+  },
+  {
+    "id": 0,
+    "name": "Announcements",
+    "slug": "announcements",
+    "description": "Q4 church budget committee meeting",
+    "parent": 0,
+    "count": 2
+  },
+  {
+    "id": 0,
+    "name": "Tutorials",
+    "slug": "tutorials",
+    "description": "Youth band Saturday rehearsal - 3-5 PM (Emmanuel on drums)",
+    "parent": 0,
+    "count": 1
+  },
+  {
+    "id": 0,
+    "name": "Engineering",
+    "slug": "engineering",
+    "description": "Choir rehearsal - Track 4 & 'How Great Thou Art'",
+    "parent": 0,
+    "count": 4
+  },
+  {
+    "id": 0,
+    "name": "Reliability",
+    "slug": "reliability",
+    "description": "Christmas pageant rehearsal",
+    "parent": 10,
+    "count": 2
+  },
+  {
+    "id": 0,
+    "name": "Frontend",
+    "slug": "frontend",
+    "description": "Album Track 4 recording session at Soundcraft",
+    "parent": 10,
+    "count": 1
+  },
+  {
+    "id": 0,
+    "name": "Announcements",
+    "slug": "announcements",
+    "description": "Youth choir Saturday rehearsal - 1-3 PM",
+    "parent": 0,
+    "count": 2
+  },
+  {
+    "id": 0,
+    "name": "Tutorials",
+    "slug": "tutorials",
+    "description": "Amanda + Samuel Friday date night",
+    "parent": 0,
+    "count": 1
+  },
+  {
+    "id": 0,
+    "name": "Engineering",
+    "slug": "engineering",
+    "description": "Steinway tuning by Piedmont Piano Service",
+    "parent": 0,
+    "count": 4
+  },
+  {
+    "id": 0,
+    "name": "Reliability",
+    "slug": "reliability",
+    "description": "Wednesday Emmanuel drum lesson with Terrence Walker",
+    "parent": 10,
+    "count": 2
+  },
+  {
+    "id": 0,
+    "name": "Frontend",
+    "slug": "frontend",
+    "description": "Sunday 11 AM contemporary service (choir + band)",
+    "parent": 10,
+    "count": 1
+  },
+  {
+    "id": 0,
+    "name": "Announcements",
+    "slug": "announcements",
+    "description": "Banh mi sale - church parking lot",
+    "parent": 0,
+    "count": 2
+  },
+  {
+    "id": 0,
+    "name": "Tutorials",
+    "slug": "tutorials",
+    "description": "Convention prep session with Deacon Harris",
+    "parent": 0,
+    "count": 1
+  }
+]

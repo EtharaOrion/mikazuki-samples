@@ -1,0 +1,78 @@
+{
+  "BreakEvenAnalysis": {
+    "PreparedBy": "Jessica Webb",
+    "PreparedDate": "2026-03-01",
+    "Context": "Back-of-napkin break-even check on Crossroads Conservatory ahead of the October 2026 Grand Blvd lease renewal. Pre-CPA draft before sending figures to Gloria Martin.",
+    "CurrentState": {
+      "MonthlyRevenue": {
+        "MembershipDues": {
+          "Members": 85,
+          "Rate": 140,
+          "Total": 11900
+        },
+        "DropIns": {
+          "AvgMonthly": 700
+        },
+        "EquipmentSales": {
+          "AvgMonthly": 1150
+        },
+        "TotalMonthlyRevenue": 13750
+      },
+      "MonthlyExpenses": {
+        "Rent": 2800,
+        "Utilities": {
+          "Electric": 195,
+          "Water": 95,
+          "Total": 290
+        },
+        "Insurance": {
+          "Quarterly": 660,
+          "Monthly": 220
+        },
+        "InstructorPay_Raj": 2300,
+        "Cleaning": {
+          "BiWeekly": 100,
+          "Monthly": 200
+        },
+        "Supplies": {
+          "AvgMonthly": 285
+        },
+        "Marketing": {
+          "AvgMonthly": 120
+        },
+        "TotalMonthlyExpenses": 6215
+      },
+      "MonthlyNetIncome": 7535,
+      "AaronDrawFromNet": 6000,
+      "RetainedForReserves": 1535,
+      "Note": "Tuition from the 85-student base is the swing factor; drop-ins and performance fees are seasonal and not dependable. Annual gross runs roughly $165k, growing about 12% year over year."
+    },
+    "Scenarios": {
+      "Scenario_A_RentTo750": {
+        "Label": "Rent rises to $2,950 at lease renewal",
+        "NewRent": 2950,
+        "RentIncrease": 150,
+        "NewTotalExpenses": 6365,
+        "NewNetIncome": 7385,
+        "BreakEvenMembers": 46,
+        "BreakEvenCalculation": "Fixed costs $6,215 + $150 increase = $6,365. At ~$140 effective rate per student, $6,365 / $140 = 45.5, so 46 students minimum.",
+        "Impact": "Absorbable; still covers the $6,000 owner draw with reserve to spare."
+      },
+      "Scenario_B_RentTo850": {
+        "Label": "Lose a rotating guest instructor",
+        "NewRent": 2800,
+        "RentIncrease": 0,
+        "NewTotalExpenses": 5065,
+        "NewNetIncome": 8685,
+        "BreakEvenMembers": 37,
+        "Impact": "Improves margin short term but caps class capacity and risks burnout; not sustainable past one season."
+      }
+    },
+    "KeyInsight": "Even with a rent bump the conservatory stays comfortably profitable as long as active enrollment holds above roughly 46 students paying the average tuition rate.",
+    "ActionItems": [
+      "Confirm the exact renewal figure with Grand Arts Properties before the October 2026 lease review",
+      "Run a fall enrollment drive to build a buffer above the 46-student break-even line",
+      "Send these numbers to Gloria Martin as part of the year-end tax planning discussion"
+    ]
+  }
+}

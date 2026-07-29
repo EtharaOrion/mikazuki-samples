@@ -1,0 +1,200 @@
+[
+  {
+    "id": "label-bug",
+    "name": "Bug",
+    "color": "#eb5757",
+    "description": "Something isn't working correctly",
+    "teamId": "camcg-1341483",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-critical",
+    "name": "Critical",
+    "color": "#eb5757",
+    "description": "Critical severity",
+    "teamId": "camcg-8884646",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-high",
+    "name": "High",
+    "color": "#f2994a",
+    "description": "High severity",
+    "teamId": "camcg-6712490",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-medium",
+    "name": "Medium",
+    "color": "#f2c94c",
+    "description": "Medium severity",
+    "teamId": "camcg-4916948",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-low",
+    "name": "Low",
+    "color": "#bdbdbd",
+    "description": "Low severity",
+    "teamId": "camcg-6970162",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-menu",
+    "name": "Menu",
+    "color": "#f2c94c",
+    "description": "Menu content and PDFs",
+    "teamId": "team-web",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-content",
+    "name": "Content",
+    "color": "#26b5ce",
+    "description": "Page copy and content updates",
+    "teamId": "team-web",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-mobile",
+    "name": "Mobile",
+    "color": "#27ae60",
+    "description": "Mobile and responsive issues",
+    "teamId": "team-web",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-cloudflare",
+    "name": "Cloudflare",
+    "color": "#f2994a",
+    "description": "Cloudflare cache and CDN",
+    "teamId": "team-web",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-algolia",
+    "name": "Algolia",
+    "color": "#9b51e0",
+    "description": "Algolia site search",
+    "teamId": "team-web",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-contentful",
+    "name": "Contentful",
+    "color": "#0f766e",
+    "description": "Contentful CMS models",
+    "teamId": "team-web",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-wordpress",
+    "name": "WordPress",
+    "color": "#2d9cdb",
+    "description": "WordPress theme and plugins",
+    "teamId": "team-web",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-seo",
+    "name": "SEO",
+    "color": "#6fcf97",
+    "description": "Search engine optimization",
+    "teamId": "team-web",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-reservations",
+    "name": "Reservations",
+    "color": "#eb5757",
+    "description": "Online reservations integration",
+    "teamId": "team-web",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-giftcards",
+    "name": "Gift Cards",
+    "color": "#bb6bd9",
+    "description": "Gift card purchase flow",
+    "teamId": "team-web",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-newsletter",
+    "name": "Newsletter",
+    "color": "#56ccf2",
+    "description": "Newsletter signup and email",
+    "teamId": "team-web",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-ssl",
+    "name": "SSL",
+    "color": "#e2b93b",
+    "description": "SSL certificate and security",
+    "teamId": "team-web",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-performance",
+    "name": "Performance",
+    "color": "#2d9cdb",
+    "description": "Page speed and performance",
+    "teamId": "team-web",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-accessibility",
+    "name": "Accessibility",
+    "color": "#5e6ad2",
+    "description": "Accessibility compliance",
+    "teamId": "team-web",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-design",
+    "name": "Design",
+    "color": "#bb6bd9",
+    "description": "Visual design and theming",
+    "teamId": "team-web",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-enhancement",
+    "name": "Enhancement",
+    "color": "#6fcf97",
+    "description": "New feature or improvement",
+    "teamId": "team-web",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  },
+  {
+    "id": "label-needs-carlton",
+    "name": "Needs Carlton",
+    "color": "#f2c94c",
+    "description": "Awaiting owner input or approval",
+    "teamId": "team-web",
+    "createdAt": "2025-03-08T09:00:00",
+    "updatedAt": "2025-03-08T09:00:00"
+  }
+]

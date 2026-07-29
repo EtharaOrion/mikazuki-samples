@@ -1,0 +1,178 @@
+[
+  {
+    "event_id": "ev_tav000001",
+    "user_id": "user_tav_0001",
+    "device_id": "dev_tav01",
+    "event_type": "session_start",
+    "event_time": "2026-01-01T09:00:00Z",
+    "event_properties": "platform=web"
+  },
+  {
+    "event_id": "ev_tav000002",
+    "user_id": "user_tav_0002",
+    "device_id": "dev_tav02",
+    "event_type": "page_view",
+    "event_time": "2026-02-02T10:05:00Z",
+    "event_properties": "page=home"
+  },
+  {
+    "event_id": "ev_tav000003",
+    "user_id": "user_tav_0003",
+    "device_id": "dev_tav03",
+    "event_type": "page_view",
+    "event_time": "2026-03-03T11:10:00Z",
+    "event_properties": "page=menu"
+  },
+  {
+    "event_id": "ev_tav000004",
+    "user_id": "user_tav_0004",
+    "device_id": "dev_tav04",
+    "event_type": "page_view",
+    "event_time": "2026-01-04T12:15:00Z",
+    "event_properties": "page=hours"
+  },
+  {
+    "event_id": "ev_tav000005",
+    "user_id": "user_tav_0005",
+    "device_id": "dev_tav05",
+    "event_type": "page_view",
+    "event_time": "2026-02-05T13:20:00Z",
+    "event_properties": "page=reservations"
+  },
+  {
+    "event_id": "ev_tav000006",
+    "user_id": "user_tav_0006",
+    "device_id": "dev_tav06",
+    "event_type": "menu_item_viewed",
+    "event_time": "2026-01-06T14:25:00Z",
+    "event_properties": "item=Eleanor's Pot Roast"
+  },
+  {
+    "event_id": "ev_tav000007",
+    "user_id": "user_tav_0007",
+    "device_id": "dev_tav07",
+    "event_type": "menu_item_viewed",
+    "event_time": "2026-02-07T15:30:00Z",
+    "event_properties": "item=Tavern Burger"
+  },
+  {
+    "event_id": "ev_tav000008",
+    "user_id": "user_tav_0008",
+    "device_id": "dev_tav08",
+    "event_type": "reservation_started",
+    "event_time": "2026-03-08T16:35:00Z",
+    "event_properties": "party_size=4"
+  },
+  {
+    "event_id": "ev_tav000009",
+    "user_id": "user_tav_0009",
+    "device_id": "dev_tav09",
+    "event_type": "reservation_completed",
+    "event_time": "2026-01-09T17:40:00Z",
+    "event_properties": "party_size=4;deposit=25.00"
+  },
+  {
+    "event_id": "ev_tav000010",
+    "user_id": "user_tav_0010",
+    "device_id": "dev_tav10",
+    "event_type": "gift_card_viewed",
+    "event_time": "2026-02-10T18:45:00Z",
+    "event_properties": "amount=50.00"
+  },
+  {
+    "event_id": "ev_tav000011",
+    "user_id": "user_tav_0011",
+    "device_id": "dev_tav11",
+    "event_type": "gift_card_purchased",
+    "event_time": "2026-01-11T09:50:00Z",
+    "event_properties": "revenue=50.00;currency=USD"
+  },
+  {
+    "event_id": "ev_tav000012",
+    "user_id": "user_tav_0012",
+    "device_id": "dev_tav12",
+    "event_type": "newsletter_signup",
+    "event_time": "2026-02-12T10:55:00Z",
+    "event_properties": "source=footer"
+  },
+  {
+    "event_id": "ev_tav000013",
+    "user_id": "user_tav_0013",
+    "device_id": "dev_tav13",
+    "event_type": "menu_search",
+    "event_time": "2026-03-13T11:00:00Z",
+    "event_properties": "query=brisket"
+  },
+  {
+    "event_id": "ev_tav000014",
+    "user_id": "user_tav_0014",
+    "device_id": "dev_tav14",
+    "event_type": "directions_clicked",
+    "event_time": "2026-01-14T12:05:00Z",
+    "event_properties": "destination=astoria"
+  },
+  {
+    "event_id": "ev_tav000015",
+    "user_id": "user_tav_0015",
+    "device_id": "dev_tav15",
+    "event_type": "phone_clicked",
+    "event_time": "2026-02-15T13:10:00Z",
+    "event_properties": "number=tavern"
+  },
+  {
+    "event_id": "ev_tav000016",
+    "user_id": "user_tav_0016",
+    "device_id": "dev_tav16",
+    "event_type": "page_view",
+    "event_time": "2026-01-16T14:15:00Z",
+    "event_properties": "page=events"
+  },
+  {
+    "event_id": "ev_tav000017",
+    "user_id": "user_tav_0017",
+    "device_id": "dev_tav17",
+    "event_type": "session_start",
+    "event_time": "2026-02-17T15:20:00Z",
+    "event_properties": "platform=ios"
+  },
+  {
+    "event_id": "ev_tav000018",
+    "user_id": "user_tav_0018",
+    "device_id": "dev_tav18",
+    "event_type": "page_view",
+    "event_time": "2026-03-18T16:25:00Z",
+    "event_properties": "page=about"
+  },
+  {
+    "event_id": "ev_tav000019",
+    "user_id": "user_tav_0019",
+    "device_id": "dev_tav19",
+    "event_type": "reservation_completed",
+    "event_time": "2026-01-19T17:30:00Z",
+    "event_properties": "party_size=2;deposit=25.00"
+  },
+  {
+    "event_id": "ev_tav000020",
+    "user_id": "user_tav_0020",
+    "device_id": "dev_tav20",
+    "event_type": "gift_card_purchased",
+    "event_time": "2026-02-20T18:35:00Z",
+    "event_properties": "revenue=100.00;currency=USD"
+  },
+  {
+    "event_id": "ev_tav000021",
+    "user_id": "user_tav_0001",
+    "device_id": "dev_tav01",
+    "event_type": "session_start",
+    "event_time": "2026-01-21T09:40:00Z",
+    "event_properties": "platform=android"
+  },
+  {
+    "event_id": "ev_tav000022",
+    "user_id": "user_tav_0002",
+    "device_id": "dev_tav02",
+    "event_type": "page_view",
+    "event_time": "2026-02-22T10:45:00Z",
+    "event_properties": "page=wine-tasting"
+  }
+]

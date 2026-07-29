@@ -1,0 +1,54 @@
+[
+  {
+    "base_fare": 2.0,
+    "booking_fee": 2.55,
+    "capacity": 4,
+    "cost_per_mile": 1.45,
+    "cost_per_minute": 0.3,
+    "description": "Affordable rides for up to 4",
+    "display_name": "UberX",
+    "image_url": "https://mobile-content.uber.com/img/uberx.png",
+    "minimum_fare": 7.0,
+    "product_id": "uberx",
+    "shared": false
+  },
+  {
+    "base_fare": 3.5,
+    "booking_fee": 2.55,
+    "capacity": 6,
+    "cost_per_mile": 2.05,
+    "cost_per_minute": 0.4,
+    "description": "Affordable rides for up to 6",
+    "display_name": "UberXL",
+    "image_url": "https://mobile-content.uber.com/img/uberxl.png",
+    "minimum_fare": 10.0,
+    "product_id": "uberxl",
+    "shared": false
+  },
+  {
+    "base_fare": 8.0,
+    "booking_fee": 0.0,
+    "capacity": 4,
+    "cost_per_mile": 3.55,
+    "cost_per_minute": 0.55,
+    "description": "Premium rides in luxury cars",
+    "display_name": "Uber Black",
+    "image_url": "https://mobile-content.uber.com/img/uberblack.png",
+    "minimum_fare": 15.0,
+    "product_id": "uberblack",
+    "shared": false
+  },
+  {
+    "base_fare": 1.5,
+    "booking_fee": 2.2,
+    "capacity": 2,
+    "cost_per_mile": 1.1,
+    "cost_per_minute": 0.22,
+    "description": "Shared rides at a lower price",
+    "display_name": "UberPool",
+    "image_url": "https://mobile-content.uber.com/img/uberpool.png",
+    "minimum_fare": 5.0,
+    "product_id": "uberpool",
+    "shared": true
+  }
+]

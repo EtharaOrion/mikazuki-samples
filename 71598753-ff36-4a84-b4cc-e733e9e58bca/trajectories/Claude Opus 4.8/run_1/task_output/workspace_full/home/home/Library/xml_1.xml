@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Michelle's Daily Reads</title>
+    <dateCreated>2026-01-11</dateCreated>
+    <ownerName>Michelle Brooks</ownerName>
+    <ownerEmail>michelle.brooks@Finthesiss.ai</ownerEmail>
+  </head>
+  <body>
+    <outline text="News">
+      <outline text="Miami Herald, Local News" type="rss" xmlUrl="https://www.miamiherald.com/news/local/rss/" htmlUrl="https://www.miamiherald.com"/>
+      <outline text="Miami Herald, Politics" type="rss" xmlUrl="https://www.miamiherald.com/news/politics-government/rss/" htmlUrl="https://www.miamiherald.com"/>
+    </outline>
+    <outline text="Legal">
+      <outline text="Florida Bar News" type="rss" xmlUrl="https://www.floridabar.org/news/rss/" htmlUrl="https://www.floridabar.org/news/"/>
+      <outline text="Family Law Section of the Florida Bar, Updates" type="rss" xmlUrl="https://familylawfla.org/feed/" htmlUrl="https://familylawfla.org"/>
+      <outline text="ABA Journal, Family Law" type="rss" xmlUrl="https://www.abajournal.com/topic/family+law/feed" htmlUrl="https://www.abajournal.com"/>
+      <outline text="Third District Court of Appeal Opinions" type="rss" xmlUrl="https://www.3dca.flcourts.org/opinions/rss/" htmlUrl="https://www.3dca.flcourts.org"/>
+    </outline>
+    <outline text="Weather">
+      <outline text="National Hurricane Center, Atlantic Outlook" type="rss" xmlUrl="https://www.nhc.noaa.gov/index-at.xml" htmlUrl="https://www.nhc.noaa.gov"/>
+    </outline>
+  </body>
+</opml>

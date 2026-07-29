@@ -1,0 +1,191 @@
+[
+  {
+    "id": "101",
+    "board_id": "1",
+    "name": "Redesign Sprint 1",
+    "state": "closed",
+    "start_date": "2024-03-04T09:00:00Z",
+    "end_date": "2024-03-18T09:00:00Z",
+    "goal": "New homepage + menu layout"
+  },
+  {
+    "id": "102",
+    "board_id": "1",
+    "name": "Redesign Sprint 2",
+    "state": "closed",
+    "start_date": "2024-03-18T09:00:00Z",
+    "end_date": "2024-03-18T10:00:00+00:00",
+    "goal": "Reservations + gift cards"
+  },
+  {
+    "id": "103",
+    "board_id": "1",
+    "name": "Redesign Sprint 3",
+    "state": "closed",
+    "start_date": "2024-01-01T09:00:00Z",
+    "end_date": "2024-01-15T09:00:00Z",
+    "goal": "Launch polish + SEO"
+  },
+  {
+    "id": "201",
+    "board_id": "2",
+    "name": "Maintenance Continuous",
+    "state": "active",
+    "start_date": "2025-01-06T09:00:00Z",
+    "end_date": "2026-05-15T14:30:00Z",
+    "goal": "Keep the site current"
+  },
+  {
+    "id": "104",
+    "board_id": "1",
+    "name": "Reservations Sprint 1",
+    "state": "closed",
+    "start_date": "2024-01-15T09:00:00Z",
+    "end_date": "2024-01-28T09:00:00Z",
+    "goal": "Online booking + table availability"
+  },
+  {
+    "id": "105",
+    "board_id": "1",
+    "name": "Reservations Sprint 2",
+    "state": "closed",
+    "start_date": "2024-01-28T09:00:00Z",
+    "end_date": "2024-02-13T09:00:00Z",
+    "goal": "Confirmation emails + waitlist"
+  },
+  {
+    "id": "106",
+    "board_id": "1",
+    "name": "Gift Card Sprint",
+    "state": "closed",
+    "start_date": "2024-02-13T09:00:00Z",
+    "end_date": "2024-02-27T09:00:00Z",
+    "goal": "Gift card purchase + redemption flow"
+  },
+  {
+    "id": "107",
+    "board_id": "1",
+    "name": "Events Sprint 1",
+    "state": "closed",
+    "start_date": "2024-03-03T09:00:00Z",
+    "end_date": "2024-03-17T09:00:00Z",
+    "goal": "Wine tasting event pages + ticketing"
+  },
+  {
+    "id": "108",
+    "board_id": "1",
+    "name": "Events Sprint 2",
+    "state": "closed",
+    "start_date": "2024-03-17T09:00:00Z",
+    "end_date": "2024-03-17T10:00:00+00:00",
+    "goal": "Private events inquiry form"
+  },
+  {
+    "id": "109",
+    "board_id": "1",
+    "name": "Menu CMS Sprint",
+    "state": "closed",
+    "start_date": "2024-01-08T09:00:00Z",
+    "end_date": "2024-01-22T09:00:00Z",
+    "goal": "Contentful menu integration"
+  },
+  {
+    "id": "110",
+    "board_id": "1",
+    "name": "Performance Sprint",
+    "state": "closed",
+    "start_date": "2024-02-05T09:00:00Z",
+    "end_date": "2024-02-19T09:00:00Z",
+    "goal": "Page speed + image optimization"
+  },
+  {
+    "id": "111",
+    "board_id": "1",
+    "name": "Accessibility Sprint",
+    "state": "closed",
+    "start_date": "2024-03-02T09:00:00Z",
+    "end_date": "2024-03-16T09:00:00Z",
+    "goal": "WCAG AA compliance pass"
+  },
+  {
+    "id": "112",
+    "board_id": "1",
+    "name": "Holiday Campaign Sprint",
+    "state": "closed",
+    "start_date": "2024-10-07T09:00:00Z",
+    "end_date": "2024-10-21T09:00:00Z",
+    "goal": "Holiday menu + reservations push"
+  },
+  {
+    "id": "113",
+    "board_id": "1",
+    "name": "Newsletter Sprint",
+    "state": "closed",
+    "start_date": "2024-11-04T09:00:00Z",
+    "end_date": "2024-11-18T09:00:00Z",
+    "goal": "Email signup + Mailchimp integration"
+  },
+  {
+    "id": "114",
+    "board_id": "1",
+    "name": "Loyalty Sprint",
+    "state": "closed",
+    "start_date": "2024-12-02T09:00:00Z",
+    "end_date": "2024-12-16T09:00:00Z",
+    "goal": "Loyalty program prototype"
+  },
+  {
+    "id": "115",
+    "board_id": "1",
+    "name": "Brunch Launch Sprint",
+    "state": "closed",
+    "start_date": "2025-02-03T09:00:00Z",
+    "end_date": "2025-02-17T09:00:00Z",
+    "goal": "Weekend brunch menu + landing page"
+  },
+  {
+    "id": "116",
+    "board_id": "1",
+    "name": "Catering Sprint",
+    "state": "closed",
+    "start_date": "2025-03-10T09:00:00Z",
+    "end_date": "2025-03-24T09:00:00Z",
+    "goal": "Catering inquiry + packages page"
+  },
+  {
+    "id": "117",
+    "board_id": "1",
+    "name": "Mobile Polish Sprint",
+    "state": "closed",
+    "start_date": "2025-01-07T09:00:00Z",
+    "end_date": "2025-01-21T09:00:00Z",
+    "goal": "Mobile nav + reservations UX fixes"
+  },
+  {
+    "id": "118",
+    "board_id": "1",
+    "name": "SEO & Analytics Sprint",
+    "state": "closed",
+    "start_date": "2025-03-09T09:00:00Z",
+    "end_date": "2025-03-23T09:00:00Z",
+    "goal": "Schema markup + GA4 events"
+  },
+  {
+    "id": "119",
+    "board_id": "1",
+    "name": "Gallery Sprint",
+    "state": "closed",
+    "start_date": "2025-02-12T09:00:00Z",
+    "end_date": "2025-02-26T09:00:00Z",
+    "goal": "Photo gallery + lazy loading"
+  },
+  {
+    "id": "120",
+    "board_id": "2",
+    "name": "Bug Triage May",
+    "state": "closed",
+    "start_date": "2025-02-01T09:00:00Z",
+    "end_date": "2025-02-15T09:00:00Z",
+    "goal": "Clear reservations widget bugs"
+  }
+]

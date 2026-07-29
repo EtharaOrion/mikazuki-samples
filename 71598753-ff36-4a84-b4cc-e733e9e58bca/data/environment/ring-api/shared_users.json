@@ -1,0 +1,65 @@
+[
+  {
+    "user_id": "7000000",
+    "first_name": "Michelle",
+    "last_name": "Brooks",
+    "device_access": "full",
+    "shared_at": "2026-10-05T09:00:00-05:00",
+    "email": "michelle.brooks@Finthesiss.ai",
+    "role": "shared_user"
+  },
+  {
+    "user_id": "7000001",
+    "first_name": "Patricia",
+    "last_name": "Sullivan",
+    "device_access": "motion_only",
+    "shared_at": "2026-10-07T09:00:00-05:00",
+    "email": "patty.sullivan.mia@gmail.com",
+    "role": "shared_user"
+  },
+  {
+    "user_id": "7000002",
+    "first_name": "Emily",
+    "last_name": "Taylor",
+    "device_access": "ding_only",
+    "shared_at": "2026-10-09T09:00:00-05:00",
+    "email": "emily.taylor.mia@gmail.com",
+    "role": "guest"
+  },
+  {
+    "user_id": "7000004",
+    "first_name": "Robert",
+    "last_name": "Mitchell",
+    "device_access": "motion_only",
+    "shared_at": "2026-10-14T09:00:00-05:00",
+    "email": "rob.mitchell.mia@gmail.com",
+    "role": "shared_user"
+  },
+  {
+    "user_id": "7000005",
+    "first_name": "Victoria",
+    "last_name": "Brooks-Mitchell",
+    "device_access": "full",
+    "shared_at": "2026-10-16T09:00:00-05:00",
+    "email": "victoria.bm@gmail.com",
+    "role": "shared_user"
+  },
+  {
+    "user_id": "7000006",
+    "first_name": "Linda",
+    "last_name": "Brooks",
+    "device_access": "motion_only",
+    "shared_at": "2026-10-19T09:00:00-05:00",
+    "email": "emily.taylor.mia@gmail.com",
+    "role": "guest"
+  },
+  {
+    "user_id": "7000008",
+    "first_name": "Lillian",
+    "last_name": "Reynolds",
+    "device_access": "full",
+    "shared_at": "2026-10-23T09:00:00-05:00",
+    "email": "patty.sullivan.mia@gmail.com",
+    "role": "shared_user"
+  }
+]

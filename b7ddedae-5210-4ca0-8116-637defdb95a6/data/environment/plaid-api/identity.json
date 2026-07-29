@@ -1,0 +1,70 @@
+{
+  "owners": {
+    "acc_chk_001": [
+      {
+        "addresses": [
+          {
+            "data": {
+              "city": "Wien",
+              "country": "AT",
+              "postal_code": "1080",
+              "region": "Wien",
+              "street": "Josefstadter Strasse 22"
+            },
+            "primary": true
+          }
+        ],
+        "emails": [
+          {
+            "data": "joyce.padilla@Finthesiss.ai",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "names": [
+          "Joyce Padilla"
+        ],
+        "phone_numbers": [
+          {
+            "data": "+43 664 555 2099",
+            "primary": true,
+            "type": "mobile"
+          }
+        ]
+      }
+    ],
+    "acc_sav_002": [
+      {
+        "addresses": [
+          {
+            "data": {
+              "city": "Wien",
+              "country": "AT",
+              "postal_code": "1080",
+              "region": "Wien",
+              "street": "Josefstadter Strasse 22"
+            },
+            "primary": true
+          }
+        ],
+        "emails": [
+          {
+            "data": "joyce.padilla@Finthesiss.ai",
+            "primary": true,
+            "type": "primary"
+          }
+        ],
+        "names": [
+          "Joyce Padilla"
+        ],
+        "phone_numbers": [
+          {
+            "data": "+43 664 555 2099",
+            "primary": true,
+            "type": "mobile"
+          }
+        ]
+      }
+    ]
+  }
+}

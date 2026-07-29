@@ -1,0 +1,602 @@
+[
+  {
+    "Id": "3001",
+    "DocNumber": "LEASE-2026-03",
+    "VendorRef": {
+      "value": "1",
+      "name": "Grand Arts Properties LLC"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Studio lease \u2014 March 2026, 1420 Grand Blvd",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio Lease",
+            "value": "5"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 2800.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 2800.0,
+    "Balance": 0,
+    "PrivateNote": "Paid on time via Heartland Trust Bank."
+  },
+  {
+    "Id": "3002",
+    "DocNumber": "SUPP-2026-03",
+    "VendorRef": {
+      "value": "2",
+      "name": "Sweetwater Sound"
+    },
+    "TxnDate": "2026-03-04",
+    "DueDate": "2026-03-19",
+    "Line": [
+      {
+        "Amount": 640.0,
+        "Description": "Instrument restock \u2014 reeds, sheet music, stands",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Operating Expenses",
+            "value": "7"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 640.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 640.0,
+    "Balance": 0,
+    "PrivateNote": "Net-15. Paid via ACH after restock arrived."
+  },
+  {
+    "Id": "3003",
+    "DocNumber": "CPA-2026-001",
+    "VendorRef": {
+      "value": "5",
+      "name": "Gloria Martin CPA"
+    },
+    "TxnDate": "2026-03-10",
+    "DueDate": "2026-03-31",
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "Annual tax prep and bookkeeping review \u2014 tax year 2025",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Operating Expenses",
+            "value": "7"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 800.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 800.0,
+    "Balance": 800,
+    "PrivateNote": "Net-21. Pay after the 2025 return is filed."
+  },
+  {
+    "Id": "4001",
+    "DocNumber": "LEASE-2026-03",
+    "VendorRef": {
+      "value": "1",
+      "name": "Grand Arts Properties LLC"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Studio lease \u2014 March 2026, 1420 Grand Blvd",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio Lease",
+            "value": "5"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 2800.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 2801.5,
+    "Balance": 0,
+    "PrivateNote": "Sofia asked about the winter choir concert \u2014 logistics locked in."
+  },
+  {
+    "Id": "4002",
+    "DocNumber": "SUPP-2026-03",
+    "VendorRef": {
+      "value": "2",
+      "name": "Sweetwater Sound"
+    },
+    "TxnDate": "2026-03-04",
+    "DueDate": "2026-03-19",
+    "Line": [
+      {
+        "Amount": 640.0,
+        "Description": "Instrument restock \u2014 reeds, sheet music, stands",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Operating Expenses",
+            "value": "7"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 640.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 642.0,
+    "Balance": 0,
+    "PrivateNote": "Frank sent notes on the Coltrane transcription \u2014 apply on Sunday."
+  },
+  {
+    "Id": "4003",
+    "DocNumber": "CPA-2026-001",
+    "VendorRef": {
+      "value": "5",
+      "name": "Gloria Martin CPA"
+    },
+    "TxnDate": "2026-03-10",
+    "DueDate": "2026-03-31",
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "Annual tax prep and bookkeeping review \u2014 tax year 2025",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Operating Expenses",
+            "value": "7"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 800.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 802.5,
+    "Balance": 800,
+    "PrivateNote": "Tomoko rescheduled the Tuesday rehearsal to 7:15."
+  },
+  {
+    "Id": "5001",
+    "DocNumber": "LEASE-2026-03",
+    "VendorRef": {
+      "value": "1",
+      "name": "Grand Arts Properties LLC"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Studio lease \u2014 March 2026, 1420 Grand Blvd",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio Lease",
+            "value": "5"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 2800.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 2803.0,
+    "Balance": 0,
+    "PrivateNote": "Payroll ran clean this month \u2014 expenses within budget."
+  },
+  {
+    "Id": "5002",
+    "DocNumber": "SUPP-2026-03",
+    "VendorRef": {
+      "value": "2",
+      "name": "Sweetwater Sound"
+    },
+    "TxnDate": "2026-03-04",
+    "DueDate": "2026-03-19",
+    "Line": [
+      {
+        "Amount": 640.0,
+        "Description": "Instrument restock \u2014 reeds, sheet music, stands",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Operating Expenses",
+            "value": "7"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 640.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 643.5,
+    "Balance": 0,
+    "PrivateNote": "The Phoenix booking pushed to the following Saturday; confirmed with the band."
+  },
+  {
+    "Id": "5003",
+    "DocNumber": "CPA-2026-001",
+    "VendorRef": {
+      "value": "5",
+      "name": "Gloria Martin CPA"
+    },
+    "TxnDate": "2026-03-10",
+    "DueDate": "2026-03-31",
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "Annual tax prep and bookkeeping review \u2014 tax year 2025",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Operating Expenses",
+            "value": "7"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 800.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 804.0,
+    "Balance": 800,
+    "PrivateNote": "Enrollment inquiry from a parent for beginner alto \u2014 offer trial slot."
+  },
+  {
+    "Id": "6001",
+    "DocNumber": "LEASE-2026-03",
+    "VendorRef": {
+      "value": "1",
+      "name": "Grand Arts Properties LLC"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Studio lease \u2014 March 2026, 1420 Grand Blvd",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio Lease",
+            "value": "5"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 2800.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 2804.5,
+    "Balance": 0,
+    "PrivateNote": "Dante's drum kit needs new heads before the recital."
+  },
+  {
+    "Id": "6002",
+    "DocNumber": "SUPP-2026-03",
+    "VendorRef": {
+      "value": "2",
+      "name": "Sweetwater Sound"
+    },
+    "TxnDate": "2026-03-04",
+    "DueDate": "2026-03-19",
+    "Line": [
+      {
+        "Amount": 640.0,
+        "Description": "Instrument restock \u2014 reeds, sheet music, stands",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Operating Expenses",
+            "value": "7"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 640.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 645.0,
+    "Balance": 0,
+    "PrivateNote": "Recorded a rough take of the ballad \u2014 needs another pass on the head-out."
+  },
+  {
+    "Id": "6003",
+    "DocNumber": "CPA-2026-001",
+    "VendorRef": {
+      "value": "5",
+      "name": "Gloria Martin CPA"
+    },
+    "TxnDate": "2026-03-10",
+    "DueDate": "2026-03-31",
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "Annual tax prep and bookkeeping review \u2014 tax year 2025",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Operating Expenses",
+            "value": "7"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 800.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 805.5,
+    "Balance": 800,
+    "PrivateNote": "Reviewed the summer camp roster \u2014 18 confirmed, 2 waitlist."
+  },
+  {
+    "Id": "7001",
+    "DocNumber": "LEASE-2026-03",
+    "VendorRef": {
+      "value": "1",
+      "name": "Grand Arts Properties LLC"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Studio lease \u2014 March 2026, 1420 Grand Blvd",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio Lease",
+            "value": "5"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 2800.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 2806.0,
+    "Balance": 0,
+    "PrivateNote": "Second album pre-production: 6 tunes committed, 4 still under discussion."
+  },
+  {
+    "Id": "7002",
+    "DocNumber": "SUPP-2026-03",
+    "VendorRef": {
+      "value": "2",
+      "name": "Sweetwater Sound"
+    },
+    "TxnDate": "2026-03-04",
+    "DueDate": "2026-03-19",
+    "Line": [
+      {
+        "Amount": 640.0,
+        "Description": "Instrument restock \u2014 reeds, sheet music, stands",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Operating Expenses",
+            "value": "7"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 640.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 646.5,
+    "Balance": 0,
+    "PrivateNote": "5th Anniversary Showcase run-of-show draft complete."
+  },
+  {
+    "Id": "7003",
+    "DocNumber": "CPA-2026-001",
+    "VendorRef": {
+      "value": "5",
+      "name": "Gloria Martin CPA"
+    },
+    "TxnDate": "2026-03-10",
+    "DueDate": "2026-03-31",
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "Annual tax prep and bookkeeping review \u2014 tax year 2025",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Operating Expenses",
+            "value": "7"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 800.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 807.0,
+    "Balance": 800,
+    "PrivateNote": "Confirmed the lesson slot with the parent \u2014 Tuesday 4pm."
+  },
+  {
+    "Id": "8001",
+    "DocNumber": "LEASE-2026-03",
+    "VendorRef": {
+      "value": "1",
+      "name": "Grand Arts Properties LLC"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Studio lease \u2014 March 2026, 1420 Grand Blvd",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio Lease",
+            "value": "5"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 2800.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 2807.5,
+    "Balance": 0,
+    "PrivateNote": "Ray suggested tightening the bridge on the fifth chart before the Spotlight Room date."
+  },
+  {
+    "Id": "8002",
+    "DocNumber": "SUPP-2026-03",
+    "VendorRef": {
+      "value": "2",
+      "name": "Sweetwater Sound"
+    },
+    "TxnDate": "2026-03-04",
+    "DueDate": "2026-03-19",
+    "Line": [
+      {
+        "Amount": 640.0,
+        "Description": "Instrument restock \u2014 reeds, sheet music, stands",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Operating Expenses",
+            "value": "7"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 640.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 648.0,
+    "Balance": 0,
+    "PrivateNote": "Claire flagged that we need a substitute for Thursday's ensemble."
+  },
+  {
+    "Id": "8003",
+    "DocNumber": "CPA-2026-001",
+    "VendorRef": {
+      "value": "5",
+      "name": "Gloria Martin CPA"
+    },
+    "TxnDate": "2026-03-10",
+    "DueDate": "2026-03-31",
+    "Line": [
+      {
+        "Amount": 800.0,
+        "Description": "Annual tax prep and bookkeeping review \u2014 tax year 2025",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Operating Expenses",
+            "value": "7"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 800.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 808.5,
+    "Balance": 800,
+    "PrivateNote": "Sofia asked about the winter choir concert \u2014 logistics locked in."
+  },
+  {
+    "Id": "9001",
+    "DocNumber": "LEASE-2026-03",
+    "VendorRef": {
+      "value": "1",
+      "name": "Grand Arts Properties LLC"
+    },
+    "TxnDate": "2026-03-01",
+    "DueDate": "2026-03-05",
+    "Line": [
+      {
+        "Amount": 2800.0,
+        "Description": "Studio lease \u2014 March 2026, 1420 Grand Blvd",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Studio Lease",
+            "value": "5"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 2800.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 2809.0,
+    "Balance": 0,
+    "PrivateNote": "Frank sent notes on the Coltrane transcription \u2014 apply on Sunday."
+  },
+  {
+    "Id": "9002",
+    "DocNumber": "SUPP-2026-03",
+    "VendorRef": {
+      "value": "2",
+      "name": "Sweetwater Sound"
+    },
+    "TxnDate": "2026-03-04",
+    "DueDate": "2026-03-19",
+    "Line": [
+      {
+        "Amount": 640.0,
+        "Description": "Instrument restock \u2014 reeds, sheet music, stands",
+        "AccountBasedExpenseLineDetail": {
+          "AccountRef": {
+            "name": "Operating Expenses",
+            "value": "7"
+          }
+        },
+        "Quantity": 1,
+        "UnitPrice": 640.0,
+        "Id": "1",
+        "LineNum": 1,
+        "DetailType": "AccountBasedExpenseLineDetail"
+      }
+    ],
+    "TotalAmt": 649.5,
+    "Balance": 0,
+    "PrivateNote": "Tomoko rescheduled the Tuesday rehearsal to 7:15."
+  }
+]

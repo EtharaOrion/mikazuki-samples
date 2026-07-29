@@ -1,0 +1,37 @@
+[
+  {
+    "amplitude": 18.0,
+    "base_value": 35.0,
+    "metric": "system.cpu.user",
+    "scope": "host:web-1",
+    "unit": "percent"
+  },
+  {
+    "amplitude": 0.8,
+    "base_value": 1.2,
+    "metric": "trace.http.request.errors",
+    "scope": "service:api",
+    "unit": "errors"
+  },
+  {
+    "amplitude": 0.2,
+    "base_value": 0.4,
+    "metric": "system.mem.pct_usable",
+    "scope": "role:worker",
+    "unit": "fraction"
+  },
+  {
+    "amplitude": 0.9,
+    "base_value": 1.4,
+    "metric": "trace.celery.task.latency",
+    "scope": "queue:default",
+    "unit": "seconds"
+  },
+  {
+    "amplitude": 0.3,
+    "base_value": 0.7,
+    "metric": "system.load.norm.1",
+    "scope": "*",
+    "unit": "load"
+  }
+]

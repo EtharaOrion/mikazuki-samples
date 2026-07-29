@@ -1,0 +1,50 @@
+[
+  {
+    "created": "2024-03-01T09:00:00.000Z",
+    "id": "0oacfcd20849",
+    "label": "Slack",
+    "name": "slack",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2024-03-01T09:00:00.000Z",
+    "id": "0oac4ca4238a",
+    "label": "GitHub",
+    "name": "github",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2024-03-01T09:00:00.000Z",
+    "id": "0oac81e728d9",
+    "label": "Notion",
+    "name": "notion",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2024-03-01T09:00:00.000Z",
+    "id": "0oaeccbc87e4",
+    "label": "Zoom",
+    "name": "zoom",
+    "sign_on_mode": "OIDC",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2024-03-01T09:00:00.000Z",
+    "id": "0oaa87ff679a",
+    "label": "Figma",
+    "name": "figma",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  },
+  {
+    "created": "2024-03-01T09:00:00.000Z",
+    "id": "0oae4da3b7fb",
+    "label": "Linear",
+    "name": "linear",
+    "sign_on_mode": "SAML_2_0",
+    "status": "ACTIVE"
+  }
+]
