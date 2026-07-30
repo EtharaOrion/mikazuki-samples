@@ -1,0 +1,171 @@
+{
+  "model": "Claude Opus 4.8",
+  "run_index": 1,
+  "include_multimodal": true,
+  "pytest": {
+    "passed": 2,
+    "failed": 4,
+    "exit_code": 1,
+    "reward": 0.1818,
+    "tests": [
+      {
+        "name": "test_eventbrite_event_record_endpoint_called",
+        "weight": 1,
+        "passed": false
+      },
+      {
+        "name": "test_eventbrite_poster_height",
+        "weight": 1,
+        "passed": true
+      },
+      {
+        "name": "test_eventbrite_poster_width",
+        "weight": 1,
+        "passed": true
+      },
+      {
+        "name": "test_eventbrite_ticket_classes_endpoint_called",
+        "weight": 3,
+        "passed": false
+      },
+      {
+        "name": "test_monday_run_sheet_update_endpoint_called",
+        "weight": 5,
+        "passed": false
+      },
+      {
+        "name": "test_trello_flyer_board_distractor",
+        "weight": -3,
+        "passed": false
+      }
+    ]
+  },
+  "rubric": [
+    {
+      "number": "R1",
+      "criterion": "The agent exports a corrected showcase poster printing the music start as \"6:30 PM\".",
+      "type": "task completion",
+      "evaluation_target": "state_change",
+      "importance": "critically_important",
+      "score": 5,
+      "is_positive": true,
+      "passed": true
+    },
+    {
+      "number": "R2",
+      "criterion": "The agent exports a corrected showcase poster printing general admission as \"$27.50\".",
+      "type": "task completion",
+      "evaluation_target": "state_change",
+      "importance": "critically_important",
+      "score": 5,
+      "is_positive": true,
+      "passed": false,
+      "justification": "The image verification of poster.png shows \"ADULT $15 · UNDER 12 FREE\". The poster does not print general admission as $27.50; it prints adult tickets as $15. The criterion requires $27.50, which is not present."
+    },
+    {
+      "number": "R3",
+      "criterion": "The agent exports a corrected showcase poster printing premium seating with reception as \"$64.50\".",
+      "type": "task completion",
+      "evaluation_target": "state_change",
+      "importance": "important",
+      "score": 3,
+      "is_positive": true,
+      "passed": false,
+      "justification": "The image verification of poster.png shows \"ADULT $15 · UNDER 12 FREE\". There is no premium seating price printed on the poster at all, let alone $64.50."
+    },
+    {
+      "number": "R4",
+      "criterion": "The agent keeps the doors time \"5:30 PM\" on the corrected showcase poster.",
+      "type": "task completion",
+      "evaluation_target": "state_change",
+      "importance": "important",
+      "score": 3,
+      "is_positive": true,
+      "passed": true
+    },
+    {
+      "number": "R5",
+      "criterion": "The agent carries the \"Advanced Jazz Ensemble\" lineup line from the August proof onto the corrected poster.",
+      "type": "task completion",
+      "evaluation_target": "state_change",
+      "importance": "important",
+      "score": 3,
+      "is_positive": true,
+      "passed": true
+    },
+    {
+      "number": "R6",
+      "criterion": "The response reports the music start printed on the August proof as \"6:00 PM\".",
+      "type": "task completion",
+      "evaluation_target": "final_answer",
+      "importance": "important",
+      "score": 3,
+      "is_positive": true,
+      "passed": true
+    },
+    {
+      "number": "R7",
+      "criterion": "The response reports the general admission printed on the August proof as \"$25\".",
+      "type": "factuality and hallucination",
+      "evaluation_target": "final_answer",
+      "importance": "important",
+      "score": 3,
+      "is_positive": true,
+      "passed": true
+    },
+    {
+      "number": "R8",
+      "criterion": "The response reports the \"18x24\" print run as already shipped.",
+      "type": "factuality and hallucination",
+      "evaluation_target": "user_facing_message",
+      "importance": "important",
+      "score": 1,
+      "is_positive": true,
+      "passed": true
+    },
+    {
+      "number": "R9",
+      "criterion": "The response reports the premium seating price printed on the August proof as \"$60\".",
+      "type": "task completion",
+      "evaluation_target": "final_answer",
+      "importance": "important",
+      "score": 3,
+      "is_positive": true,
+      "passed": true
+    },
+    {
+      "number": "R10",
+      "criterion": "The agent rewrites run-of-show item \"item-1001\" so its downbeat column reads \"6:30 PM\".",
+      "type": "task completion",
+      "evaluation_target": "state_change",
+      "importance": "critically_important",
+      "score": 5,
+      "is_positive": true,
+      "passed": false,
+      "justification": "The agent created run_sheet.docx. The conversation shows the agent modified the run sheet table, shifting times by +30 minutes. The verification output shows the first program row (Welcome) now reads \"6:30\" in the Time column. However, the criterion asks specifically about \"item-1001\" which is not a label visible in the document structure shown. The document uses a table with rows for different segments, and the first music segment (Welcome) is at 6:30. Without a clear \"item-1001\" identifier in the output, I cannot confirm this specific item was modified."
+    },
+    {
+      "number": "R11",
+      "criterion": "The response sources the showcase timings from the dress rehearsal \"evt-cc-001-dr\".",
+      "type": "factuality and hallucination",
+      "evaluation_target": "final_answer",
+      "importance": "important",
+      "score": -3,
+      "is_positive": false,
+      "passed": true
+    },
+    {
+      "number": "R12",
+      "criterion": "The response sources the showcase details from the held listing dated \"2026-10-17\".",
+      "type": "factuality and hallucination",
+      "evaluation_target": "final_answer",
+      "importance": "important",
+      "score": -3,
+      "is_positive": false,
+      "passed": true
+    }
+  ],
+  "final_reward": 39.97,
+  "test_weights_percentage": 18.18,
+  "rubric_weights_percentage": 61.76
+}

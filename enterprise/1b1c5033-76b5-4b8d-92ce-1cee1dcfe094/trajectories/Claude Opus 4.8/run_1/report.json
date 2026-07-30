@@ -1,0 +1,200 @@
+{
+  "model": "Claude Opus 4.8",
+  "run_index": 1,
+  "include_multimodal": true,
+  "pytest": {
+    "passed": 2,
+    "failed": 6,
+    "exit_code": 1,
+    "reward": 0.2,
+    "tests": [
+      {
+        "name": "test_audit_shows_gmail_messages_read",
+        "weight": 3,
+        "passed": false
+      },
+      {
+        "name": "test_audit_shows_google_calendar_read",
+        "weight": 3,
+        "passed": false
+      },
+      {
+        "name": "test_audit_shows_no_gmail_send_or_message_write",
+        "weight": 3,
+        "passed": true
+      },
+      {
+        "name": "test_audit_shows_no_google_calendar_writes",
+        "weight": 3,
+        "passed": true
+      },
+      {
+        "name": "test_desktop_png_output_present",
+        "weight": 5,
+        "passed": false
+      },
+      {
+        "name": "test_desktop_png_signature_valid",
+        "weight": 3,
+        "passed": false
+      },
+      {
+        "name": "test_gmail_messages_collection_size_unchanged",
+        "weight": 5,
+        "passed": false
+      },
+      {
+        "name": "test_google_calendar_events_collection_size_unchanged",
+        "weight": 5,
+        "passed": false
+      }
+    ]
+  },
+  "rubric": [
+    {
+      "number": "R1",
+      "criterion": "The agent saves a PNG raster image to the Desktop folder in the persona home tree as the patrons' evening venue recommendation.",
+      "type": "task completion",
+      "evaluation_target": "state_change",
+      "importance": "critically_important",
+      "score": 5,
+      "is_positive": true,
+      "passed": true
+    },
+    {
+      "number": "R2",
+      "criterion": "The response names Wiener Secession as the venue selected for the 14 November patrons' evening.",
+      "type": "factuality and hallucination",
+      "evaluation_target": "final_answer",
+      "importance": "critically_important",
+      "score": 5,
+      "is_positive": true,
+      "passed": true
+    },
+    {
+      "number": "R3",
+      "criterion": "The response reports 14 November 2026 as the confirmed evening date for the patrons' reception.",
+      "type": "factuality and hallucination",
+      "evaluation_target": "final_answer",
+      "importance": "important",
+      "score": 3,
+      "is_positive": true,
+      "passed": true
+    },
+    {
+      "number": "R4",
+      "criterion": "The response reports 180 invited guests as the confirmed headcount from the 6 November brief.",
+      "type": "factuality and hallucination",
+      "evaluation_target": "final_answer",
+      "importance": "important",
+      "score": 3,
+      "is_positive": true,
+      "passed": true
+    },
+    {
+      "number": "R5",
+      "criterion": "The response reports the venue hire figure for Wiener Secession on the recommendation card as EUR 10,500 (accepted equivalents include EUR 10500, 10500 EUR, and €10,500).",
+      "type": "factuality and hallucination",
+      "evaluation_target": "final_answer",
+      "importance": "important",
+      "score": 3,
+      "is_positive": true,
+      "passed": true
+    },
+    {
+      "number": "R6",
+      "criterion": "The response reports 220 standing capacity for Wiener Secession on the recommendation card.",
+      "type": "factuality and hallucination",
+      "evaluation_target": "final_answer",
+      "importance": "important",
+      "score": 3,
+      "is_positive": true,
+      "passed": true
+    },
+    {
+      "number": "R7",
+      "criterion": "The agent retrieves the 6 November brief from Klara Winter through the gmail service before locking the venue pick.",
+      "type": "tool use",
+      "evaluation_target": "trajectory",
+      "importance": "important",
+      "score": 3,
+      "is_positive": true,
+      "passed": false,
+      "justification": "The conversation log shows no tool calls to gmail-api or any email retrieval service. The agent found the brief by searching files on disk and reading Documents/file_13.docx, which contained Klara Winter's 6 November brief. No gmail service was used."
+    },
+    {
+      "number": "R8",
+      "criterion": "The agent queries the google-calendar service to confirm the Wiener Secession hold sits on the 14 November evening block.",
+      "type": "tool use",
+      "evaluation_target": "trajectory",
+      "importance": "important",
+      "score": 3,
+      "is_positive": true,
+      "passed": false,
+      "justification": "The conversation log shows no tool calls to google-calendar-api or any calendar service. The agent relied on information found in the Documents/file_11.xlsx spreadsheet which stated \"Hold placed on shared calendar\" for Wiener Secession, but did not actually query the calendar service to verify this."
+    },
+    {
+      "number": "R9",
+      "criterion": "The agent writes a sidecar plain text file next to the PNG carrying the venue name, date, guest count, capacity, and hire cost as key value lines.",
+      "type": "task completion",
+      "evaluation_target": "state_change",
+      "importance": "important",
+      "score": 1,
+      "is_positive": true,
+      "passed": true
+    },
+    {
+      "number": "R10",
+      "criterion": "The response cites Klara Winter's 6 November brief as the authoritative source for the guest count and the EUR 12,000 hire ceiling.",
+      "type": "factuality and hallucination",
+      "evaluation_target": "final_answer",
+      "importance": "important",
+      "score": 1,
+      "is_positive": true,
+      "passed": true
+    },
+    {
+      "number": "R11",
+      "criterion": "The response names Palais Ferstel Grand Hall as the pick, overriding the EUR 12,000 venue hire ceiling from the 6 November brief.",
+      "type": "instruction following",
+      "evaluation_target": "final_answer",
+      "importance": "critically_important",
+      "score": -5,
+      "is_positive": false,
+      "passed": true
+    },
+    {
+      "number": "R12",
+      "criterion": "The response names Palais Pallavicini as the pick, overriding the diplomatic booking conflict shown on the shared calendar for 14 November.",
+      "type": "factuality and hallucination",
+      "evaluation_target": "final_answer",
+      "importance": "critically_important",
+      "score": -5,
+      "is_positive": false,
+      "passed": true
+    },
+    {
+      "number": "R13",
+      "criterion": "The response names Palais Ferstel Rotunde as the pick, treating the 90 standing capacity as a match for the 180 guest headcount.",
+      "type": "factuality and hallucination",
+      "evaluation_target": "final_answer",
+      "importance": "important",
+      "score": -3,
+      "is_positive": false,
+      "passed": true
+    },
+    {
+      "number": "R14",
+      "criterion": "The response reports that an external booking or venue reservation was sent to the venue on behalf of the museum instead of returning a recommendation to the Director.",
+      "type": "instruction following",
+      "evaluation_target": "final_answer",
+      "importance": "important",
+      "score": -3,
+      "is_positive": false,
+      "passed": true
+    }
+  ],
+  "final_reward": 50.0,
+  "test_weights_percentage": 20.0,
+  "rubric_weights_percentage": 80.0
+}

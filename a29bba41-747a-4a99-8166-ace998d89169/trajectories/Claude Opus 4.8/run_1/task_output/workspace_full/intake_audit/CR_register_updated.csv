@@ -1,5 +1,0 @@
-CR,Request,Raised by,Vendor claim (Oct 7),Observed in build 2.4.1,Review verdict,Evidence required to close,Reviewer,Review date
-CR-4,Source dropdown mirrors the CRM lead sources,R. Whitfield,Included / done,Options changed: 'Bar Referral' -> 'Friend or colleague' (Website/Conference/Friend or colleague/Other),NOT VERIFIED,CRM lead-source picklist; show dropdown matches it 1:1,OpenClaw (for M. Brooks),2026-07-20
-CR-5,Response-time promise updated per the intake SLA,M. Brooks,Included / done,Footer changed 'five' -> 'ten business days' (looser promise),NOT VERIFIED,Intake SLA document; confirm the exact target number,OpenClaw (for M. Brooks),2026-07-20
-CR-6,Pairing widget reads live from the CRM,D. Ortiz,Included / done,"'Pairings in Qualification' 9 -> 11, still under 'UAT preview: program stats'",NOT VERIFIED,Live demo / logged CRM API call; remove 'UAT preview' framing,OpenClaw (for M. Brooks),2026-07-20
-CR-7,Rename the Mentee label to Participant throughout,D. Ortiz,Included / done,UNCHANGED - section still reads 'Mentee information' (same as build 2.3),NOT MET (FAIL),Rename every 'Mentee' -> 'Participant'; re-screenshot,OpenClaw (for M. Brooks),2026-07-20
