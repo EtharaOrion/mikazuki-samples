@@ -17,13 +17,13 @@
   <a href="#summary">Summary</a> · <a href="#repository-layout">Layout</a> · <a href="#difficulty-tiers">Tiers</a> · <a href="#segments-and-personas">Segments</a> · <a href="#task-inventory">Inventory</a> · <a href="#analysis">Analysis</a> · <a href="#coverage">Coverage</a> · <a href="#dataset-structure">Dataset</a> · <a href="#trajectory-structure">Trajectories</a> · <a href="#scoring-methodology">Scoring</a> · <a href="#adversarial-design">Adversarial design</a> · <a href="#reproduction">Reproduction</a> · <a href="#verification-and-quality-assurance">Verification</a>
 </sub></p>
 
-# OpenClaw-Bench: 20-Task Multimodal Evaluation Sample
+# Mikazuki: 20-Task Multimodal Evaluation Sample
 
-**OpenClaw-Bench measures real-world assistant competence, not isolated tool calling, retrieval, or
+**Mikazuki measures real-world assistant competence, not isolated tool calling, retrieval, or
 vision.** It evaluates whether an agent can do the thing knowledge workers actually do all day:
 look at a photo, scan, or recording; notice that the digital record is wrong; and fix the right
-system without doing anything unsafe. Where narrower benchmarks isolate a single capability in a
-sterile environment, every OpenClaw-Bench task pits *perceptual ground truth* (a value locked
+system without doing anything unsafe. Where narrower evaluations isolate a single capability in a
+sterile environment, every Mikazuki task pits *perceptual ground truth* (a value locked
 inside an image, scan, or rendered artifact) against *stale digital state* (an out-of-date CRM
 record, tracker, spreadsheet, or API response), surrounded by distractors and poison-pill traps,
 with a human-in-the-loop safety guardrail the agent must respect.
@@ -31,7 +31,7 @@ with a human-in-the-loop safety guardrail the agent must respect.
 This is a curated **20-task** sample drawn from 8 professional personas. Each task is a
 self-contained, containerized problem (**101 mock SaaS APIs**, a 7-file persona memory, and a
 staged multimodal home directory), paired with one fully graded reference run (Claude Opus 4.8)
-scored by the OpenClaw-Bench dual-signal verifier: an LLM-judge rubric council plus a programmatic
+scored by the Mikazuki dual-signal verifier: an LLM-judge rubric council plus a programmatic
 `pytest` harness, blended into a single reward.
 
 Observed reward on the reference run spans **20.42 → 67.63** (mean **49.66**), keeping the full
@@ -39,9 +39,9 @@ selection inside the contested band where models separate most.
 
 ![Reward distribution](assets/mm-reward-hist.png)
 
-> **This is a representative, quality-controlled sample of the full OpenClaw-Bench corpus,**
+> **This is a representative, quality-controlled sample of the full Mikazuki corpus,**
 > provided for evaluation. The dataset format, trajectory format, and scoring are identical to the
-> production benchmark.
+> production environment.
 
 ## Summary
 
@@ -67,7 +67,7 @@ mikazuki-samples/
 ├── README.md                 # this document
 ├── LICENSE                   # MIT, © 2026 Ethara.AI
 ├── .gitignore
-├── assets/                   # 7 figures (mm-*.png)
+├── assets/                   # hero + 7 figures
 ├── enterprise/               # 12 tasks, one directory per UUID
 │   └── <uuid>/ ...
 └── prosumer/                 # 8 tasks, one directory per UUID
@@ -161,8 +161,8 @@ and where a weaker one has room to fall.
 The two grading signals measure genuinely different things, and blending keeps both honest. On
 task `47cf60f3` the reference run scored **100.00 on the rubric but 4.17 on the tests** (blended
 52.09): the judged narrative and process were right, while the concrete output artifacts missed the
-programmatic contract. A rubric-only benchmark would have called that run perfect; a test-only
-benchmark would have called it a near-total failure. The blended reward records what actually
+programmatic contract. A rubric-only evaluation would have called that run perfect; a test-only
+evaluation would have called it a near-total failure. The blended reward records what actually
 happened: a well-reasoned run that did not land its deliverables.
 
 The inverse also occurs. On task `0b916b42` the run scored **97.37 on the rubric but −42.11 on the
