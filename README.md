@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/hero.png" alt="Mikazuki: 20 tasks, 20 graded runs, 101 mock SaaS APIs" width="880">
+</p>
+
+<p align="center">
   <strong>Measuring whether an agent can trust its eyes over its database: multimodal, multi-tool reconciliation under adversarial conditions.</strong>
 </p>
 
