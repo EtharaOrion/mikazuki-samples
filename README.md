@@ -68,10 +68,8 @@ mikazuki-samples/
 ├── LICENSE                   # MIT, © 2026 Ethara.AI
 ├── .gitignore
 ├── assets/                   # hero + 7 figures
-├── enterprise/               # 12 tasks, one directory per UUID
-│   └── <uuid>/ ...
-└── prosumer/                 # 8 tasks, one directory per UUID
-    └── <uuid>/ ...
+└── <uuid>/                   # 20 tasks, one directory per UUID, flat at the repo root
+    └── ...
 ```
 
 Task directories are named by bare UUID, matching `task_id` in `data/task.toml` on all 20 tasks.
@@ -224,7 +222,7 @@ PPTX (44) · MP3 (27) · PNG (12) · M4A (8) · TXT (6) · JPEG (6) · MD (1).
 
 ## Dataset structure
 
-Each task lives under `enterprise/<uuid>/` or `prosumer/<uuid>/` and is fully self-contained:
+Each task lives under `<uuid>/` at the repository root and is fully self-contained:
 
 ```
 <uuid>/
